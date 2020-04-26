@@ -669,13 +669,19 @@ name_fr,name_nl,gender,wikidata,type
 "Chemin Laurence Olivier","Laurence Oliviergaarde",M,Q55245,relation
 "Chemin Luigi Visconti","Luigi Viscontiweg",M,Q3066379,way
 "Chemin Luis Bunuel","Luis Bunuelweg",M,Q51545,way
+"Chemin Pierre Vereman","Pierre Veremanweg",M,Q92020420,way
 "Cité Fontainas",Fontainashof,M,Q2744763,relation
+"Cité Jourdan","Jourdan Wijk",M,Q92021312,way
 "Clos A.J. Slegers","A.J. Slegersgaarde",M,Q89585848,relation
 "Clos Albert Crommelynck","Albert Crommelynckgaarde",M,Q2831066,way
 "Clos Albert Marinus","Albert Marinusgaarde",M,Q2831381,relation
 "Clos Alberto Santos Dumont","Alberto Santos Dumontgaarde",M,Q313211,relation
 "Clos André Lagasse","André Lagassegaarde",M,Q520457,relation
+"Clos André Rappe","André Rappegaarde",M,Q92054375,relation
+"Clos Bourgmestre De Keyser","Burgemeester De Keysergaarde",M,Q92055485,way
 "Clos Comte de Ferraris","Graaf de Ferrarisgaarde",M,Q78923,relation
+"Clos Dandoy",Dandoygaarde,M,Q92055840,way
+"Clos Edgard Neuberger","Edgard Neubergergaarde",M,Q92055852,relation
 "Clos Fernand Tonnet","Fernand Tonnetgaarde",M,Q28147427,relation
 "Clos Jean Mermoz","Jean Mermozgaarde",M,Q680897,relation
 "Clos Jean Van Ryn","Jean Van Ryngaarde",M,Q3174957,relation
@@ -757,6 +763,7 @@ name_fr,name_nl,gender,wikidata,type
 "Place Jean-Louis Thys","Jean-Louis Thysplaats",M,Q1961352,relation
 "Place Jef Mennekens","Jef Mennekensplaats",M,Q41799507,relation
 "Place Joseph Wauters","Joseph Wautersplein",M,Q585785,way
+"Place Jourdan",Jourdanplein,M,Q92021312,relation
 "Place Julien Dillens","Julien Dillensplein",M,Q1712238,relation
 "Place Laneau",Laneauplein,M,Q86064930,relation
 "Place Lehon",Lehonplein,M,Q2387268,relation
@@ -1139,6 +1146,7 @@ name_fr,name_nl,gender,wikidata,type
 "Rue Joseph Vanderlinden","Joseph Vanderlindenstraat",M,Q276873,way
 "Rue Joseph Wauters","Joseph Wautersstraat",M,Q585785,relation
 "Rue Josse Impens","Josse Impensstraat",M,Q3186090,relation
+"Rue Jourdan",Jourdanstraat,M,Q92021312,way
 "Rue Jul Merckaert","Jul Merckaertstraat",M,Q2183081,relation
 "Rue Jules Besme","Jules Besmestraat",M,Q84375317,relation
 "Rue Jules Bouillon","Jules Bouillonstraat",M,Q84467048,relation
@@ -1496,18 +1504,7 @@ name_fr,name_nl,gender,wikidata,type
 "Avenue Saint-Jean",Sint-Janslaan,M,,relation
 "Avenue des Frères Goemaere","Gebroeders Goemaerelaan",M,,way
 "Avenue des Frères Legrain","Gebroeders Legrainlaan",M,,way
-"Carré Cassimans",Cassimansblok,M,,way
-"Carré Meert",Meertblok,M,,relation
-"Carré Pauwels",Pauwelsblok,M,,way
-"Carré Peeters",Peetersblok,M,,way
-"Carré Stevens",Stevensblok,M,,way
 "Chaussée de Saint-Job",Sint-Jobsesteenweg,M,,way
-"Chemin Pierre Vereman","Pierre Veremanweg",M,,way
-"Cité Jourdan","Jourdan Wijk",M,,way
-"Clos André Rappe","André Rappegaarde",M,,relation
-"Clos Bourgmestre De Keyser","Burgemeester De Keysergaarde",M,,way
-"Clos Dandoy",Dandoygaarde,M,,way
-"Clos Edgard Neuberger","Edgard Neubergergaarde",M,,relation
 "Clos Jacques Wagner","Jacques Wagnergaarde",M,,relation
 "Clos Joseph Hendrickx","Joseph Hendrickxgaarde",M,,relation
 "Clos Joseph Otten","Joseph Ottengaarde",M,,relation
@@ -1537,7 +1534,6 @@ name_fr,name_nl,gender,wikidata,type
 "Place Jean de Paduwa","Jean de Paduwaplein",M,,relation
 "Place Jean-Baptiste Degrooff","Jean-Baptiste Degrooffplein",M,,relation
 "Place Joseph Benoît Willems","Joseph Benoît Willemsplein",M,,relation
-"Place Jourdan",Jourdanplein,M,,relation
 "Place Léon Wielemans","Léon Wielemansplein",M,,way
 "Place Léopold Rosy","Léopold Rosyplein",M,,way
 "Place Loix",Loixplein,M,,way
@@ -1879,7 +1875,6 @@ name_fr,name_nl,gender,wikidata,type
 "Rue Joseph Van Camp","Joseph Van Campstraat",M,,relation
 "Rue Joseph Verhasselt","Joseph Verhasseltstraat",M,,relation
 "Rue Josse De Boeck","Josse De Boeckstraat",M,,relation
-"Rue Jourdan",Jourdanstraat,M,,way
 "Rue Jules Broeren","Jules Broerenstraat",M,,relation
 "Rue Jules Cockx","Jules Cockxstraat",M,,way
 "Rue Jules Debecker","Jules Debeckerstraat",M,,relation
