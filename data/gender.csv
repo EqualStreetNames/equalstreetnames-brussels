@@ -581,28 +581,41 @@ name_fr,name_nl,gender,wikidata,type
 "Avenue Tolstoï",Tolstoïlaan,M,Q7243,relation
 "Avenue Van Praet","Van Praetlaan",M,Q3070531,relation
 "Avenue Vanderaey",Vanderaeylaan,M,Q91872357,relation
+"Avenue Vandromme",Vandrommelaan,M,Q91888134;Q91888154,relation
 "Avenue Verdi",Verdilaan,M,Q7317,relation
 "Avenue Victor Gilsoul","Victor Gilsoullaan",M,Q2539498,relation
 "Avenue Victor Jacobs","Victor Jacobslaan",M,Q3380316,relation
 "Avenue Victor Moreau","Victor Moreaulaan",M,Q333806,relation
+"Avenue Victor Olivier","Victor Olivierlaan",M,Q91888287,relation
 "Avenue Victor Rousseau","Victor Rousseaulaan",M,Q3176270,way
+"Avenue Victor Tahon","Victor Tahonlaan",M,Q3557595,way
+"Avenue Victor et Jules Bertaux","Victor en Jules Bertauxlaan",M,Q91898562;Q91898940,relation
 "Avenue Victor-Emmanuel III","Victor-Emmanuel III laan",M,Q150642,relation
 "Avenue Vincent Van Gogh","Vincent Van Goghlaan",M,Q5582,relation
+"Avenue Vincent Vandermaelen","Vincent Vandermaelenlaan",M,Q91900044,relation
+"Avenue Vital Riethuisen","Vital Riethuisenlaan",M,Q91900316,relation
 "Avenue Voltaire",Voltairelaan,M,Q9068,relation
 "Avenue Waxweiler",Waxweilerlaan,M,Q3501999,relation
 "Avenue Wellington",Wellingtonlaan,M,Q131691,relation
 "Avenue Winston Churchill","Winston Churchilllaan",M,Q8016,way
+"Avenue Xavier Henrard","Xavier Henrardlaan",M,Q91900322,relation
+"Avenue Yvan Lutens","Yvan Lutenslaan",M,Q91900345,relation
 "Avenue Zaman",Zamanlaan,M,Q3184905,way
 "Avenue Zénobe Gramme","Zénobe Grammelaan",M,Q247603,relation
+"Avenue d'Orbaix",D'Orbaixlaan,M,Q91915269,way
 "Avenue de Broqueville","de Broquevillelaan",M,Q705103,relation
 "Avenue de Busleyden","de Busleydenlaan",M,Q2278766,relation
 "Avenue de Foestraets","de Foestraetslaan",M,Q22955182,way
 "Avenue de Selliers de Moranville","de Selliers de Moranvillelaan",M,Q20724054,relation
+"Avenue de Waha",Wahalaan,M,Q3086341,way
 "Avenue de l'Aiglon",Aiglonlaan,M,Q7723,way
+"Avenue des Frères Becqué","Gebroeders Becquélaan",M,Q91925761;Q91925778,relation
+"Avenue du Bourgmestre Etienne Demunter","Burgemeester Etienne Demunterlaan",M,Q91925823,relation
 "Avenue du Bourgmestre Jean Neybergh","Burgemeester Jean Neyberghlaan",M,Q15389556,relation
 "Avenue du Compte Moens De Fernig","Graaf Moens De Ferniglaan",M,Q676660,way
 "Avenue du Duc Jean","Hertog Janlaan",M,Q15988,relation
 "Avenue du Général de Ceuninck","Generaal de Ceunincklaan",M,Q1999936,relation
+"Avenue du Prince d'Orange","Prins van Oranjelaan",M,Q154287,way
 "Avenue du Roi Albert","Koning Albertlaan",M,Q55008046,relation
 "Avenue du Roi Chevalier","Ridder Koninglaan",M,Q55008046,relation
 "Avenue du Roi-Soldat",Koning-Soldaatlaan,M,Q55008046,relation
@@ -623,9 +636,12 @@ name_fr,name_nl,gender,wikidata,type
 "Boulevard Félix Paulsen","Félix Paulsenlaan",M,Q2148837,relation
 "Boulevard Général Jacques","Generaal Jacqueslaan",M,Q2057914,relation
 "Boulevard Général Wahis","Generaal Wahislaan",M,Q3526700,relation
+"Boulevard Guillaume Van Haelen","Guillaume Van Haelenlaan",M,Q91927925,way
 "Boulevard Henri Simonet","Henri Simonetlaan",M,Q1606032,relation
 "Boulevard Jamar",Jamarlaan,M,Q774560,relation
 "Boulevard Joseph Bracops","Joseph Bracopslaan",M,Q2596573,relation
+"Boulevard Josse Leemans","Josse Leemanslaan",M,Q91927944,relation
+"Boulevard Jules Graindor","Jules Graindorlaan",M,Q91927974,relation
 "Boulevard Lambermont",Lambermontlaan,M,Q2327076,relation
 "Boulevard Léopold II","Leopold II-laan",M,Q12967,relation
 "Boulevard Léopold III","Leopold III-laan",M,Q12973,relation
@@ -634,11 +650,14 @@ name_fr,name_nl,gender,wikidata,type
 "Boulevard Maurice Carême","Maurice Carêmelaan",M,Q1395991,relation
 "Boulevard Maurice Herbette","Maurice Herbettelaan",M,Q18115211,relation
 "Boulevard Maurice Lemonnier","Maurice Lemonnierlaan",M,Q2101400,relation
+"Boulevard Pachéco",Pachecolaan,M,Q91928012,way
 "Boulevard Poincaré",Poincarélaan,M,Q191974,relation
+"Boulevard Prince de Liège","Prins van Luiklaan",M,Q3911,relation
 "Boulevard Saint-Lazare",Sint-Lazaruslaan,M,Q539890,relation
 "Boulevard Shakespeare",Shakespearelaan,M,Q692,relation
 "Boulevard Simon Bolivar","Simon Bolivarlaan",M,Q8605,relation
 "Boulevard Sylvain Dupuis","Sylvain Dupuislaan",M,Q746748,relation
+"Boulevard Théo Lambert","Théo Lambertlaan",M,Q91929694,relation
 "Boulevard de Smet de Naeyer","de Smet de Naeyerlaan",M,Q721781,relation
 "Boulevard du Roi Albert II","Koning Albert II-laan",M,Q3911,relation
 "Chaussée Saint-Pierre",Sint-Pieterssteenweg,M,Q33923,relation
@@ -1475,28 +1494,8 @@ name_fr,name_nl,gender,wikidata,type
 "Avenue Hansen-Soulie",Hansen-Soulielaan,M,,relation
 "Avenue Père Hilaire","Pater Hilariuslaan",M,,relation
 "Avenue Saint-Jean",Sint-Janslaan,M,,relation
-"Avenue Vandromme",Vandrommelaan,M,,relation
-"Avenue Victor Olivier","Victor Olivierlaan",M,,relation
-"Avenue Victor Tahon","Victor Tahonlaan",M,,way
-"Avenue Victor et Jules Bertaux","Victor en Jules Bertauxlaan",M,,relation
-"Avenue Vincent Vandermaelen","Vincent Vandermaelenlaan",M,,relation
-"Avenue Vital Riethuisen","Vital Riethuisenlaan",M,,relation
-"Avenue Xavier Henrard","Xavier Henrardlaan",M,,relation
-"Avenue Yvan Lutens","Yvan Lutenslaan",M,,relation
-"Avenue d'Orbaix",D'Orbaixlaan,M,,way
-"Avenue de Waha",Wahalaan,M,,way
-"Avenue des Frères Becqué","Gebroeders Becquélaan",M,,relation
 "Avenue des Frères Goemaere","Gebroeders Goemaerelaan",M,,way
 "Avenue des Frères Legrain","Gebroeders Legrainlaan",M,,way
-"Avenue du Bourgmestre Etienne Demunter","Burgemeester Etienne Demunterlaan",M,,relation
-"Avenue du Prince d'Orange","Prins van Oranjelaan",M,,way
-"Avenue du Prince de Ligne","Prins de Lignelaan",M,,way
-"Boulevard Guillaume Van Haelen","Guillaume Van Haelenlaan",M,,way
-"Boulevard Josse Leemans","Josse Leemanslaan",M,,relation
-"Boulevard Jules Graindor","Jules Graindorlaan",M,,relation
-"Boulevard Pachéco",Pachecolaan,M,,way
-"Boulevard Prince de Liège","Prins van Luiklaan",M,,relation
-"Boulevard Théo Lambert","Théo Lambertlaan",M,,relation
 "Carré Cassimans",Cassimansblok,M,,way
 "Carré Meert",Meertblok,M,,relation
 "Carré Pauwels",Pauwelsblok,M,,way
