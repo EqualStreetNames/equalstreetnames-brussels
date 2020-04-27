@@ -6,11 +6,11 @@
 
 declare(strict_types=1);
 
-chdir(__DIR__.'/../../');
+chdir(__DIR__ . '/../../');
 
 require 'vendor/autoload.php';
 
-$municipalities = include 'scripts/municipalities.php';
+$municipalities = include '../municipalities.php';
 
 $directory = 'data/overpass/relation';
 

@@ -6,13 +6,13 @@
 
 declare(strict_types=1);
 
-chdir(__DIR__.'/../');
+chdir(__DIR__ . '/../');
 
 require 'vendor/autoload.php';
 
 $pdo = new PDO('sqlite:data/equalstreetnames.db');
 
-$municipalities = include 'scripts/municipalities.php';
+$municipalities = include 'municipalities.php';
 
 foreach ($municipalities as $nis5 => $municipality) {
     $mun = strtolower($municipality[0]);
