@@ -44,9 +44,6 @@ name,gender,wikidata,type
 "Drève Louisa Chaudoir - Louisa Chaudoirdreef",F,Q89488828,relation
 "Drève Sainte-Anne - Sint-Annadreef",F,Q164294,relation
 "Impasse Sainte-Pétronille - Sint-Petronillagang",F,Q463600,way
-"Koningin Astridlaan - Avenue Reine Astrid",F,Q230238,way
-"Koningin Elisabethlaan - Avenue Reine Elisabeth",F,Q235186,way
-"Lenneke Marelaan",F,Q13815118,way
 "Marie Popelinstraat - Rue Marie Popelin",F,Q2627259,way
 "Parvis Notre-Dame - Onze-Lieve-Vrouwvoorplein",F,Q345,relation
 "Parvis Sainte-Alix - Sinte-Aleidisvoorplein",F,Q1860408,relation
@@ -688,16 +685,22 @@ name,gender,wikidata,type
 "Clos Joseph Hanse - Joseph Hanse hof",M,Q1707180,relation
 "Clos Joseph Hendrickx - Joseph Hendrickxgaarde",M,Q21345695,relation
 "Clos Joseph Otten - Joseph Ottengaarde",M,Q92205252,relation
+"Clos Louis Banken - Louis Bankengaarde",M,Q92300076,relation
 "Clos Lucien Outers - Lucien Outersgaarde",M,Q1967161,relation
+"Clos Marcel Fonteyne - Marcel Fonteynegaarde",M,Q92300534,relation
 "Clos Paul Delforge - Paul Delforgegaarde",M,Q3371017,relation
 "Clos Pierre Dupont - Pierre Dupontgaarde",M,Q2164212,relation
 "Clos René Magritte - René Magrittegaarde",M,Q7836,relation
+"Clos Saint-Martin - Sint-Martinusgaarde",M,Q133704,relation
+"Clos Theodore de Cuyper - Theodore de Cuypergaarde",M,Q92300784,way
 "Clos Vander Biest - Vander Biestgaarde",M,Q91469338,relation
 "Clos Victor Gilsoul - Victor Gilsoulgaarde",M,Q2539498,relation
+"Clos Willy Chambon - Willy Chambongaarde",M,Q92301053,relation
 "Clos de l'Abbé Froidure - Priester Froiduregaarde",M,Q2656889,way
+"Cour Saint-Lazare - Sint-Lazarushof",M,Q539890,relation
+"Cours Gordon Bennett - Gordon Bennettwarande",M,Q725172,way
 "Cours Paul-Henri Spaak - Paul-Henri Spaak Promenade",M,Q155691,relation
 "Cours Saint Guidon - Sint-Guidocorso",M,Q1553720,relation
-"Dr. A. Schweitzerlaan - Avenue Dr. A. Schweitzer",M,Q49325,way
 "Drève Joseph Vanderborght - Joseph Vanderborghtdreef",M,Q3185718,way
 "Drève Recteur Van Waeyenbergh - Rector Van Waeyenberghdreef",M,Q2248867,way
 "Drève Saint-Hubert - Sint-Hubertusdreef",M,Q159834,relation
@@ -706,6 +709,7 @@ name,gender,wikidata,type
 "Froebelstraat - Rue Froebel",M,Q76679,way
 "Galerie Horta - Hortagalerij",M,Q49744,way
 "Impasse Saint Sébastien - Sint-Sebastiaansgang",M,Q183332,way
+"Impasse Saint-Jacques - Sint-Jakobsgang",M,Q43999,way
 "Impasse Saint-Nicolas - Sint-Nikolaasgang",M,Q44269,way
 "Jardin Martin V - Martinus V-tuin",M,Q169612,relation
 "Mont Saint-Lambert - Sint-Lambertusberg",M,Q283447,relation
@@ -727,6 +731,7 @@ name,gender,wikidata,type
 "Place André Duchêne - André Duchêneplein",M,Q2847678,way
 "Place Anneessens - Anneessensplein",M,Q3083817,way
 "Place Antoine Delporte - Antoine Delporteplein",M,Q2853852,way
+"Place Antoine Gilson - Antoine Gilsonplein",M,Q92383828,way
 "Place Arthur Van Gehuchten - Arthur Van Gehuchtenplein",M,Q2865369,relation
 "Place Bara - Baraplein",M,Q350861,relation
 "Place Bizet - Bizetplein",M,Q56158,relation
@@ -739,6 +744,9 @@ name,gender,wikidata,type
 "Place Dailly - Daillyplein",M,Q3059800,way
 "Place De Brouckère - De Brouckèreplein",M,Q1066539,way
 "Place Docteur Schweitzer - Dokter Schweitzerplein",M,Q49325,relation
+"Place Dumon - Dumonplein",M,Q1991260,relation
+"Place Edmond Leroy - Edmond Leroyplaats",M,Q92462653,relation
+"Place Edouard Pinoy - Edouard Pinoyplein",M,Q92463000,way
 "Place Émile Bockstael - Emile Bockstaelplein",M,Q19951885,relation
 "Place Émile Danco - Émile Dancoplein",M,Q3588445,relation
 "Place Émile Vandervelde - Émile Vanderveldeplein",M,Q286556,way
@@ -751,6 +759,7 @@ name,gender,wikidata,type
 "Place Fernand Cocq - Fernand Cocqplein",M,Q2218278,relation
 "Place Fontainas - Fontainasplein",M,Q2744763,way
 "Place François Bossuet - François Bossuetplein",M,Q3083286,way
+"Place Gaucheret - Gaucheretplein",M,Q92463287,relation
 "Place Général Meiser - Generaal Meiserplein",M,Q3164277,way
 "Place Georges Brugmann - Georges Brugmannplein",M,Q3102386,way
 "Place Guido Gezelle - Guido Gezelleplein",M,Q336977,relation
@@ -758,6 +767,7 @@ name,gender,wikidata,type
 "Place Guy d'Arezzo - Guido van Arezzoplein",M,Q192238,relation
 "Place Henri Conscience - Hendrik Conscienceplein",M,Q378133,relation
 "Place Henri De Smet - Henri De Smetplein",M,Q27272720,way
+"Place Henri Vanhuffel - Henri Vanhuffelplein",M,Q92463295,relation
 "Place Hervé Brouhon - Hervé Brouhonplein",M,Q3134439,way
 "Place Jean Capart - Jean Capartplein",M,Q2373298,way
 "Place Jean Gabin - Jean Gabinplein",M,Q23842,relation
@@ -1033,6 +1043,7 @@ name,gender,wikidata,type
 "Rue Gallait - Gallaitstraat",M,Q538173,relation
 "Rue Garibaldi - Garibaldistraat",M,Q539,way
 "Rue Gaston Biernaux - Gaston Biernauxstraat",M,Q85528627,relation
+"Rue Gaucheret - Gaucheretstraat",M,Q92463287,relation
 "Rue Geefs - Geefsstraat",M,Q3090303,way
 "Rue Gendebien - Gendebienstraat",M,Q693047,relation
 "Rue Général Capiaumont - Generaal Capiaumontstraat",M,Q85429793,relation
@@ -1346,6 +1357,7 @@ name,gender,wikidata,type
 "Rue Teniers - Teniersstraat",M,Q335022,relation
 "Rue Théo Coopman - Théo Coopmanstraat",M,Q719358,relation
 "Rue Théodore Baron - Théodore Baronstraat",M,Q3338779,relation
+"Rue Théodore De Cuyper - Théodore De Cuyperstraat",M,Q92300784,relation
 "Rue Théodore Roosevelt - Théodore Rooseveltstraat",M,Q33866,relation
 "Rue Théodore Verhaegen - Théodore Verhaegenstraat",M,Q1870097,relation
 "Rue Théophile De Baisieux - Théophile De Baisieuxstraat",M,Q86066709,relation
@@ -1493,10 +1505,10 @@ name,gender,wikidata,type
 "Rue Willy De Bruyn - Willy De Bruynstraat",MX,Q15807938,relation
 "Avenue Jeanne - Johannalaan",F,,relation
 "Avenue Paule - Paulalaan",F,,relation
-"Avenue Victoria - Victorialaan",F,,way
+"Avenue Victoria - Victorialaan",F,,relation
 "Drève Soetkin - Soetkindreef",F,,relation
 "Rue Decrée - Decréestraat",F,,relation
-"Rue Marianne - Mariannestraat",F,,way
+"Rue Marianne - Mariannestraat",F,,relation
 "Rue Mercelis - Mercelisstraat",F,,relation
 "Rue de Beughem - de Beughemstraat",F,,relation
 "Rue de Ciplet - de Cipletstraat",F,,relation
@@ -1506,27 +1518,9 @@ name,gender,wikidata,type
 "Avenue Saint-Jean - Sint-Janslaan",M,,relation
 "Avenue des Frères Goemaere - Gebroeders Goemaerelaan",M,,way
 "Avenue des Frères Legrain - Gebroeders Legrainlaan",M,,way
-"Chaussée de Saint-Job - Sint-Jobsesteenweg",M,,way
-"Clos Louis Banken - Louis Bankengaarde",M,,relation
-"Clos Marcel Fonteyne - Marcel Fonteynegaarde",M,,relation
-"Clos Saint-Martin - Sint-Martinusgaarde",M,,relation
-"Clos Theodore de Cuyper - Theodore de Cuypergaarde",M,,way
-"Clos Willy Chambon - Willy Chambongaarde",M,,relation
-"Clos du Drossart - Drossaardgaarde",M,,relation
-"Cour Saint-Lazare - Sint-Lazarushof",M,,relation
-"Cours Gordon Bennett - Gordon Bennettwarande",M,,way
-"Ferdinand Kinnenstraat - Rue Ferdinand Kinnen",M,,way
+"Impasse Madrille - Madrillegang",M,,way
 "Impasse Ronsmans - Ronsmansgang",M,,way
-"Impasse Saint-Jacques - Sint-Jakobsgang",M,,way
-"Madrillegang - Impasse Madrille",M,,way
 "Parvis Saint-Henri - Sint-Hendriksvoorplein",M,,relation
-"Passerelle Fransman-Stevens - Voetgangersbrug Fransman-Stevens",M,,way
-"Place Antoine Gilson - Antoine Gilsonplein",M,,way
-"Place Dumon - Dumonplein",M,,relation
-"Place Edmond Leroy - Edmond Leroyplaats",M,,relation
-"Place Edouard Pinoy - Edouard Pinoyplein",M,,way
-"Place Gaucheret - Gaucheretplein",M,,relation
-"Place Henri Vanhuffel - Henri Vanhuffelplein",M,,relation
 "Place Hermann Dumont - Hermann Dumontplein",M,,way
 "Place Homère Goossens - Homère Goossensplein",M,,relation
 "Place Houwaert - Houwaertplein",M,,relation
@@ -1546,7 +1540,6 @@ name,gender,wikidata,type
 "Place Saint-Vincent - Sint-Vincentiusplaats",M,,relation
 "Place Thomas Balis - Thomas Balisplein",M,,way
 "Place Van Meyel - Van Meyelplein",M,,relation
-"Place Vanhuffel - Vanhuffelplein",M,,way
 "Quai Léon Monnoyer - Léon Monnoyerkaai",M,,relation
 "Rond-Point Pierre de Tollenaere - Pierre de Tollenaereplein",M,,way
 "Rue Abbé Cuylits - Pastoor Cuylitsstraat",M,,relation
@@ -1740,7 +1733,6 @@ name,gender,wikidata,type
 "Rue Frédéric Pelletier - Frédéric Pelletierstraat",M,,relation
 "Rue Frémineur - Frémineurstraat",M,,relation
 "Rue Gaston Coudyser - Gaston Coudyserstraat",M,,relation
-"Rue Gaucheret - Gaucheretstraat",M,,relation
 "Rue Général Biebuyck - Generaal Biebuyckstraat",M,,relation
 "Rue Général Fivé - Generaal Fivéstraat",M,,relation
 "Rue Général Gratry - Generaal Gratrystraat",M,,relation
@@ -2023,7 +2015,6 @@ name,gender,wikidata,type
 "Rue Sylvain Denayer - Sylvain Denayerstraat",M,,relation
 "Rue Tazieaux - Tazieauxstraat",M,,relation
 "Rue Théodore Bekaert - Théodore Bekaertstraat",M,,relation
-"Rue Théodore De Cuyper - Théodore De Cuyperstraat",M,,relation
 "Rue Théophile Vander Elst - Théophile Vander Elststraat",M,,way
 "Rue Thiernesse - Thiernessestraat",M,,relation
 "Rue Thys-Vanham - Thys-Vanhamstraat",M,,relation
