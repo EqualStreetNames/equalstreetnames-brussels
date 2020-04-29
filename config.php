@@ -5,6 +5,42 @@ declare(strict_types=1);
 return [
     'languages' => ['de', 'en', 'fr', 'nl'],
 
+    'exclude' => [
+        'relation' => [],
+        'way' => [
+            26573618,
+            29025014,
+            34005236,
+            37857242,
+            42954006,
+            80927283,
+        ],
+    ],
+
+    'gender' => [
+        'relation' => [
+            '3228251'  => 'F', // Avenue Jeanne - Johannalaan
+            '3505178'  => 'F', // Avenue Paule - Paulalaan
+            '11048375' => 'F', // Avenue Victoria - Victorialaan
+            '3020491'  => 'F', // Drève Soetkin - Soetkindreef
+            '2981441'  => 'F', // Rue Decrée - Decréestraat
+            '11048377' => 'F', // Rue Marianne - Mariannestraat
+            '6005861'  => 'F', // Rue Mercelis - Mercelisstraat
+            '3049100'  => 'F', // Rue de Beughem - de Beughemstraat
+            '3438961'  => 'F', // Rue de Ciplet - de Cipletstraat
+            '2984376'  => 'M', // Avenue Georges Henri - Georges Henrilaan
+            '3110486'  => 'M', // Avenue Hansen-Soulie - Hansen-Soulielaan
+            '3495502'  => 'M', // Avenue Père Hilaire - Pater Hilariuslaan
+            '3500230'  => 'M', // Avenue Saint-Jean - Sint-Janslaan
+
+        ],
+        'way' => [
+            '458810331' => 'M', // Avenue des Frères Goemaere - Gebroeders Goemaerelaan
+            '35830442'  => 'M', // Avenue des Frères Legrain - Gebroeders Legrainlaan
+            '8250579'   => 'M', // Avenue des Frères Legrain - Gebroeders Legrainlaan
+        ],
+    ],
+
     'instances' => [
         'Q5'        => true,  // human
         'Q2985549'  => true,  // mononymous person
