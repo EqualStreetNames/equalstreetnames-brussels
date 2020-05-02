@@ -8,6 +8,7 @@ return [
     'exclude' => [
         'relation' => [],
         'way' => [
+            23045734,
             26573618,
             29025014,
             34005236,
@@ -19,6 +20,8 @@ return [
 
     'gender' => [
         'relation' => [
+            '3066477'  => '?', // Place Van Meyel - Van Meyelplein
+            '3256835'  => 'F', // Avenue Hélène - Helenalaan
             '3228251'  => 'F', // Avenue Jeanne - Johannalaan
             '3505178'  => 'F', // Avenue Paule - Paulalaan
             '11048375' => 'F', // Avenue Victoria - Victorialaan
@@ -28,13 +31,16 @@ return [
             '6005861'  => 'F', // Rue Mercelis - Mercelisstraat
             '3049100'  => 'F', // Rue de Beughem - de Beughemstraat
             '3438961'  => 'F', // Rue de Ciplet - de Cipletstraat
+            '3217433'  => 'M', // Avenue Chanoine Roose - Kanunnik Rooselaan
+            '3210021'  => 'M', // Avenue Docteur Lemoine - Dokter Lemoinelaan
+            '3258838'  => 'M', // Avenue Général de Longueville - Generaal de Longuevillelaan
             '2984376'  => 'M', // Avenue Georges Henri - Georges Henrilaan
             '3110486'  => 'M', // Avenue Hansen-Soulie - Hansen-Soulielaan
             '3495502'  => 'M', // Avenue Père Hilaire - Pater Hilariuslaan
             '3500230'  => 'M', // Avenue Saint-Jean - Sint-Janslaan
-
         ],
         'way' => [
+            '23647145'  => 'F', // Avenue Juliette - Juliettelaan
             '458810331' => 'M', // Avenue des Frères Goemaere - Gebroeders Goemaerelaan
             '35830442'  => 'M', // Avenue des Frères Legrain - Gebroeders Legrainlaan
             '8250579'   => 'M', // Avenue des Frères Legrain - Gebroeders Legrainlaan
@@ -46,6 +52,7 @@ return [
         'Q2985549'  => true,  // mononymous person
         'Q20643955' => true,  // human biblical figure
 
+        'Q8436'     => false, // family
         'Q101352'   => false, // family name
         'Q327245'   => false, // team
         'Q3046146'  => false, // married couple
@@ -58,11 +65,15 @@ return [
         'Q3957'     => false, // town
         'Q13266'    => false, // cookie
         'Q16521'    => false, // taxon
+        'Q16917'    => false, // hospital
+        'Q22865'    => false, // independent city of Germany
         'Q22698'    => false, // park
         'Q23413'    => false, // castle
         'Q23691'    => false, // national anthem
+        'Q28640'    => false, // profession
         'Q45713'    => false, // titan
         'Q47521'    => false, // stream
+        'Q79007'    => false, // street
         'Q81799'    => false, // fast food
         'Q123705'   => false, // neighborhood
         'Q133311'   => false, // tribe
@@ -70,8 +81,10 @@ return [
         'Q176799'   => false, // military unit
         'Q185583'   => false, // candy
         'Q188055'   => false, // siege
+        'Q200250'   => false, // metropolis
         'Q205985'   => false, // goddess
         'Q207174'   => false, // personification
+        'Q212238'   => false, // civil servant
         'Q273854'   => false, // Gauls
         'Q429795'   => false, // mineral variety
         'Q476682'   => false, // anemoi
@@ -89,6 +102,7 @@ return [
         'Q1202402'  => false, // townhouse
         'Q1509831'  => false, // title of Mary
         'Q1549591'  => false, // big city
+        'Q1637706'  => false, // city with millions of inhabitants
         'Q1916821'  => false, // water deity
         'Q1998962'  => false, // beer style
         'Q2202509'  => false, // Roman city
@@ -102,6 +116,7 @@ return [
         'Q7832362'  => false, // traditional story
         'Q10822464' => false, // angel in Christianity
         'Q11688446' => false, // Roman deity
+        'Q12737077' => false, // occupation
         'Q14073567' => false, // sibling duo
         'Q14406742' => false, // comic book series
         'Q14752696' => false, // Roman building
@@ -122,8 +137,10 @@ return [
         'Q27921916' => false, // anthropomorphic character
         'Q41863069' => false, // war deity
         'Q42109240' => false, // literary theme
+        'Q42744322' => false, // urban municipality of Germany
         'Q50386450' => false, // operatic character
         'Q55983715' => false, // polyphyletic common name
         'Q56884562' => false, // animated film series
+        'Q85635630' => false, // urban district of North Rhine-Westphalia
     ],
 ];

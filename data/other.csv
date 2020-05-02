@@ -15,6 +15,7 @@ name,gender,wikidata,type
 "Avenue Brigade Piron - Brigade Pironlaan",,Q2036237,relation
 "Avenue Cassiopée - Cassiopealaan",,Q207681,relation
 "Avenue De Biolley - De Biolleylaan",,Q56787881,relation
+"Avenue De Roovere - De Rooverelaan",,Q22998598,relation
 "Avenue Minerve - Minervalaan",,Q126916,relation
 "Avenue Montgolfier - Montgolfierlaan",,Q193751,relation
 "Avenue Neptune - Neptunuslaan",,Q3954,relation
@@ -73,6 +74,7 @@ name,gender,wikidata,type
 "Passage du Speculoos - Speculoosgang",,Q6591,way
 "Passage du Stoemp - Stoempgang",,Q305329,way
 "Passerelle Fransman-Stevens - Voetgangersbrug Fransman-Stevens",,Q85092342;Q85059162,way
+"Place Saint-Jean - Sint-Jansplein",,Q50037286,relation
 "Place de Dinant - Dinantplein",,Q108247,way
 "Place de Louvain - Leuvenseplein",,Q118958,way
 "Place de Saint-Job - Sint-Jobsplein",,Q1927235,way
@@ -86,6 +88,7 @@ Romeinsesteenweg,,Q194029,way
 "Rue Guillaume Tell - Willem Tellstraat",,Q30908,relation
 "Rue Maes - Maesstraat",,Q49619000,relation
 "Rue Ravenstein - Ravensteinstraat",,Q3145650,way
+"Rue Saint-Jean - Sint-Jansstraat",,Q50037286,way
 "Rue Saint-Michel - Sint-Michielsstraat",,Q45581,way
 "Rue d'Anderlecht - Anderlechtsesteenweg",,Q12886,way
 "Rue d'Arlon - Aarlenstraat",,Q675960,relation
@@ -115,7 +118,6 @@ Romeinsesteenweg,,Q194029,way
 "36 kV",,,way
 Aardebergstraat,,,way
 "Abbaye - Abdij",,,relation
-"Albert Temmermanstraat",,,way
 "Allée Hof ter Vleest - Hof ter Vleestdreef",,,relation
 "Allée Verte - Groendreef",,,relation
 "Allée de l'Améthyste - Amethistdreef",,,way
@@ -158,7 +160,6 @@ Antwerpselaan,,,way
 "Avenue Buysdelle - Buysdellelaan",,,way
 "Avenue Calypso - Calypsolaan",,,way
 "Avenue Champ de Repos - Rustplaatslaan",,,relation
-"Avenue Chanoine Roose - Kanunnik Rooselaan",,,relation
 "Avenue Chantemerle - Chantemerlelaan",,,way
 "Avenue Chapelle-aux-Champs - Veldkapellaan",,,way
 "Avenue Château de Walzin - Kasteel de Walzinlaan",,,way
@@ -166,22 +167,16 @@ Antwerpselaan,,,way
 "Avenue Claeterbosch - Klaterboslaan",,,relation
 "Avenue Coloniale - Kolonialelaan",,,way
 "Avenue De Béjar - De Béjarlaan",,,relation
-"Avenue De Roovere - De Rooverelaan",,,relation
 "Avenue De Wavrans - De Wavranslaan",,,relation
 "Avenue Den Doorn - Den Doornlaan",,,relation
-"Avenue Docteur Lemoine - Dokter Lemoinelaan",,,relation
 "Avenue Fond'Roy - Vronerodelaan",,,way
 "Avenue Fontaine Vanderstraeten - Fontaine Vanderstraetenlaan",,,way
-"Avenue Général De Longueville - Generaal De Longuevillelaan",,,relation
 "Avenue Grandchamp - Grootveldlaan",,,relation
 "Avenue Groelstveld - Groelstveldlaan",,,way
-"Avenue Hélène - Helenalaan",,,relation
 "Avenue Hellevelt - Helleveltlaan",,,relation
 "Avenue Heydenberg - Heydenberglaan",,,relation
 "Avenue Hof ten Berg - Hof ten Berglaan",,,relation
-"Avenue Houba-de Strooper - Houba-de Strooperlaan",,,relation
 "Avenue Huldergem - Huldergemlaan",,,relation
-"Avenue Juliette - Juliettelaan",,,way
 "Avenue Jupiter - Jupiterlaan",,,way
 "Avenue Kamerdelle - Kamerdellelaan",,,relation
 "Avenue Kersbeek - Kersbeeklaan",,,relation
@@ -1570,7 +1565,6 @@ Roeierspad,,,way
 "Rue Basse - Diepestraat",,,relation
 "Rue Beckers - Beckersstraat",,,relation
 "Rue Beeckman de Crayloo - Beeckman de Crayloostraat",,,relation
-"Rue Belliard - Belliardstraat",,,way
 "Rue Berkendael - Berkendaalstraat",,,way
 "Rue Berré - Berréstraat",,,relation
 "Rue Bissé - Bisséstraat",,,relation

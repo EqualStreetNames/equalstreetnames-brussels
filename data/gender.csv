@@ -1,5 +1,6 @@
 name,gender,wikidata,type
 "Avenue Albert-Elisabeth - Albert-Elisabethlaan",+,Q55008046;Q235186,relation
+"Avenue Houba-de Strooper - Houba-de Strooperlaan",+,Q92542850;Q92542853,relation
 "Avenue Pierre et Marie Curie - Pierre en Marie Curielaan",+,Q37463;Q7186,relation
 "Avenue Tedesco - Tedescolaan",+,Q91870858;Q91870861;Q91871003,way
 "Rue Albert et Marie-Louise Servais-Kinet - Albert en Marie-Louise Servais-Kinetstraat",+,Q89366028;Q89366128,relation
@@ -768,34 +769,49 @@ name,gender,wikidata,type
 "Place Henri Conscience - Hendrik Conscienceplein",M,Q378133,relation
 "Place Henri De Smet - Henri De Smetplein",M,Q27272720,way
 "Place Henri Vanhuffel - Henri Vanhuffelplein",M,Q92463295,relation
+"Place Hermann Dumont - Hermann Dumontplein",M,Q92540659,relation
 "Place Hervé Brouhon - Hervé Brouhonplein",M,Q3134439,way
+"Place Homère Goossens - Homère Goossensplein",M,Q92541157,relation
+"Place Houwaert - Houwaertplein",M,Q3180377,relation
 "Place Jean Capart - Jean Capartplein",M,Q2373298,way
+"Place Jean De Paduwa - Jan De Paduwaplaats",M,Q92757255,relation
 "Place Jean Gabin - Jean Gabinplein",M,Q23842,relation
 "Place Jean Jacobs - Jan Jacobsplein",M,Q2458031,relation
 "Place Jean Rey - Jean Reyplein",M,Q378289,way
+"Place Jean Vander Elst - Jean Vander Elstplein",M,Q92600481,relation
 "Place Jean-Baptiste Carnoy - Jean-Baptiste Carnoyplein",M,Q423006,relation
+"Place Jean-Baptiste Degrooff - Jean-Baptiste Degrooffplein",M,Q92758389,relation
 "Place Jean-Louis Thys - Jean-Louis Thysplaats",M,Q1961352,relation
 "Place Jef Mennekens - Jef Mennekensplaats",M,Q41799507,relation
+"Place Joseph Benoît Willems - Joseph Benoît Willemsplein",M,Q92758777,relation
 "Place Joseph Wauters - Joseph Wautersplein",M,Q585785,way
 "Place Jourdan - Jourdanplein",M,Q92021312,relation
 "Place Julien Dillens - Julien Dillensplein",M,Q1712238,relation
 "Place Laneau - Laneauplein",M,Q86064930,relation
 "Place Lehon - Lehonplein",M,Q2387268,relation
 "Place Léon Vanderkindere - Léon Vanderkindereplein",M,Q978025,way
+"Place Léon Wielemans - Léon Wielemansplein",M,Q92902408,relation
+"Place Léopold Rosy - Léopold Rosyplein",M,Q92903284,way
 "Place Léopold Wiener - Léopold Wienerplein",M,Q2519413,way
 "Place Liedts - Liedtsplein",M,Q358626,way
+"Place Loix - Loixplein",M,Q92903729,relation
+"Place Louis Morichar - Louis Moricharplein",M,Q92905511,way
 "Place Louis Steens - Louis Steensplein",M,Q3263135,way
 "Place Madou - Madouplein",M,Q1384245,relation
 "Place Marcel Broodthaers - Marcel Broodthaersplein",M,Q834926,way
 "Place Martin Luther King - Martin Luther Kingplein",M,Q8027,relation
 "Place Masui - Masuiplein",M,Q3164268,relation
+"Place Maurice Van Meenen - Maurice Van Meenenplein",M,Q92914140,way
 "Place Max Tircher - Max Tircherplein",M,Q86089495,relation
 "Place Ministre Wauters - Minister Wautersplein",M,Q585785,relation
 "Place Olivier Strebelle - Olivier Strebelleplein",M,Q2532822,way
+"Place Oscar Ruelens - Oscar Ruelensplein",M,Q92916718,relation
 "Place Paul Craps - Paul Crapsplein",M,Q14655027,way
 "Place Paul Janson - Paul Jansonplein",M,Q730367,way
 "Place Peter Benoit - Peter Benoitplein",M,Q733063,relation
+"Place Philippe Werrie - Philippe Werrieplein",M,Q92918138,relation
 "Place Poelaert - Poelaertplein",M,Q740717,relation
+"Place Pogge - Poggeplein",M,Q92919401,way
 "Place Quetelet - Queteletplein",M,Q20012,relation
 "Place Raymond Blyckaerts - Raymond Blyckaertsplein",M,Q27036489,relation
 "Place Rik Wouters - Rik Woutersplein",M,Q939197,way
@@ -809,11 +825,13 @@ name,gender,wikidata,type
 "Place Saint-Lazare - Sint-Lazarusplein",M,Q539890,way
 "Place Saint-Nicolas - Sint-Nikolaasplein",M,Q44269,relation
 "Place Saint-Pierre - Sint-Pietersplein",M,Q33923,relation
+"Place Saint-Vincent - Sint-Vincentiusplaats",M,Q2462614,relation
 "Place Salvador Allende - Salvador Allendeplein",M,Q440,way
 "Place Simon Bolivar - Simon Bolivarplein",M,Q8605,way
 "Place Solvay - Solvayplein",M,Q311665,relation
 "Place Stephenson - Stephensonplein",M,Q133614,relation
 "Place Surlet de Chokier - Surlet de Chokierplein",M,Q1079522,relation
+"Place Thomas Balis - Thomas Balisplein",M,Q92921928,way
 "Place Verdi - Verdiplein",M,Q7317,relation
 "Place Verheyleweghen - Verheyleweghenplein",M,Q3372356,relation
 "Place Victor Horta - Victor Hortaplein",M,Q49744,way
@@ -828,10 +846,12 @@ name,gender,wikidata,type
 "Promenade Hippolyte Rolin - Hippolyte Rolinpromenade",M,Q2163086,relation
 "Promenade Jacques Ledoux - Jacques Ledoux Wandeling",M,Q436605,way
 "Quai Fernand Demets - Fernand Demetskaai",M,Q11312466,relation
+"Quai Léon Monnoyer - Léon Monnoyerkaai",M,Q87361695,relation
 "Rond Point Charles Solau - Charles Solauplein",M,Q18061560,way
 "Rond Point Henri Simonet - Henri Simonetplein",M,Q1606032,way
 "Rond-Point Henri Nestlé - Henri Nestléplein",M,Q57290,way
 "Rond-Point Jean Offenberg - Jean Offenbergplein",M,Q3173778,way
+"Rond-Point Pierre de Tollenaere - Pierre de Tollenaereplein",M,Q92922717,way
 "Rond-Point René Cliquet - René Cliquetplein",M,Q23889106,way
 "Rond-Point Robert Schuman - Robert Schumanplein",M,Q15981,relation
 "Rond-point Louis Thévenet - Louis Thévenetrondpunt",M,Q2032016,way
@@ -1333,6 +1353,7 @@ name,gender,wikidata,type
 "Rue Saint-Pierre - Sint-Pietersstraat",M,Q33923,way
 "Rue Saint-Quentin - Saint-Quentinstraat",M,Q1293541,relation
 "Rue Saint-Roch - Sint-Rochusstraat",M,Q152457,way
+"Rue Saint-Vincent - Sint-Vincentiusstraat",M,Q2462614,relation
 "Rue Saints-Pierre et Paul - Sint-Pieter en Pauwelsstraat",M,Q33923;Q9200,relation
 "Rue Sallaert - Sallaertstraat",M,Q2339877,relation
 "Rue Sander Pierron - Sander Pierronstraat",M,Q3471826,relation
@@ -1447,6 +1468,7 @@ name,gender,wikidata,type
 "Rue du Prince Albert - Prins Albertstraat",M,Q55008046,relation
 "Rue du Taciturne - Willem de Zwijgerstraat",M,Q78454,relation
 "Rue t'Serclaes - t'Serclaesstraat",M,Q898342,relation
+"Sentier Guy Demanet - Guy Demanetpad",M,Q92922742,way
 "Square Albert Devèze - Albert Devèzesquare",M,Q457695,way
 "Square Albert Ier - Albert I-square",M,Q55008046,relation
 "Square Albert Verhaeren - Albert Verhaerensquare",M,Q85426329,way
@@ -1503,7 +1525,10 @@ name,gender,wikidata,type
 "Venelle Vivaldi - Vivaldisteeg",M,Q1340,relation
 "Venelle de l'Alchimiste - Alchemiststeeg",M,Q294169,relation
 "Rue Willy De Bruyn - Willy De Bruynstraat",MX,Q15807938,relation
+"Place Van Meyel - Van Meyelplein",?,,relation
+"Avenue Hélène - Helenalaan",F,,relation
 "Avenue Jeanne - Johannalaan",F,,relation
+"Avenue Juliette - Juliettelaan",F,,way
 "Avenue Paule - Paulalaan",F,,relation
 "Avenue Victoria - Victorialaan",F,,relation
 "Drève Soetkin - Soetkindreef",F,,relation
@@ -1512,6 +1537,9 @@ name,gender,wikidata,type
 "Rue Mercelis - Mercelisstraat",F,,relation
 "Rue de Beughem - de Beughemstraat",F,,relation
 "Rue de Ciplet - de Cipletstraat",F,,relation
+"Avenue Chanoine Roose - Kanunnik Rooselaan",M,,relation
+"Avenue Docteur Lemoine - Dokter Lemoinelaan",M,,relation
+"Avenue Général de Longueville - Generaal de Longuevillelaan",M,,relation
 "Avenue Georges Henri - Georges Henrilaan",M,,relation
 "Avenue Hansen-Soulie - Hansen-Soulielaan",M,,relation
 "Avenue Père Hilaire - Pater Hilariuslaan",M,,relation
@@ -1521,27 +1549,6 @@ name,gender,wikidata,type
 "Impasse Madrille - Madrillegang",M,,way
 "Impasse Ronsmans - Ronsmansgang",M,,way
 "Parvis Saint-Henri - Sint-Hendriksvoorplein",M,,relation
-"Place Hermann Dumont - Hermann Dumontplein",M,,way
-"Place Homère Goossens - Homère Goossensplein",M,,relation
-"Place Houwaert - Houwaertplein",M,,relation
-"Place Jean Vander Elst - Jean Vander Elstplein",M,,way
-"Place Jean de Paduwa - Jean de Paduwaplein",M,,relation
-"Place Jean-Baptiste Degrooff - Jean-Baptiste Degrooffplein",M,,relation
-"Place Joseph Benoît Willems - Joseph Benoît Willemsplein",M,,relation
-"Place Léon Wielemans - Léon Wielemansplein",M,,way
-"Place Léopold Rosy - Léopold Rosyplein",M,,way
-"Place Loix - Loixplein",M,,way
-"Place Louis Morichar - Louis Moricharplein",M,,way
-"Place Maurice Van Meenen - Maurice Van Meenenplein",M,,way
-"Place Oscar Ruelens - Oscar Ruelensplein",M,,way
-"Place Philippe Werrie - Philippe Werrieplein",M,,relation
-"Place Pogge - Poggeplein",M,,way
-"Place Saint-Jean - Sint-Jansplein",M,,relation
-"Place Saint-Vincent - Sint-Vincentiusplaats",M,,relation
-"Place Thomas Balis - Thomas Balisplein",M,,way
-"Place Van Meyel - Van Meyelplein",M,,relation
-"Quai Léon Monnoyer - Léon Monnoyerkaai",M,,relation
-"Rond-Point Pierre de Tollenaere - Pierre de Tollenaereplein",M,,way
 "Rue Abbé Cuylits - Pastoor Cuylitsstraat",M,,relation
 "Rue Abbé Cuypers - Priester Cuypersstraat",M,,relation
 "Rue Abbé Jean Heymans - Priester Jean Heymansstraat",M,,relation
@@ -1998,13 +2005,11 @@ name,gender,wikidata,type
 "Rue Saint-Georges - Sint-Jorisstraat",M,,way
 "Rue Saint-Géry - Sint-Goriksstraat",M,,way
 "Rue Saint-Henri - Sint-Hendrikstraat",M,,relation
-"Rue Saint-Jean - Sint-Jansstraat",M,,way
 "Rue Saint-Joseph - Sint-Jozefstraat",M,,relation
 "Rue Saint-Julien - Sint-Juliaanstraat",M,,relation
 "Rue Saint-Laurent - Sint-Laurensstraat",M,,way
 "Rue Saint-Lazare - Sint-Lazarusstraat",M,,way
 "Rue Saint-Martin - Sint-Maartenstraat",M,,relation
-"Rue Saint-Vincent - Sint-Vincentiusstraat",M,,relation
 "Rue Sergent Sorensen - Sergeant Sorensenstraat",M,,relation
 "Rue Sneessens - Sneessensstraat",M,,relation
 "Rue Stanislas Legrelle - Stanislas Legrellestraat",M,,relation
@@ -2074,7 +2079,6 @@ name,gender,wikidata,type
 "Rue de Robiano - de Robianostraat",M,,relation
 "Rue de Wansijn - de Wansijnstraat",M,,way
 "Rue de Wautier - de Wautierstraat",M,,relation
-"Sentier Guy Demanet - Guy Demanetpad",M,,way
 "Square Antoine Vanlindt - Antoine Vanlindtsquare",M,,way
 "Square Baron Alfred Bouvier - Baron Alfred Bouviersquare",M,,way
 "Square Baron Robert Hankar - Baron Robert Hankarsquare",M,,way
