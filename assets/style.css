@@ -1,0 +1,16 @@
+.btn-cta {
+  color: #ffffff;
+  background-color: #800080;
+  border-color: #800080;
+}
+.btn-cta:active,
+.btn-cta:focus,
+.btn-cta:hover {
+  color: #fff;
+  background-color: #800080 !important;
+  border-color: #800080 !important;
+}
+.btn-cta:active:focus,
+.btn-cta:focus {
+  box-shadow: 0 0 0 0.2rem rgba(128, 0, 128, 0.5) !important;
+}
