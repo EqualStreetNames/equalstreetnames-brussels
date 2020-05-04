@@ -115,8 +115,6 @@ Romeinsesteenweg,,Q194029,way
 "Venelle de Saint-Job - Sint-Jobsteeg",,Q1927235,way
 "Venelle du Boson - Bosonsteeg",,Q43101,way
 "'t Hof te Overbeke",,,relation
-"36 kV",,,way
-Aardebergstraat,,,way
 "Abbaye - Abdij",,,relation
 "Allée Hof ter Vleest - Hof ter Vleestdreef",,,relation
 "Allée Verte - Groendreef",,,relation
@@ -149,8 +147,6 @@ Aardebergstraat,,,way
 "Ancien Dieweg - Oude Dieweg",,,relation
 "Ancien Middelweg - Oude Middelweg",,,way
 "Ancienne chaussée de Haecht - Oude Haachtsesteenweg",,,relation
-"Anspach Shopping",,,way
-Antwerpselaan,,,way
 "Arbeidsdoorgang - Passage du Travail",,,way
 "Avenue 's Heren Huys - 's Herenhuislaan",,,way
 "Avenue Achille Reisdorff - Achille Reisdorfflaan",,,way
@@ -748,14 +744,9 @@ Antwerpselaan,,,way
 "Avenue ten Horen - ten Horenlaan",,,relation
 "Barrière Saint-Gilles - Bareel van Sint-Gillis",,,way
 "Beelhouwtuinweg - Chemin du Jardin de Sculptures",,,way
-Beersellaan,,,way
 Berensheide,,,relation
-Berenweg,,,way
-Bergdal,,,way
-Bergensesteenweg,,,way
 Beukenberg,,,way
 "Bocage des Myosotis",,,way
-Boechoutlaan,,,way
 "Boesdaallaan - Avenue Boesdaal",,,way
 "Borgval - Borgwal",,,way
 Bosveldweg,,,way
@@ -862,6 +853,7 @@ Cauter,,,way
 "Chemin Berckmans - Berckmansweg",,,way
 "Chemin Endymion - Endymionweg",,,way
 "Chemin Longchamp - Longchamppad",,,way
+"Chemin Saint-Sebastien - Sint-Sebastiaansweg",,,way
 "Chemin Tibout - Tiboutsweg",,,relation
 "Chemin Vert - Groenweg",,,relation
 "Chemin d'Un Monde Meilleur - Betere Wereldweg",,,way
@@ -879,6 +871,7 @@ Cauter,,,way
 "Chemin de l'Hallali - Hallaliweg",,,way
 "Chemin de l'Ombre - Lommerweg",,,way
 "Chemin de la Belladone - Belladonnaweg",,,way
+"Chemin de la Cascade - Weg naar de waterval",,,way
 "Chemin de la Crète - Kimweg",,,relation
 "Chemin de la Dame d'Onze Heures - Elfurenvrouwweg",,,way
 "Chemin de la Forêt - Woudweg",,,way
@@ -889,6 +882,7 @@ Cauter,,,way
 "Chemin de la Perce-Neige - Sneeuwklokjesweg",,,relation
 "Chemin de la Source - Bronweg",,,relation
 "Chemin de la Truite - Forelweg",,,way
+"Chemin de la source - Weg naar de bron",,,way
 "Chemin des Aménagistes - Bedrijfsregelingersweg",,,way
 "Chemin des Amoureux - Verliefdenweg",,,way
 "Chemin des Anémones - Anemonenweg",,,way
@@ -923,6 +917,7 @@ Cauter,,,way
 "Chemin des Tigelles - Stengeltjesweg",,,relation
 "Chemin des Traqueurs - Drijversweg",,,way
 "Chemin des Tumuli - Tumuliweg",,,way
+"Chemin des soeurs Schampaert - Gezusters Schampaertweg",,,way
 "Chemin du Bonheur - Geluksweg",,,way
 "Chemin du Braakveld - Baakveldweg",,,way
 "Chemin du Château Martha - Kasteel Marthaweg",,,way
@@ -931,6 +926,7 @@ Cauter,,,way
 "Chemin du Crabbegat - Crabbegatweg",,,relation
 "Chemin du Crépuscule - Schemeringsweg",,,way
 "Chemin du Croquet - Croquetweg",,,way
+"Chemin du Crossing - Weg naar de Crossing",,,way
 "Chemin du Fer à cheval - Hoefijzerweg",,,way
 "Chemin du Forgeron - Smidsweg",,,way
 "Chemin du Gastendelle - Gastendelleweg",,,relation
@@ -953,6 +949,7 @@ Cauter,,,way
 "Chemin du Rouge-Gorge - Roodborstjesweg",,,way
 "Chemin du Soir - Avondpad",,,way
 "Chemin du Struykbeken - Struykbekenweg",,,way
+"Chemin du Tir à l'Arc - Boogschuttersweg",,,way
 "Chemin du Vellemolen - Vellemolenweg",,,way
 "Chemin du Vossegat - Vossegatweg",,,way
 "Chemin privé 't Cortenbosch - Private Weg 't Cortenbosch",,,relation
@@ -1083,14 +1080,12 @@ Cauter,,,way
 "Couloir secondaire - Secundaire gang",,,way
 "Cours Amarante - Amarantenhof",,,relation
 "Coursive Plein Ciel - Openluchtwandelgang",,,relation
-"De Bergen",,,way
 "De Limburg Stirumlaan - Avenue de Limburg Stirum",,,way
 "Dédale du Campanile - Campaniledoolgang",,,relation
 "Den Groenen Weg",,,way
 Diegemvoetweg,,,way
 Dieweg,,,relation
 "Digue du Canal - Vaartdijk",,,relation
-"Directors Lift",,,way
 Donderberg,,,relation
 "Drève Grange aux Dîmes - Tiendenschuurdreef",,,way
 "Drève Hendrickx - Hendrickxdreef",,,way
@@ -1183,8 +1178,6 @@ Duivenschietweg,,,way
 "Esplanade du Berlaymont - Esplanade",,,way
 "Esplanade of the European Parliament",,,way
 "F212 Fietssnelweg Asse-Brussel",,,way
-"Fermerijgang - Impasse de l'Infirmerie",,,way
-Fleurbeekstraat,,,way
 "Font Saint Landry - Sint Lendriksborre",,,relation
 GR,,,way
 "GR 126",,,way
@@ -1207,30 +1200,19 @@ GR,,,way
 "Galerie du Parlement - Parlementsgalerij",,,relation
 "Galerie du Roi - Koningsgalerij",,,way
 "Gallerie Sauvage Decor - Sauvage Decorgalerij",,,way
-"Geleytsbeekstraat - Rue Geleytsbeek",,,way
 Gentsesteenweg,,,way
-"Goede Luchtlaan - Avenue Bon Air",,,way
 "Grand-Place - Grote Markt",,,relation
 "Grande Avenue",,,way
 "Grande Rue au Bois - Grote Bosstraat",,,relation
 Grensstraat,,,relation
 Groenenberg,,,relation
-"Groenspechtlaan - Avenue du Pic Vert",,,way
-Groenstraat,,,way
-"Grootveld - Grootveld",,,relation
-"Grote Baan - Grand'Route",,,way
+Grootveld,,,relation
 Gulledelle,,,relation
-"Hamweg - Hamweg",,,relation
-"Hanegang - Impasse du Coq",,,way
-HarenberG,,,relation
-Harensesteenweg,,,way
-Harenweg,,,way
-"Heidekruidlaan - Avenue des Bruyères",,,way
+Hamweg,,,relation
+Harenberg,,,relation
 Heiligenborre,,,way
-Hermeslaan,,,way
 Hertogswegel,,,way
 "Het Veroost",,,relation
-Heuveldal,,,way
 "Hof ter Biest",,,way
 "Homborch - Homborch",,,way
 Hondenberg,,,relation
@@ -1242,6 +1224,7 @@ Hunderenveld,,,relation
 "Impasse aux Souliers - Schoenengang",,,way
 "Impasse de Savoie - Savoiegang",,,way
 "Impasse de Varsovie - Polakkengang",,,way
+"Impasse de l'Infirmerie - Fermerijgang",,,way
 "Impasse de la Bouquetière - Bloemenmeisjesgang",,,way
 "Impasse de la Cuve - Kuipgang",,,way
 "Impasse de la Faucille - Sikkelgang",,,way
@@ -1260,6 +1243,7 @@ Hunderenveld,,,relation
 "Impasse des Usines - Werkhuizengang",,,relation
 "Impasse du Chapelet - Paternostergang",,,way
 "Impasse du Cheval - Paardgang",,,relation
+"Impasse du Coq - Hanegang",,,way
 "Impasse du Pré - Weidegang",,,relation
 "Impasse du Renard - Vossengang",,,way
 "Impasse du Val des Roses - Rozendaal",,,relation
