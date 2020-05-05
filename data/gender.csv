@@ -856,21 +856,46 @@ name,gender,wikidata,type
 "Rond-Point Robert Schuman - Robert Schumanplein",M,Q15981,relation
 "Rond-point Louis Thévenet - Louis Thévenetrondpunt",M,Q2032016,way
 "Rond-point Winston Churchill - Winston Churchillplein",M,Q8016,way
+"Rue Abbé Cuylits - Pastoor Cuylitsstraat",M,Q93325410,relation
+"Rue Abbé Cuypers - Priester Cuypersstraat",M,Q93325683,relation
+"Rue Abbé Jean Heymans - Priester Jean Heymansstraat",M,Q93325953,relation
 "Rue Abbé Paul Le Roux - Priester Paul Le Rouxstraat",M,Q86062933,relation
 "Rue Abbé Victor de Sloover - Priester Victor de Slooverstraat",M,Q85528820,relation
+"Rue Abbé de l'Epée - Priester de l'Epéestraat",M,Q860155,relation
+"Rue Achille Detienne - Achille Detiennestraat",M,Q93326201,relation
+"Rue Achille Jonas - Achille Jonasstraat",M,Q93326329,relation
+"Rue Adolphe De Brandt - Adolf De Brandtstraat",M,Q93326418,relation
 "Rue Adolphe Keller - Adolphe Kellerstraat",M,Q2824846,relation
+"Rue Adolphe Lavallée - Adolphe Lavalléestraat",M,Q93326565,relation
+"Rue Adolphe Marbotin - Adolphe Marbotinstraat",M,Q93326724,relation
 "Rue Adolphe Mathieu - Adolphe Mathieustraat",M,Q18448394,relation
 "Rue Adolphe Prins - Adolphe Prinsstraat",M,Q365800,relation
+"Rue Adolphe Roobaert - Adolphe Roobaertstraat",M,Q93326928,relation
+"Rue Adolphe Vandenschrieck - Adolphe Vandenschrieckstraat",M,Q93360542,relation
+"Rue Adolphe Willemyns - Adolphe Willemynsstraat",M,Q93361247,relation
+"Rue Aimé Smekens - Aimé Smekensstraat",M,Q93361284,relation
 "Rue Albert - Albertstraat",M,Q60657,relation
+"Rue Albert De Bast - Albert De Baststraat",M,Q93362047,relation
+"Rue Albert De Meyer - Albert De Meyerstraat",M,Q93362735,relation
+"Rue Albert Dillie - Albert Dilliestraat",M,Q93363357,relation
+"Rue Albert Krings - Albert Kringsstraat",M,Q93363392,way
 "Rue Albert Lacroix - Albert Lacroixstraat",M,Q2831305,relation
 "Rue Albert Meunier - Albert Meunierstraat",M,Q16026095,relation
+"Rue Albert Meurice - Albert Meuricestraat",M,Q93363400,relation
 "Rue Albert Vanderkindere - Albert Vanderkinderestraat",M,Q2831614,relation
+"Rue Albert de Latour - Albert de Latourstraat",M,Q93363891,relation
+"Rue Alderson Jeuniau - Alderson Jeuniaustraat",M,Q93365187,relation
 "Rue Alex Marcette - Alex Marcettestraat",M,Q21395990,relation
+"Rue Alexandre De Craene - Alexandre De Craenestraat",M,Q93365574,relation
 "Rue Alexandre Markelbach - Alexandre Markelbachstraat",M,Q2833854,relation
 "Rue Alexandre Pierrard - Alexandre Pierrardstraat",M,Q65596260,relation
+"Rue Alexandre Wouters - Alexandre Woutersstraat",M,Q93365592,relation
+"Rue Alexis Mousin - Alexis Mousinstraat",M,Q93365596,relation
 "Rue Alexis Willem - Alexis Willemstraat",M,Q2834680,way
 "Rue Alfred Cluysenaar - Alfred Cluysenaarstraat",M,Q2546674,way
+"Rue Alfred Doulceron - Alfred Doulceronstraat",M,Q93365661,relation
 "Rue Alfred Dubois - Alfred Duboisstraat",M,Q2835084,relation
+"Rue Alfred Giron - Alfred Gironstraat",M,Q93366214,relation
 "Rue Alfred Orban - Alfred Orbanstraat",M,Q15387230,relation
 "Rue Alfred Stevens - Alfred Stevensstraat",M,Q773855,relation
 "Rue Allard - Allardstraat",M,Q2855113,relation
@@ -1572,31 +1597,6 @@ name,gender,wikidata,type
 "Impasse Madrille - Madrillegang",M,,way
 "Impasse Ronsmans - Ronsmansgang",M,,way
 "Parvis Saint-Henri - Sint-Hendriksvoorplein",M,,relation
-"Rue Abbé Cuylits - Pastoor Cuylitsstraat",M,,relation
-"Rue Abbé Cuypers - Priester Cuypersstraat",M,,relation
-"Rue Abbé Jean Heymans - Priester Jean Heymansstraat",M,,relation
-"Rue Abbé de l'Epée - Priester de l'Epéestraat",M,,relation
-"Rue Achille Detienne - Achille Detiennestraat",M,,relation
-"Rue Achille Jonas - Achille Jonasstraat",M,,relation
-"Rue Adolphe De Brandt - Adolf De Brandtstraat",M,,relation
-"Rue Adolphe Lavallée - Adolphe Lavalléestraat",M,,relation
-"Rue Adolphe Marbotin - Adolphe Marbotinstraat",M,,relation
-"Rue Adolphe Roobaert - Adolphe Roobaertstraat",M,,relation
-"Rue Adolphe Vandenschrieck - Adolphe Vandenschrieckstraat",M,,relation
-"Rue Adolphe Willemyns - Adolphe Willemynsstraat",M,,relation
-"Rue Aimé Smekens - Aimé Smekensstraat",M,,relation
-"Rue Albert De Bast - Albert De Baststraat",M,,relation
-"Rue Albert De Meyer - Albert De Meyerstraat",M,,relation
-"Rue Albert Dillie - Albert Dilliestraat",M,,relation
-"Rue Albert Krings - Albert Kringsstraat",M,,way
-"Rue Albert Meurice - Albert Meuricestraat",M,,relation
-"Rue Albert de Latour - Albert de Latourstraat",M,,relation
-"Rue Alderson Jeuniau - Alderson Jeuniaustraat",M,,relation
-"Rue Alexandre De Craene - Alexandre De Craenestraat",M,,relation
-"Rue Alexandre Wouters - Alexandre Woutersstraat",M,,relation
-"Rue Alexis Mousin - Alexis Mousinstraat",M,,relation
-"Rue Alfred Doulceron - Alfred Doulceronstraat",M,,relation
-"Rue Alfred Giron - Alfred Gironstraat",M,,relation
 "Rue Alphonse Balis - Alphonse Balisstraat",M,,relation
 "Rue Alphonse Demunter - Alphonse Demunterstraat",M,,relation
 "Rue Alphonse Hottat - Alphonse Hottatstraat",M,,relation

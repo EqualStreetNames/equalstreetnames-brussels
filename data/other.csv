@@ -961,7 +961,6 @@ Cauter,,,way
 "Clos Bel Horizon - Schoonzichtgaarde",,,relation
 "Clos Chapelle-aux-Champs - Veldkapelgaarde",,,relation
 "Clos Fleuri - Bloemenoord",,,relation
-"Clos Foliant - Foliant Gaarde",,,way
 "Clos Foliant - Foliantgaarde",,,relation
 "Clos Hof te Ophem - Hof te Ophemhoek",,,relation
 "Clos Hof ten Berg - Hof ten Berg Gaarde",,,way
@@ -1214,7 +1213,7 @@ Heiligenborre,,,way
 Hertogswegel,,,way
 "Het Veroost",,,relation
 "Hof ter Biest",,,way
-"Homborch - Homborch",,,way
+Homborch,,,way
 Hondenberg,,,relation
 Houtweg,,,relation
 Hunderenveld,,,relation
@@ -1236,6 +1235,7 @@ Hunderenveld,,,relation
 "Impasse de la Tête de Boeuf - Ossekopgang",,,way
 "Impasse des Boeufs - Ossengang",,,way
 "Impasse des Cadeaux - Geschenkengang",,,way
+"Impasse des Chansons - Liedjesgang",,,way
 "Impasse des Combattants - Strijdersgang",,,relation
 "Impasse des Groseilles - Aalbessengang",,,way
 "Impasse des Matelots - Matrozengang",,,relation
@@ -1250,19 +1250,15 @@ Hunderenveld,,,relation
 Indringingsweg,,,way
 Jagersveld,,,way
 "Jardin des Justes - Tuin der Rechtvaardingen",,,way
-"Jozef Van Elewijckstraat",,,way
 Karrenberg,,,way
-"Kasteelhof - Kasteelhof",,,relation
+Kasteelhof,,,relation
 Kattenberg,,,way
-Kaudenaardedreef,,,way
 Kauwberg,,,way
 "Kauwberg - Broekweg",,,way
 Kerkedelle,,,relation
-Kerselaarstraat,,,way
 Kleinenberg,,,relation
 Kleinenbergstraat,,,way
-Krekelendries,,,way
-"Krekelendries - Krekelendries",,,relation
+Krekelendries,,,relation
 Kroonweg,,,way
 Kruipweg,,,relation
 Kruisberg,,,relation
@@ -1272,8 +1268,6 @@ Kweepereboomlaan,,,way
 Langestaartdreef,,,way
 Laskouter,,,relation
 Lenniksebaan,,,way
-"Lequimelaan - Avenue Lequime",,,way
-"Liedjesgang - Impasse des Chansons",,,way
 Lijkweg,,,way
 Lindenberg,,,relation
 "Livinus Walravenslaan",,,way
@@ -1286,13 +1280,11 @@ Lindenberg,,,relation
 "Marché au Poisson - Vismarkt",,,relation
 "Marché aux Herbes - Grasmarkt",,,relation
 "Marché aux Porcs - Varkensmarkt",,,relation
-Marie-Henriettelaan,,,way
 Mariënborre,,,relation
 Mariënsteen,,,relation
 "Meiklokjeslaan - Avenue des Muguets",,,way
 Meir,,,way
-Middelweg,,,way
-"Middelweg - Middelweg",,,relation
+Middelweg,,,relation
 "Moensberg - Moensberg",,,way
 Molenweg,,,way
 "Mont des Arts - Kunstberg",,,relation
