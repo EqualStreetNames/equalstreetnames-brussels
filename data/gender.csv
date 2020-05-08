@@ -901,32 +901,62 @@ name,gender,wikidata,type
 "Rue Allard - Allardstraat",M,Q2855113,relation
 "Rue Aloïs Verstraeten - Aloïs Verstraetenstraat",M,Q81626323,relation
 "Rue Alphonse Asselbergs - Alphonse Asselbergsstraat",M,Q2839699,way
+"Rue Alphonse Balis - Alphonse Balisstraat",M,Q93414478,relation
 "Rue Alphonse De Witte - Alphonse De Wittestraat",M,Q51622839,relation
+"Rue Alphonse Demunter - Alphonse Demunterstraat",M,Q93415139,relation
+"Rue Alphonse Hottat - Alphonse Hottatstraat",M,Q93415625,relation
 "Rue Alphonse Renard - Alphonse Renardstraat",M,Q1893587,relation
+"Rue Alphonse Vanden Bossche - Alfons Vanden Bosschestraat",M,Q93416747,relation
 "Rue Alphonse Vandenpeereboom - Alphonse Vandenpeereboomstraat",M,Q2799919,relation
 "Rue Alphonse Wauters - Alphonse Wautersstraat",M,Q2840003,relation
+"Rue Alphonse et Maurice Hellinckx - Alphonse en Maurice Hellinckxstraat",M,Q93417239;Q93417314,relation
 "Rue Amédée Lynen - Amédée Lynenstraat",M,Q2844682,relation
 "Rue Anatole France - Anatole Francestraat",M,Q42443,relation
 "Rue André Baillon - André Baillonstraat",M,Q548572,relation
 "Rue André Bertulot - André Bertulotstraat",M,Q2847284,way
+"Rue André Crabbe - André Crabbestraat",M,Q93417716,relation
+"Rue André Fauchille - André Fauchillestraat",M,Q93469381,way
 "Rue André Hennebicq - André Hennebicqstraat",M,Q3272122,relation
 "Rue André Van Hasselt - André Van Hasseltstraat",M,Q519653,relation
 "Rue Anneessens - Anneessensstraat",M,Q3083817,way
+"Rue Antoine Baeck - Antoine Baeckstraat",M,Q93469528,relation
+"Rue Antoine Bréart - Antoine Bréartstraat",M,Q93469555,way
 "Rue Antoine Clesse - Antoine Clessestraat",M,Q1960761,relation
+"Rue Antoine Court - Antoine Courtstraat",M,Q93469750,relation
 "Rue Antoine Dansaert - Antoine Dansaertstraat",M,Q2853839,way
+"Rue Antoine Gautier - Antoine Gautierstraat",M,Q93469973,relation
+"Rue Antoine Labarre - Antoine Labarrestraat",M,Q93470045,relation
+"Rue Antoine Nys - Antoine Nysstraat",M,Q93470176,relation
 "Rue Antoine Vandergoten - Antoine Vandergotenstraat",M,Q2856782,relation
+"Rue Antonius Dewinter - Antonius Dewinterstraat",M,Q93470314,way
 "Rue Archimède - Archimedesstraat",M,Q8739,way
+"Rue Armand Campenhout - Armand Campenhoutstraat",M,Q85427815,way
+"Rue Armand De Neuter - Armand De Neuterstraat",M,Q93470783,relation
+"Rue Armand Swevers - Armand Sweversstraat",M,Q93573571,relation
+"Rue Armand de Roo - Armand de Roostraat",M,Q93573838,way
+"Rue Armand de Saulnier - Armand de Saulnierstraat",M,Q93574394,relation
+"Rue Arnold Sohie - Arnold Sohiestraat",M,Q93574396,relation
 "Rue Artan - Artanstraat",M,Q545005,relation
+"Rue Arthur André - Arthur Andréstraat",M,Q93574398,relation
+"Rue Arthur Cosyn - Arthur Cosynstraat",M,Q93574470,relation
+"Rue Arthur Dehem - Arthur Dehemstraat",M,Q93575533,relation
+"Rue Arthur Diderich - Arthur Diderichstraat",M,Q93575746,way
+"Rue Arthur Maes - Arthur Maesstraat",M,Q93575759,relation
+"Rue Arthur Roland - Arthur Rolandstraat",M,Q93576929,relation
 "Rue Auguste Beernaert - Auguste Beernaertstraat",M,Q202049,relation
 "Rue Auguste Danse - Auguste Dansestraat",M,Q1945806,relation
 "Rue Auguste De Boeck - August De Boeckstraat",M,Q705971,relation
 "Rue Auguste De Cock - Auguste De Cockstraat",M,Q15872777,relation
+"Rue Auguste Denie - Auguste Deniestraat",M,Q93577059,relation
 "Rue Auguste Gevaert - Auguste Gevaertstraat",M,Q682376,relation
+"Rue Auguste Hainaut - Auguste Hainautstraat",M,Q93577069,relation
+"Rue Auguste Heene - Auguste Heenestraat",M,Q93577073,way
 "Rue Auguste Lambiotte - Auguste Lambiottestraat",M,Q11309738,relation
 "Rue Auguste Lumière - Auguste Lumièrestraat",M,Q4272245,relation
 "Rue Auguste Orts - Auguste Ortsstraat",M,Q2871354,way
 "Rue Auguste Renoir - Auguste Renoirstraat",M,Q39931,relation
 "Rue Auguste Snieders - Auguste Sniedersstraat",M,Q2192202,relation
+"Rue Auguste Van Zande - Auguste Van Zandestraat",M,Q93577080,relation
 "Rue Augustin Delporte - Augustin Delportestraat",M,Q85423002,relation
 "Rue Aviateur Thieffry - Vlieger Thieffrystraat",M,Q254932,relation
 "Rue Bara - Barastraat",M,Q350861,relation
@@ -1597,36 +1627,6 @@ name,gender,wikidata,type
 "Impasse Madrille - Madrillegang",M,,way
 "Impasse Ronsmans - Ronsmansgang",M,,way
 "Parvis Saint-Henri - Sint-Hendriksvoorplein",M,,relation
-"Rue Alphonse Balis - Alphonse Balisstraat",M,,relation
-"Rue Alphonse Demunter - Alphonse Demunterstraat",M,,relation
-"Rue Alphonse Hottat - Alphonse Hottatstraat",M,,relation
-"Rue Alphonse Vanden Bossche - Alfons Vanden Bosschestraat",M,,relation
-"Rue Alphonse et Maurice Hellinckx - Alphonse en Maurice Hellinckxstraat",M,,relation
-"Rue André Crabbe - André Crabbestraat",M,,relation
-"Rue André Fauchille - André Fauchillestraat",M,,way
-"Rue Antoine Baeck - Antoine Baeckstraat",M,,relation
-"Rue Antoine Bréart - Antoine Bréartstraat",M,,way
-"Rue Antoine Court - Antoine Courtstraat",M,,relation
-"Rue Antoine Gautier - Antoine Gautierstraat",M,,relation
-"Rue Antoine Labarre - Antoine Labarrestraat",M,,relation
-"Rue Antoine Nys - Antoine Nysstraat",M,,relation
-"Rue Antonius Dewinter - Antonius Dewinterstraat",M,,way
-"Rue Armand Campenhout - Armand Campenhoutstraat",M,,way
-"Rue Armand De Neuter - Armand De Neuterstraat",M,,relation
-"Rue Armand Swevers - Armand Sweversstraat",M,,relation
-"Rue Armand de Roo - Armand de Roostraat",M,,way
-"Rue Armand de Saulnier - Armand de Saulnierstraat",M,,relation
-"Rue Arnold Sohie - Arnold Sohiestraat",M,,relation
-"Rue Arthur André - Arthur Andréstraat",M,,relation
-"Rue Arthur Cosyn - Arthur Cosynstraat",M,,relation
-"Rue Arthur Dehem - Arthur Dehemstraat",M,,relation
-"Rue Arthur Diderich - Arthur Diderichstraat",M,,way
-"Rue Arthur Maes - Arthur Maesstraat",M,,relation
-"Rue Arthur Roland - Arthur Rolandstraat",M,,relation
-"Rue Auguste Denie - Auguste Deniestraat",M,,relation
-"Rue Auguste Hainaut - Auguste Hainautstraat",M,,relation
-"Rue Auguste Heene - Auguste Heenestraat",M,,way
-"Rue Auguste Van Zande - Auguste Van Zandestraat",M,,relation
 "Rue Baron Guillaume Van Hamme - Baron Guillaume Van Hammestraat",M,,way
 "Rue Baron Perelman - Baron Perelmanstraat",M,,way
 "Rue Baron Roger Vander Noot - Baron Roger Vander Nootstraat",M,,way
