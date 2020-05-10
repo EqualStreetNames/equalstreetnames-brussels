@@ -1,4 +1,5 @@
 name,gender,wikidata,type
+"Allée Sarah et Jacques Goldberg - Sarah en Jacques Goldbergdreef",+,Q3473353;Q93877330,way
 "Avenue Albert-Elisabeth - Albert-Elisabethlaan",+,Q55008046;Q235186,relation
 "Avenue Houba-de Strooper - Houba-de Strooperlaan",+,Q92542850;Q92542853,relation
 "Avenue Pierre et Marie Curie - Pierre en Marie Curielaan",+,Q37463;Q7186,relation
@@ -961,23 +962,34 @@ name,gender,wikidata,type
 "Rue Aviateur Thieffry - Vlieger Thieffrystraat",M,Q254932,relation
 "Rue Bara - Barastraat",M,Q350861,relation
 "Rue Baron Dhanis - Baron Dhanisstraat",M,Q2344129,relation
+"Rue Baron Guillaume Van Hamme - Baron Guillaume Van Hammestraat",M,Q93615999,relation
 "Rue Baron Horta - Baron Hortastraat",M,Q49744,relation
 "Rue Baron Lambert - Baron Lambertstraat",M,Q2884771,relation
+"Rue Baron Perelman - Baron Perelmanstraat",M,Q456301,relation
+"Rue Baron Roger Vander Noot - Baron Roger Vander Nootstraat",M,Q93749212,relation
+"Rue Baron de Castro - Baron de Castrostraat",M,Q16034073,relation
 "Rue Baron de Laveleye - Baron de Laveleyestraat",M,Q286125,relation
 "Rue Bâtonnier Braffort - Stafhouder Braffortstraat",M,Q3261345,relation
 "Rue Belliard - Belliardstraat",M,Q767534,relation
 "Rue Béranger - Bérangerstraat",M,Q324998,way
 "Rue Berthelot - Berthelotstraat",M,Q18425,relation
 "Rue Blaes - Blaesstraat",M,Q23889107,relation
+"Rue Blockmans - Blockmansstraat",M,Q93861185,relation
 "Rue Bodeghem - Bodegemsestraat",M,Q3263599,way
 "Rue Boduognat - Boduognatstraat",M,Q890044,relation
+"Rue Bollinckx - Bollinckxstraat",M,Q93861200,relation
 "Rue Bonaventure - Bonaventurestraat",M,Q20871249,relation
+"Rue Bonneels - Bonneelsstraat",M,Q93864506,relation
 "Rue Bordiau - Bordiaustraat",M,Q3122890,way
+"Rue Borrens - Borrensstraat",M,Q93864572,relation
 "Rue Braemt - Braemtstraat",M,Q3184409,relation
 "Rue Brederode - Brederodestraat",M,Q1349577,relation
+"Rue Breesch - Breeschstraat",M,Q93865039,relation
 "Rue Breughel - Breughelstraat",M,Q43270,relation
 "Rue Breydel - Breydelstraat",M,Q1394408,relation
 "Rue Brialmont - Brialmontstraat",M,Q132142,relation
+"Rue Brichaut - Brichautstraat",M,Q93870548;Q93871022,relation
+"Rue Brogniez - Brogniezstraat",M,Q93871146,relation
 "Rue Buffon - Buffonstraat",M,Q229264,relation
 "Rue Calvin - Calvijnstraat",M,Q37577,relation
 "Rue Camille Coquilhat - Camille Coquilhatstraat",M,Q2105121,relation
@@ -1603,6 +1615,9 @@ name,gender,wikidata,type
 "Rue Willy De Bruyn - Willy De Bruynstraat",MX,Q15807938,relation
 "Avenue Van Bever - Van Beverlaan",?,,way
 "Place Van Meyel - Van Meyelplein",?,,relation
+"Rue Bouvier - Bouvierstraat",?,,relation
+"Rue Brunard - Brunardstraat",?,,relation
+"Rue Buchholtz - Buchholtzstraat",?,,relation
 "Square Van Bever - Van Beversquare",?,,way
 "Avenue Hélène - Helenalaan",F,,relation
 "Avenue Jeanne - Johannalaan",F,,relation
@@ -1627,24 +1642,10 @@ name,gender,wikidata,type
 "Impasse Madrille - Madrillegang",M,,way
 "Impasse Ronsmans - Ronsmansgang",M,,way
 "Parvis Saint-Henri - Sint-Hendriksvoorplein",M,,relation
-"Rue Baron Guillaume Van Hamme - Baron Guillaume Van Hammestraat",M,,way
-"Rue Baron Perelman - Baron Perelmanstraat",M,,way
-"Rue Baron Roger Vander Noot - Baron Roger Vander Nootstraat",M,,way
-"Rue Baron de Castro - Baron de Castrostraat",M,,relation
 "Rue Beeckman - Beeckmanstraat",M,,way
-"Rue Berckmans - Berckmansstraat",M,,way
+"Rue Berckmans - Berckmansstraat",M,,relation
 "Rue Blanche - Blanchestraat",M,,way
-"Rue Blockmans - Blockmansstraat",M,,relation
-"Rue Bollinckx - Bollinckxstraat",M,,relation
-"Rue Bonneels - Bonneelsstraat",M,,relation
-"Rue Borrens - Borrensstraat",M,,relation
-"Rue Bosquet - Bosquetstraat",M,,way
-"Rue Bouvier - Bouvierstraat",M,,relation
-"Rue Breesch - Breeschstraat",M,,relation
-"Rue Brichaut - Brichautstraat",M,,relation
-"Rue Brogniez - Brogniezstraat",M,,relation
-"Rue Brunard - Brunardstraat",M,,relation
-"Rue Buchholtz - Buchholtzstraat",M,,way
+"Rue Bosquet - Bosquetstraat",M,,relation
 "Rue Cail et Halot - Cail et Halotstraat",M,,relation
 "Rue Camille Simoens - Camille Simoensstraat",M,,relation
 "Rue Camille Van Exter - Camille Van Exterstraat",M,,way

@@ -54,6 +54,9 @@ return [
     'gender' => [
         'relation' => [
             '3066477'  => '?', // Place Van Meyel - Van Meyelplein
+            '3294557'  => '?', // Rue Bouvier - Bouvierstraat
+            '2967941'  => '?', // Rue Brunard - Brunardstraat
+            '11087247' => '?', // Rue Buchholtz - Buchholtzstraat
             '3256835'  => 'F', // Avenue Hélène - Helenalaan
             '3228251'  => 'F', // Avenue Jeanne - Johannalaan
             '3505178'  => 'F', // Avenue Paule - Paulalaan
@@ -71,6 +74,8 @@ return [
             '3110486'  => 'M', // Avenue Hansen-Soulie - Hansen-Soulielaan
             '3495502'  => 'M', // Avenue Père Hilaire - Pater Hilariuslaan
             '3500230'  => 'M', // Avenue Saint-Jean - Sint-Janslaan
+            '11086524' => 'M', // Rue Berckmans - Berckmansstraat
+            '11087006' => 'M', // Rue Bosquet - Bosquetstraat
         ],
         'way' => [
             '15804085'  => '?', // Avenue Van Bever - Van Beverlaan
@@ -81,6 +86,10 @@ return [
             '458810331' => 'M', // Avenue des Frères Goemaere - Gebroeders Goemaerelaan
             '35830442'  => 'M', // Avenue des Frères Legrain - Gebroeders Legrainlaan
             '8250579'   => 'M', // Avenue des Frères Legrain - Gebroeders Legrainlaan
+            '243608882' => 'M', // Rue Beeckman - Beeckmanstraat
+            '244299516' => 'M', // Rue Beeckman - Beeckmanstraat
+            '243608671' => 'M', // Rue Beeckman - Beeckmanstraat
+            '4426075'   => 'M', // Rue Blanche - Blanchestraat
         ],
     ],
 

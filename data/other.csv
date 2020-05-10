@@ -1224,6 +1224,8 @@ Hunderenveld,,,relation
 "Impasse de Savoie - Savoiegang",,,way
 "Impasse de Varsovie - Polakkengang",,,way
 "Impasse de l'Infirmerie - Fermerijgang",,,way
+"Impasse de la Barbe - Baardgang",,,way
+"Impasse de la Bobine - Bobijngang",,,way
 "Impasse de la Bouquetière - Bloemenmeisjesgang",,,way
 "Impasse de la Cuve - Kuipgang",,,way
 "Impasse de la Faucille - Sikkelgang",,,way
@@ -1965,6 +1967,7 @@ Roeierspad,,,way
 "Rue de l'Avocette - Kluitstraat",,,way
 "Rue de l'Azur - Azuurstraat",,,relation
 "Rue de l'Eau - Waterstraat",,,relation
+"Rue de l'Éclipse - Eclipsstraat",,,way
 "Rue de l'Ecluse - Sasstraat",,,way
 "Rue de l'École - Schoolstraat",,,relation
 "Rue de l'Ecole Moderne - Moderne-Schoolstraat",,,relation
@@ -3125,6 +3128,7 @@ Tulpenstraat,,,relation
 "Val des Perdreaux - Patrijzendal",,,relation
 "Val des Seigneurs - Herendal",,,relation
 "Vallon d'Ohain - Ohaindal",,,way
+"Vanhoetergang - Impasse Vanhoeter",,,way
 "Venelle Bleue - Blauwdreveken",,,relation
 "Venelle au Palio - Paliosteeg",,,relation
 "Venelle aux Coins de Terre - Moestuinsteeg",,,relation
