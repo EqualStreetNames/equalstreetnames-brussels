@@ -82,6 +82,8 @@ return [
             '599481032' => '?', // Avenue Van Bever - Van Beverlaan
             '23104735'  => '?', // Square Van Bever - Van Beversquare
             '23104737'  => '?', // Square Van Bever - Van Beversquare
+            '23647092'  => '?', // Rue Capouillet - Capouilletstraat
+            '4730958'   => '?', // Rue Capouillet - Capouilletstraat
             '23647145'  => 'F', // Avenue Juliette - Juliettelaan
             '458810331' => 'M', // Avenue des Frères Goemaere - Gebroeders Goemaerelaan
             '35830442'  => 'M', // Avenue des Frères Legrain - Gebroeders Legrainlaan

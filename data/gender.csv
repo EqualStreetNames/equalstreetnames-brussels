@@ -78,6 +78,7 @@ name,gender,wikidata,type
 "Rue Amélie Gomand - Amélie Gomandstraat",F,Q89489801,relation
 "Rue Andrée de Jongh - Andrée de Jonghstraat",F,Q461027,way
 "Rue Audrey Hepburn - Audrey Hepburnstraat",F,Q42786,relation
+"Rue Camusel - Camuselstraat",F,Q94143093,way
 "Rue Chantal Akerman - Chantal Akermanstraat",F,Q239823,way
 "Rue Christine - Kristinastraat",F,Q167439,relation
 "Rue Clémentine - Clementinestraat",F,Q261129,relation
@@ -991,15 +992,20 @@ name,gender,wikidata,type
 "Rue Brichaut - Brichautstraat",M,Q93870548;Q93871022,relation
 "Rue Brogniez - Brogniezstraat",M,Q93871146,relation
 "Rue Buffon - Buffonstraat",M,Q229264,relation
+"Rue Cail et Halot - Cail et Halotstraat",M,Q1233361;Q93987564,relation
 "Rue Calvin - Calvijnstraat",M,Q37577,relation
 "Rue Camille Coquilhat - Camille Coquilhatstraat",M,Q2105121,relation
 "Rue Camille Lemonnier - Camille Lemonnierstraat",M,Q2158012,relation
+"Rue Camille Simoens - Camille Simoensstraat",M,Q51884503,relation
+"Rue Camille Van Exter - Camille Van Exterstraat",M,Q93988932,relation
 "Rue Camille Wollès - Camille Wollèsstraat",M,Q2021436,relation
 "Rue Capitaine Crespel - Kapitein Crespelstraat",M,Q60021056,relation
 "Rue Capitaine Joubert - Kapitein Joubertstraat",M,Q3266133,relation
+"Rue Caporal Claes - Korporaal Claesstraat",M,Q94145159,relation
 "Rue Caporal Trésignies - Korporaal Trésigniesstraat",M,Q2424269,relation
 "Rue Capronnier - Capronnierstraat",M,Q556508,relation
 "Rue Cardinal Lavigerie - Kardinaal Lavigeriestraat",M,Q369832,relation
+"Rue Caroly - Carolystraat",M,Q94145471,relation
 "Rue Cervantès - Cervantesstraat",M,Q5682,way
 "Rue César Depaepe - César Depaepestraat",M,Q1150699,relation
 "Rue César Franck - César Franckstraat",M,Q50187,relation
@@ -1026,6 +1032,7 @@ name,gender,wikidata,type
 "Rue Corneille - Corneillestraat",M,Q747,relation
 "Rue Cornet de Grez - Cornet de Grezstraat",M,Q3068545,relation
 "Rue Crocq - Crocqstraat",M,Q3171488,relation
+"Rue Cuerens - Cuerensstraat",M,Q94143697,way
 "Rue Cyriel Buysse - Cyriel Buyssestraat",M,Q628124,relation
 "Rue Daniel Van Damme - Daniel Van Dammestraat",M,Q52225103,way
 "Rue Dante - Dantestraat",M,Q1067,relation
@@ -1527,7 +1534,7 @@ name,gender,wikidata,type
 "Rue de Potter - de Potterstraat",M,Q1295332,relation
 "Rue de Stassart - de Stassartstraat",M,Q1538693,relation
 "Rue de Theux - de Theuxstraat",M,Q472257,relation
-"Rue de Witte de Haelen - De Witte de Haelenstraat",M,Q3271451,way
+"Rue de Witte de Haelen - de Witte de Haelenstraat",M,Q3271451,relation
 "Rue de Wynants - de Wynantsstraat",M,Q86997834,relation
 "Rue de l'Éclusier Cogge - Sluismeester Coggestraat",M,Q2182432,relation
 "Rue du Cardinal - Kardinaalsstraat",M,Q451178,relation
@@ -1618,6 +1625,7 @@ name,gender,wikidata,type
 "Rue Bouvier - Bouvierstraat",?,,relation
 "Rue Brunard - Brunardstraat",?,,relation
 "Rue Buchholtz - Buchholtzstraat",?,,relation
+"Rue Capouillet - Capouilletstraat",?,,way
 "Square Van Bever - Van Beversquare",?,,way
 "Avenue Hélène - Helenalaan",F,,relation
 "Avenue Jeanne - Johannalaan",F,,relation
@@ -1646,13 +1654,6 @@ name,gender,wikidata,type
 "Rue Berckmans - Berckmansstraat",M,,relation
 "Rue Blanche - Blanchestraat",M,,way
 "Rue Bosquet - Bosquetstraat",M,,relation
-"Rue Cail et Halot - Cail et Halotstraat",M,,relation
-"Rue Camille Simoens - Camille Simoensstraat",M,,relation
-"Rue Camille Van Exter - Camille Van Exterstraat",M,,way
-"Rue Camusel - Camuselstraat",M,,way
-"Rue Caporal Claes - Korporaal Claesstraat",M,,relation
-"Rue Capouillet - Capouilletstraat",M,,way
-"Rue Caroly - Carolystraat",M,,relation
 "Rue Charles Bernaerts - Charles Bernaertsstraat",M,,way
 "Rue Charles Cammaert - Karel Cammaertstraat",M,,relation
 "Rue Charles De Buck - Charles De Buckstraat",M,,relation
@@ -1670,7 +1671,6 @@ name,gender,wikidata,type
 "Rue Corneille De Clercq - Corneille De Clercqstraat",M,,relation
 "Rue Corneille Hoornaert - Corneille Hoornaertstraat",M,,relation
 "Rue Crickx - Crickxstraat",M,,way
-"Rue Cuerens - Cuerensstraat",M,,way
 "Rue David Van Bever - David Van Beverstraat",M,,relation
 "Rue De Broyer - De Broyerstraat",M,,way
 "Rue De Koninck - De Koninckstraat",M,,relation
