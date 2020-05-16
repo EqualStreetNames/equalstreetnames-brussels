@@ -1009,18 +1009,31 @@ name,gender,wikidata,type
 "Rue Cervantès - Cervantesstraat",M,Q5682,way
 "Rue César Depaepe - César Depaepestraat",M,Q1150699,relation
 "Rue César Franck - César Franckstraat",M,Q50187,relation
+"Rue Charles Bernaerts - Charles Bernaertsstraat",M,Q94224877,way
 "Rue Charles Buls - Karel Bulsstraat",M,Q716382,relation
+"Rue Charles Cammaert - Karel Cammaertstraat",M,Q94225642,relation
+"Rue Charles De Buck - Charles De Buckstraat",M,Q94226044,relation
 "Rue Charles Decoster - Charles Decosterstraat",M,Q315176,relation
 "Rue Charles Degroux - Charles Degrouxstraat",M,Q2657971,relation
+"Rue Charles Demeer - Charles Demeerstraat",M,Q94227405,relation
 "Rue Charles Hanssens - Charles Hanssensstraat",M,Q2958200,relation
+"Rue Charles Lechat - Charles Lechatstraat",M,Q94417841,way
+"Rue Charles Legrelle - Charles Legrellestraat",M,Q94418114,relation
 "Rue Charles Lemaire - Charles Lemairestraat",M,Q2090301,relation
+"Rue Charles Malis - Charles Malisstraat",M,Q94418374,relation
 "Rue Charles Martel - Karel Martelstraat",M,Q3301,relation
+"Rue Charles Meert - Charles Meertstraat",M,Q94418757,relation
+"Rue Charles Moens - Charles Moensstraat",M,Q94419115,relation
+"Rue Charles Parenté - Charles Parentéstraat",M,Q94482026,relation
+"Rue Charles Pas - Charles Passtraat",M,Q94482070,way
 "Rue Charles Quint - Keizer Karelstraat",M,Q32500,relation
+"Rue Charles Ramaekers - Charles Ramaekersstraat",M,Q94482180,relation
 "Rue Charles VI - Karel VI straat",M,Q160349,relation
 "Rue Charles Van Lerberghe - Charles Van Lerberghestraat",M,Q93871,relation
 "Rue Charles Vanderstappen - Charles Vanderstappenstraat",M,Q860272,relation
 "Rue Charlie Chaplin - Charlie Chaplinstraat",M,Q882,way
 "Rue Chopin - Chopinstraat",M,Q1268,relation
+"Rue Claessens - Claessensstraat",M,Q94482570,relation
 "Rue Claude Debussy - Claude Debussystraat",M,Q4700,relation
 "Rue Colonel Bourg - Kolonel Bourgstraat",M,Q87605537,relation
 "Rue Colonel Chaltin - Kolonel Chaltinstraat",M,Q559445,relation
@@ -1030,6 +1043,8 @@ name,gender,wikidata,type
 "Rue Copernic - Copernicusstraat",M,Q619,way
 "Rue Coppens - Coppensstraat",M,Q16196751,relation
 "Rue Corneille - Corneillestraat",M,Q747,relation
+"Rue Corneille De Clercq - Corneille De Clercqstraat",M,Q94483557,relation
+"Rue Corneille Hoornaert - Corneille Hoornaertstraat",M,Q94483761,relation
 "Rue Cornet de Grez - Cornet de Grezstraat",M,Q3068545,relation
 "Rue Crocq - Crocqstraat",M,Q3171488,relation
 "Rue Cuerens - Cuerensstraat",M,Q94143697,way
@@ -1038,14 +1053,22 @@ name,gender,wikidata,type
 "Rue Dante - Dantestraat",M,Q1067,relation
 "Rue Darwin - Darwinstraat",M,Q1035,relation
 "Rue Dautzenberg - Dautzenbergstraat",M,Q852134,relation
+"Rue David Van Bever - David Van Beverstraat",M,Q94578091,relation
+"Rue De Broyer - De Broyerstraat",M,Q94578122,way
 "Rue De Crayer - De Crayerstraat",M,Q570172,way
 "Rue De Lenglentier - De Lenglentierstraat",M,Q82317733,relation
+"Rue De Mot - De Motstraat",M,Q94578253,relation
 "Rue De Neck - De Neckstraat",M,Q85425067,relation
 "Rue De Praetere - De Praeterestraat",M,Q2592861,way
 "Rue Defacqz - Defacqzstraat",M,Q2570848,relation
+"Rue Dejoncker - Dejonckerstraat",M,Q94578304,relation
 "Rue Démosthène - Demosthenesstraat",M,Q117253,relation
+"Rue Denis Verdonck - Denis Verdonckstraat",M,Q94578361,relation
 "Rue Deschampheleer - Deschampheleerstraat",M,Q85425608,relation
+"Rue Désiré Desmet - Désiré Desmetstraat",M,Q94578392,relation
 "Rue Destouvelles - Destouvellesstraat",M,Q3182169,relation
+"Rue Dethy - Dethystraat",M,Q94578612,way
+"Rue Dieudonné Lefèvre - Dieudonné Lefèvrestraat",M,Q94578675,relation
 "Rue Dillens - Dillensstraat",M,Q1712238,relation
 "Rue Docteur Roux - Dokter Rouxstraat",M,Q286440,relation
 "Rue Dubois-Thorn - Dubois-Thornstraat",M,Q28658015,relation
@@ -1626,6 +1649,8 @@ name,gender,wikidata,type
 "Rue Brunard - Brunardstraat",?,,relation
 "Rue Buchholtz - Buchholtzstraat",?,,relation
 "Rue Capouillet - Capouilletstraat",?,,way
+"Rue Crickx - Crickxstraat",?,,way
+"Rue De Koninck - De Koninckstraat",?,,relation
 "Square Van Bever - Van Beversquare",?,,way
 "Avenue Hélène - Helenalaan",F,,relation
 "Avenue Jeanne - Johannalaan",F,,relation
@@ -1654,32 +1679,7 @@ name,gender,wikidata,type
 "Rue Berckmans - Berckmansstraat",M,,relation
 "Rue Blanche - Blanchestraat",M,,way
 "Rue Bosquet - Bosquetstraat",M,,relation
-"Rue Charles Bernaerts - Charles Bernaertsstraat",M,,way
-"Rue Charles Cammaert - Karel Cammaertstraat",M,,relation
-"Rue Charles De Buck - Charles De Buckstraat",M,,relation
-"Rue Charles Demeer - Charles Demeerstraat",M,,relation
-"Rue Charles Lechat - Charles Lechatstraat",M,,way
-"Rue Charles Legrelle - Charles Legrellestraat",M,,relation
-"Rue Charles Malis - Charles Malisstraat",M,,relation
-"Rue Charles Meert - Charles Meertstraat",M,,relation
-"Rue Charles Moens - Charles Moensstraat",M,,relation
-"Rue Charles Parenté - Charles Parentéstraat",M,,relation
-"Rue Charles Pas - Charles Passtraat",M,,way
-"Rue Charles Ramaekers - Charles Ramaekersstraat",M,,relation
-"Rue Claessens - Claessensstraat",M,,relation
 "Rue Coenraets - Coenraetsstraat",M,,relation
-"Rue Corneille De Clercq - Corneille De Clercqstraat",M,,relation
-"Rue Corneille Hoornaert - Corneille Hoornaertstraat",M,,relation
-"Rue Crickx - Crickxstraat",M,,way
-"Rue David Van Bever - David Van Beverstraat",M,,relation
-"Rue De Broyer - De Broyerstraat",M,,way
-"Rue De Koninck - De Koninckstraat",M,,relation
-"Rue De Mot - De Motstraat",M,,relation
-"Rue Dejoncker - Dejonckerstraat",M,,way
-"Rue Denis Verdonck - Denis Verdonckstraat",M,,relation
-"Rue Désiré Desmet - Désiré Desmetstraat",M,,relation
-"Rue Dethy - Dethystraat",M,,way
-"Rue Dieudonné Lefèvre - Dieudonné Lefèvrestraat",M,,relation
 "Rue Docteur Charles Beudin - Dokter Charles Beudinstraat",M,,relation
 "Rue Docteur Charles Leemans - Dokter Charles Leemansstraat",M,,relation
 "Rue Docteur Dryepondt - Dokter Dryepondtstraat",M,,relation

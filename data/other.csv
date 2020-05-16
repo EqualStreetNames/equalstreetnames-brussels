@@ -40,6 +40,7 @@ name,gender,wikidata,type
 "Avenue des Chanterelles - Hanenkammenlaan",,Q3942018,way
 "Avenue des Jonquilles - Narcissenlaan",,Q29465,way
 "Avenue des Vestales - Vestalenlaan",,Q188761,relation
+"Avenue du Daring - Daringlaan",,Q2312558,relation
 "Avenue du Manoir d'Anjou - Manoir d'Anjoulaan",,Q60853950,relation
 "Avenue du Prince de Ligne - Prins de Lignelaan",,Q3922015,relation
 "Boulevard Saint-Michel - Sint-Michielslaan",,Q45581,relation
@@ -634,7 +635,6 @@ Romeinsesteenweg,,Q194029,way
 "Avenue du Cosmonaute - Kosmonautlaan",,,relation
 "Avenue du Couronnement - Kroninglaan",,,relation
 "Avenue du Daim - Damhertlaan",,,way
-"Avenue du Daring - Daringlaan",,,relation
 "Avenue du Derby - Derbylaan",,,relation
 "Avenue du Dernier Repos - Laatste Rustlaan",,,relation
 "Avenue du Destrier - Strijdroslaan",,,relation
@@ -863,6 +863,7 @@ Cauter,,,way
 "Chemin de Fer - IJzerweg",,,way
 "Chemin de Putdael - Putdaal",,,way
 "Chemin de Ronde - Rondeweg",,,relation
+"Chemin de Schaerbeek-Plage - Schaarbeek-Badweg",,,way
 "Chemin de Traverse - Binnenweg",,,way
 "Chemin de l'Aube - Morgenstondweg",,,way
 "Chemin de l'Aubépine - Haagdornweg",,,way
@@ -1394,7 +1395,6 @@ Pannenhuisplein,,,way
 "Place de la Constitution - Grondwetplein",,,way
 "Place de la Croix-Rouge - Rode-Kruisplein",,,relation
 "Place de la Demi-Lune - Halvemaanplein",,,relation
-"Place de la Duchesse de Brabant - Hertogin van Brabantplaats",,,way
 "Place de la Fleur de Blé - Korenbloemplein",,,relation
 "Place de la Gare - Stationsplein",,,relation
 "Place de la Grotte - Grotplein",,,relation
@@ -3155,5 +3155,4 @@ Welriekendedreef,,,way
 "Wezembeeklaan - Avenue de Wezembeek",,,relation
 Windmolenberg,,,relation
 Woluwelaan,,,way
-Woluweweg,,,way
 "Zwarte Pijnbomenlaan",,,way

@@ -57,6 +57,7 @@ return [
             '3294557'  => '?', // Rue Bouvier - Bouvierstraat
             '2967941'  => '?', // Rue Brunard - Brunardstraat
             '11087247' => '?', // Rue Buchholtz - Buchholtzstraat
+            '3325445'  => '?', // Rue De Koninck - De Koninckstraat
             '3256835'  => 'F', // Avenue Hélène - Helenalaan
             '3228251'  => 'F', // Avenue Jeanne - Johannalaan
             '3505178'  => 'F', // Avenue Paule - Paulalaan
@@ -76,6 +77,7 @@ return [
             '3500230'  => 'M', // Avenue Saint-Jean - Sint-Janslaan
             '11086524' => 'M', // Rue Berckmans - Berckmansstraat
             '11087006' => 'M', // Rue Bosquet - Bosquetstraat
+            '3257052'  => 'M', // Rue Coenraets - Coenraetsstraat
         ],
         'way' => [
             '15804085'  => '?', // Avenue Van Bever - Van Beverlaan
@@ -84,6 +86,7 @@ return [
             '23104737'  => '?', // Square Van Bever - Van Beversquare
             '23647092'  => '?', // Rue Capouillet - Capouilletstraat
             '4730958'   => '?', // Rue Capouillet - Capouilletstraat
+            '13768131'  => '?', // Rue Crickx - Crickxstraat
             '23647145'  => 'F', // Avenue Juliette - Juliettelaan
             '458810331' => 'M', // Avenue des Frères Goemaere - Gebroeders Goemaerelaan
             '35830442'  => 'M', // Avenue des Frères Legrain - Gebroeders Legrainlaan
@@ -135,12 +138,15 @@ return [
         'Q212238'   => false, // civil servant
         'Q273854'   => false, // Gauls
         'Q429795'   => false, // mineral variety
+        'Q431289'   => false, // brand
         'Q476682'   => false, // anemoi
         'Q486972'   => false, // human settlement
         'Q493522'   => false, // municipality of Belgium
+        'Q502895'   => false, // common name
         'Q507850'   => false, // Marian apparition
         'Q511056'   => false, // solar deity
         'Q355567'   => false, // noble title
+        'Q476028'   => false, // association football club
         'Q697175'   => false, // launch vehicle
         'Q690175'   => false, // angel in Judaism
         'Q707813'   => false, // Hanseatic city
@@ -155,6 +161,7 @@ return [
         'Q1998962'  => false, // beer style
         'Q2202509'  => false, // Roman city
         'Q2785216'  => false, // municipality section
+        'Q3058029'  => false, // sector of Rwanda
         'Q3305213'  => false, // painting
         'Q3658341'  => false, // literary character
         'Q4164871'  => false, // position
@@ -179,6 +186,7 @@ return [
         'Q22675015' => false, // type of quantum particle
         'Q22988604' => false, // mythological Greek character
         'Q22989102' => false, // Greek deity
+        'Q22999537' => false, // vehicle family
         'Q24284226' => false, // agricultural deity
         'Q24434794' => false, // king in Greek mythology
         'Q25810847' => false, // folkloristic character
