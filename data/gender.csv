@@ -1544,19 +1544,25 @@ name,gender,wikidata,type
 "Rue Willy Van Der Meeren - Willy Van Der Meerenstraat",M,Q2299826,way
 "Rue Xavier De Bue - Xavier De Buestraat",M,Q3570641,relation
 "Rue Zinner - Zinnerstraat",M,Q24288413,way
+"Rue d'Accolay - Accolaystraat",M,Q94623747,relation
 "Rue d'Anethan - d'Anethanstraat",M,Q725589,relation
 "Rue d'Egmont - Egmontstraat",M,Q435844,relation
 "Rue d'Hannetaire - d'Hannetairestraat",M,Q3010923,relation
 "Rue d'Hoogvorst - d'Hoogvorststraat",M,Q359181,relation
 "Rue d'Oultremont - d'Oultremontstraat",M,Q3588807,relation
 "Rue de Bériot - de Bériotstraat",M,Q385217,relation
+"Rue de Fiennes - de Fiennesstraat",M,Q94625170,relation
+"Rue de Formanoir - de Formanoirstraat",M,Q94625474,relation
 "Rue de Gerlache - de Gerlachestraat",M,Q289570,relation
 "Rue de Haerne - de Haernestraat",M,Q2045276,relation
 "Rue de Ligne - de Lignestraat",M,Q462657,way
+"Rue de Locht - de Lochtstraat",M,Q85944979,relation
+"Rue de Moerkerke - de Moerkerkestraat",M,Q85945441,way
 "Rue de Moranville - de Moranvillestraat",M,Q20724054,relation
 "Rue de Potter - de Potterstraat",M,Q1295332,relation
 "Rue de Stassart - de Stassartstraat",M,Q1538693,relation
 "Rue de Theux - de Theuxstraat",M,Q472257,relation
+"Rue de Wautier - de Wautierstraat",M,Q94690356,relation
 "Rue de Witte de Haelen - de Witte de Haelenstraat",M,Q3271451,relation
 "Rue de Wynants - de Wynantsstraat",M,Q86997834,relation
 "Rue de l'Éclusier Cogge - Sluismeester Coggestraat",M,Q2182432,relation
@@ -2089,16 +2095,7 @@ name,gender,wikidata,type
 "Rue Wayez - Wayezstraat",M,,relation
 "Rue Willebrord Van Perck - Willebrord Van Perckstraat",M,,relation
 "Rue Willem Kuhnen - Willem Kuhnenstraat",M,,relation
-"Rue d'Accolay - Accolaystraat",M,,way
 "Rue de Bruyn - de Bruynstraat",M,,relation
-"Rue de Fiennes - de Fiennesstraat",M,,relation
 "Rue de Fierlant - de Fierlantstraat",M,,relation
-"Rue de Formanoir - de Formanoirstraat",M,,relation
-"Rue de Hennin - de Henninstraat",M,,relation
 "Rue de Liedekerke - de Liedekerkestraat",M,,relation
-"Rue de Locht - de Lochtstraat",M,,relation
-"Rue de Moerkerke - de Moerkerkestraat",M,,way
 "Rue de Ribaucourt - de Ribaucourtstraat",M,,relation
-"Rue de Robiano - de Robianostraat",M,,relation
-"Rue de Wansijn - de Wansijnstraat",M,,way
-"Rue de Wautier - de Wautierstraat",M,,relation

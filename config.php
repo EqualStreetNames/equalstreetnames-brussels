@@ -78,6 +78,10 @@ return [
             '11086524' => 'M', // Rue Berckmans - Berckmansstraat
             '11087006' => 'M', // Rue Bosquet - Bosquetstraat
             '3257052'  => 'M', // Rue Coenraets - Coenraetsstraat
+            '3253232'  => 'M', // Rue de Bruyn - de Bruynstraat
+            '3288989'  => 'M', // Rue de Fierlant - de Fierlantstraat
+            '3252684'  => 'M', // Rue de Liedekerke - de Liedekerkestraat
+            '3297585'  => 'M', // Rue de Ribaucourt - de Ribaucourtstraat
         ],
         'way' => [
             '15804085'  => '?', // Avenue Van Bever - Van Beverlaan
