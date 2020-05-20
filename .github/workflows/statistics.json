@@ -13,27 +13,27 @@
   ],
   "properties": {
     "F": {
-      "type": "number",
+      "type": "number"
     },
     "M": {
-      "type": "number",
+      "type": "number"
     },
     "FX": {
-      "type": "number",
+      "type": "number"
     },
     "MX": {
-      "type": "number",
+      "type": "number"
     },
     "X": {
-      "type": "number",
+      "type": "number"
     },
     "+": {
-      "type": "number",
+      "type": "number"
     },
     "?": {
-      "type": "number",
+      "type": "number"
     },
     "-": {
-      "type": "number",
+      "type": "number"
     }
 }
