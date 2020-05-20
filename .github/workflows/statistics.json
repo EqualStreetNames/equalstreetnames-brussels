@@ -1,0 +1,40 @@
+{
+  "title": "JSON Statistics",
+  "type": "object",
+  "required": [
+    "F",
+    "M",
+    "FX",
+    "MX",
+    "X",
+    "+",
+    "?",
+    "-"
+  ],
+  "properties": {
+    "F": {
+      "type": "number"
+    },
+    "M": {
+      "type": "number"
+    },
+    "FX": {
+      "type": "number"
+    },
+    "MX": {
+      "type": "number"
+    },
+    "X": {
+      "type": "number"
+    },
+    "+": {
+      "type": "number"
+    },
+    "?": {
+      "type": "number"
+    },
+    "-": {
+      "type": "number"
+    }
+  }
+}

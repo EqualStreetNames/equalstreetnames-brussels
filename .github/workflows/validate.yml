@@ -1,0 +1,27 @@
+name: Validate JSON
+
+on:
+  push:
+    branches: [master]
+  pull_request:
+    branches: [master]
+
+jobs:
+  validate-geojson:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - name: Validate GeoJSON
+        uses: docker://orrosenblatt/validate-json-action:latest
+        env:
+          INPUT_SCHEMA: ./.github/workflows/FeatureCollection.json
+          INPUT_JSONS: ./data/relations.geojson,./data/ways.geojson
+  validate-json:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - name: Validate JSON
+        uses: docker://orrosenblatt/validate-json-action:latest
+        env:
+          INPUT_SCHEMA: ./.github/workflows/statistics.json
+          INPUT_JSONS: ./data/statistics.json
