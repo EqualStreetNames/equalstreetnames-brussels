@@ -58,6 +58,7 @@ return [
             '2967941'  => '?', // Rue Brunard - Brunardstraat
             '11087247' => '?', // Rue Buchholtz - Buchholtzstraat
             '3325445'  => '?', // Rue De Koninck - De Koninckstraat
+            '3506871'  => '?', // Rue Docteur Kuborn - Dokter Kubornstraat
             '3256835'  => 'F', // Avenue Hélène - Helenalaan
             '3228251'  => 'F', // Avenue Jeanne - Johannalaan
             '3505178'  => 'F', // Avenue Paule - Paulalaan
@@ -82,6 +83,10 @@ return [
             '3288989'  => 'M', // Rue de Fierlant - de Fierlantstraat
             '3252684'  => 'M', // Rue de Liedekerke - de Liedekerkestraat
             '3297585'  => 'M', // Rue de Ribaucourt - de Ribaucourtstraat
+            '2966746'  => 'M', // Rue Docteur Huet - Dokter Huetstraat
+            '3256869'  => 'M', // Rue Docteur Jacobs - Dokter Jacobsstraat
+            '3302989'  => 'M', // Rue Ulens - Ulensstraat
+            '3004965'  => 'M', // Rue Wayez - Wayezstraat
         ],
         'way' => [
             '15804085'  => '?', // Avenue Van Bever - Van Beverlaan

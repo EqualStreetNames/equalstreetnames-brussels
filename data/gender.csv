@@ -1070,6 +1070,12 @@ name,gender,wikidata,type
 "Rue Dethy - Dethystraat",M,Q94578612,way
 "Rue Dieudonné Lefèvre - Dieudonné Lefèvrestraat",M,Q94578675,relation
 "Rue Dillens - Dillensstraat",M,Q1712238,relation
+"Rue Docteur Charles Beudin - Dokter Charles Beudinstraat",M,Q94918888,relation
+"Rue Docteur Charles Leemans - Dokter Charles Leemansstraat",M,Q94919535,relation
+"Rue Docteur Dryepondt - Dokter Dryepondtstraat",M,Q94920254,relation
+"Rue Docteur Elie Lambotte - Dokter Elie Lambottestraat",M,Q94920903,relation
+"Rue Docteur Huet - Dokter Huetstraat",M,Q94921194,relation
+"Rue Docteur Jacobs - Dokter Jacobsstraat",M,Q94922062,relation
 "Rue Docteur Roux - Dokter Rouxstraat",M,Q286440,relation
 "Rue Dubois-Thorn - Dubois-Thornstraat",M,Q28658015,relation
 "Rue Dumonceau - Dumonceaustraat",M,Q1268832,relation
@@ -1376,6 +1382,7 @@ name,gender,wikidata,type
 "Rue Nothomb - Nothombstraat",M,Q446472,relation
 "Rue Omer Lepreux - Omer Lepreuxstraat",M,Q15352764,relation
 "Rue Ortélius - Orteliusstraat",M,Q232916,way
+"Rue Oscar Maesschalck - Oscar Maesschalckstraat",M,Q94723276,relation
 "Rue Otlet - Otletstraat",M,Q1868,relation
 "Rue Pasteur - Pasteurstraat",M,Q529,relation
 "Rue Paul Devaux - Paul Devauxstraat",M,Q1897097,relation
@@ -1534,10 +1541,13 @@ name,gender,wikidata,type
 "Rue Wappers - Wappersstraat",M,Q727869,relation
 "Rue Washington - Washingtonstraat",M,Q23,way
 "Rue Watteeu - Watteeustraat",M,Q18655405,relation
+"Rue Wauters-Koeckx - Wauters-Koeckxstraat",M,Q94721843,relation
 "Rue Wauwermans - Wauwermansstraat",M,Q3165938,relation
 "Rue Wéry - Wérystraat",M,Q4107813,relation
 "Rue Wiertz - Wiertzstraat",M,Q352978,relation
+"Rue Willebrord Van Perck - Willebrord Van Perckstraat",M,Q94722641,relation
 "Rue Willem De Mol - Willem De Molstraat",M,Q3568359,relation
+"Rue Willem Kuhnen - Willem Kuhnenstraat",M,Q94722753,relation
 "Rue Willems - Willemsstraat",M,Q3271470,relation
 "Rue William Degouve de Nuncques - William Degouve de Nuncquesstraat",M,Q1049510,relation
 "Rue Willy Coppens - Willy Coppensstraat",M,Q166995,relation
@@ -1657,6 +1667,7 @@ name,gender,wikidata,type
 "Rue Capouillet - Capouilletstraat",?,,way
 "Rue Crickx - Crickxstraat",?,,way
 "Rue De Koninck - De Koninckstraat",?,,relation
+"Rue Docteur Kuborn - Dokter Kubornstraat",?,,relation
 "Square Van Bever - Van Beversquare",?,,way
 "Avenue Hélène - Helenalaan",F,,relation
 "Avenue Jeanne - Johannalaan",F,,relation
@@ -1686,13 +1697,6 @@ name,gender,wikidata,type
 "Rue Blanche - Blanchestraat",M,,way
 "Rue Bosquet - Bosquetstraat",M,,relation
 "Rue Coenraets - Coenraetsstraat",M,,relation
-"Rue Docteur Charles Beudin - Dokter Charles Beudinstraat",M,,relation
-"Rue Docteur Charles Leemans - Dokter Charles Leemansstraat",M,,relation
-"Rue Docteur Dryepondt - Dokter Dryepondtstraat",M,,relation
-"Rue Docteur Elie Lambotte - Dokter Elie Lambottestraat",M,,relation
-"Rue Docteur Huet - Dokter Huetstraat",M,,relation
-"Rue Docteur Jacobs - Dokter Jacobsstraat",M,,relation
-"Rue Docteur Kuborn - Dokter Kubornstraat",M,,relation
 "Rue Dodonée - Dodonéestraat",M,,way
 "Rue Dominique De Jonghe - Dominique De Jonghestraat",M,,relation
 "Rue Doyen Adriaens - Deken Adriaensstraat",M,,relation
@@ -1978,7 +1982,6 @@ name,gender,wikidata,type
 "Rue Nestor Martin - Nestor Martinstraat",M,,relation
 "Rue Nicolas Doyen - Nicolas Doyenstraat",M,,relation
 "Rue Nicolay - Nicolaystraat",M,,relation
-"Rue Oscar Maesschalck - Oscar Maesschalckstraat",M,,relation
 "Rue Pangaert - Pangaertstraat",M,,relation
 "Rue Papenkasteel - Papenkasteelstraat",M,,way
 "Rue Paul Bossu - Paul Bossustraat",M,,relation
@@ -2091,10 +2094,7 @@ name,gender,wikidata,type
 "Rue Victor Rauter - Victor Rauterstraat",M,,relation
 "Rue Victor Vanderhoeft - Victor Vanderhoeftstraat",M,,relation
 "Rue Vlogaert - Vlogaertstraat",M,,way
-"Rue Wauters-Koeckx - Wauters-Koeckxstraat",M,,relation
 "Rue Wayez - Wayezstraat",M,,relation
-"Rue Willebrord Van Perck - Willebrord Van Perckstraat",M,,relation
-"Rue Willem Kuhnen - Willem Kuhnenstraat",M,,relation
 "Rue de Bruyn - de Bruynstraat",M,,relation
 "Rue de Fierlant - de Fierlantstraat",M,,relation
 "Rue de Liedekerke - de Liedekerkestraat",M,,relation
