@@ -14,5 +14,5 @@ jobs:
       - name: Validate JSON
         uses: docker://orrosenblatt/validate-json-action:latest
         env:
-          INPUT_SCHEMA: ./FeatureCollection.json
+          INPUT_SCHEMA: ./.github/workflows/FeatureCollection.json
           INPUT_JSONS: ./data/relations.geojson,./data/ways.geojson
