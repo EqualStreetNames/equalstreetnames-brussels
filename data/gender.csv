@@ -1077,8 +1077,12 @@ name,gender,wikidata,type
 "Rue Docteur Huet - Dokter Huetstraat",M,Q94921194,relation
 "Rue Docteur Jacobs - Dokter Jacobsstraat",M,Q94922062,relation
 "Rue Docteur Roux - Dokter Rouxstraat",M,Q286440,relation
+"Rue Dodonée - Dodonéestraat",M,Q437466,way
+"Rue Dominique De Jonghe - Dominique De Jonghestraat",M,Q95085209,relation
+"Rue Doyen Boone - Deken Boonestraat",M,Q95086970,relation
 "Rue Dubois-Thorn - Dubois-Thornstraat",M,Q28658015,relation
 "Rue Dumonceau - Dumonceaustraat",M,Q1268832,relation
+"Rue Dupont - Dupontstraat",M,Q86055252,relation
 "Rue Dupré - Dupréstraat",M,Q86067136,relation
 "Rue Duquesnoy - Duquesnoystraat",M,Q2478963;Q960381,relation
 "Rue Duysburgh - Duysburghstraat",M,Q86066128,relation
@@ -1697,12 +1701,8 @@ name,gender,wikidata,type
 "Rue Blanche - Blanchestraat",M,,way
 "Rue Bosquet - Bosquetstraat",M,,relation
 "Rue Coenraets - Coenraetsstraat",M,,relation
-"Rue Dodonée - Dodonéestraat",M,,way
-"Rue Dominique De Jonghe - Dominique De Jonghestraat",M,,relation
 "Rue Doyen Adriaens - Deken Adriaensstraat",M,,relation
-"Rue Doyen Boone - Deken Boonestraat",M,,relation
 "Rue Doyen Fierens - Deken Fierensstraat",M,,relation
-"Rue Dupont - Dupontstraat",M,,relation
 "Rue Edmond Bonehill - Edmond Bonehillstraat",M,,relation
 "Rue Edmond Delcourt - Edmond Delcourtstraat",M,,relation
 "Rue Edmond Van Cauwenbergh - Edmond Van Cauwenberghstraat",M,,relation
