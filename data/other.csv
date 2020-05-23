@@ -99,6 +99,7 @@ Romeinsesteenweg,,Q194029,way
 "Rue de Louvain - Leuvenseweg",,Q118958,relation
 "Rue de Mérode - de Mérodestraat",,Q1568461,relation
 "Rue de Robiano - de Robianostraat",,Q2471094,relation
+"Rue de l'Ode - Odestraat",,Q178985,relation
 "Rue de l'Onyx - Onyxstraat",,Q180884,way
 "Rue des Atrébates - Atrebatenstraat",,Q164811,relation
 "Rue des Éburons - Eburonenstraat",,Q323500,relation
@@ -1481,7 +1482,7 @@ Plattesteen,,,way
 "Porte d'Anvers - Antwerpsepoort",,,way
 "Porte de Namur - Naamsepoort",,,way
 "Porte de Tervueren - Tervurensepoort",,,way
-"Porte du Rivage - Oeverpoort",,,relation
+"Porte du Rivage - Oeverpoort",,,way
 "Potaardestraat - Rue d'Argile",,,way
 "Promenade P. L. Vrijdags - P. L. Vrijdagsvandelweg",,,way
 "Promenade Verte - Groene Wandeling",,,way
@@ -2043,7 +2044,6 @@ Roeierspad,,,way
 "Rue de l'Instruction - Onderwijsstraat",,,relation
 "Rue de l'Intendant - Opzichterstraat",,,relation
 "Rue de l'Obus - Obusstraat",,,relation
-"Rue de l'Ode - Odestraat",,,way
 "Rue de l'Oiselet - Nestelingstraat",,,relation
 "Rue de l'Ommegang - Ommegangstraat",,,way
 "Rue de l'Ordre - Ordestraat",,,relation
@@ -2891,7 +2891,7 @@ Roeierspad,,,way
 "Rue du Repos - Ruststraat",,,relation
 "Rue du Roetaert - Roetaertstraat",,,way
 "Rue du Roitelet - Winterkoninkjestraat",,,way
-"Rue du Roman - Romanstraat",,,way
+"Rue du Roman - Romanstraat",,,relation
 "Rue du Romarin - Rosmarijnstraat",,,relation
 "Rue du Roseau - Rietstraat",,,relation
 "Rue du Rouge-Gorge - Roodborstjestraat",,,way

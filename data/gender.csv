@@ -1487,12 +1487,16 @@ name,gender,wikidata,type
 "Rue Teniers - Teniersstraat",M,Q335022,relation
 "Rue Théo Coopman - Théo Coopmanstraat",M,Q719358,relation
 "Rue Théodore Baron - Théodore Baronstraat",M,Q3338779,relation
+"Rue Théodore Bekaert - Théodore Bekaertstraat",M,Q95200028,relation
 "Rue Théodore De Cuyper - Théodore De Cuyperstraat",M,Q92300784,relation
 "Rue Théodore Roosevelt - Théodore Rooseveltstraat",M,Q33866,relation
 "Rue Théodore Verhaegen - Théodore Verhaegenstraat",M,Q1870097,relation
 "Rue Théophile De Baisieux - Théophile De Baisieuxstraat",M,Q86066709,relation
+"Rue Théophile Vander Elst - Théophile Vander Elststraat",M,Q95200514,relation
 "Rue Thiéfry - Thiéfrystraat",M,Q18228272,relation
+"Rue Thiernesse - Thiernessestraat",M,Q95201885,relation
 "Rue Thomas Vinçotte - Thomas Vinçottestraat",M,Q2483743,relation
+"Rue Thys-Vanham - Thys-Vanhamstraat",M,Q95202270,relation
 "Rue Tiberghien - Tiberghienstraat",M,Q3120195,relation
 "Rue Tielemans - Tielemansstraat",M,Q382745,way
 "Rue Toots Thielemans - Toots Thielemansstraat",M,Q365567,relation
@@ -1672,6 +1676,7 @@ name,gender,wikidata,type
 "Rue Crickx - Crickxstraat",?,,way
 "Rue De Koninck - De Koninckstraat",?,,relation
 "Rue Docteur Kuborn - Dokter Kubornstraat",?,,relation
+"Rue Tazieaux - Tazieauxstraat",?,,relation
 "Square Van Bever - Van Beversquare",?,,way
 "Avenue Hélène - Helenalaan",F,,relation
 "Avenue Jeanne - Johannalaan",F,,relation
@@ -2050,11 +2055,6 @@ name,gender,wikidata,type
 "Rue Steyls - Steylsstraat",M,,relation
 "Rue Stroobants - Stroobantsstraat",M,,relation
 "Rue Sylvain Denayer - Sylvain Denayerstraat",M,,relation
-"Rue Tazieaux - Tazieauxstraat",M,,relation
-"Rue Théodore Bekaert - Théodore Bekaertstraat",M,,relation
-"Rue Théophile Vander Elst - Théophile Vander Elststraat",M,,way
-"Rue Thiernesse - Thiernessestraat",M,,relation
-"Rue Thys-Vanham - Thys-Vanhamstraat",M,,relation
 "Rue Timmermans - Timmermansstraat",M,,way
 "Rue Ulens - Ulensstraat",M,,relation
 "Rue Van Bergen - Van Bergenstraat",M,,relation

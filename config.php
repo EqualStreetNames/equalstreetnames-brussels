@@ -59,6 +59,7 @@ return [
             '11087247' => '?', // Rue Buchholtz - Buchholtzstraat
             '3325445'  => '?', // Rue De Koninck - De Koninckstraat
             '3506871'  => '?', // Rue Docteur Kuborn - Dokter Kubornstraat
+            '3315810'  => '?', // Rue Tazieaux - Tazieauxstraat
             '3256835'  => 'F', // Avenue Hélène - Helenalaan
             '3228251'  => 'F', // Avenue Jeanne - Johannalaan
             '3505178'  => 'F', // Avenue Paule - Paulalaan
@@ -106,6 +107,7 @@ return [
             '244299516' => 'M', // Rue Beeckman - Beeckmanstraat
             '243608671' => 'M', // Rue Beeckman - Beeckmanstraat
             '4426075'   => 'M', // Rue Blanche - Blanchestraat
+            '151163014' => 'M', // Rue Timmermans - Timmermansstraat
         ],
     ],
 
