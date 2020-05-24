@@ -1299,9 +1299,14 @@ name,gender,wikidata,type
 "Rue Jules Lejeune - Jules Lejeunestraat",M,Q85427108,way
 "Rue Jules Van Praet - Jules van Praetstraat",M,Q3070531,way
 "Rue Julius Hoste - Julius Hostestraat",M,Q2184644,relation
+"Rue Karel Mertens - Karel Mertensstraat",M,Q95353284,relation
 "Rue Karel Vande Woestijne - Karel Vande Woestijnestraat",M,Q1813000,relation
+"Rue Kerckx - Kerckxstraat",M,Q95353470,relation
 "Rue Kessels - Kesselsstraat",M,Q353336,relation
+"Rue Ketels - Ketelsstraat",M,Q95353873,relation
 "Rue Kindermans - Kindermansstraat",M,Q3164190,way
+"Rue Kinet - Kinetstraat",M,Q95354432,relation
+"Rue Knapen - Knapenstraat",M,Q95354773,relation
 "Rue Lamartine - Lamartinestraat",M,Q188697,relation
 "Rue Lambermont - Lambermontstraat",M,Q2327076,way
 "Rue Lannoy - Lannoystraat",M,Q3172984,relation
@@ -1919,11 +1924,6 @@ name,gender,wikidata,type
 "Rue Jules Ruhl - Jules Ruhlstraat",M,,relation
 "Rue Jules Vieujant - Jules Vieujantstraat",M,,relation
 "Rue Julien Vermeersch - Julien Vermeerschstraat",M,,relation
-"Rue Karel Mertens - Karel Mertensstraat",M,,relation
-"Rue Kerckx - Kerckxstraat",M,,relation
-"Rue Ketels - Ketelsstraat",M,,relation
-"Rue Kinet - Kinetstraat",M,,relation
-"Rue Knapen - Knapenstraat",M,,relation
 "Rue L'Olivier - L'Olivierstraat",M,,relation
 "Rue Lacaille - Lacaillestraat",M,,relation
 "Rue Lambert Crickx - Lambert Crickxstraat",M,,relation
