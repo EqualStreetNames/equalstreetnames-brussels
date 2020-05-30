@@ -149,6 +149,7 @@ return [
         'Q205985'   => false, // goddess
         'Q207174'   => false, // personification
         'Q212238'   => false, // civil servant
+        'Q223393'   => false, // literary genre
         'Q273854'   => false, // Gauls
         'Q429795'   => false, // mineral variety
         'Q431289'   => false, // brand
@@ -194,6 +195,7 @@ return [
         'Q16861482' => false, // potée
         'Q18679117' => false, // potato dish
         'Q19594662' => false, // fictional fox
+        'Q20202269' => false, // music term
         'Q20902363' => false, // mythical human-animal hybrid
         'Q21070568' => false, // human who may be fictional
         'Q22675015' => false, // type of quantum particle
@@ -211,5 +213,6 @@ return [
         'Q55983715' => false, // polyphyletic common name
         'Q56884562' => false, // animated film series
         'Q85635630' => false, // urban district of North Rhine-Westphalia
+        'Q89522629' => false, // poetic form
     ],
 ];

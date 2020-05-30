@@ -1089,22 +1089,42 @@ name,gender,wikidata,type
 "Rue Edgar Degas - Edgar Degasstraat",M,Q46373,relation
 "Rue Edgar Tinel - Edgar Tinelstraat",M,Q377071,relation
 "Rue Edison - Edisonstraat",M,Q8743,relation
+"Rue Edmond Bonehill - Edmond Bonehillstraat",M,Q95627360,relation
+"Rue Edmond Delcourt - Edmond Delcourtstraat",M,Q95627393,relation
 "Rue Edmond Picard - Edmond Picardstraat",M,Q2512563,way
 "Rue Edmond Rostand - Edmond Rostandstraat",M,Q52905074,relation
 "Rue Edmond Tollenaere - Edmond Tollenaerestraat",M,Q85438337,relation
+"Rue Edmond Van Cauwenbergh - Edmond Van Cauwenberghstraat",M,Q95627400,relation
+"Rue Edmond de Grimberghe - Edmond de Grimberghestraat",M,Q95627423,relation
 "Rue Edouard Branly - Edouard Branlystraat",M,Q274251,way
+"Rue Edouard De Grijse - Edouard De Grijsestraat",M,Q95674744,relation
+"Rue Edouard Deknoop - Edward Deknoopstraat",M,Q95674767,relation
+"Rue Edouard Dekoster - Edward Dekosterstraat",M,Q95674797,relation
+"Rue Edouard Faes - Edouard Faesstraat",M,Q95674814,relation
 "Rue Edouard Fiers - Edouard Fiersstraat",M,Q3579831,relation
+"Rue Edouard Gersis - Edouard Gersisstraat",M,Q95674903,relation
+"Rue Edouard Henrard - Edouard Henrardstraat",M,Q95675148,relation
 "Rue Edouard Olivier - Edouard Olivierstraat",M,Q85427548,way
+"Rue Edouard Stuckens - Edward Stuckensstraat",M,Q95716554,relation
+"Rue Edouard Van Muylders - Edouard Van Muyldersstraat",M,Q95716633,relation
+"Rue Eeckelaers - Eeckelaersstraat",M,Q95716671,relation
 "Rue Egide Charles Bouvier - Egide Charles Bouvierstraat",M,Q3580159,way
 "Rue Égide Walschaerts - Égide Walschaertsstraat",M,Q1297794,relation
+"Rue Egide Winteroy - Egide Winteroystraat",M,Q95716675,relation
 "Rue Elskamp - Elskampstraat",M,Q2576106,relation
 "Rue Émile Banning - Émile Banningstraat",M,Q863514,relation
 "Rue Émile Bouilliot - Émile Bouilliotstraat",M,Q84467713,relation
 "Rue Émile Carpentier - Emile Carpentierstraat",M,Q3052257,relation
 "Rue Émile Claus - Émile Clausstraat",M,Q733002,way
+"Rue Émile Delva - Émile Delvastraat",M,Q95906583,relation
+"Rue Emile Deroover - Emile Derooverstraat",M,Q95907532,relation
 "Rue Émile Feron - Émile Feronstraat",M,Q3588520,way
+"Rue Emile Hellebaut - Emile Hellebautstraat",M,Q95907843,relation
+"Rue Emile Heylens - Emile Heylensstraat",M,Q95908736,relation
 "Rue Émile Idiers - Émile Idiersstraat",M,Q3588568,way
 "Rue Émile Lecomte - Émile Lecomtestraat",M,Q2193314,relation
+"Rue Emile Pathé - Emile Pathéstraat",M,Q95909376,way
+"Rue Emile Regard - Emile Regardstraat",M,Q95909709,way
 "Rue Emile Rotiers - Emile Rotiersstraat",M,Q3588729,way
 "Rue Emile Wauters - Emile Wautersstraat",M,Q466319,relation
 "Rue Emmanuel Hiel - Emmanuel Hielstraat",M,Q1334711,relation
@@ -1189,6 +1209,7 @@ name,gender,wikidata,type
 "Rue Georges Lorand - Georges Lorandstraat",M,Q3103110,relation
 "Rue Georges Remy - Georges Remystraat",M,Q52985,relation
 "Rue Georges Rency - Georges Rencystraat",M,Q18115829,relation
+"Rue Georges et Jacques Martin - Georges en Jacques Martinstraat",M,Q95479885;Q95480218,relation
 "Rue Gérard - Gérardstraat",M,Q3102844,relation
 "Rue Gisbert Combaz - Gisbert Combazstraat",M,Q2097997,relation
 "Rue Godefroid Devreese - Godefroid Devreesestraat",M,Q2372821,relation
@@ -1385,8 +1406,11 @@ name,gender,wikidata,type
 "Rue Murillo - Murillostraat",M,Q192062,relation
 "Rue Musin - Musinstraat",M,Q1977323,relation
 "Rue Nestor De Tière - Nestor De Tièrestraat",M,Q1959501,relation
+"Rue Nestor Martin - Nestor Martinstraat",M,Q88326203,relation
 "Rue Newton - Newtonstraat",M,Q935,relation
 "Rue Nicolas Defrêcheux - Nicolas Defrêcheuxstraat",M,Q934176,relation
+"Rue Nicolas Doyen - Nicolas Doyenstraat",M,Q95578182,relation
+"Rue Nicolay - Nicolaystraat",M,Q5237107;Q95578217,relation
 "Rue Niellon - Niellonstraat",M,Q1983109,relation
 "Rue Nothomb - Nothombstraat",M,Q446472,relation
 "Rue Omer Lepreux - Omer Lepreuxstraat",M,Q15352764,relation
@@ -1713,26 +1737,6 @@ name,gender,wikidata,type
 "Rue Coenraets - Coenraetsstraat",M,,relation
 "Rue Doyen Adriaens - Deken Adriaensstraat",M,,relation
 "Rue Doyen Fierens - Deken Fierensstraat",M,,relation
-"Rue Edmond Bonehill - Edmond Bonehillstraat",M,,relation
-"Rue Edmond Delcourt - Edmond Delcourtstraat",M,,relation
-"Rue Edmond Van Cauwenbergh - Edmond Van Cauwenberghstraat",M,,relation
-"Rue Edmond de Grimberghe - Edmond de Grimberghestraat",M,,relation
-"Rue Edouard De Grijse - Edouard De Grijsestraat",M,,relation
-"Rue Edouard Deknoop - Edward Deknoopstraat",M,,relation
-"Rue Edouard Dekoster - Edward Dekosterstraat",M,,relation
-"Rue Edouard Faes - Edouard Faesstraat",M,,relation
-"Rue Edouard Gersis - Edouard Gersisstraat",M,,relation
-"Rue Edouard Henrard - Edouard Henrardstraat",M,,relation
-"Rue Edouard Stuckens - Edward Stuckensstraat",M,,relation
-"Rue Edouard Van Muylders - Edouard Van Muyldersstraat",M,,relation
-"Rue Eeckelaers - Eeckelaersstraat",M,,relation
-"Rue Egide Winteroy - Egide Winteroystraat",M,,relation
-"Rue Émile Delva - Émile Delvastraat",M,,relation
-"Rue Emile Deroover - Emile Derooverstraat",M,,relation
-"Rue Emile Hellebaut - Emile Hellebautstraat",M,,relation
-"Rue Emile Heylens - Emile Heylensstraat",M,,relation
-"Rue Emile Pathé - Emile Pathéstraat",M,,way
-"Rue Emile Regard - Emile Regardstraat",M,,way
 "Rue Emile Sergijsels - Emile Sergijselsstraat",M,,relation
 "Rue Emile Steeno - Emile Steenostraat",M,,way
 "Rue Emile Versé - Emile Verséstraat",M,,relation
@@ -1797,7 +1801,6 @@ name,gender,wikidata,type
 "Rue Georges Rosart - Georges Rosartstraat",M,,relation
 "Rue Georges Simpson - Georges Simpsonstraat",M,,relation
 "Rue Georges Ugeux - Georges Ugeuxstraat",M,,way
-"Rue Georges et Jacques Martin - Georges en Jacques Martinstraat",M,,relation
 "Rue Gheude - Gheudestraat",M,,relation
 "Rue Gillebertus - Gillebertusstraat",M,,relation
 "Rue Gillon - Gillonstraat",M,,relation
@@ -1984,9 +1987,6 @@ name,gender,wikidata,type
 "Rue Mode Vliebergh - Mode Vlieberghstraat",M,,relation
 "Rue Mommaerts - Mommaertsstraat",M,,relation
 "Rue Moris - Morisstraat",M,,way
-"Rue Nestor Martin - Nestor Martinstraat",M,,relation
-"Rue Nicolas Doyen - Nicolas Doyenstraat",M,,relation
-"Rue Nicolay - Nicolaystraat",M,,relation
 "Rue Pangaert - Pangaertstraat",M,,relation
 "Rue Papenkasteel - Papenkasteelstraat",M,,way
 "Rue Paul Bossu - Paul Bossustraat",M,,relation
