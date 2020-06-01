@@ -1126,8 +1126,13 @@ name,gender,wikidata,type
 "Rue Emile Pathé - Emile Pathéstraat",M,Q95909376,way
 "Rue Emile Regard - Emile Regardstraat",M,Q95909709,way
 "Rue Emile Rotiers - Emile Rotiersstraat",M,Q3588729,way
+"Rue Emile Sergijsels - Emile Sergijselsstraat",M,Q95951271,relation
+"Rue Emile Steeno - Emile Steenostraat",M,Q95982473,way
+"Rue Emile Versé - Emile Verséstraat",M,Q95982481,relation
 "Rue Emile Wauters - Emile Wautersstraat",M,Q466319,relation
+"Rue Emile Wittmann - Emile Wittmannstraat",M,Q95982589,relation
 "Rue Emmanuel Hiel - Emmanuel Hielstraat",M,Q1334711,relation
+"Rue Emmanuel Mertens - Emmanuel Mertensstraat",M,Q95982719,relation
 "Rue Emmanuel Van Driessche - Emmanuel Van Driesschestraat",M,Q2482384,relation
 "Rue Erasme - Erasmusstraat",M,Q43499,relation
 "Rue Ernest Allard - Ernest Allardstraat",M,Q14633026,relation
@@ -1138,6 +1143,7 @@ name,gender,wikidata,type
 "Rue Ernest Laude - Ernest Laudestraat",M,Q3057039,relation
 "Rue Ernest Salu - Ernest Salustraat",M,Q20264353,relation
 "Rue Ernest Solvay - Ernest Solvaystraat",M,Q311665,relation
+"Rue Ernest Vander Aa - Ernest Vander Aastraat",M,Q95982725,relation
 "Rue Eugène Cattoir - Eugène Cattoirstraat",M,Q85422384,relation
 "Rue Eugène De Smet - Eugène De Smetstraat",M,Q2182109,relation
 "Rue Eugène Degorge - Eugène Degorgestraat",M,Q15875031,relation
@@ -1146,6 +1152,7 @@ name,gender,wikidata,type
 "Rue Eugène Laermans - Eugène Laermansstraat",M,Q598897,relation
 "Rue Eugène Smits - Eugène Smitsstraat",M,Q3060172,relation
 "Rue Eugène Toussaint - Eugène Toussaintstraat",M,Q85528204,relation
+"Rue Eugène Verheggen - Eugène Verheggenstraat",M,Q95982730,way
 "Rue Evariste Pierron - Evariste Pierronstraat",M,Q61781036,relation
 "Rue Evers - Eversstraat",M,Q1995083,relation
 "Rue Faider - Faiderstraat",M,Q358922,way
@@ -1737,13 +1744,6 @@ name,gender,wikidata,type
 "Rue Coenraets - Coenraetsstraat",M,,relation
 "Rue Doyen Adriaens - Deken Adriaensstraat",M,,relation
 "Rue Doyen Fierens - Deken Fierensstraat",M,,relation
-"Rue Emile Sergijsels - Emile Sergijselsstraat",M,,relation
-"Rue Emile Steeno - Emile Steenostraat",M,,way
-"Rue Emile Versé - Emile Verséstraat",M,,relation
-"Rue Emile Wittmann - Emile Wittmannstraat",M,,relation
-"Rue Emmanuel Mertens - Emmanuel Mertensstraat",M,,relation
-"Rue Ernest Vander Aa - Ernest Vander Aastraat",M,,relation
-"Rue Eugène Verheggen - Eugène Verheggenstraat",M,,way
 "Rue Fabry - Fabrystraat",M,,relation
 "Rue Félicien Delince - Félicien Delincestraat",M,,way
 "Rue Félix De Cuyper - Félix De Cuyperstraat",M,,relation
