@@ -682,7 +682,6 @@ Romeinsesteenweg,,Q194029,way
 "Avenue du Karreveld - Karreveldlaan",,,relation
 "Avenue du Kouter - Kouterlaan",,,relation
 "Avenue du Laerbeek - Laarbeeklaan",,,relation
-"Avenue du Laerbeek - Laerbeeklaan",,,way
 "Avenue du Loriot - Wielewaallaan",,,relation
 "Avenue du Luizenmolen - Luizenmolenlaan",,,relation
 "Avenue du Lycée Français - Frans Lyceumlaan",,,way
@@ -1251,6 +1250,7 @@ Hunderenveld,,,relation
 "Impasse du Coq - Hanegang",,,way
 "Impasse du Pré - Weidegang",,,relation
 "Impasse du Renard - Vossengang",,,way
+"Impasse du Roulier - Voermansgang",,,way
 "Impasse du Val des Roses - Rozendaal",,,relation
 Indringingsweg,,,way
 Jagersveld,,,way
@@ -1397,6 +1397,7 @@ Pannenhuisplein,,,way
 "Place de la Croix-Rouge - Rode-Kruisplein",,,relation
 "Place de la Demi-Lune - Halvemaanplein",,,relation
 "Place de la Fleur de Blé - Korenbloemplein",,,relation
+"Place de la Forêt Noire-Zwarte Woudplein",,,way
 "Place de la Gare - Stationsplein",,,relation
 "Place de la Grotte - Grotplein",,,relation
 "Place de la Justice - Gerechtsplein",,,relation
@@ -3158,3 +3159,4 @@ Welriekendedreef,,,way
 Windmolenberg,,,relation
 Woluwelaan,,,way
 "Zwarte Pijnbomenlaan",,,way
+"square de la Croix Rouge - Rode-Kruissquare",,,way

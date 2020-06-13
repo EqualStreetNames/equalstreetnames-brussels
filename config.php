@@ -88,6 +88,8 @@ return [
             '3256869'  => 'M', // Rue Docteur Jacobs - Dokter Jacobsstraat
             '3312912'  => 'M', // Rue Doyen Adriaens - Deken Adriaensstraat
             '3311841'  => 'M', // Rue Doyen Fierens - Deken Fierensstraat
+            '3198269'  => 'M', // Rue François Gérard - François Gérardstraat
+            '3474783'  => 'M', // Rue François Janssens - François Janssensstraat
             '3302989'  => 'M', // Rue Ulens - Ulensstraat
             '3004965'  => 'M', // Rue Wayez - Wayezstraat
         ],
