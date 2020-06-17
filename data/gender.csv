@@ -1237,9 +1237,11 @@ name,gender,wikidata,type
 "Rue Gallait - Gallaitstraat",M,Q538173,relation
 "Rue Garibaldi - Garibaldistraat",M,Q539,way
 "Rue Gaston Biernaux - Gaston Biernauxstraat",M,Q85528627,relation
+"Rue Gaston Coudyser - Gaston Coudyserstraat",M,Q96279851,relation
 "Rue Gaucheret - Gaucheretstraat",M,Q92463287,relation
 "Rue Geefs - Geefsstraat",M,Q3090303,way
 "Rue Gendebien - Gendebienstraat",M,Q693047,relation
+"Rue Général Biebuyck - Generaal Biebuyckstraat",M,Q57778922,relation
 "Rue Général Capiaumont - Generaal Capiaumontstraat",M,Q85429793,relation
 "Rue Général Eenens - Generaal Eenensstraat",M,Q2834436,relation
 "Rue Général Henry - Generaal Henrystraat",M,Q51648007,relation
@@ -1764,6 +1766,7 @@ name,gender,wikidata,type
 "Rue Mercelis - Mercelisstraat",F,,relation
 "Rue de Beughem - de Beughemstraat",F,,relation
 "Rue de Ciplet - de Cipletstraat",F,,relation
+"Rue de la Duchesse - Hertoginstraat",F,,relation
 "Avenue Chanoine Roose - Kanunnik Rooselaan",M,,relation
 "Avenue Docteur Lemoine - Dokter Lemoinelaan",M,,relation
 "Avenue Général de Longueville - Generaal de Longuevillelaan",M,,relation
@@ -1786,8 +1789,6 @@ name,gender,wikidata,type
 "Rue Félix De Cuyper - Félix De Cuyperstraat",M,,relation
 "Rue François Gérard - François Gérardstraat",M,,relation
 "Rue François Janssens - François Janssensstraat",M,,relation
-"Rue Gaston Coudyser - Gaston Coudyserstraat",M,,relation
-"Rue Général Biebuyck - Generaal Biebuyckstraat",M,,relation
 "Rue Général Fivé - Generaal Fivéstraat",M,,relation
 "Rue Général Gratry - Generaal Gratrystraat",M,,relation
 "Rue Général Lotz - Generaal Lotzstraat",M,,way

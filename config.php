@@ -66,6 +66,9 @@ return [
             '11048375' => 'F', // Avenue Victoria - Victorialaan
             '3020491'  => 'F', // Drève Soetkin - Soetkindreef
             '2981441'  => 'F', // Rue Decrée - Decréestraat
+            '3138549'  => 'F', // Rue de la Duchesse - Hertoginstraat
+            '3493466'  => 'F', // Rue de la Duchesse - Hertoginstraat
+            '4815687'  => 'F', // Rue de la Duchesse - Hertoginstraat
             '11048377' => 'F', // Rue Marianne - Mariannestraat
             '6005861'  => 'F', // Rue Mercelis - Mercelisstraat
             '3049100'  => 'F', // Rue de Beughem - de Beughemstraat
