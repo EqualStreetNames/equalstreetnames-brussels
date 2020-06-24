@@ -59,6 +59,7 @@ return [
             '11087247' => '?', // Rue Buchholtz - Buchholtzstraat
             '3325445'  => '?', // Rue De Koninck - De Koninckstraat
             '3506871'  => '?', // Rue Docteur Kuborn - Dokter Kubornstraat
+            '3520291'  => '?', // Rue Grisar - Grisarstraat
             '3315810'  => '?', // Rue Tazieaux - Tazieauxstraat
             '3256835'  => 'F', // Avenue Hélène - Helenalaan
             '3228251'  => 'F', // Avenue Jeanne - Johannalaan
@@ -93,6 +94,9 @@ return [
             '3311841'  => 'M', // Rue Doyen Fierens - Deken Fierensstraat
             '3198269'  => 'M', // Rue François Gérard - François Gérardstraat
             '3474783'  => 'M', // Rue François Janssens - François Janssensstraat
+            '3367670'  => 'M', // Rue Général Michel - Generaal Michelstraat
+            '3489867'  => 'M', // Rue Général Ruquoy - Generaal Ruquoystraat
+            '2974969'  => 'M', // Rue Gillebertus - Gillebertusstraat
             '3302989'  => 'M', // Rue Ulens - Ulensstraat
             '3004965'  => 'M', // Rue Wayez - Wayezstraat
         ],

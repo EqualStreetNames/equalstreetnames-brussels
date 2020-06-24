@@ -707,7 +707,6 @@ name,gender,wikidata,type
 "Drève Joseph Vanderborght - Joseph Vanderborghtdreef",M,Q3185718,way
 "Drève Recteur Van Waeyenbergh - Rector Van Waeyenberghdreef",M,Q2248867,way
 "Drève Saint-Hubert - Sint-Hubertusdreef",M,Q159834,relation
-"Esplanade Jacques Brel - Jacques Brelesplanade",M,Q1666,way
 "Esplanade Paul-Henri Spaak - Paul-Henri Spaakvoorplein",M,Q155691,way
 "Froebelstraat - Rue Froebel",M,Q76679,way
 "Galerie Horta - Hortagalerij",M,Q49744,way
@@ -1244,40 +1243,72 @@ name,gender,wikidata,type
 "Rue Général Biebuyck - Generaal Biebuyckstraat",M,Q57778922,relation
 "Rue Général Capiaumont - Generaal Capiaumontstraat",M,Q85429793,relation
 "Rue Général Eenens - Generaal Eenensstraat",M,Q2834436,relation
+"Rue Général Fivé - Generaal Fivéstraat",M,Q96358490,relation
+"Rue Général Gratry - Generaal Gratrystraat",M,Q96358529,relation
 "Rue Général Henry - Generaal Henrystraat",M,Q51648007,relation
 "Rue Général Leman - Generaal Lemanstraat",M,Q277876,relation
+"Rue Général Lotz - Generaal Lotzstraat",M,Q85428596,way
 "Rue Général Mac Arthur - Generaal Mac Arthurstraat",M,Q127417,way
 "Rue Général Molitor - Generaal Molitorstraat",M,Q47526105,relation
 "Rue Général Patton - Generaal Pattonstraat",M,Q186492,relation
+"Rue Général Thys - Generaal Thysstraat",M,Q2674098,relation
 "Rue Général Tombeur - Generaal Tombeurstraat",M,Q2960333,relation
 "Rue Général Wangermée - Generaal Wangerméestraat",M,Q8078321,relation
+"Rue Georges De Lombaerde - Georges De Lombaerdestraat",M,Q96438985,relation
 "Rue Georges Garnir - Georges Garnirstraat",M,Q3101589,relation
 "Rue Georges Huygens - Georges Huygensstraat",M,Q3102902,way
 "Rue Georges Leclercq - Georges Leclercqstraat",M,Q3103063,relation
 "Rue Georges Lorand - Georges Lorandstraat",M,Q3103110,relation
+"Rue Georges Matheus - Georges Matheusstraat",M,Q96439331,relation
+"Rue Georges Moreau - Georges Moreaustraat",M,Q96471889,relation
+"Rue Georges Raeymaekers - Georges Raeymaekersstraat",M,Q96471937,relation
 "Rue Georges Remy - Georges Remystraat",M,Q52985,relation
 "Rue Georges Rency - Georges Rencystraat",M,Q18115829,relation
+"Rue Georges Rosart - Georges Rosartstraat",M,Q96471943,relation
+"Rue Georges Simpson - Georges Simpsonstraat",M,Q96471950,relation
+"Rue Georges Ugeux - Georges Ugeuxstraat",M,Q96471958,relation
 "Rue Georges et Jacques Martin - Georges en Jacques Martinstraat",M,Q95479885;Q95480218,relation
 "Rue Gérard - Gérardstraat",M,Q3102844,relation
+"Rue Gheude - Gheudestraat",M,Q96471963,relation
+"Rue Gillon - Gillonstraat",M,Q96480010,relation
+"Rue Gineste - Ginestestraat",M,Q96480019,relation
 "Rue Gisbert Combaz - Gisbert Combazstraat",M,Q2097997,relation
+"Rue Glibert - Glibertstraat",M,Q96480093,relation
+"Rue Godecharle - Godecharlestraat",M,Q2320449,relation
 "Rue Godefroid Devreese - Godefroid Devreesestraat",M,Q2372821,relation
 "Rue Godefroid Guffens - Godefroid Guffensstraat",M,Q323902,relation
 "Rue Godefroid Kurth - Godfroid Kurthstraat",M,Q710649,relation
 "Rue Godefroid de Bouillon - Godfried van Bouillonstraat",M,Q76721,way
+"Rue Goffart - Goffartstraat",M,Q96480159,relation
 "Rue Goossens - Goossensstraat",M,Q2847864,way
+"Rue Gouverneur Nens - Gouverneur Nensstraat",M,Q96480175,relation
 "Rue Gray - Graystraat",M,Q7790154,relation
 "Rue Grégoire Leroy - Grégoire Leroystraat",M,Q1817422,relation
 "Rue Grétry - Grétrystraat",M,Q210962,relation
 "Rue Guido Gezelle - Guido Gezellestraat",M,Q336977,relation
+"Rue Guillaume Beliën - Guillaume Beliënstraat",M,Q96581183,relation
+"Rue Guillaume Dekelver - Guillaume Dekelverstraat",M,Q96581201,relation
+"Rue Guillaume Demuylder - Guillaume Demuylderstraat",M,Q96581322,relation
 "Rue Guillaume Kennis - Guillaume Kennisstraat",M,Q3119991,way
 "Rue Guillaume Lekeu - Guillaume Lekeustraat",M,Q450990,relation
 "Rue Guillaume Stocq - Guillaume Stocqstraat",M,Q85421681,relation
+"Rue Guillaume Van Laethem - Willem Van Laethemstraat",M,Q96581697,relation
 "Rue Guimard - Guimardstraat",M,Q2884661,relation
+"Rue Gustaaf Vanden Berghe - Gustaaf Vanden Berghestraat",M,Q96604639,relation
 "Rue Gustave Biot - Gustave Biotstraat",M,Q3121217,relation
 "Rue Gustave Defnet - Gustave Defnetstraat",M,Q15875965,relation
+"Rue Gustave Delathouwer - Gustave Delathouwerstraat",M,Q96604648,relation
+"Rue Gustave Demanet - Gustave Demanetstraat",M,Q96604663,relation
+"Rue Gustave Fuss - Gustave Fussstraat",M,Q96604833,relation
 "Rue Gustave Gilson - Gustave Gilsonstraat",M,Q3479581,relation
 "Rue Gustave Huberti - Gustave Hubertistraat",M,Q3121215,relation
+"Rue Gustave Jean Leclercq - Gustave Jean Leclercqstraat",M,Q96621015,relation
+"Rue Gustave Norga - Gustaaf Norgastraat",M,Q96605221,relation
+"Rue Gustave Schildknecht - Gustave Schildknechtstraat",M,Q96620998,relation
+"Rue Gustave Timmermans - Gustave Timmermansstraat",M,Q96621007,relation
 "Rue Gustave Van Huynegem - Gustave Van Huynegemstraat",M,Q86065221,relation
+"Rue Guy Mottard - Guy Mottardstraat",M,Q96621017,relation
+"Rue Guy-Jean Verachtert - Guy-Jean Verachtertstraat",M,Q96621019,relation
 "Rue Hector Denis - Hector Denisstraat",M,Q3129235,way
 "Rue Héger-Bordet - Héger-Bordetstraat",M,Q2387278;Q211787,relation
 "Rue Henri Bergé - Henri Bergéstraat",M,Q3130666,relation
@@ -1753,6 +1784,7 @@ name,gender,wikidata,type
 "Rue Crickx - Crickxstraat",?,,way
 "Rue De Koninck - De Koninckstraat",?,,relation
 "Rue Docteur Kuborn - Dokter Kubornstraat",?,,relation
+"Rue Grisar - Grisarstraat",?,,relation
 "Rue Tazieaux - Tazieauxstraat",?,,relation
 "Square Van Bever - Van Beversquare",?,,way
 "Avenue Hélène - Helenalaan",F,,relation
@@ -1789,42 +1821,8 @@ name,gender,wikidata,type
 "Rue Félix De Cuyper - Félix De Cuyperstraat",M,,relation
 "Rue François Gérard - François Gérardstraat",M,,relation
 "Rue François Janssens - François Janssensstraat",M,,relation
-"Rue Général Fivé - Generaal Fivéstraat",M,,relation
-"Rue Général Gratry - Generaal Gratrystraat",M,,relation
-"Rue Général Lotz - Generaal Lotzstraat",M,,way
-"Rue Général Michel - Generaal Michelstraat",M,,relation
 "Rue Général Ruquoy - Generaal Ruquoystraat",M,,relation
-"Rue Général Thys - Generaal Thysstraat",M,,relation
-"Rue Georges De Lombaerde - Georges De Lombaerdestraat",M,,relation
-"Rue Georges Matheus - Georges Matheusstraat",M,,relation
-"Rue Georges Moreau - Georges Moreaustraat",M,,relation
-"Rue Georges Raeymaekers - Georges Raeymaekersstraat",M,,relation
-"Rue Georges Rosart - Georges Rosartstraat",M,,relation
-"Rue Georges Simpson - Georges Simpsonstraat",M,,relation
-"Rue Georges Ugeux - Georges Ugeuxstraat",M,,way
-"Rue Gheude - Gheudestraat",M,,relation
 "Rue Gillebertus - Gillebertusstraat",M,,relation
-"Rue Gillon - Gillonstraat",M,,relation
-"Rue Gineste - Ginestestraat",M,,way
-"Rue Glibert - Glibertstraat",M,,relation
-"Rue Godecharle - Godecharlestraat",M,,relation
-"Rue Goffart - Goffartstraat",M,,relation
-"Rue Gouverneur Nens - Gouverneur Nensstraat",M,,relation
-"Rue Grisar - Grisarstraat",M,,relation
-"Rue Guillaume Beliën - Guillaume Beliënstraat",M,,relation
-"Rue Guillaume Dekelver - Guillaume Dekelverstraat",M,,relation
-"Rue Guillaume Demuylder - Guillaume Demuylderstraat",M,,relation
-"Rue Guillaume Van Laethem - Guillaume Van Laethemstraat",M,,relation
-"Rue Gustaaf Vanden Berghe - Gustaaf Vanden Berghestraat",M,,relation
-"Rue Gustave Delathouwer - Gustave Delathouwerstraat",M,,relation
-"Rue Gustave Demanet - Gustave Demanetstraat",M,,relation
-"Rue Gustave Fuss - Gustave Fussstraat",M,,relation
-"Rue Gustave Norga - Gustaaf Norgastraat",M,,relation
-"Rue Gustave Schildknecht - Gustave Schildknechtstraat",M,,relation
-"Rue Gustave Timmermans - Gustave Timmermansstraat",M,,relation
-"Rue Gustave-Jean Leclercq - Gustave-Jean Leclercqstraat",M,,relation
-"Rue Guy Mottard - Guy Mottardstraat",M,,relation
-"Rue Guy-Jean Verachtert - Guy-Jean Verachtertstraat",M,,way
 "Rue Haeck - Haeckstraat",M,,relation
 "Rue Hancart - Hancartstraat",M,,way
 "Rue Hector Genard - Hector Genardstraat",M,,relation

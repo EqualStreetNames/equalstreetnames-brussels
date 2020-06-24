@@ -86,6 +86,7 @@ name,gender,wikidata,type
 "Porte de Tervueren - Tervuursepoort",,Q456544,way
 Romeinsesteenweg,,Q194029,way
 "Rond-Point Boule et Bill - Bollie en Billierotonde",,Q59991,way
+"Rue Général Michel - Generaal Michelstraat",,Q85086206,relation
 "Rue Guillaume Tell - Willem Tellstraat",,Q30908,relation
 "Rue Maes - Maesstraat",,Q49619000,relation
 "Rue Ravenstein - Ravensteinstraat",,Q3145650,way
@@ -998,6 +999,7 @@ Cauter,,,way
 "Clos des Bouleaux - Berkenhof",,,relation
 "Clos des Briquetiers - Steenbakkerserf",,,way
 "Clos des Chanterelles - Dooierzwammengaarde",,,relation
+"Clos des Chanterelles - DooierzwammengaardeClos des Chanterelles - Dooierzwammengaarde",,,way
 "Clos des Charmes - Haagbeukengaarde",,,relation
 "Clos des Chasseurs - Jagersgaarde",,,relation
 "Clos des Chats - Kattengaarde",,,relation
