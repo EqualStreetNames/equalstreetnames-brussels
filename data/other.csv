@@ -49,6 +49,7 @@ name,gender,wikidata,type
 "Chaussée de Jette - Jetse Steenweg",,Q241918,relation
 "Chaussée de Jette - Jetsesteenweg",,Q241918,relation
 "Chaussée de Louvain - Leuvense Steenweg",,Q118958,way
+"Chaussée de Louvain - Leuvense Steenweg/Leuvensesteenweg",,Q118958,way
 "Chaussée de Louvain - Leuvensesteenweg",,Q118958,relation
 "Chaussée de Ninove - Ninoofsesteenweg",,Q385026,relation
 "Chaussée de Saint-Job - Sint-Jobsesteenweg",,Q1927235,way
@@ -86,7 +87,6 @@ name,gender,wikidata,type
 "Porte de Tervueren - Tervuursepoort",,Q456544,way
 Romeinsesteenweg,,Q194029,way
 "Rond-Point Boule et Bill - Bollie en Billierotonde",,Q59991,way
-"Rue Général Michel - Generaal Michelstraat",,Q85086206,relation
 "Rue Guillaume Tell - Willem Tellstraat",,Q30908,relation
 "Rue Maes - Maesstraat",,Q49619000,relation
 "Rue Ravenstein - Ravensteinstraat",,Q3145650,way
@@ -854,7 +854,7 @@ Cauter,,,way
 "Chemin Berckmans - Berckmansweg",,,way
 "Chemin Endymion - Endymionweg",,,way
 "Chemin Longchamp - Longchamppad",,,way
-"Chemin Saint-Sebastien - Sint-Sebastiaansweg",,,way
+"Chemin Saint-Sébastien - Sint-Sebastiaansweg",,,way
 "Chemin Tibout - Tiboutsweg",,,relation
 "Chemin Vert - Groenweg",,,relation
 "Chemin d'Un Monde Meilleur - Betere Wereldweg",,,way
@@ -873,6 +873,7 @@ Cauter,,,way
 "Chemin de l'Hallali - Hallaliweg",,,way
 "Chemin de l'Ombre - Lommerweg",,,way
 "Chemin de la Belladone - Belladonnaweg",,,way
+"Chemin de la Cascade - Weg naar de Waterval",,,way
 "Chemin de la Cascade - Weg naar de waterval",,,way
 "Chemin de la Crète - Kimweg",,,relation
 "Chemin de la Dame d'Onze Heures - Elfurenvrouwweg",,,way
@@ -883,8 +884,8 @@ Cauter,,,way
 "Chemin de la Meute - Jachtkoppelweg",,,way
 "Chemin de la Perce-Neige - Sneeuwklokjesweg",,,relation
 "Chemin de la Source - Bronweg",,,relation
+"Chemin de la Source - Weg naar de Bron",,,way
 "Chemin de la Truite - Forelweg",,,way
-"Chemin de la source - Weg naar de bron",,,way
 "Chemin des Aménagistes - Bedrijfsregelingersweg",,,way
 "Chemin des Amoureux - Verliefdenweg",,,way
 "Chemin des Anémones - Anemonenweg",,,way
@@ -914,12 +915,12 @@ Cauter,,,way
 "Chemin des Roses - Rozenweg",,,way
 "Chemin des Silex - Vuurkeienweg",,,way
 "Chemin des Silex - Vuursteenweg",,,way
+"Chemin des Sœurs Schampaert - Gezusters Schampaertweg",,,way
 "Chemin des Taupes - Mollenweg",,,way
 "Chemin des Tempêtes - Stormenweg",,,way
 "Chemin des Tigelles - Stengeltjesweg",,,relation
 "Chemin des Traqueurs - Drijversweg",,,way
 "Chemin des Tumuli - Tumuliweg",,,way
-"Chemin des soeurs Schampaert - Gezusters Schampaertweg",,,way
 "Chemin du Bonheur - Geluksweg",,,way
 "Chemin du Braakveld - Baakveldweg",,,way
 "Chemin du Château Martha - Kasteel Marthaweg",,,way
@@ -999,7 +1000,6 @@ Cauter,,,way
 "Clos des Bouleaux - Berkenhof",,,relation
 "Clos des Briquetiers - Steenbakkerserf",,,way
 "Clos des Chanterelles - Dooierzwammengaarde",,,relation
-"Clos des Chanterelles - DooierzwammengaardeClos des Chanterelles - Dooierzwammengaarde",,,way
 "Clos des Charmes - Haagbeukengaarde",,,relation
 "Clos des Chasseurs - Jagersgaarde",,,relation
 "Clos des Chats - Kattengaarde",,,relation
@@ -1222,14 +1222,11 @@ Houtweg,,,relation
 Hunderenveld,,,relation
 "Impasse Poils - Poilsgang",,,way
 "Impasse Schuddeveld - Schuddeveldgang",,,way
-"Impasse Vanhoeter - Vanhoetergang",,,way
 "Impasse aux Huîtres - Oestersgang",,,way
 "Impasse aux Souliers - Schoenengang",,,way
 "Impasse de Savoie - Savoiegang",,,way
 "Impasse de Varsovie - Polakkengang",,,way
 "Impasse de l'Infirmerie - Fermerijgang",,,way
-"Impasse de la Barbe - Baardgang",,,way
-"Impasse de la Bobine - Bobijngang",,,way
 "Impasse de la Bouquetière - Bloemenmeisjesgang",,,way
 "Impasse de la Cuve - Kuipgang",,,way
 "Impasse de la Faucille - Sikkelgang",,,way
@@ -1292,6 +1289,7 @@ Mariënsteen,,,relation
 "Meiklokjeslaan - Avenue des Muguets",,,way
 Meir,,,way
 Middelweg,,,relation
+Moensberg,,,way
 "Moensberg - Moensberg",,,way
 Molenweg,,,way
 "Mont des Arts - Kunstberg",,,relation
@@ -1399,7 +1397,7 @@ Pannenhuisplein,,,way
 "Place de la Croix-Rouge - Rode-Kruisplein",,,relation
 "Place de la Demi-Lune - Halvemaanplein",,,relation
 "Place de la Fleur de Blé - Korenbloemplein",,,relation
-"Place de la Forêt Noire-Zwarte Woudplein",,,way
+"Place de la Forêt Noire - Zwarte Woudplein",,,way
 "Place de la Gare - Stationsplein",,,relation
 "Place de la Grotte - Grotplein",,,relation
 "Place de la Justice - Gerechtsplein",,,relation
@@ -1703,7 +1701,6 @@ Roeierspad,,,way
 "Rue Scheutbosch - Scheutboschstraat",,,relation
 "Rue Scheutveld - Scheutveldstraat",,,relation
 "Rue Scholle - Schollestraat",,,relation
-"Rue Schoolgat - Schoolgat",,,relation
 "Rue Sleutelplas - Sleutelplasstraat",,,relation
 "Rue Solleveld - Solleveldstraat",,,relation
 "Rue Sombre - Donkerstraat",,,relation
@@ -1974,7 +1971,6 @@ Roeierspad,,,way
 "Rue de l'Avocette - Kluitstraat",,,way
 "Rue de l'Azur - Azuurstraat",,,relation
 "Rue de l'Eau - Waterstraat",,,relation
-"Rue de l'Éclipse - Eclipsstraat",,,way
 "Rue de l'Ecluse - Sasstraat",,,way
 "Rue de l'École - Schoolstraat",,,relation
 "Rue de l'Ecole Moderne - Moderne-Schoolstraat",,,relation
@@ -2961,9 +2957,8 @@ Roeierspad,,,way
 "Rue du Zénith - Zenitstraat",,,relation
 "Rue du Zodiaque - Dierenriemstraat",,,way
 "Ruelle du Bouc Émissaire - Zondebokstraatje",,,way
-Schaarbeek-Badweg,,,way
 Schaarbeeklei,,,way
-Schoolgat,,,way
+Schoolgat,,,relation
 "Sentier Melati - Melatipad",,,way
 "Sentier Voetweg 116",,,way
 "Sentier d'Auderghem - Oudergemvoetpad",,,way
@@ -3065,6 +3060,7 @@ Sparrenweg,,,way
 "Square de l'Onyx - Onyxsquare",,,relation
 "Square de la Cerisaie - Kerseboomgaardsquare",,,way
 "Square de la Cité Modèle - Modelwijksquare",,,relation
+"Square de la Croix Rouge - Rode-Kruissquare",,,way
 "Square de la Délivrance - Verlossingssquare",,,way
 "Square de la Diligence - Postkoetssquare",,,relation
 "Square de la Frégate - Fregatvogelsquare",,,relation
@@ -3160,4 +3156,3 @@ Welriekendedreef,,,way
 Windmolenberg,,,relation
 Woluwelaan,,,way
 "Zwarte Pijnbomenlaan",,,way
-"square de la Croix Rouge - Rode-Kruissquare",,,way
