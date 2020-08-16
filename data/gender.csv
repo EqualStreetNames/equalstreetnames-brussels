@@ -102,7 +102,7 @@ name,gender,wikidata,type
 "Rue Marie-Henriette - Maria-Hendrikastraat",F,Q234047,relation
 "Rue Marie-Thérèse - Maria-Theresiastraat",F,Q131706,relation
 "Rue Marlène Dietrich - Marlène Dietrichstraat",F,Q4612,relation
-"Rue Médori - Médoristraat",F,Q86971541,relation
+"Rue Médori - Médoristraat",F,Q11924313,relation
 "Rue Notre-Dame - Onze-Lieve-Vrouwstraat",F,Q345,relation
 "Rue Princesse Clémentine - Prinses Clementinastraat",F,Q261129,relation
 "Rue Romanie Van Dyck - Romanie Van Dyckstraat",F,Q88581278,relation
@@ -1457,6 +1457,7 @@ name,gender,wikidata,type
 "Rue Louis van Beethoven - Louis van Beethovenstraat",M,Q255,relation
 "Rue Luther - Lutherstraat",M,Q9554,relation
 "Rue Madyol - Madyolstraat",M,Q18507695,relation
+"Rue Maes - Maesstraat",M,Q49619000,relation
 "Rue Major Brück - Majoor Brückstraat",M,Q2361774,way
 "Rue Marcel Mariën - Marcel Mariënstraat",M,Q1865524,relation
 "Rue Marconi - Marconistraat",M,Q36488,way
@@ -1577,7 +1578,7 @@ name,gender,wikidata,type
 "Rue Scailquin - Scailquinstraat",M,Q3354443,relation
 "Rue Scarron - Scarronstraat",M,Q551725,relation
 "Rue Schmitz - Schmitzstraat",M,Q85426123,relation
-"Rue Sergent De Bruyne - Sergeant De Bruynestraat",M,Q48658520,relation
+"Rue Sergent De Bruyne - Sergeant De Bruynestraat",M,Q768517,relation
 "Rue Servandoni - Servandonistraat",M,Q3010923,relation
 "Rue Seutin - Seutinstraat",M,Q1641946,relation
 "Rue Simonau - Simonaustraat",M,Q28927557;Q21396067,relation
@@ -1729,6 +1730,7 @@ name,gender,wikidata,type
 "Square Georges Golinvaux - Georges Golinvauxsquare",M,Q17042124,relation
 "Square Georges Marlow - Georges Marlowsquare",M,Q18115508,relation
 "Square Gérard Van Caulaert - Gérard Van Caulaertsquare",M,Q93107328,relation
+"Square Henri Frick - Henri Fricksquare",M,Q3131125,way
 "Square Henri Michaux - Henri Michauxsquare",M,Q160780,way
 "Square Henri Rey - Henri Reysquare",M,Q93108033,relation
 "Square Jacques Franck - Jacques Francksquare",M,Q2157395,relation
@@ -1774,7 +1776,7 @@ name,gender,wikidata,type
 "Venelle Victor Bourgeois - Victor Bourgeoissteeg",M,Q291159,relation
 "Venelle Vivaldi - Vivaldisteeg",M,Q1340,relation
 "Venelle de l'Alchimiste - Alchemiststeeg",M,Q294169,relation
-"Rue Willy De Bruyn - Willy De Bruynstraat",MX,Q15807938,relation
+"Rue Willy De Bruyn - Willy De Bruynstraat",MX,Q15807938,way
 "Avenue Van Bever - Van Beverlaan",?,,way
 "Place Van Meyel - Van Meyelplein",?,,relation
 "Rue Bouvier - Bouvierstraat",?,,relation

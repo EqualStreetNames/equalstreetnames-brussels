@@ -37,6 +37,7 @@ name,gender,wikidata,type
 "Avenue de Saïo - Saïolaan",,Q19947679,relation
 "Avenue de Woluwé Saint-Lambert - Sint-Lambrechts Woluwelaan",,Q211764,relation
 "Avenue de la Brabançonne - Brabançonnelaan",,Q161539,relation
+"Avenue de la Porte de Hal - Hallepoortlaan",,Q2988142,relation
 "Avenue des Chanterelles - Hanenkammenlaan",,Q3942018,way
 "Avenue des Jonquilles - Narcissenlaan",,Q29465,way
 "Avenue des Vestales - Vestalenlaan",,Q188761,relation
@@ -55,6 +56,7 @@ name,gender,wikidata,type
 "Chaussée de Saint-Job - Sint-Jobsesteenweg",,Q1927235,way
 "Chaussée de Tervueren - Tervurensteenweg",,Q456544,way
 "Chaussée de Tervueren - Tervuursesteenweg",,Q456544,way
+"Chemin du Jutland - Jutlandweg",,Q25389,relation
 "Clos Cassiopée - Cassiopeagaarde",,Q207681,relation
 "Clos Prométhée - Prometheusgaarde",,Q83160,relation
 "Clos Saint-Georges - Sint-Georgiusgaarde",,Q48438,relation
@@ -88,7 +90,6 @@ name,gender,wikidata,type
 Romeinsesteenweg,,Q194029,way
 "Rond-Point Boule et Bill - Bollie en Billierotonde",,Q59991,way
 "Rue Guillaume Tell - Willem Tellstraat",,Q30908,relation
-"Rue Maes - Maesstraat",,Q49619000,relation
 "Rue Ravenstein - Ravensteinstraat",,Q3145650,way
 "Rue Saint-Jean - Sint-Jansstraat",,Q50037286,way
 "Rue Saint-Michel - Sint-Michielsstraat",,Q45581,way
@@ -392,7 +393,6 @@ Romeinsesteenweg,,Q194029,way
 "Avenue de la Petite Espinette - Kleine Hutlaan",,,way
 "Avenue de la Pinède - Pijnboslaan",,,way
 "Avenue de la Poésie - Dichtkunstlaan",,,relation
-"Avenue de la Porte de Hal - Hallepoortlaan",,,relation
 "Avenue de la Quiétude - Gemoedsrustlaan",,,relation
 "Avenue de la Ramée - Looflaan",,,way
 "Avenue de la Raquette - Raketlaan",,,relation
@@ -704,6 +704,7 @@ Romeinsesteenweg,,Q194029,way
 "Avenue du Parc de Woluwe - Woluweparklaan",,,way
 "Avenue du Péage - Tollaan",,,relation
 "Avenue du Pennon - Riddervaanlaan",,,relation
+"Avenue du Pentathlon - Pentathlonlaan",,,way
 "Avenue du Pérou - Perulaan",,,relation
 "Avenue du Pesage - Waaglaan",,,relation
 "Avenue du Pilote - Pilootlaan",,,relation
@@ -804,7 +805,7 @@ Brusselstraat,,,way
 "Carrefour Jean Monnet - Jean Monnet Kruispunt",,,way
 "Carrefour de l'Europe - Europakruispunt",,,way
 "Carrefour des Attelages - Gespanhoek",,,way
-Cauter,,,way
+Cauter,,,relation
 "Champ du Tilleul - Lindeveld",,,relation
 "Champ du Vert Chasseur - Groene Jagersveld",,,way
 "Chaussée d'Alsemberg - Alsembergse Steenweg",,,way
@@ -874,7 +875,6 @@ Cauter,,,way
 "Chemin de l'Ombre - Lommerweg",,,way
 "Chemin de la Belladone - Belladonnaweg",,,way
 "Chemin de la Cascade - Weg naar de Waterval",,,way
-"Chemin de la Cascade - Weg naar de waterval",,,way
 "Chemin de la Crète - Kimweg",,,relation
 "Chemin de la Dame d'Onze Heures - Elfurenvrouwweg",,,way
 "Chemin de la Forêt - Woudweg",,,way
@@ -937,7 +937,6 @@ Cauter,,,way
 "Chemin du Hangar - Hangarweg",,,way
 "Chemin du Haras - Stoeterijweg",,,way
 "Chemin du Jardin de Sculptures - Beelhouwtuinweg",,,way
-"Chemin du Jutland - Jutlandweg",,,relation
 "Chemin du Keelbeek - Keelbeekweg",,,way
 "Chemin du Moulin - Molenweg",,,way
 "Chemin du Moulin Rose - Roze Molenweg",,,way
@@ -971,7 +970,7 @@ Cauter,,,way
 "Clos Manuel - Manuelgaarde",,,relation
 "Clos Medicis - Medicisgaarde",,,relation
 "Clos Montagne des Lapins - Konijnenberggaarde",,,relation
-"Clos Mudra - Mudrahoek",,,way
+"Clos Mudra - Mudrahoek",,,relation
 "Clos Sirius - Siriusgaarde",,,relation
 "Clos Wannecouter - Wannekoutergaarde",,,relation
 "Clos d'Orléans - Orleansgaarde",,,relation
@@ -1222,11 +1221,14 @@ Houtweg,,,relation
 Hunderenveld,,,relation
 "Impasse Poils - Poilsgang",,,way
 "Impasse Schuddeveld - Schuddeveldgang",,,way
+"Impasse Vanhoeter - Vanhoetergang",,,way
 "Impasse aux Huîtres - Oestersgang",,,way
 "Impasse aux Souliers - Schoenengang",,,way
 "Impasse de Savoie - Savoiegang",,,way
 "Impasse de Varsovie - Polakkengang",,,way
 "Impasse de l'Infirmerie - Fermerijgang",,,way
+"Impasse de la Barbe - Baardgang",,,way
+"Impasse de la Bobine - Bobijngang",,,way
 "Impasse de la Bouquetière - Bloemenmeisjesgang",,,way
 "Impasse de la Cuve - Kuipgang",,,way
 "Impasse de la Faucille - Sikkelgang",,,way
@@ -1246,7 +1248,7 @@ Hunderenveld,,,relation
 "Impasse des Usines - Werkhuizengang",,,relation
 "Impasse du Chapelet - Paternostergang",,,way
 "Impasse du Cheval - Paardgang",,,relation
-"Impasse du Coq - Hanegang",,,way
+"Impasse du Coq - Hanegang",,,relation
 "Impasse du Pré - Weidegang",,,relation
 "Impasse du Renard - Vossengang",,,way
 "Impasse du Roulier - Voermansgang",,,way
@@ -1308,7 +1310,6 @@ Neerleest,,,relation
 Noendelle,,,relation
 "Olieslagerijlaan - Avenue des Huileries",,,relation
 Opstalweg,,,way
-"Oud Korenhuis - Place de la Vieille Halle aux Blés",,,way
 "Oude Molenstraat",,,way
 "Oudijzergang - Impasse de la Ferraille",,,way
 "Paardentunnel Leonard",,,way
@@ -1971,6 +1972,7 @@ Roeierspad,,,way
 "Rue de l'Avocette - Kluitstraat",,,way
 "Rue de l'Azur - Azuurstraat",,,relation
 "Rue de l'Eau - Waterstraat",,,relation
+"Rue de l'Éclipse - Eclipsstraat",,,way
 "Rue de l'Ecluse - Sasstraat",,,way
 "Rue de l'École - Schoolstraat",,,relation
 "Rue de l'Ecole Moderne - Moderne-Schoolstraat",,,relation
@@ -2718,7 +2720,7 @@ Roeierspad,,,way
 "Rue du Faubourg - Voorstadsstraat",,,relation
 "Rue du Faucon - Valkstraat",,,relation
 "Rue du Feu - Vuurstraat",,,relation
-"Rue du Filleul - Petekindstraat",,,way
+"Rue du Filleul - Petekindstraat",,,relation
 "Rue du Finistère - Finisterraestraat",,,way
 "Rue du Fort - Fortstraat",,,way
 "Rue du Fossé - Grachtstraat",,,relation
@@ -3038,7 +3040,6 @@ Sparrenweg,,,way
 "Square Docteur Decroly - Dokter Decrolysquare",,,way
 "Square Eddy Merckx - Eddy Merckxsquare",,,way
 "Square Gutenberg - Gutenbergsquare",,,way
-"Square Henri Frick - Henri Fricksquare",,,way
 "Square Herschel Grynszpan - Herschel Grynszpansquare",,,way
 "Square Jules De Trooz - Jules De Troozsquare",,,way
 "Square Louisa - Louisaplantsoen",,,relation
