@@ -505,6 +505,7 @@ Romeinsesteenweg,,Q194029,way
 "Avenue des Franciscains - Franciskanenlaan",,,relation
 "Avenue des Gaulois - Galliërslaan",,,relation
 "Avenue des Gémeaux - Tweelingenlaan",,,relation
+"Avenue des Genêts - Bremlaan",,,way
 "Avenue des Géraniums - Geraniumlaan",,,relation
 "Avenue des Gerfauts - Giervalkenlaan",,,way
 "Avenue des Gloires Nationales - Landsroemlaan",,,relation
@@ -622,6 +623,7 @@ Romeinsesteenweg,,Q194029,way
 "Avenue du Castel - Slotlaan",,,relation
 "Avenue du Centaure - Centauruslaan",,,relation
 "Avenue du Cerf-Volant - Vliegerlaan",,,way
+"Avenue du Champ de Course - Rijbaanlaan",,,way
 "Avenue du Championnat - Kampioenschapslaan",,,way
 "Avenue du Chant d'Oiseau - Vogelzanglaan",,,relation
 "Avenue du Château - Kasteellaan",,,relation
@@ -743,7 +745,6 @@ Romeinsesteenweg,,Q194029,way
 "Avenue du Vivier d'Oie - Diesdellelaan",,,way
 "Avenue du Vossegat - Vossegatlaan",,,way
 "Avenue du Yorkshire - Yorkshirelaan",,,relation
-"Avenue du champ de course - Rijbaanlaan",,,way
 "Avenue ten Horen - ten Horenlaan",,,relation
 "Barrière Saint-Gilles - Bareel van Sint-Gillis",,,way
 Berensheide,,,relation
@@ -1325,6 +1326,7 @@ Pannenhuisplein,,,way
 "Passage des Citronniers - Citroenbomendoorgang",,,way
 "Passage du Nord - Noorddoorgang",,,way
 "Passage du Soleil Couchant - Avondzonpassage",,,way
+"Passerelle Gosselies",,,way
 "Pentathlonlaan - Avenue du Pentathlon",,,way
 "Perk straat / Rue Perk",,,way
 "Perkstraat - Rue de Perk",,,way
@@ -2607,6 +2609,7 @@ Roeierspad,,,way
 "Rue du Blé d'Or - Gulden Koornstraat",,,relation
 "Rue du Bocq - Bocqstraat",,,relation
 "Rue du Bois - Bosstraat",,,relation
+"Rue du Bois Henri - Bois Henristraat",,,way
 "Rue du Bois Sauvage - Wildewoudstraat",,,way
 "Rue du Bois de Linthout - Linthoutbosstraat",,,relation
 "Rue du Bon Accueil - Goede Bejegeningstraat",,,relation
@@ -3081,7 +3084,7 @@ Sparrenweg,,,way
 "Square des Libérateurs - Bevrijderssquare",,,relation
 "Square des Linaigrettes - Wollegrassquare",,,relation
 "Square des Martyrs juifs - Joodse-Martelarensquare",,,way
-"Square des Mérises - Wilde Kersensquare",,,way
+"Square des Mérises - Wilde Kersensquare",,,relation
 "Square des Mirabelles - Mirabellensquare",,,way
 "Square des Nations - Natiënsquare",,,relation
 "Square des Oriflammes - Oriflammensquare",,,relation

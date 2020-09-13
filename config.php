@@ -144,10 +144,14 @@ return [
         'Q23413'    => false, // castle
         'Q23691'    => false, // national anthem
         'Q28640'    => false, // profession
+        'Q34763'    => false, // peninsula
         'Q45713'    => false, // titan
         'Q47521'    => false, // stream
+        'Q53060'    => false, // gate
         'Q79007'    => false, // street
         'Q81799'    => false, // fast food
+        'Q82117'    => false, // city gate
+        'Q82794'    => false, // geographic region
         'Q123705'   => false, // neighborhood
         'Q133311'   => false, // tribe
         'Q178342'   => false, // archangel
@@ -183,12 +187,14 @@ return [
         'Q1916821'  => false, // water deity
         'Q1998962'  => false, // beer style
         'Q2202509'  => false, // Roman city
+        'Q2772772'  => false, // military museum
         'Q2785216'  => false, // municipality section
         'Q3058029'  => false, // sector of Rwanda
         'Q3305213'  => false, // painting
         'Q3658341'  => false, // literary character
         'Q4164871'  => false, // position
         'Q4306757'  => false, // Mukarrabun
+        'Q5159627'  => false, // confection
         'Q5200157'  => false, // confections
         'Q6857854'  => false, // military road
         'Q7832362'  => false, // traditional story
@@ -204,6 +210,7 @@ return [
         'Q16861482' => false, // potée
         'Q18679117' => false, // potato dish
         'Q19594662' => false, // fictional fox
+        'Q19861951' => false, // type of food or dish
         'Q20202269' => false, // music term
         'Q20902363' => false, // mythical human-animal hybrid
         'Q21070568' => false, // human who may be fictional
