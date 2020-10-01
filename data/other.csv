@@ -62,9 +62,7 @@ name,gender,wikidata,type
 "Clos Saint-Georges - Sint-Georgiusgaarde",,Q48438,relation
 "Clos Tom & Jerry - Tom & Jerrygaarde",,Q131144,way
 "Clos des Cèpes - Eekhoorntjes broodhoek",,Q19740,way
-"Clos des Morilles - Morieltjeshoek",,Q371101,way
 "Clos des Pleurotes - Oesterzwammenhoek",,Q852065,way
-"Clos du Bolet - Boleethoek",,Q1969349,way
 "Clos du Drossart - Drossaardgaarde",,Q10970991,relation
 "Cours Saint-Michel - Sint-Michielswarande",,Q45581,relation
 "Drève Tyl Uylenspiegel - Tijl Uilenspiegeldreef",,Q164083,relation
@@ -1023,6 +1021,7 @@ Cauter,,,relation
 "Clos des Malouinières - Malouinièresgaarde",,,relation
 "Clos des Marguerites - Madeliefjeshoek",,,relation
 "Clos des Mésanges - Mezengaarde",,,relation
+"Clos des Morilles - Morieltjeshoek",,,relation
 "Clos des Mouettes - Meeuwengaarde",,,way
 "Clos des Mousserons - Ridderzwammengaarde",,,relation
 "Clos des Musiciens - Muzikantengaarde",,,relation
@@ -1045,6 +1044,7 @@ Cauter,,,relation
 "Clos du Bergoje - Bergagegaarde",,,way
 "Clos du Blankedelle - Blankedellegaarde",,,way
 "Clos du Bois Planté - Geplante Bosgaarde",,,relation
+"Clos du Bolet - Boleethoek",,,relation
 "Clos du Bouton d'Or - Boterbloemgaarde",,,relation
 "Clos du Centaure - Centaurusgaarde",,,relation
 "Clos du Château d'Eau - Watertorengaarde",,,relation
@@ -1491,7 +1491,6 @@ Plattesteen,,,way
 "Promenade P. L. Vrijdags - P. L. Vrijdagsvandelweg",,,way
 "Promenade Verte - Groene Wandeling",,,way
 "Promenade de l'Alma - Almawandeling",,,relation
-"Promenade verte - Groene Wandeling",,,way
 "Putterie - Putterij",,,way
 "Quai à la Chaux - Kalkkaai",,,way
 "Quai à la Houille - Steenkoolkaai",,,way
