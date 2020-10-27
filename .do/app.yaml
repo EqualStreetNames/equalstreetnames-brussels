@@ -1,0 +1,11 @@
+name: equalstreetnames-brussels
+region: ams
+static_sites:
+- name: equalstreetnames-brussels
+  environment_slug: node-js
+  github:
+    branch: master
+    deploy_on_push: true
+    repo: openknowledgebe/equalstreetnames
+  build_command: npm run build:brussels
+  output_dir: dist/brussels
