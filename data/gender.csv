@@ -660,6 +660,7 @@ name,gender,wikidata,type
 "Boulevard de Smet de Naeyer - de Smet de Naeyerlaan",M,Q721781,relation
 "Boulevard du Roi Albert II - Koning Albert II-laan",M,Q3911,relation
 "Chaussée Saint-Pierre - Sint-Pieterssteenweg",M,Q33923,relation
+"Chaussée de Ruisbroek - Ruisbroekse Steenweg",M,Q958774,way
 "Chemin Alfred Hitchcock - Alfred Hitchcockweg",M,Q7374,way
 "Chemin Bourvil - Bourvilweg",M,Q2750,way
 "Chemin Charles Vanel - Charles Vanelweg",M,Q965918,way
@@ -725,7 +726,6 @@ name,gender,wikidata,type
 "Passage Oliver Hardy - Oliver Hardydoorgang",M,Q72911,way
 "Passage Stan Laurel - Stan Laurel Doorgang",M,Q72869,way
 "Passage Yves Montand - Yves Montanddoorgang",M,Q106057,way
-"Paul Gilsonlaan - Avenue Paul Gilson",M,Q958774,way
 "Place Adolphe Sax - Adolphe Saxplein",M,Q181995,relation
 "Place Aimé Dandoy - Aimé Dandoyplein",M,Q2828051,relation
 "Place Albert Leemans - Albert Leemansplein",M,Q85429784,way
@@ -745,7 +745,7 @@ name,gender,wikidata,type
 "Place Colonel Bremer - Kolonel Bremerplein",M,Q3425928,way
 "Place Constantin Meunier - Constantin Meunierplein",M,Q552440,way
 "Place Dailly - Daillyplein",M,Q3059800,way
-"Place De Brouckère - De Brouckèreplein",M,Q1066539,way
+"Place De Brouckère - De Brouckèreplein",M,Q1066539,relation
 "Place Docteur Schweitzer - Dokter Schweitzerplein",M,Q49325,relation
 "Place Dumon - Dumonplein",M,Q1991260,relation
 "Place Edmond Leroy - Edmond Leroyplaats",M,Q92462653,relation
@@ -817,7 +817,6 @@ name,gender,wikidata,type
 "Place Quetelet - Queteletplein",M,Q20012,relation
 "Place Raymond Blyckaerts - Raymond Blyckaertsplein",M,Q27036489,relation
 "Place Rik Wouters - Rik Woutersplein",M,Q939197,way
-"Place Roi Baudouin - Koning Boudewijnplein",M,Q12976,relation
 "Place Rouppe - Rouppeplein",M,Q2009106,relation
 "Place Saint-Antoine - Sint-Antoonplein",M,Q167477,relation
 "Place Saint-Denis - Sint-Denijsplein",M,Q244380,relation
@@ -841,6 +840,7 @@ name,gender,wikidata,type
 "Place Wappers - Wappersplein",M,Q727869,relation
 "Place de Jamblinne de Meux - de Jamblinne de Meuxplein",M,Q85944263,relation
 "Place de l'Albertine - Albertinaplein",M,Q55008046,way
+"Place du Roi Baudouin - Koning Boudewijnplein",M,Q12976,relation
 "Place du Roi Vainqueur - Koning Overwinnaarplein",M,Q55008046,relation
 "Pont Fernand Demany - Fernand Demanybrug",M,Q2270946,way
 "Pont Van Praet - Van Praetbrug",M,Q3070531,way
@@ -1865,7 +1865,7 @@ name,gender,wikidata,type
 "Rue Jacques Jansen - Jacques Jansenstraat",M,,relation
 "Rue Jacques Rayé - Jacques Rayéstraat",M,,relation
 "Rue Jan Frans De Craen - Jan Frans De Craenstraat",M,,relation
-"Rue Jan Verbesselt - Jan Verbesseltstraat",M,,way
+"Rue Jan Verbesselt - Jan Verbesseltstraat",M,,relation
 "Rue Jean Ballegeer - Jean Ballegeerstraat",M,,way
 "Rue Jean Baptiste François Denys - Jean Baptiste François Denysstraat",M,,relation
 "Rue Jean Baudoux - Jean Baudouxstraat",M,,relation

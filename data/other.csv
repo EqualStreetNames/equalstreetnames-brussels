@@ -39,7 +39,7 @@ name,gender,wikidata,type
 "Avenue de la Brabançonne - Brabançonnelaan",,Q161539,relation
 "Avenue de la Porte de Hal - Hallepoortlaan",,Q2988142,relation
 "Avenue des Chanterelles - Hanenkammenlaan",,Q3942018,way
-"Avenue des Jonquilles - Narcissenlaan",,Q29465,way
+"Avenue des Jonquilles - Narcissenlaan",,Q29465,relation
 "Avenue des Vestales - Vestalenlaan",,Q188761,relation
 "Avenue du Daring - Daringlaan",,Q2312558,relation
 "Avenue du Manoir d'Anjou - Manoir d'Anjoulaan",,Q60853950,relation
@@ -52,6 +52,7 @@ name,gender,wikidata,type
 "Chaussée de Louvain - Leuvense Steenweg",,Q118958,way
 "Chaussée de Louvain - Leuvense Steenweg/Leuvensesteenweg",,Q118958,way
 "Chaussée de Louvain - Leuvensesteenweg",,Q118958,relation
+"Chaussée de Louvain - Steenweg op Leuven",,Q118958,relation
 "Chaussée de Ninove - Ninoofsesteenweg",,Q385026,relation
 "Chaussée de Saint-Job - Sint-Jobsesteenweg",,Q1927235,way
 "Chaussée de Tervueren - Tervurensteenweg",,Q456544,way
@@ -150,6 +151,7 @@ Romeinsesteenweg,,Q194029,way
 "Ancien Dieweg - Oude Dieweg",,,relation
 "Ancien Middelweg - Oude Middelweg",,,way
 "Ancienne chaussée de Haecht - Oude Haachtsesteenweg",,,relation
+Antwerpselaan,,,way
 "Arbeidsdoorgang - Passage du Travail",,,way
 "Avenue 's Heren Huys - 's Herenhuislaan",,,way
 "Avenue Achille Reisdorff - Achille Reisdorfflaan",,,way
@@ -748,7 +750,8 @@ Romeinsesteenweg,,Q194029,way
 Berensheide,,,relation
 Beukenberg,,,way
 "Bocage des Myosotis",,,way
-"Boesdaallaan - Avenue Boesdaal",,,way
+Boesdaallaan,,,way
+Boomgaardstraat,,,way
 "Borgval - Borgwal",,,way
 Bosveldweg,,,way
 "Boulevard Belgica - Belgicalaan",,,relation
@@ -840,6 +843,7 @@ Cauter,,,relation
 "Chaussée de Stockel - Stokkelsesteenweg",,,relation
 "Chaussée de Vilvorde - Vilvoordsesteenweg",,,relation
 "Chaussée de Vleurgat - Vleurgatse Steenweg",,,relation
+"Chaussée de Waterloo - Waterloose Steenweg",,,relation
 "Chaussée de Waterloo - Waterloosesteenweg",,,relation
 "Chaussée de Waterloo - Waterlose Steenweg",,,way
 "Chaussée de Watermael - Watermaalsesteenweg",,,relation
@@ -853,6 +857,7 @@ Cauter,,,relation
 "Chemin Avijl - Avijlweg",,,way
 "Chemin Berckmans - Berckmansweg",,,way
 "Chemin Endymion - Endymionweg",,,way
+"Chemin Herlinde et Théobald - Herlinde en Theobaldweg",,,way
 "Chemin Longchamp - Longchamppad",,,way
 "Chemin Saint-Sébastien - Sint-Sebastiaansweg",,,way
 "Chemin Tibout - Tiboutsweg",,,relation
@@ -884,6 +889,7 @@ Cauter,,,relation
 "Chemin de la Perce-Neige - Sneeuwklokjesweg",,,relation
 "Chemin de la Source - Bronweg",,,relation
 "Chemin de la Source - Weg naar de Bron",,,way
+"Chemin de la Source - Weg naar de bron",,,way
 "Chemin de la Truite - Forelweg",,,way
 "Chemin des Aménagistes - Bedrijfsregelingersweg",,,way
 "Chemin des Amoureux - Verliefdenweg",,,way
@@ -936,6 +942,7 @@ Cauter,,,relation
 "Chemin du Hangar - Hangarweg",,,way
 "Chemin du Haras - Stoeterijweg",,,way
 "Chemin du Jardin de Sculptures - Beelhouwtuinweg",,,way
+"Chemin du Kattepoel - Kattepoelweg",,,way
 "Chemin du Keelbeek - Keelbeekweg",,,way
 "Chemin du Moulin - Molenweg",,,way
 "Chemin du Moulin Rose - Roze Molenweg",,,way
@@ -953,6 +960,7 @@ Cauter,,,relation
 "Chemin du Tir à l'Arc - Boogschuttersweg",,,way
 "Chemin du Vellemolen - Vellemolenweg",,,way
 "Chemin du Vossegat - Vossegatweg",,,way
+"Chemin du tir à l'arc -    Boogschuttersweg",,,way
 "Chemin privé 't Cortenbosch - Private Weg 't Cortenbosch",,,relation
 "Cité Ouvrière de Linthout - Linthoutse Werkmanswoonwijk",,,relation
 "Cité du Sureau - Vlierwijk",,,way
@@ -1009,7 +1017,7 @@ Cauter,,,relation
 "Clos des Diablotins - Duiveltjesgaarde",,,relation
 "Clos des Essarts - Rooilandgaarde",,,relation
 "Clos des Étangs - Vijversgaarde",,,relation
-"Clos des Etangs - Vijvershoek",,,way
+"Clos des Étangs - Vijvershoek",,,relation
 "Clos des Fleurs - Bloemengaarde",,,way
 "Clos des Frères Lumière - Gebroeders Lumièregaarde",,,way
 "Clos des Fuchsias - Fuchsiastraat",,,relation
@@ -1084,7 +1092,6 @@ Cauter,,,relation
 "Coursive Plein Ciel - Openluchtwandelgang",,,relation
 "De Limburg Stirumlaan - Avenue de Limburg Stirum",,,way
 "Dédale du Campanile - Campaniledoolgang",,,relation
-"Den Groenen Weg",,,way
 Diegemvoetweg,,,way
 Dieweg,,,relation
 "Digue du Canal - Vaartdijk",,,relation
@@ -1179,6 +1186,7 @@ Duivenschietweg,,,way
 "Esplanade de l'Europe - Europaesplanade",,,relation
 "Esplanade du Berlaymont - Esplanade",,,way
 "Esplanade of the European Parliament",,,way
+Europaesplanade,,,way
 "F212 Fietssnelweg Asse-Brussel",,,way
 "Font Saint Landry - Sint Lendriksborre",,,relation
 GR,,,way
@@ -1294,7 +1302,6 @@ Meir,,,way
 Middelweg,,,relation
 Moensberg,,,way
 "Moensberg - Moensberg",,,way
-Molenweg,,,way
 "Mont des Arts - Kunstberg",,,relation
 "Mont du Cinquantenaire - Jubelberg",,,relation
 "Montagne au Chaudron - Ketelberg",,,relation
@@ -1359,7 +1366,7 @@ Pannenhuisplein,,,way
 "Place Basse - Laagplein",,,way
 "Place Communale - Gemeenteplaats",,,relation
 "Place De Linde - De Lindeplein",,,relation
-"Place De Moor - De Moorplein",,,relation
+"Place De Moor - De Moorplein",,,way
 "Place Dewandre - Dewandreplein",,,relation
 "Place Loubna Lafquiri - Loubna Lafquiriplein",,,way
 "Place Ronde - Rondplein",,,way
@@ -1476,6 +1483,7 @@ Pannenhuisplein,,,way
 "Place du Tomberg - Tombergplein",,,relation
 "Place du Trône - Troonplein",,,relation
 "Place du White Star - White Starplein",,,relation
+"Place du jeu de balle",,,way
 "Placette de l'Alizé - Alizépleintje",,,way
 "Placette du Peuplier - Populierpleintje",,,way
 "Plaine des Loisirs - Lustplein",,,relation
@@ -1517,6 +1525,7 @@ Plattesteen,,,way
 "Quai du Chantier - Werfkaai",,,way
 "Quai du Commerce - Handelskaai",,,way
 "Quai du Hainaut - Henegouwenkaai",,,relation
+"RC mini car/buggy racetrack",,,way
 "Rampe Gauloise - Gallischeoprit",,,relation
 "Rampe Lambermont - Lambermontoprit",,,way
 "Rampe Romaine - Romeinseoprit",,,relation
@@ -2963,8 +2972,8 @@ Roeierspad,,,way
 "Ruelle du Bouc Émissaire - Zondebokstraatje",,,way
 Schaarbeeklei,,,way
 Schoolgat,,,relation
+"Sentier 116 - Voetweg 116",,,way
 "Sentier Melati - Melatipad",,,way
-"Sentier Voetweg 116",,,way
 "Sentier d'Auderghem - Oudergemvoetpad",,,way
 "Sentier de Grasdelle - Grasdellepad",,,way
 "Sentier de Waterloo - Waterloopad",,,way
@@ -3028,6 +3037,7 @@ Schoolgat,,,relation
 "Sentier du Vuylbeek - Vuilbeekpad",,,way
 "Sentier du Vuylbeek - Vuilbeekvoetpad",,,way
 "Sentier du Zircon - Zirkoonpad",,,way
+"Sentier du pèlerin - Pelgrimspad",,,way
 Seringenstraat,,,relation
 Sint-Jansbergsteenweg,,,way
 Sleutelplasstraat,,,way
@@ -3152,10 +3162,12 @@ Vlieraardeweg,,,way
 Vrijheidsstraat,,,way
 "Waaierstraat - Rue de l'Eventail",,,way
 "Waterloopad - Sentier de Waterloo",,,way
-"Waterloosesteenweg - Chaussée de Waterloo",,,relation
+"Waterloose Steenweg",,,relation
+"Watermael Shopping",,,way
 "Wekkergang - Impasse du Réveil",,,way
 Welriekendedreef,,,way
 "Wezembeeklaan - Avenue de Wezembeek",,,relation
 Windmolenberg,,,relation
 Woluwelaan,,,way
+Zuidlaan,,,way
 "Zwarte Pijnbomenlaan",,,way
