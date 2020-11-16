@@ -519,6 +519,7 @@ Antwerpselaan,,,way
 "Avenue des Héros - Heldenlaan",,,way
 "Avenue des Hespérides - Hesperidenlaan",,,way
 "Avenue des Hospices - Godshuizenlaan",,,way
+"Avenue des Huileries - Olieslagerijlaan",,,relation
 "Avenue des Îles d'Or - Goudeneilandenlaan",,,way
 "Avenue des Immortelles - Strobloemenlaan",,,relation
 "Avenue des Jacinthes - Hyacintenlaan",,,relation
@@ -770,7 +771,6 @@ Bosveldweg,,,way
 "Boulevard de l'Humanité - Humaniteitslaan",,,relation
 "Boulevard de l'Impératrice - Keizerinlaan",,,way
 "Boulevard de la Cambre - Terkamerenlaan",,,relation
-"Boulevard de la Deuxième Armée Britannique - Brits Tweedelegerlaan",,,way
 "Boulevard de la Deuxième Armée Britannique - Britse Tweedelegerlaan",,,relation
 "Boulevard de la Grande Ceinture - Grote-Ringlaan",,,relation
 "Boulevard de la Plaine - Pleinlaan",,,relation
@@ -801,7 +801,6 @@ Brusselstraat,,,way
 "Carré Sersté - Serstéblok",,,way
 "Carré Stevens - Stevensblok",,,way
 "Carré Tillens - Tillensblok",,,relation
-"Carré aux Platanes - Platanenwijk",,,way
 "Carré des Herbes Sauvages - Wildehoek",,,relation
 "Carré des Platanes - Platanenwijk",,,relation
 "Carrefour Jean Monnet - Jean Monnet Kruispunt",,,way
@@ -1316,7 +1315,6 @@ Neerleest,,,relation
 "Nekkersgatlaan - Avenue Nekkersgat",,,way
 "Ninoofseplein - Place de Ninove",,,relation
 Noendelle,,,relation
-"Olieslagerijlaan - Avenue des Huileries",,,relation
 Opstalweg,,,way
 "Oude Molenstraat",,,way
 "Oudijzergang - Impasse de la Ferraille",,,way
@@ -3169,5 +3167,6 @@ Welriekendedreef,,,way
 "Wezembeeklaan - Avenue de Wezembeek",,,relation
 Windmolenberg,,,relation
 Woluwelaan,,,way
+Woluwepad,,,way
 Zuidlaan,,,way
 "Zwarte Pijnbomenlaan",,,way
