@@ -389,7 +389,7 @@ name,gender,wikidata,type
 "Avenue Henry Dunant - Henry Dunantlaan",M,Q12091,relation
 "Avenue Herbert Hoover - Herbert Hooverlaan",M,Q35236,relation
 "Avenue Hergé - Hergélaan",M,Q52985,relation
-"Avenue Herrmann Debroux - Herrmann Debrouxlaan",M,Q2938931,way
+"Avenue Herrmann-Debroux - Herrmann-Debrouxlaan",M,Q2938931,way
 "Avenue Hippocrate - Hippokrateslaan",M,Q5264,relation
 "Avenue Hippolyte Boulenger - Hippolyte Boulengerlaan",M,Q1620022,relation
 "Avenue Hoche - Hochelaan",M,Q367042,way
@@ -1092,7 +1092,6 @@ name,gender,wikidata,type
 "Rue Edmond Bonehill - Edmond Bonehillstraat",M,Q95627360,relation
 "Rue Edmond Delcourt - Edmond Delcourtstraat",M,Q95627393,relation
 "Rue Edmond Picard - Edmond Picardstraat",M,Q2512563,way
-"Rue Edmond Rostand - Edmond Rostandstraat",M,Q52905074,relation
 "Rue Edmond Tollenaere - Edmond Tollenaerestraat",M,Q85438337,relation
 "Rue Edmond Van Cauwenbergh - Edmond Van Cauwenberghstraat",M,Q95627400,relation
 "Rue Edmond de Grimberghe - Edmond de Grimberghestraat",M,Q95627423,relation

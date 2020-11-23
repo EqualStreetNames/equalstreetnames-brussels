@@ -357,6 +357,7 @@ Antwerpselaan,,,way
 "Avenue de la Couronne - Kroonlaan",,,relation
 "Avenue de la Croix du Sud - Zuiderkruislaan",,,relation
 "Avenue de la Croix-Rouge - Rode Kruislaan",,,relation
+"Avenue de la Dynastie - Vorstenhuislaan",,,way
 "Avenue de la Faisanderie - Fazantenparklaan",,,relation
 "Avenue de la Fauconnerie - Valkerijlaan",,,way
 "Avenue de la Fécondité - Vruchtbaarheidslaan",,,relation
@@ -556,6 +557,7 @@ Antwerpselaan,,,way
 "Avenue des Myrtilles - Kraakbeziënlaan",,,way
 "Avenue des Naïades - Najadenlaan",,,way
 "Avenue des Narcisses - Narcisbloemenlaan",,,way
+"Avenue des Narcisses - Narcissenlaan",,,way
 "Avenue des Nénuphars - Waterleliënlaan",,,way
 "Avenue des Nerviens - Nerviërslaan",,,relation
 "Avenue des Neuf Provinces - Negen Provincieslaan",,,relation
@@ -588,6 +590,7 @@ Antwerpselaan,,,way
 "Avenue des Sapins - Dennenlaan",,,relation
 "Avenue des Scarabées - Keverslaan",,,way
 "Avenue des Sept Bonniers - Zevenbunderslaan",,,way
+"Avenue des Seringas - Wildejasmijnenlaan",,,way
 "Avenue des Sittelles - Boomkleverlaan",,,relation
 "Avenue des Sophoras - Sophoraslaan",,,way
 "Avenue des Sorbiers - Lijsterbessebomenlaan",,,way
@@ -1210,6 +1213,7 @@ GR,,,way
 "Galerie du Roi - Koningsgalerij",,,way
 "Gallerie Sauvage Decor - Sauvage Decorgalerij",,,way
 Gentsesteenweg,,,way
+"Godefroid de Bouillon - Godfried van Bouillon",,,way
 "Grand-Place - Grote Markt",,,relation
 "Grande Avenue",,,way
 "Grande Rue au Bois - Grote Bosstraat",,,relation
@@ -1268,7 +1272,7 @@ Karrenberg,,,way
 Kasteelhof,,,relation
 Kattenberg,,,way
 Kauwberg,,,way
-"Kauwberg - Broekweg",,,way
+Kauwberg-Broekweg,,,way
 Kerkedelle,,,relation
 Kleinenberg,,,relation
 Kleinenbergstraat,,,way
@@ -1363,6 +1367,7 @@ Pannenhuisplein,,,way
 "Petite rue du Nord - Korte Noordstraat",,,relation
 "Place Basse - Laagplein",,,way
 "Place Communale - Gemeenteplaats",,,relation
+"Place Communale d'Auderghem - Gemeenteplein van Oudergem",,,way
 "Place De Linde - De Lindeplein",,,relation
 "Place De Moor - De Moorplein",,,way
 "Place Dewandre - Dewandreplein",,,relation
@@ -1373,7 +1378,6 @@ Pannenhuisplein,,,way
 "Place Sainte-Croix - Heilig-Kruisplein",,,relation
 "Place Terdelt - Terdeltplein",,,relation
 "Place Van Hoegaerde - Van Hoegaerdeplein",,,relation
-"Place communale d’Auderghem - Gemeenteplein van Oudergem",,,way
 "Place d'Espagne - Spanjeplein",,,relation
 "Place de Bastogne - Bastenakenplein",,,relation
 "Place de Belgique - Belgieplein",,,relation
@@ -1404,6 +1408,7 @@ Pannenhuisplein,,,way
 "Place de la Constitution - Grondwetplein",,,way
 "Place de la Croix-Rouge - Rode-Kruisplein",,,relation
 "Place de la Demi-Lune - Halvemaanplein",,,relation
+"Place de la Dynastie - Vorstenhuisplein",,,way
 "Place de la Fleur de Blé - Korenbloemplein",,,relation
 "Place de la Forêt Noire - Zwarte Woudplein",,,way
 "Place de la Gare - Stationsplein",,,relation
@@ -1481,7 +1486,6 @@ Pannenhuisplein,,,way
 "Place du Tomberg - Tombergplein",,,relation
 "Place du Trône - Troonplein",,,relation
 "Place du White Star - White Starplein",,,relation
-"Place du jeu de balle",,,way
 "Placette de l'Alizé - Alizépleintje",,,way
 "Placette du Peuplier - Populierpleintje",,,way
 "Plaine des Loisirs - Lustplein",,,relation
@@ -1599,6 +1603,7 @@ Roeierspad,,,way
 "Rue Drootbeek - Drootbeekstraat",,,relation
 "Rue Ducale - Hertogstraat",,,relation
 "Rue Duydelle - Duydellestraat",,,relation
+"Rue Edmond Rostand - Edmond Rostandstraat",,,relation
 "Rue Edouard Michiels - Edouard Michielsstraat",,,way
 "Rue Égide Van Ophem - Égide Van Ophemstraat",,,way
 "Rue Eigenhuis - Eigenhuisstraat",,,way
@@ -2977,6 +2982,7 @@ Schoolgat,,,relation
 "Sentier de Waterloo - Waterloopad",,,way
 "Sentier de l'Améthyste - Amethistpad",,,way
 "Sentier de l'Embarcadère - Steigerpad",,,way
+"Sentier de l'élagueur - Snoeierspad",,,way
 "Sentier de la Cambre - Ter Kamerenvoetpad",,,way
 "Sentier de la Drève - Dreefpad",,,relation
 "Sentier de la Duchesse - Hertoginnenpad",,,way
