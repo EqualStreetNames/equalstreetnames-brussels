@@ -804,8 +804,8 @@ Brusselstraat,,,way
 "Carré Sersté - Serstéblok",,,way
 "Carré Stevens - Stevensblok",,,way
 "Carré Tillens - Tillensblok",,,relation
+"Carré aux Platanes - Platanenwijk",,,relation
 "Carré des Herbes Sauvages - Wildehoek",,,relation
-"Carré des Platanes - Platanenwijk",,,relation
 "Carrefour Jean Monnet - Jean Monnet Kruispunt",,,way
 "Carrefour de l'Europe - Europakruispunt",,,way
 "Carrefour des Attelages - Gespanhoek",,,way
@@ -1622,6 +1622,7 @@ Roeierspad,,,way
 "Rue Gabrielle - Gabriellestraat",,,way
 "Rue Geleytsbeek - Geleytsbeekstraat",,,way
 "Rue George-dit-Marchal - George-dit-Marchalstraat",,,relation
+"Rue Georges Huygens - Georges Huygensstraat",,,way
 "Rue Gratès - Gratèsstraat",,,way
 "Rue Groeselenberg - Groeselenbergstraat",,,relation
 "Rue Haberman - Habermanstraat",,,relation
@@ -3170,7 +3171,6 @@ Vrijheidsstraat,,,way
 "Watermael Shopping",,,way
 "Wekkergang - Impasse du Réveil",,,way
 Welriekendedreef,,,way
-"Wezembeeklaan - Avenue de Wezembeek",,,relation
 Windmolenberg,,,relation
 Woluwelaan,,,way
 Woluwepad,,,way

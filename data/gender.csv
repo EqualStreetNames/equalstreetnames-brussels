@@ -620,7 +620,7 @@ name,gender,wikidata,type
 "Avenue du Roi-Soldat - Koning-Soldaatlaan",M,Q55008046,relation
 "Avenue van der Meerschen - van der Meerschenlaan",M,Q27894060,relation
 "Boulevard Adolphe Max - Adolphe Maxlaan",M,Q2535128,way
-"Boulevard Anspach - Anspachlaan",M,Q462143,relation
+"Boulevard Anspach - Anspachlaan",M,Q462143,way
 "Boulevard Aristide Briand - Aristide Briandlaan",M,Q179888,relation
 "Boulevard Auguste Reyers - Auguste Reyerslaan",M,Q2871374,relation
 "Boulevard Barthélémy - Barthelemylaan",M,Q2361218,way
@@ -709,6 +709,7 @@ name,gender,wikidata,type
 "Drève Joseph Vanderborght - Joseph Vanderborghtdreef",M,Q3185718,way
 "Drève Recteur Van Waeyenbergh - Rector Van Waeyenberghdreef",M,Q2248867,way
 "Drève Saint-Hubert - Sint-Hubertusdreef",M,Q159834,relation
+"Esplanade Jacques Brel - Jacques Brelesplanade",M,Q1666,way
 "Esplanade Paul-Henri Spaak - Paul-Henri Spaakvoorplein",M,Q155691,way
 "Froebelstraat - Rue Froebel",M,Q76679,way
 "Galerie Horta - Hortagalerij",M,Q49744,way
@@ -1256,7 +1257,6 @@ name,gender,wikidata,type
 "Rue Général Wangermée - Generaal Wangerméestraat",M,Q8078321,relation
 "Rue Georges De Lombaerde - Georges De Lombaerdestraat",M,Q96438985,relation
 "Rue Georges Garnir - Georges Garnirstraat",M,Q3101589,relation
-"Rue Georges Huygens - Georges Huygensstraat",M,Q3102902,way
 "Rue Georges Leclercq - Georges Leclercqstraat",M,Q3103063,relation
 "Rue Georges Lorand - Georges Lorandstraat",M,Q3103110,relation
 "Rue Georges Matheus - Georges Matheusstraat",M,Q96439331,relation
