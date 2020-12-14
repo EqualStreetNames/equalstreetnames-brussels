@@ -858,6 +858,7 @@ Cauter,,,relation
 "Chaussée de la Hulpe - Terhulpsesteenweg",,,way
 "Chemin Avijl - Avijlweg",,,way
 "Chemin Berckmans - Berckmansweg",,,way
+"Chemin Edmond Galoppin",,,way
 "Chemin Endymion - Endymionweg",,,way
 "Chemin Herlinde et Théobald - Herlinde en Theobaldweg",,,way
 "Chemin Longchamp - Longchamppad",,,way
@@ -960,10 +961,9 @@ Cauter,,,relation
 "Chemin du Rouge-Gorge - Roodborstjesweg",,,way
 "Chemin du Soir - Avondpad",,,way
 "Chemin du Struykbeken - Struykbekenweg",,,way
-"Chemin du Tir à l'Arc - Boogschuttersweg",,,way
 "Chemin du Vellemolen - Vellemolenweg",,,way
 "Chemin du Vossegat - Vossegatweg",,,way
-"Chemin du tir à l'arc -    Boogschuttersweg",,,way
+"Chemin du tir à l'arc - Boogschuttersweg",,,way
 "Chemin privé 't Cortenbosch - Private Weg 't Cortenbosch",,,relation
 "Cité Ouvrière de Linthout - Linthoutse Werkmanswoonwijk",,,relation
 "Cité du Sureau - Vlierwijk",,,way
@@ -1333,11 +1333,13 @@ Pannenhuisplein,,,way
 "Parvis Chantecler - Canteclaervoorplein",,,way
 "Parvis Saint-Gilles - Sint-Gillisvoorplein",,,relation
 "Parvis de la Trinité - Drievuldigheidsvoorplein",,,way
+"Passage Chambon - Chambondoorgang",,,way
 "Passage de la Vecquée - Vecquéepassage",,,relation
 "Passage des Citronniers - Citroenbomendoorgang",,,way
 "Passage du Nord - Noorddoorgang",,,way
 "Passage du Soleil Couchant - Avondzonpassage",,,way
 "Passerelle Gosselies",,,way
+"Passerelle de la Chaussée de Stockel - Passerelle Stokkelsesteenweg",,,way
 "Pentathlonlaan - Avenue du Pentathlon",,,way
 "Perk straat / Rue Perk",,,way
 "Perkstraat - Rue de Perk",,,way
@@ -1491,6 +1493,7 @@ Pannenhuisplein,,,way
 "Placette de l'Alizé - Alizépleintje",,,way
 "Placette du Peuplier - Populierpleintje",,,way
 "Plaine des Loisirs - Lustplein",,,relation
+"Plaine du tir à l'arc - Boogschuttersplein",,,way
 Plattesteen,,,way
 "Pont de Buda - Budabrug",,,way
 "Pont du Cerf - Hertbrugge",,,relation
@@ -1639,6 +1642,7 @@ Roeierspad,,,way
 "Rue Hydraulique - Waterkrachtstraat",,,relation
 "Rue Jean Van Lierde - Jean Van Lierdestraat",,,relation
 "Rue Josaphat - Josafatstraat",,,relation
+"Rue José Van Damme - José Van Dammestraat",,,way
 "Rue Juste Lipse - Justus Lipsusstraat",,,way
 "Rue Karel Bogaerd - Karel Bogaerdstraat",,,relation
 "Rue Kasterlinden - Kasterlindenstraat",,,relation
@@ -2984,8 +2988,8 @@ Schoolgat,,,relation
 "Sentier de Grasdelle - Grasdellepad",,,way
 "Sentier de Waterloo - Waterloopad",,,way
 "Sentier de l'Améthyste - Amethistpad",,,way
+"Sentier de l'Élagueur - Snoeierspad",,,way
 "Sentier de l'Embarcadère - Steigerpad",,,way
-"Sentier de l'élagueur - Snoeierspad",,,way
 "Sentier de la Cambre - Ter Kamerenvoetpad",,,way
 "Sentier de la Drève - Dreefpad",,,relation
 "Sentier de la Duchesse - Hertoginnenpad",,,way
@@ -3037,6 +3041,8 @@ Schoolgat,,,relation
 "Sentier du Jade - Jadepad",,,way
 "Sentier du Lévrier - Windhondweg",,,way
 "Sentier du Martin Pêcheur - IJsvogelvoetpad",,,way
+"Sentier du Moulin à eau - Watermolenpad",,,way
+"Sentier du Pèlerin - Pelgrimspad",,,way
 "Sentier du Setter - Setterweg",,,way
 "Sentier du Vallon des Chênes - Eikendalpad",,,way
 "Sentier du Vallon des Chênes - Eikendalvoetpad",,,way
@@ -3064,6 +3070,7 @@ Sparrenweg,,,way
 "Square Louisa - Louisaplantsoen",,,relation
 "Square Omer Denis - Omer Denissquare",,,way
 "Square Patrice Lumumba - Patrice Lumumbasquare",,,way
+"Square Princesse Jean de Mérode - Prinses Jean de Mérodeplein",,,way
 "Square Velghe - Velghesquare",,,way
 "Square Willy Authom - Willy Authomsquare",,,way
 "Square de Biarritz - Biarritzsquare",,,relation

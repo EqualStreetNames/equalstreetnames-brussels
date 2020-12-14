@@ -130,7 +130,6 @@ name,gender,wikidata,type
 "Square Marie-José - Marie-Joséplein",F,Q72919,relation
 "Square Marie-Louise - Maria-Louizasquare",F,Q157491,relation
 "Square Maurane - Mauranesquare",F,Q509029,way
-"Square Princesse Jean de Mérode - Prinses Jean de Mérodeplein",F,Q88582478,way
 "Tunnel Louise - Louizatunnel",F,Q237318,way
 "Allée Albert Dasnoy - Albert Dasnoydreef",M,Q2831077,way
 "Allée André Franquin - André Franquindreef",M,Q281411,way
@@ -180,7 +179,7 @@ name,gender,wikidata,type
 "Avenue Albert - Albertlaan",M,Q55008046,way
 "Avenue Albert Brachet - Albert Brachetlaan",M,Q1921361,relation
 "Avenue Albert De Coster - Albert De Costerlaan",M,Q15869653,relation
-"Avenue Albert Desenfans - Albert Desenfanslaan",M,Q2630662,way
+"Avenue Albert Desenfans - Albert Desenfanslaan",M,Q2630662,relation
 "Avenue Albert Dumont - Albert Dumontlaan",M,Q2831134,relation
 "Avenue Albert Giraud - Albert Giraudlaan",M,Q972661,relation
 "Avenue Albert Jonnart - Albert Jonnartlaan",M,Q2831277,relation
@@ -1074,7 +1073,7 @@ name,gender,wikidata,type
 "Rue Docteur Charles Beudin - Dokter Charles Beudinstraat",M,Q94918888,relation
 "Rue Docteur Charles Leemans - Dokter Charles Leemansstraat",M,Q94919535,relation
 "Rue Docteur Dryepondt - Dokter Dryepondtstraat",M,Q94920254,relation
-"Rue Docteur Elie Lambotte - Dokter Elie Lambottestraat",M,Q94920903,relation
+"Rue Docteur Élie Lambotte - Dokter Élie Lambottestraat",M,Q94920903,relation
 "Rue Docteur Huet - Dokter Huetstraat",M,Q94921194,relation
 "Rue Docteur Jacobs - Dokter Jacobsstraat",M,Q94922062,relation
 "Rue Docteur Roux - Dokter Rouxstraat",M,Q286440,relation
@@ -1374,6 +1373,7 @@ name,gender,wikidata,type
 "Rue Jenneval - Jennevalstraat",M,Q1377731,relation
 "Rue John Waterloo Wilson - John Waterloo Wilsonstraat",M,Q18810465,relation
 "Rue Jolly - Jollystraat",M,Q519977,relation
+"Rue José Van Damme - José Van Dammestraat",M,Q52225103,way
 "Rue Joseph Aernaut - Joseph Aernautstraat",M,Q55770532,relation
 "Rue Joseph Coosemans - Joseph Coosemansstraat",M,Q3184785,relation
 "Rue Joseph Diongre - Joseph Diongrestraat",M,Q2472963,relation
