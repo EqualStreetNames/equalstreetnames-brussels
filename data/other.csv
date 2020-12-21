@@ -750,7 +750,7 @@ Antwerpselaan,,,way
 "Avenue du Vossegat - Vossegatlaan",,,way
 "Avenue du Yorkshire - Yorkshirelaan",,,relation
 "Avenue ten Horen - ten Horenlaan",,,relation
-"Barrière Saint-Gilles - Bareel van Sint-Gillis",,,way
+"Barrière de Saint-Gilles - Bareel van Sint-Gillis",,,way
 Berensheide,,,relation
 Beukenberg,,,way
 "Bocage des Myosotis",,,way
@@ -791,7 +791,6 @@ Bosveldweg,,,way
 "Boulevard du Souverain - Vorstlaan",,,relation
 "Boulevard du Triomphe - Triomflaan",,,relation
 Bovenberg,,,relation
-"Brillengang - Impasse des Lunettes",,,way
 "Brouwerijstraat - François Vervloetstraat",,,way
 Brusselstraat,,,way
 "Cantersteen - Kantersteen",,,way
@@ -1179,7 +1178,6 @@ Donderberg,,,relation
 "Drève du Sénéchal - Landvoogddreef",,,way
 "Drève du Tambour - Tamboerdreef",,,way
 "Drève du Tastevin - Tastevindreef",,,relation
-"Driekoningenstraat - Rue des Trois Rois",,,way
 Dries,,,way
 Duivenschietweg,,,way
 "Eden City",,,way
@@ -1191,6 +1189,7 @@ Duivenschietweg,,,way
 "Esplanade of the European Parliament",,,way
 Europaesplanade,,,way
 "F212 Fietssnelweg Asse-Brussel",,,way
+"Fond de vallée - Beneden in het dal",,,way
 "Font Saint Landry - Sint Lendriksborre",,,relation
 GR,,,way
 "GR 126",,,way
@@ -1256,6 +1255,7 @@ Hunderenveld,,,relation
 "Impasse des Chansons - Liedjesgang",,,way
 "Impasse des Combattants - Strijdersgang",,,relation
 "Impasse des Groseilles - Aalbessengang",,,way
+"Impasse des Lunettes - Brillengang",,,way
 "Impasse des Matelots - Matrozengang",,,relation
 "Impasse des Métiers - Ambachtengang",,,way
 "Impasse des Usines - Werkhuizengang",,,relation
@@ -1321,12 +1321,12 @@ Neerleest,,,relation
 "Nekkersgatlaan - Avenue Nekkersgat",,,way
 "Ninoofseplein - Place de Ninove",,,relation
 Noendelle,,,relation
+"Oppemlaan - Avenue d'Oppem",,,way
 Opstalweg,,,way
 "Oude Molenstraat",,,way
 "Oudijzergang - Impasse de la Ferraille",,,way
 "Paardentunnel Leonard",,,way
 Pachthoevestraat,,,way
-Pannenhuisplein,,,way
 "Panoramastraat - Rue du Panorama",,,way
 "Parc du Peterbos - Peterbospark",,,relation
 "Parcours méditatif du parc du Vogelzang - Meditatieparcours Vogelzangpark",,,way
@@ -2595,8 +2595,7 @@ Roeierspad,,,way
 "Rue des Trois Arbres - Drie Bomenstraat",,,way
 "Rue des Trois Pertuis - Driegatenstraat",,,relation
 "Rue des Trois Ponts - Driebruggenstraat",,,relation
-"Rue des Trois Rois - Drie Koningenstraat",,,way
-"Rue des Trois Rois - Driekoningenstraat",,,way
+"Rue des Trois Rois - Drie Koningenstraat",,,relation
 "Rue des Trois Tilleuls - Drie Lindenstraat",,,way
 "Rue des Tubéreuses - Tuberozenstraat",,,way
 "Rue des Ursulines - Ursulinenstraat",,,relation
@@ -3131,6 +3130,7 @@ Stuyvenberg,,,relation
 Sukkelweg,,,way
 "Tenbosch - Tenbos",,,way
 Tenreuken,,,way
+Tentoonstellingslaan,,,way
 Terhulpsesteenweg,,,way
 "The Mint",,,way
 "Théatre de verdure",,,way
@@ -3183,5 +3183,4 @@ Welriekendedreef,,,way
 Windmolenberg,,,relation
 Woluwelaan,,,way
 Woluwepad,,,way
-Zuidlaan,,,way
 "Zwarte Pijnbomenlaan",,,way
