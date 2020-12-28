@@ -1213,7 +1213,6 @@ GR,,,way
 "Galerie du Roi - Koningsgalerij",,,way
 "Gallerie Sauvage Decor - Sauvage Decorgalerij",,,way
 Gentsesteenweg,,,way
-"Godefroid de Bouillon - Godfried van Bouillon",,,way
 "Grand-Place - Grote Markt",,,relation
 "Grande Avenue",,,way
 "Grande Rue au Bois - Grote Bosstraat",,,relation
@@ -1305,7 +1304,6 @@ Mariënsteen,,,relation
 Meir,,,way
 Middelweg,,,relation
 Moensberg,,,way
-"Moensberg - Moensberg",,,way
 Molenweg,,,way
 "Mont des Arts - Kunstberg",,,relation
 "Mont du Cinquantenaire - Jubelberg",,,relation
@@ -1341,7 +1339,6 @@ Pachthoevestraat,,,way
 "Passerelle Gosselies",,,way
 "Passerelle de la Chaussée de Stockel - Passerelle Stokkelsesteenweg",,,way
 "Pentathlonlaan - Avenue du Pentathlon",,,way
-"Perk straat / Rue Perk",,,way
 "Perkstraat - Rue de Perk",,,way
 "Petit chemin Vert - Korte Groenweg",,,relation
 "Petite Drève du Maréchal - Maarschalkdreefje",,,way
@@ -1643,7 +1640,7 @@ Roeierspad,,,way
 "Rue Jean Van Lierde - Jean Van Lierdestraat",,,relation
 "Rue Josaphat - Josafatstraat",,,relation
 "Rue José Van Damme - José Van Dammestraat",,,way
-"Rue Juste Lipse - Justus Lipsusstraat",,,way
+"Rue Juste Lipse - Justus Lipsiusstraat",,,way
 "Rue Karel Bogaerd - Karel Bogaerdstraat",,,relation
 "Rue Kasterlinden - Kasterlindenstraat",,,relation
 "Rue Katteput - Katteputstraat",,,relation
@@ -1749,7 +1746,7 @@ Roeierspad,,,way
 "Rue Verrept-Dekeyser - Verrept-Dekeyserstraat",,,relation
 "Rue Verte - Groenstraat",,,relation
 "Rue Villa Hermosa - Villa Hermosastraat",,,way
-"Rue Vlazendael - Vlazendaalstraat",,,relation
+"Rue Vlasendael - Vlazendaalstraat",,,relation
 "Rue Volta - Voltastraat",,,relation
 "Rue Voot - Vootstraat",,,relation
 "Rue Waelhem - Waelhemstraat",,,relation
@@ -2041,7 +2038,7 @@ Roeierspad,,,way
 "Rue de l'Étoile Polaire - Poolsterstraat",,,relation
 "Rue de l'Etourneau - Spreeuwstraat",,,way
 "Rue de l'Étuve - Stoofstraat",,,way
-"Rue de l'Eventail - Waaierstraat",,,relation
+"Rue de l'Éventail - Waaierstraat",,,relation
 "Rue de l'Évêque - Bisschopsstraat",,,way
 "Rue de l'Evolution - Ontwikkelingstraat",,,relation
 "Rue de l'Expansion - Uitbreidingsstraat",,,relation
@@ -3174,7 +3171,6 @@ Vlieraardeweg,,,way
 "Voie 2 - Spoor 2",,,way
 "Voiliergang - Impasse de la Giroflee",,,way
 Vrijheidsstraat,,,way
-"Waaierstraat - Rue de l'Eventail",,,way
 "Waterloopad - Sentier de Waterloo",,,way
 "Waterloose Steenweg",,,relation
 "Watermael Shopping",,,way
