@@ -119,6 +119,8 @@ Romeinsesteenweg,,Q194029,way
 "Venelle de Saint-Job - Sint-Jobsteeg",,Q1927235,way
 "Venelle du Boson - Bosonsteeg",,Q43101,way
 "'t Hof te Overbeke",,,relation
+"2ème avenue - 2e laan",,,way
+"3ème avenue - 3e laan",,,way
 "Abbaye - Abdij",,,relation
 "Allée Hof ter Vleest - Hof ter Vleestdreef",,,relation
 "Allée Verte - Groendreef",,,relation
@@ -146,7 +148,7 @@ Romeinsesteenweg,,Q194029,way
 "Allée du Turf - Turfdreef",,,way
 "Allées de Provence - Provencewandelwegen",,,relation
 "Allées du Languedoc - Languedocwandelwegen",,,relation
-"Alsembergsesteenweg - Chaussée d’Alsemberg",,,way
+Alsembergsesteenweg,,,way
 "Altitude Cent - Hoogte Honderd",,,way
 "Ancien Dieweg - Oude Dieweg",,,relation
 "Ancien Middelweg - Oude Middelweg",,,way
@@ -191,7 +193,7 @@ Antwerpselaan,,,way
 "Avenue Monplaisir - Monplaisirlaan",,,way
 "Avenue Montana - Montanalaan",,,way
 "Avenue Montjoie - Montjoielaan",,,way
-"Avenue Monumentale",,,way
+"Avenue Monumentale - Monumentale Laan",,,way
 "Avenue Moscicki - Moscickilaan",,,way
 "Avenue Mostinck - Mostincklaan",,,relation
 "Avenue Mutsaard - Mutsaardlaan",,,relation
@@ -281,7 +283,6 @@ Antwerpselaan,,,way
 "Avenue de Visé - Visélaan",,,way
 "Avenue de Watermael - Watermaalselaan",,,way
 "Avenue de Wezembeek - Wezembeeklaan",,,relation
-"Avenue de Witthem - Witthemlaan",,,relation
 "Avenue de l'Aéroplane - Vliegtuiglaan",,,relation
 "Avenue de l'Agneau - Lamlaan",,,way
 "Avenue de l'Aigle - Arendlaan",,,relation
@@ -1214,7 +1215,7 @@ GR,,,way
 "Gallerie Sauvage Decor - Sauvage Decorgalerij",,,way
 Gentsesteenweg,,,way
 "Grand-Place - Grote Markt",,,relation
-"Grande Avenue",,,way
+"Grande Avenue - Grote Laan",,,way
 "Grande Rue au Bois - Grote Bosstraat",,,relation
 Grensstraat,,,relation
 Groenenberg,,,relation
@@ -1539,16 +1540,16 @@ Plattesteen,,,way
 "Rapenstraat - Rue des Navets",,,way
 Roeierspad,,,way
 "Rond Point de la Liberté - Vrijheidsrotonde",,,way
+"Rond Point des Alliés - Rond Plein der Geallieerden",,,way
+"Rond Point des Bourgmestres - Rond Plein der Burgemeesters",,,way
+"Rond Point du Nord - Noorder Rond Plein",,,way
 "Rond Point du Pannenhuis - Pannenhuisplein",,,relation
 "Rond-Point Hermès - Hermesplein",,,way
 "Rond-Point de l'Étoile - Sterreplein",,,relation
 "Rond-Point de la Cité Jardin - Tuinwijkplein",,,relation
 "Rond-Point du Meir - Meerplein",,,relation
 "Rond-Point du Souverain - Vorstrondpunt",,,way
-"Rond-point des Allemands",,,way
-"Rond-point des Alliés",,,way
-"Rond-point des bourgmestres - Rond Punt der Burgemeesters",,,way
-"Rond-point du Nord",,,way
+"Rond-point des Allemands - Rond Plein der Duitsen",,,way
 "Route Gouvernementale - Goevernementsweg",,,relation
 "Route Gouvernementale - Goevernementsweg / Gouvernementsweg",,,way
 "Route de Lennik - Lennikse Baan",,,relation
