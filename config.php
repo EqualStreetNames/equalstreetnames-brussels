@@ -3,6 +3,8 @@
 declare(strict_types=1);
 
 return [
+    'relationId' => 54094,
+
     'languages' => ['de', 'en', 'fr', 'nl'],
 
     'exclude' => [
