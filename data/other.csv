@@ -921,7 +921,6 @@ Cauter,,,relation
 "Chemin des Pins - Pijnbomenweg",,,way
 "Chemin des Primevères - Sleutelbloemenweg",,,way
 "Chemin des Roses - Rozenweg",,,way
-"Chemin des Serres",,,way
 "Chemin des Silex - Vuurkeienweg",,,way
 "Chemin des Silex - Vuursteenweg",,,way
 "Chemin des Sœurs Schampaert - Gezusters Schampaertweg",,,way
@@ -930,6 +929,7 @@ Cauter,,,relation
 "Chemin des Tigelles - Stengeltjesweg",,,relation
 "Chemin des Traqueurs - Drijversweg",,,way
 "Chemin des Tumuli - Tumuliweg",,,way
+"Chemin des serres - Weg naar de serres",,,way
 "Chemin du Bonheur - Geluksweg",,,way
 "Chemin du Braakveld - Baakveldweg",,,way
 "Chemin du Château Martha - Kasteel Marthaweg",,,way
@@ -2720,7 +2720,7 @@ Roeierspad,,,way
 "Rue du Cyprès - Cipresstraat",,,way
 "Rue du Dahlia - Dahliastraat",,,relation
 "Rue du Dam - Dam",,,way
-"Rue du Damier - Dambordstraat",,,way
+"Rue du Damier - Dambordstraat",,,relation
 "Rue du Delta - Deltastraat",,,relation
 "Rue du Développement - Ontwikkelingsstraat",,,relation
 "Rue du Devoir - Plichtstraat",,,relation
