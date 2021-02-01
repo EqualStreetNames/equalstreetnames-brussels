@@ -86,7 +86,6 @@ name,gender,wikidata,type
 "Place du Chat Botté - Gelaarsde Katplein",,Q11834,way
 "Pont Borée - Boreabrug",,Q109220,way
 "Porte de Tervueren - Tervuursepoort",,Q456544,way
-Romeinsesteenweg,,Q194029,way
 "Rond-Point Boule et Bill - Bollie en Billierotonde",,Q59991,way
 "Rue Guillaume Tell - Willem Tellstraat",,Q30908,relation
 "Rue Ravenstein - Ravensteinstraat",,Q3145650,way
@@ -1268,6 +1267,7 @@ Hunderenveld,,,relation
 Indringingsweg,,,way
 Jagersveld,,,way
 "Jardin des Justes - Tuin der Rechtvaardingen",,,way
+"Jozef Van Elewijckstraat",,,way
 Karrenberg,,,way
 Kasteelhof,,,relation
 Kattenberg,,,way
