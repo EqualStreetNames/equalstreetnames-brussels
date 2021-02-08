@@ -99,6 +99,7 @@ name,gender,wikidata,type
 "Rue de Louvain - Leuvenseweg",,Q118958,relation
 "Rue de Mérode - de Mérodestraat",,Q1568461,relation
 "Rue de Robiano - de Robianostraat",,Q2471094,relation
+"Rue de l'Écuyer - Schildknaapsstraat",,Q579516,way
 "Rue de l'Ode - Odestraat",,Q178985,relation
 "Rue de l'Onyx - Onyxstraat",,Q180884,way
 "Rue des Atrébates - Atrebatenstraat",,Q164811,relation
@@ -1639,7 +1640,6 @@ Roeierspad,,,way
 "Rue Hydraulique - Waterkrachtstraat",,,relation
 "Rue Jean Van Lierde - Jean Van Lierdestraat",,,relation
 "Rue Josaphat - Josafatstraat",,,relation
-"Rue José Van Damme - José Van Dammestraat",,,way
 "Rue Juste Lipse - Justus Lipsiusstraat",,,way
 "Rue Karel Bogaerd - Karel Bogaerdstraat",,,relation
 "Rue Kasterlinden - Kasterlindenstraat",,,relation
@@ -1995,7 +1995,6 @@ Roeierspad,,,way
 "Rue de l'Ecole Moderne - Moderne-Schoolstraat",,,relation
 "Rue de l'Économie - Zuinigheidsstraat",,,relation
 "Rue de l'Écuelle - Napstraat",,,relation
-"Rue de l'Écuyer - Schildknaapsstraat",,,way
 "Rue de l'Education - Opvoedingsstraat",,,relation
 "Rue de l'Égalité - Gelijkheidstraat",,,relation
 "Rue de l'Église - Kerkstraat",,,relation
