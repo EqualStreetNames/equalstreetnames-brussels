@@ -1328,6 +1328,7 @@ name,gender,wikidata,type
 "Rue Herman - Hermanstraat",M,Q3165654,way
 "Rue Herman Richir - Herman Richirstraat",M,Q3134084,relation
 "Rue Herrewege - Herrewegestraat",M,Q168039,relation
+"Rue Heyvaert - Heyvaertstraat",M,Q2127657,relation
 "Rue Hobbema - Hobbemastraat",M,Q336908,relation
 "Rue Homère - Homerusstraat",M,Q6691,relation
 "Rue Horace - Horatiusstraat",M,Q6197,relation
@@ -1563,9 +1564,11 @@ name,gender,wikidata,type
 "Rue Rubens - Rubensstraat",M,Q5599,relation
 "Rue Ruysdael - Ruysdaelstraat",M,Q213612,relation
 "Rue Saint Guidon - Sint-Guidostraat",M,Q1553720,relation
+"Rue Saint-Christophe - Sint-Kristoffelsstraat",M,Q193507,way
 "Rue Saint-Ghislain - Sint-Gisleinsstraat",M,Q740017,relation
 "Rue Saint-Hubert - Sint-Huibrechtsstraat",M,Q159834,relation
 "Rue Saint-Jean Népomucène - Sint-Jan Nepomucenusstraat",M,Q221522,way
+"Rue Saint-Joseph - Sint-Jozefstraat",M,Q128267,relation
 "Rue Saint-Lambert - Sint-Lambertusstraat",M,Q283447,relation
 "Rue Saint-Nicolas - Sint-Nikolaasstraat",M,Q44269,relation
 "Rue Saint-Norbert - Sint-Norbertusstraat",M,Q160374,relation
@@ -1645,6 +1648,7 @@ name,gender,wikidata,type
 "Rue Verwée - Verwéestraat",M,Q2835508,way
 "Rue Vésale - Vesaliusstraat",M,Q170267,way
 "Rue Veydt - Veydtstraat",M,Q85436592,way
+"Rue Victor Allard - Victor Allardstraat",M,Q734526,way
 "Rue Victor Greyson - Victor Greysonstraat",M,Q85421688,relation
 "Rue Victor Hugo - Victor Hugostraat",M,Q535,relation
 "Rue Victor Lefèvre - Victor Lefèvrestraat",M,Q3557414,relation
@@ -1811,10 +1815,6 @@ name,gender,wikidata,type
 "Avenue Saint-Jean - Sint-Janslaan",M,,relation
 "Avenue des Frères Goemaere - Gebroeders Goemaerelaan",M,,way
 "Avenue des Frères Legrain - Gebroeders Legrainlaan",M,,way
-"Impasse Madrille - Madrillegang",M,,way
-"Impasse Ronsmans - Ronsmansgang",M,,way
-"Parvis Saint-Henri - Sint-Hendriksvoorplein",M,,relation
-"Place Surlet de Chokier",M,,way
 "Rue Beeckman - Beeckmanstraat",M,,way
 "Rue Berckmans - Berckmansstraat",M,,relation
 "Rue Blanche - Blanchestraat",M,,way
@@ -1822,282 +1822,13 @@ name,gender,wikidata,type
 "Rue Coenraets - Coenraetsstraat",M,,relation
 "Rue Doyen Adriaens - Deken Adriaensstraat",M,,relation
 "Rue Doyen Fierens - Deken Fierensstraat",M,,relation
-"Rue Félix De Cuyper - Félix De Cuyperstraat",M,,relation
 "Rue François Gérard - François Gérardstraat",M,,relation
 "Rue François Janssens - François Janssensstraat",M,,relation
 "Rue Général Michel - Generaal Michelstraat",M,,relation
 "Rue Général Ruquoy - Generaal Ruquoystraat",M,,relation
 "Rue Gillebertus - Gillebertusstraat",M,,relation
-"Rue Haeck - Haeckstraat",M,,relation
-"Rue Hancart - Hancartstraat",M,,way
-"Rue Hector Genard - Hector Genardstraat",M,,relation
-"Rue Henri Caron - Henri Caronstraat",M,,relation
-"Rue Henri Chomé - Henri Choméstraat",M,,relation
-"Rue Henri De Saegher - Henri De Saegherstraat",M,,relation
-"Rue Henri Huybreghts - Henri Huybreghtsstraat",M,,relation
-"Rue Henri Maes - Henri Maesstraat",M,,relation
-"Rue Henri Maubel - Henri Maubelstraat",M,,way
-"Rue Henri Meuwis - Henri Meuwisstraat",M,,relation
-"Rue Henri Nogent - Henri Nogentstraat",M,,relation
-"Rue Henri Van Antwerpen - Henri Van Antwerpenstraat",M,,way
-"Rue Henri Van Bortonne - Henri Van Bortonnestraat",M,,relation
-"Rue Henri Van Hamme - Hendrik Van Hammestraat",M,,relation
-"Rue Henri Van Nerom - Hendrik Van Neromstraat",M,,relation
-"Rue Henri Van Zuylen - Henri Van Zuylenstraat",M,,relation
-"Rue Henri Vandermaelen - Henri Vandermaelenstraat",M,,relation
-"Rue Henri Vandersaenen - Henri Vandersaenenstraat",M,,relation
-"Rue Henri Ver Eycken - Henri Ver Eyckenstraat",M,,way
-"Rue Henri Wafelaerts - Henri Wafelaertsstraat",M,,way
-"Rue Henri de Braeckeleer - Henri de Braeckeleerstraat",M,,relation
-"Rue Henri-François Moreels - Henri-François Moreelsstraat",M,,way
-"Rue Henrotte - Henrottestraat",M,,relation
-"Rue Heyvaert - Heyvaertstraat",M,,relation
-"Rue Honoré Longtin - Honoré Longtinstraat",M,,relation
-"Rue Hoorickx - Hoorickxstraat",M,,relation
-"Rue Hubert Blauwet - Hubert Blauwetstraat",M,,relation
-"Rue Hubert Heymans - Hubert Heymansstraat",M,,relation
-"Rue Hubert Van Hoorde - Hubert Van Hoordestraat",M,,relation
-"Rue Hubert-Jean Coenen - Hubert-Jean Coenenstraat",M,,way
-"Rue J. B. Moyens - J. B. Moyensstraat",M,,way
-"Rue Jacques Ballings - Jaak Ballingsstraat",M,,relation
-"Rue Jacques Boon - Jacques Boonstraat",M,,relation
-"Rue Jacques Hoton - Jacques Hotonstraat",M,,relation
-"Rue Jacques Houtmeyers - Jaak Houtmeyersstraat",M,,relation
-"Rue Jacques Jansen - Jacques Jansenstraat",M,,relation
-"Rue Jacques Rayé - Jacques Rayéstraat",M,,relation
-"Rue Jan Frans De Craen - Jan Frans De Craenstraat",M,,relation
-"Rue Jan Verbesselt - Jan Verbesseltstraat",M,,relation
-"Rue Jean Ballegeer - Jean Ballegeerstraat",M,,way
-"Rue Jean Baptiste François Denys - Jean Baptiste François Denysstraat",M,,relation
-"Rue Jean Baudoux - Jean Baudouxstraat",M,,relation
-"Rue Jean Benaets - Jean Benaetsstraat",M,,way
-"Rue Jean De Greef - Jean De Greefstraat",M,,relation
-"Rue Jean Deraeck - Jean Deraeckstraat",M,,relation
-"Rue Jean Ekelmans - Jean Ekelmansstraat",M,,way
-"Rue Jean Gérard Eggericx - Jean Gérard Eggericxstraat",M,,relation
-"Rue Jean Heymans - Jean Heymansstraat",M,,relation
-"Rue Jean Jacquet - Jean Jacquetstraat",M,,relation
-"Rue Jean Lagey - Jean Lageystraat",M,,relation
-"Rue Jean Laumans - Jean Laumansstraat",M,,relation
-"Rue Jean Morjau - Jean Morjaustraat",M,,relation
-"Rue Jean Paquot - Jean Paquotstraat",M,,relation
-"Rue Jean Tiebackx - Jan Tiebackxstraat",M,,relation
-"Rue Jean Verbiest - Jean Verbieststraat",M,,relation
-"Rue Jean Wellens - Jean Wellensstraat",M,,relation
-"Rue Jean-Baptiste Baeck - Jean-Baptiste Baeckstraat",M,,relation
-"Rue Jean-Baptiste Bauwens - Jan-Baptist Bauwensstraat",M,,relation
-"Rue Jean-Baptiste Brems - Jean-Baptiste Bremsstraat",M,,relation
-"Rue Jean-Baptiste Decock - Jean-Baptiste Decockstraat",M,,relation
-"Rue Jean-Baptiste Desmeth - Jan-Baptist Desmethstraat",M,,way
-"Rue Jean-Baptiste Dumoulin - Jean-Baptiste Dumoulinstraat",M,,relation
-"Rue Jean-Baptiste Labarre - Jean-Baptiste Labarrestraat",M,,way
-"Rue Jean-Baptiste Lepage - Jean-Baptiste Lepagestraat",M,,relation
-"Rue Jean-Baptiste Serkeyn - Jean-Baptiste Serkeynstraat",M,,relation
-"Rue Jean-Baptiste Timmermans - Jean-Baptiste Timmermansstraat",M,,relation
-"Rue Jean-Baptiste Van Pagé - Jean-Baptiste Van Pagéstraat",M,,relation
-"Rue Jean-Baptiste Vandendriesch - Jean Baptiste Vandendrieschstraat",M,,relation
-"Rue Jean-Baptiste Vandercammen - Jean-Baptiste Vandercammenstraat",M,,way
-"Rue Jean-Baptiste Vannypen - Jean-Baptiste Vannypenstraat",M,,way
-"Rue Jean-Baptiste Vanpé - Jean-Baptiste Vanpéstraat",M,,relation
-"Rue Jean-Baptiste Verheyden - Jean-Baptiste Verheydenstraat",M,,relation
-"Rue Jef Devos - Jef Devosstraat",M,,relation
-"Rue Jennart - Jennartstraat",M,,relation
-"Rue Jonniaux - Jonniauxstraat",M,,relation
-"Rue Jorez - Jorezstraat",M,,relation
-"Rue Joseph Bens - Joseph Bensstraat",M,,way
-"Rue Joseph Brand - Joseph Brandstraat",M,,relation
-"Rue Joseph Buedts - Joseph Buedtsstraat",M,,relation
-"Rue Joseph Claes - Joseph Claesstraat",M,,way
-"Rue Joseph Cuylits - Joseph Cuylitsstraat",M,,way
-"Rue Joseph Dekeyn - Joseph Dekeynstraat",M,,relation
-"Rue Joseph Delhaye - Joseph Delhayestraat",M,,relation
-"Rue Joseph Druez - Joseph Druezstraat",M,,relation
-"Rue Joseph Genot - Joseph Genotstraat",M,,relation
-"Rue Joseph Hazard - Joseph Hazardstraat",M,,way
-"Rue Joseph Kelchtermans - Joseph Kelchtermansstraat",M,,relation
-"Rue Joseph Loossens - Joseph Loossensstraat",M,,relation
-"Rue Joseph Mertens - Joseph Mertensstraat",M,,relation
-"Rue Joseph Schols - Joseph Scholsstraat",M,,relation
-"Rue Joseph Schuermans - Joseph Schuermansstraat",M,,relation
-"Rue Joseph Van Boterdael - Joseph Van Boterdaelstraat",M,,relation
-"Rue Joseph Van Camp - Joseph Van Campstraat",M,,relation
-"Rue Joseph Verhasselt - Joseph Verhasseltstraat",M,,relation
-"Rue Josse De Boeck - Josse De Boeckstraat",M,,relation
-"Rue Jules Broeren - Jules Broerenstraat",M,,relation
-"Rue Jules Cockx - Jules Cockxstraat",M,,way
-"Rue Jules Debecker - Jules Debeckerstraat",M,,relation
-"Rue Jules Emile Raymond - Jules Emile Raymondstraat",M,,relation
-"Rue Jules Francqui - Jules Francquistraat",M,,relation
-"Rue Jules Ruhl - Jules Ruhlstraat",M,,relation
-"Rue Jules Vieujant - Jules Vieujantstraat",M,,relation
-"Rue Julien Vermeersch - Julien Vermeerschstraat",M,,relation
-"Rue L'Olivier - L'Olivierstraat",M,,relation
-"Rue Lacaille - Lacaillestraat",M,,relation
-"Rue Lambert Crickx - Lambert Crickxstraat",M,,relation
-"Rue Lambert Vandervelde - Lambert Vanderveldestraat",M,,way
-"Rue Laneau - Laneaustraat",M,,relation
-"Rue Lanfray - Lanfraystraat",M,,relation
-"Rue Laurent Heirbaut - Laurent Heirbautstraat",M,,relation
-"Rue Laurent Vandenhoven - Laurent Vandenhovenstraat",M,,relation
-"Rue Le Lorrain - Le Lorrainstraat",M,,relation
-"Rue Lefrancq - Lefrancqstraat",M,,relation
-"Rue Léon Autrique - Léon Autriquestraat",M,,relation
-"Rue Léon Daumerie - Léon Daumeriestraat",M,,relation
-"Rue Léon Dopéré - Léon Dopéréstraat",M,,relation
-"Rue Léon Fourez - Léon Fourezstraat",M,,relation
-"Rue Léon Matheys - Léon Matheysstraat",M,,relation
-"Rue Léon Nicodème - Léon Nicodèmestraat",M,,relation
-"Rue Léon Scampart - Léon Scampartstraat",M,,relation
-"Rue Léon Vande Woesteyne - Léon Vande Woesteynestraat",M,,way
-"Rue Léopold De Swaef - Léopold De Swaefstraat",M,,relation
-"Rue Léopold Demesmaeker - Léopold Demesmaekerstraat",M,,relation
-"Rue Léopold Procureur - Léopold Procureurstraat",M,,relation
-"Rue Leopold Rom - Leopold Romstraat",M,,relation
-"Rue Léopold Van Asbroeck - Léopold Van Asbroeckstraat",M,,way
-"Rue Lieutenant Freddy Wampach - Luitenant Freddy Wampachstraat",M,,relation
-"Rue Limauge - Limaugestraat",M,,relation
-"Rue Louis Coenen - Louis Coenenstraat",M,,way
-"Rue Louis Corhay - Louis Corhaystraat",M,,relation
-"Rue Louis De Gunst - Louis De Gunststraat",M,,relation
-"Rue Louis De Smet - Louis De Smetstraat",M,,relation
-"Rue Louis Delhove - Louis Delhovestraat",M,,relation
-"Rue Louis Hap - Louis Hapstraat",M,,relation
-"Rue Louis Isidore Lamey - Louis Isidore Lameystraat",M,,way
-"Rue Louis Marcx - Louis Marcxstraat",M,,relation
-"Rue Louis Mascré - Louis Mascréstraat",M,,relation
-"Rue Louis Socquet - Louis Socquetstraat",M,,relation
-"Rue Louis Thys - Louis Thysstraat",M,,relation
-"Rue Louis Titeca - Louis Titecastraat",M,,relation
-"Rue Louis Wittouck - Louis Wittouckstraat",M,,relation
-"Rue M. L. Uytroever - M. L. Uytroeverstraat",M,,relation
-"Rue Major Pétillon - Majoor Pétillonstraat",M,,relation
-"Rue Major René Dubreucq - Majoor René Dubreucqstraat",M,,relation
-"Rue Marcel Betbèze - Marcel Betbèzestraat",M,,relation
-"Rue Marcel Buts - Marcel Butsstraat",M,,relation
-"Rue Marcel Grüner - Marcel Grünerstraat",M,,relation
-"Rue Marcq - Marcqstraat",M,,way
-"Rue Martin Lindekens - Martin Lindekensstraat",M,,relation
-"Rue Martin Pfeiffer - Martin Pfeifferstraat",M,,relation
-"Rue Martin Van Lier - Martin Van Lierstraat",M,,relation
-"Rue Mathieu Pauwels - Mathieu Pauwelsstraat",M,,relation
-"Rue Maurice Charlent - Maurice Charlentstraat",M,,way
-"Rue Maurice De Moor - Maurice De Moorstraat",M,,relation
-"Rue Maurice Liétart - Maurice Liétartstraat",M,,way
-"Rue Maurice Xhoneux - Maurice Xhoneuxstraat",M,,relation
-"Rue Max Roos - Max Roosstraat",M,,way
-"Rue Medaets - Medaetsstraat",M,,relation
-"Rue Michel Van Nieuwenborgh - Michel Van Nieuwenborghstraat",M,,relation
-"Rue Michel Zwaab - Michel Zwaabstraat",M,,relation
-"Rue Mode Vliebergh - Mode Vlieberghstraat",M,,relation
-"Rue Mommaerts - Mommaertsstraat",M,,relation
-"Rue Moris - Morisstraat",M,,way
-"Rue Pangaert - Pangaertstraat",M,,relation
-"Rue Papenkasteel - Papenkasteelstraat",M,,way
-"Rue Paul Bossu - Paul Bossustraat",M,,relation
-"Rue Paul Lancsweert - Paul Lancsweertstraat",M,,relation
-"Rue Philippe Dewolfs - Philippe Dewolfsstraat",M,,way
-"Rue Philippe Piermez - Philippe Piermezstraat",M,,relation
-"Rue Philippe Vander Elst - Filip Vander Elststraat",M,,relation
-"Rue Pierre Alderson - Pieter Aldersonstraat",M,,relation
-"Rue Pierre Biddaer - Pierre Biddaerstraat",M,,relation
-"Rue Pierre De Cock - Pierre De Cockstraat",M,,relation
-"Rue Pierre Delacroix - Pierre Delacroixstraat",M,,relation
-"Rue Pierre Gassée - Pierre Gasséestraat",M,,relation
-"Rue Pierre Géruzet - Pierre Géruzetstraat",M,,way
-"Rue Pierre Hap Lemaître - Pierre Hap Lemaîtrestraat",M,,relation
-"Rue Pierre Longin - Pierre Longinstraat",M,,relation
-"Rue Pierre Mattheussens - Pieter Mattheussensstraat",M,,relation
-"Rue Pierre Van Obberghen - Pieter Van Obberghenstraat",M,,relation
-"Rue Pierre Vereman - Pierre Veremanstraat",M,,way
-"Rue Pierre de Puysselaer - Pierre de Puysselaerstraat",M,,way
-"Rue Pierre-J. Demessemaeker - Pierre-J. Demessemaekerstraat",M,,relation
-"Rue Pierre-Victor Jacobs - Pierre-Victor Jacobsstraat",M,,relation
-"Rue Piers - Piersstraat",M,,relation
-"Rue Pletinckx - Pletinckxstraat",M,,way
-"Rue Pol Stoppelaere - Pol Stoppelaerestraat",M,,relation
-"Rue Polydore Moerman - Polydore Moermanstraat",M,,relation
-"Rue Professeur Hendrickx - Professor Hendrickxstraat",M,,relation
-"Rue Professeur Hustin - Professor Hustinstraat",M,,way
-"Rue Prosper Préser - Prosper Préserstraat",M,,relation
-"Rue Raphaël - Raphaëlstraat",M,,relation
-"Rue Rasson - Rassonstraat",M,,way
-"Rue Remi Fraeyman - Remi Fraeymanstraat",M,,relation
-"Rue Remy Soetens - Remy Soetensstraat",M,,relation
-"Rue René Christiaens - René Christiaensstraat",M,,way
-"Rue René Declercq - René Declercqstraat",M,,relation
-"Rue René Devillers - René Devillersstraat",M,,relation
-"Rue René Henry - René Henrystraat",M,,relation
-"Rue René Reniers - René Reniersstraat",M,,relation
-"Rue Richard Braibant - Richard Braibantstraat",M,,relation
-"Rue Richard Kips - Richard Kips straat",M,,relation
-"Rue Richard Vandevelde - Richard Vandeveldestraat",M,,relation
-"Rue Robert Buyck - Robert Buyckstraat",M,,relation
-"Rue Robert Thoreau - Robert Thoreaustraat",M,,relation
-"Rue Robert Willame - Robert Willamestraat",M,,relation
-"Rue Roger Abeels - Roger Abeelsstraat",M,,relation
-"Rue Ropsy Chaudron - Ropsy Chaudronstraat",M,,relation
-"Rue Rouen-Bovie - Rouen Boviestraat",M,,relation
-"Rue Saint-Alphonse - Sint-Alfonsstraat",M,,way
-"Rue Saint-André - Sint-Andriesstraat",M,,way
-"Rue Saint-Bernard - Sint-Bernardusstraat",M,,way
-"Rue Saint-Christophe - Sint-Kristoffelsstraat",M,,way
-"Rue Saint-Denis - Sint-Denijsstraat",M,,relation
-"Rue Saint-François - Sint-Franciscusstraat",M,,relation
-"Rue Saint-Georges - Sint-Jorisstraat",M,,way
-"Rue Saint-Géry - Sint-Goriksstraat",M,,way
-"Rue Saint-Henri - Sint-Hendrikstraat",M,,relation
-"Rue Saint-Joseph - Sint-Jozefstraat",M,,relation
-"Rue Saint-Julien - Sint-Juliaanstraat",M,,relation
-"Rue Saint-Laurent - Sint-Laurensstraat",M,,way
-"Rue Saint-Lazare - Sint-Lazarusstraat",M,,way
-"Rue Saint-Martin - Sint-Maartenstraat",M,,relation
-"Rue Sergent Sorensen - Sergeant Sorensenstraat",M,,relation
-"Rue Sneessens - Sneessensstraat",M,,relation
-"Rue Stanislas Legrelle - Stanislas Legrellestraat",M,,relation
-"Rue Steens - Steensstraat",M,,way
-"Rue Sterckx - Sterckxstraat",M,,way
-"Rue Steyls - Steylsstraat",M,,relation
-"Rue Stroobants - Stroobantsstraat",M,,relation
-"Rue Sylvain Denayer - Sylvain Denayerstraat",M,,relation
 "Rue Timmermans - Timmermansstraat",M,,way
 "Rue Ulens - Ulensstraat",M,,relation
-"Rue Van Bergen - Van Bergenstraat",M,,relation
-"Rue Van Elewyck - Van Elewyckstraat",M,,relation
-"Rue Van Gaver - Van Gaverstraat",M,,way
-"Rue Van Hoegaerde - Van Hoegaerdestraat",M,,relation
-"Rue Van Kalck - Van Kalckstraat",M,,relation
-"Rue Van Lint - Van Lintstraat",M,,relation
-"Rue Van Malder - Van Malderstraat",M,,relation
-"Rue Van Meyel - Van Meyelstraat",M,,relation
-"Rue Van Soust - Van Souststraat",M,,relation
-"Rue Van Wambeke - Van Wambekestraat",M,,relation
-"Rue Van Winghen - Van Winghenstraat",M,,relation
-"Rue Vanden Corput - Vanden Corputstraat",M,,way
-"Rue Vandenboogaerde - Vandenboogaerdestraat",M,,relation
-"Rue Vandenbranden - Vandenbrandenstraat",M,,way
-"Rue Vandenbroeck - Vandenbroeckstraat",M,,relation
-"Rue Vandenhoven - Vandenhovenstraat",M,,relation
-"Rue Vander Elst - Vander Elststraat",M,,way
-"Rue Vanderdussen - Vanderdussenstraat",M,,relation
-"Rue Vanderhoeven - Vanderhoevenstraat",M,,relation
-"Rue Vandermeersch - Vandermeerschstraat",M,,relation
-"Rue Vandermeulen - Vandermeulenstraat",M,,way
-"Rue Vanderschrick - Vanderschrickstraat",M,,relation
-"Rue Vanderstraeten - Vanderstraetenstraat",M,,relation
-"Rue Vautier - Vautierstraat",M,,relation
-"Rue Verboeckhaven - Verboeckhavenstraat",M,,relation
-"Rue Verheyden - Verheydenstraat",M,,relation
-"Rue Verhoeven - Verhoevenstraat",M,,relation
-"Rue Verhulst - Verhulststraat",M,,relation
-"Rue Vervloesem - Vervloesemstraat",M,,relation
-"Rue Victor Allard - Victor Allardstraat",M,,way
-"Rue Victor Gambier - Victor Gambierstraat",M,,way
-"Rue Victor Lowet - Victor Lowetstraat",M,,relation
-"Rue Victor Mabille - Victor Mabillestraat",M,,relation
-"Rue Victor Oudart - Victor Oudartstraat",M,,relation
-"Rue Victor Rauter - Victor Rauterstraat",M,,relation
-"Rue Victor Vanderhoeft - Victor Vanderhoeftstraat",M,,relation
-"Rue Vlogaert - Vlogaertstraat",M,,way
 "Rue Wayez - Wayezstraat",M,,relation
 "Rue de Bruyn - de Bruynstraat",M,,relation
 "Rue de Fierlant - de Fierlantstraat",M,,relation
