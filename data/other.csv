@@ -254,6 +254,7 @@ Antwerpselaan,,,way
 "Avenue Moscicki - Moscickilaan",,,way
 "Avenue Mostinck - Mostincklaan",,,relation
 "Avenue Mutsaard - Mutsaardlaan",,,relation
+"Avenue Nekkersgat - Nekkersgatlaan",,,relation
 "Avenue Nippone - Nipponelaan",,,way
 "Avenue Nouvelle - Nieuwelaan",,,relation
 "Avenue Orban - Orbanlaan",,,relation
@@ -1271,7 +1272,7 @@ Duivenschietweg,,,way
 "Eden City",,,way
 "Ensemble Jean Christophe",,,relation
 "Espace Louise",,,way
-"Esplanade - Esplanade",,,relation
+Esplanade,,,relation
 "Esplanade de l'Europe - Europaesplanade",,,relation
 "Esplanade du Berlaymont - Esplanade",,,way
 "Esplanade of the European Parliament",,,way
@@ -1377,6 +1378,7 @@ Kweepereboomlaan,,,way
 "La Venelle - Het Dreveken",,,relation
 Langestaartdreef,,,way
 Laskouter,,,relation
+"Lennikse Baan",,,way
 Lenniksebaan,,,way
 Lijkweg,,,way
 Lindenberg,,,relation
@@ -1407,7 +1409,6 @@ Molenweg,,,way
 Morenveldweg,,,way
 Neerhofstraat,,,way
 Neerleest,,,relation
-"Nekkersgatlaan - Avenue Nekkersgat",,,way
 "Ninoofseplein - Place de Ninove",,,relation
 Noendelle,,,relation
 "Oppemlaan - Avenue d'Oppem",,,way
@@ -3416,7 +3417,7 @@ Roeierspad,,,way
 "Rue du Villageois - Dorpelingenstraat",,,way
 "Rue du Vindictive - Vindictivestraat",,,relation
 "Rue du Vivier - Visvijverstraat",,,relation
-"Rue du Wagon - Wagenstraat",,,way
+"Rue du Wagon - Wagenstraat",,,relation
 "Rue du Wilder - Wilderstraat",,,relation
 "Rue du Wimpelberg - Wimpelbergstraat",,,relation
 "Rue du Witloof - Witloofstraat",,,relation
