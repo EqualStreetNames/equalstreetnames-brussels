@@ -669,6 +669,7 @@ Antwerpselaan,,,way
 "Avenue des Statuaires - Beeldhouwerslaan",,,relation
 "Avenue des Stellaires - Sterremuurlaan",,,way
 "Avenue des Sylphes - Silfenlaan",,,way
+"Avenue des Tagètes - Tageteslaan",,,way
 "Avenue des Taillis - Hakhoutlaan",,,way
 "Avenue des Tamaris - Tamariskenlaan",,,relation
 "Avenue des Tilleuls - Lindenlaan",,,way
@@ -1286,6 +1287,7 @@ GR,,,way
 "Galerie Louise",,,way
 "Galerie Pacific",,,way
 "Galerie Saint-Josse - Sint-Joost Galerij",,,way
+"Galerie Sauvage Decor - Sauvage Decorgalerij",,,way
 "Galerie Sud - Zuidgalerij",,,way
 "Galerie Toison d'Or - Galerij Toison d’Or",,,way
 "Galerie de Waterloo - Waterloogalerij",,,way
@@ -1299,7 +1301,6 @@ GR,,,way
 "Galerie du Midi - Zuidgalerij",,,way
 "Galerie du Parlement - Parlementsgalerij",,,relation
 "Galerie du Roi - Koningsgalerij",,,way
-"Gallerie Sauvage Decor - Sauvage Decorgalerij",,,way
 Gentsesteenweg,,,way
 "Grand-Place - Grote Markt",,,relation
 "Grande Avenue - Grote Laan",,,way
@@ -1431,7 +1432,7 @@ Pachthoevestraat,,,way
 "Passage des Citronniers - Citroenbomendoorgang",,,way
 "Passage du Nord - Noorddoorgang",,,way
 "Passage du Soleil Couchant - Avondzonpassage",,,way
-"Passerelle Gosselies",,,way
+"Passerelle Gosselies - Gosseliesbrug",,,way
 "Passerelle de la Chaussée de Stockel - Passerelle Stokkelsesteenweg",,,way
 "Pentathlonlaan - Avenue du Pentathlon",,,way
 "Perkstraat - Rue de Perk",,,way
@@ -2489,7 +2490,7 @@ Roeierspad,,,way
 "Rue de l'Étuve - Stoofstraat",,,way
 "Rue de l'Éventail - Waaierstraat",,,relation
 "Rue de l'Évêque - Bisschopsstraat",,,way
-"Rue de l'Evolution - Ontwikkelingstraat",,,relation
+"Rue de l'Évolution - Ontwikkelingstraat",,,relation
 "Rue de l'Expansion - Uitbreidingsstraat",,,relation
 "Rue de l'Harmonie - Harmoniestraat",,,relation
 "Rue de l'Hectolitre - Hectoliterstraat",,,relation
@@ -2868,7 +2869,7 @@ Roeierspad,,,way
 "Rue des Dominicains - Predikherenstraat",,,way
 "Rue des Douze Apôtres - Twaalfapostelenstraat",,,way
 "Rue des Drapiers - Lakenweversstraat",,,relation
-"Rue des Ebats - Ravotterijstraat",,,relation
+"Rue des Ébats - Ravotterijstraat",,,relation
 "Rue des Échelles - Laddersstraat",,,way
 "Rue des Échevins - Schepenenstraat",,,relation
 "Rue des Ecoliers - Scholierenstraat",,,relation
@@ -3072,7 +3073,7 @@ Roeierspad,,,way
 "Rue du Blé d'Or - Gulden Koornstraat",,,relation
 "Rue du Bocq - Bocqstraat",,,relation
 "Rue du Bois - Bosstraat",,,relation
-"Rue du Bois Henri - Bois Henristraat",,,way
+"Rue du Bois Henri - Bois Henristraat",,,relation
 "Rue du Bois Sauvage - Wildewoudstraat",,,way
 "Rue du Bois de Linthout - Linthoutbosstraat",,,relation
 "Rue du Bon Accueil - Goede Bejegeningstraat",,,relation
@@ -3522,6 +3523,7 @@ Sparrenweg,,,way
 "Square Princesse Jean de Mérode - Prinses Jean de Mérodeplein",,,way
 "Square Sainctelette - Sainctelettesquare",,,way
 "Square Servaes Hoedemaekers - Servaas Hoedemaekerssquare",,,way
+"Square Van Bever - Van Beversquare",,,way
 "Square Velghe - Velghesquare",,,way
 "Square Willy Authom - Willy Authomsquare",,,way
 "Square de Biarritz - Biarritzsquare",,,relation
