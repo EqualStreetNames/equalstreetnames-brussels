@@ -167,6 +167,7 @@ Antwerpselaan,,,way
 "Avenue Beau-Séjour - Schoon Verblijflaan",,,way
 "Avenue Bel-Air - Schoon Uitzichtlaan",,,way
 "Avenue Besme - Besmelaan",,,way
+"Avenue Boesdaallaan",,,way
 "Avenue Bois du Dimanche - Zondagboslaan",,,relation
 "Avenue Brugmann - Brugmannlaan",,,way
 "Avenue Buysdelle - Buysdellelaan",,,way
@@ -398,6 +399,7 @@ Antwerpselaan,,,way
 "Avenue de l'Oud-Kapelleke - Oud-Kapellekelaan",,,relation
 "Avenue de l'Université - Hogeschoollaan",,,relation
 "Avenue de l'Uruguay - Uruguaylaan",,,relation
+"Avenue de l'Yser - IJzerlaan",,,way
 "Avenue de l'Yser - Ijzerlaan",,,relation
 "Avenue de la Basilique - Basilieklaan",,,relation
 "Avenue de la Béatitude - Gelukzaligheidslaan",,,relation
@@ -827,7 +829,6 @@ Antwerpselaan,,,way
 Berensheide,,,relation
 Beukenberg,,,way
 "Bocage des Myosotis",,,way
-Boesdaallaan,,,way
 Boomgaardstraat,,,way
 "Borgval - Borgwal",,,way
 Bosveldweg,,,way
@@ -2035,7 +2036,6 @@ Roeierspad,,,way
 "Rue Pierre De Cock - Pierre De Cockstraat",,,relation
 "Rue Pierre Decoster - Pierre Decosterstraat",,,way
 "Rue Pierre Delacroix - Pierre Delacroixstraat",,,relation
-"Rue Pierre Dupont - Pieter Dupontstraat",,,way
 "Rue Pierre Gassée - Pierre Gasséestraat",,,relation
 "Rue Pierre Géruzet - Pierre Géruzetstraat",,,way
 "Rue Pierre Hap Lemaître - Pierre Hap Lemaîtrestraat",,,relation
