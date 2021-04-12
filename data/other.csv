@@ -81,6 +81,7 @@ name,gender,wikidata,type
 "Place de Dinant - Dinantplein",,Q108247,way
 "Place de Louvain - Leuvenseplein",,Q118958,way
 "Place de Saint-Job - Sint-Jobsplein",,Q1927235,way
+"Place de l'Albertine - Albertinaplein",,Q383931,way
 "Place des Chasseurs Ardennais - Ardense Jagersplein",,Q893039,way
 "Place des Tulipes - Tulpenplein",,Q93201,way
 "Place du Chat Botté - Gelaarsde Katplein",,Q11834,way
@@ -1513,6 +1514,7 @@ Pachthoevestraat,,,way
 "Place de l'Altitude Cent - Hoogte Honderdplein",,,way
 "Place de l'Amitié - Vriendschapsplein",,,relation
 "Place de l'Ancienne Barrière - Oude-Afspanningsplein",,,relation
+"Place de l'Atomium - Atomiumplein",,,relation
 "Place de l'Aurore - Dageraadsplein",,,relation
 "Place de l'Église - Kerkplein",,,relation
 "Place de l'Initiative - Initiatiefplein",,,relation
@@ -3504,7 +3506,6 @@ Sparrenweg,,,way
 "Square Alexandre - Alexandreplein",,,way
 "Square Amnesty International - Amnesty Internationalplein",,,way
 "Square Armand Steurs - Armand Steurssquare",,,way
-"Square Atomium-André Waterkeyn - Atomium-Andre Waterkeynsquare",,,relation
 "Square Cardinal Cardijn - Kardinaal Cardijnplantsoen",,,way
 "Square Clémentine - Clementinasquare",,,way
 "Square Coghen - Coghensquare",,,relation
