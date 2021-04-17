@@ -721,6 +721,7 @@ name,gender,wikidata,type
 "Mont Saint-Lambert - Sint-Lambertusberg",M,Q283447,relation
 "Parc Jean Monnet - Jean Monnetpark",M,Q159700,relation
 "Parvis Saint-Antoine - Sint-Antoniusvoorplein",M,Q167477,way
+"Parvis Saint-Henri - Sint-Hendriksvoorplein",M,Q103556,relation
 "Parvis Saint-Jean-Baptiste - Sint-Jan-Baptistvoorplein",M,Q40662,relation
 "Parvis Saint-Pierre - Sint-Pietersvoorplein",M,Q33923,relation
 "Passage Charles Rogier - Karel Rogier doorgang",M,Q468109,way
@@ -1814,6 +1815,8 @@ name,gender,wikidata,type
 "Avenue Saint-Jean - Sint-Janslaan",M,,relation
 "Avenue des Frères Goemaere - Gebroeders Goemaerelaan",M,,way
 "Avenue des Frères Legrain - Gebroeders Legrainlaan",M,,way
+"Impasse Madrille - Madrillegang",M,,way
+"Impasse Ronsmans - Ronsmansgang",M,,way
 "Rue Beeckman - Beeckmanstraat",M,,way
 "Rue Berckmans - Berckmansstraat",M,,relation
 "Rue Blanche - Blanchestraat",M,,way
