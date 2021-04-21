@@ -1,4 +1,4 @@
-name,gender,wikidata,type
+name,source,gender,wikidata,type
 "Allée de la Villa Romaine - Romeinse-Villadreef",wikidata,,Q918230,relation
 "Allée des Coquelicots - Klaprozendreef",wikidata,,Q146391,way
 "Allée des Glycines - Blauweregendreef",wikidata,,Q261903,way
@@ -3003,7 +3003,6 @@ Schoolgat,,,,relation
 "Sentier de la Duchesse - Hertoginnenpad",,,,way
 "Sentier de la Ferme à Chicons - Witloofboerderijpad",,,,way
 "Sentier de la Fontaine - Fonteinpad",,,,way
-"Sentier de la Gare",,,,way
 "Sentier de la Glaisière - Kleemputpad",,,,way
 "Sentier de la Marjolaine - Marjoleinpad",,,,way
 "Sentier de la Pépinière - Kwekerijpad",,,,way
