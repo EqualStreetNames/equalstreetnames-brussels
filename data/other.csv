@@ -1175,6 +1175,7 @@ Donderberg,,,,relation
 "Drève du Haras - Harasdreef",,,,way
 "Drève du Long Bonnier - Langbunderdreef",,,,relation
 "Drève du Maréchal - Maarschalkdreef",,,,way
+"Drève du Parc - Parkdreef",,,,relation
 "Drève du Pressoir - Wijnpersdreef",,,,relation
 "Drève du Prieure - Priorijdreef",,,,way
 "Drève du Prince - Prinsendreef",,,,way
@@ -1382,6 +1383,7 @@ Pachthoevestraat,,,,way
 "Place De Linde - De Lindeplein",,,,relation
 "Place De Moor - De Moorplein",,,,way
 "Place Dewandre - Dewandreplein",,,,relation
+"Place Guy Cudell - Guy Cudellplein",,,,way
 "Place Loubna Lafquiri - Loubna Lafquiriplein",,,,way
 "Place Ronde - Rondplein",,,,way
 "Place Royale - Koningsplein",,,,way
@@ -3157,7 +3159,7 @@ Tulpenstraat,,,,relation
 "Val Maria - Mariëndaal",,,,relation
 "Val de Marne - Marnedal",,,,relation
 "Val de la Futaie - Hogebomendaal",,,,relation
-"Val des Becasses - Snippendal",,,,relation
+"Val des Bécasses - Snippendal",,,,relation
 "Val des Epinettes - Doorndaal",,,,relation
 "Val des Perdreaux - Patrijzendal",,,,relation
 "Val des Seigneurs - Herendal",,,,relation

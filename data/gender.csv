@@ -979,7 +979,7 @@ name,source,gender,wikidata,type
 "Rue Blaes - Blaesstraat",wikidata,M,Q23889107,relation
 "Rue Blockmans - Blockmansstraat",wikidata,M,Q93861185,relation
 "Rue Bodeghem - Bodegemsestraat",wikidata,M,Q3263599,way
-"Rue Boduognat - Boduognatstraat",wikidata,M,Q890044,relation
+"Rue Boduognat - Boduognatusstraat",wikidata,M,Q890044,relation
 "Rue Bollinckx - Bollinckxstraat",wikidata,M,Q93861200,relation
 "Rue Bonaventure - Bonaventurestraat",wikidata,M,Q20871249,relation
 "Rue Bonneels - Bonneelsstraat",wikidata,M,Q93864506,relation
@@ -1078,6 +1078,7 @@ name,source,gender,wikidata,type
 "Rue Docteur Élie Lambotte - Dokter Élie Lambottestraat",wikidata,M,Q94920903,relation
 "Rue Docteur Huet - Dokter Huetstraat",wikidata,M,Q94921194,relation
 "Rue Docteur Jacobs - Dokter Jacobsstraat",wikidata,M,Q94922062,relation
+"Rue Docteur Kuborn - Dokter Kubornstraat",wikidata,M,Q105870900,relation
 "Rue Docteur Roux - Dokter Rouxstraat",wikidata,M,Q286440,relation
 "Rue Dodonée - Dodonéestraat",wikidata,M,Q437466,way
 "Rue Dominique De Jonghe - Dominique De Jonghestraat",wikidata,M,Q95085209,relation
@@ -1286,6 +1287,7 @@ name,source,gender,wikidata,type
 "Rue Gray - Graystraat",wikidata,M,Q7790154,relation
 "Rue Grégoire Leroy - Grégoire Leroystraat",wikidata,M,Q1817422,relation
 "Rue Grétry - Grétrystraat",wikidata,M,Q210962,relation
+"Rue Grisar - Grisarstraat",wikidata,M,Q2003880,relation
 "Rue Guido Gezelle - Guido Gezellestraat",wikidata,M,Q336977,relation
 "Rue Guillaume Beliën - Guillaume Beliënstraat",wikidata,M,Q96581183,relation
 "Rue Guillaume Dekelver - Guillaume Dekelverstraat",wikidata,M,Q96581201,relation
@@ -1786,8 +1788,6 @@ name,source,gender,wikidata,type
 "Rue Capouillet - Capouilletstraat",config,?,,way
 "Rue Crickx - Crickxstraat",config,?,,way
 "Rue De Koninck - De Koninckstraat",config,?,,relation
-"Rue Docteur Kuborn - Dokter Kubornstraat",config,?,,relation
-"Rue Grisar - Grisarstraat",config,?,,relation
 "Rue Tazieaux - Tazieauxstraat",config,?,,relation
 "Square Van Bever - Van Beversquare",config,?,,way
 "Avenue Hélène - Helenalaan",config,F,,relation
