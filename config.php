@@ -130,10 +130,6 @@ return [
             '244299516' => 'M', // Rue Beeckman - Beeckmanstraat
             '243608671' => 'M', // Rue Beeckman - Beeckmanstraat
             '4426075'   => 'M', // Rue Blanche - Blanchestraat
-            '30236665'  => 'M', // Rue François Vervloet - François Vervloetstraat
-            '30237079'  => 'M', // Rue François Vervloet - François Vervloetstraat
-            '30237074'  => 'M', // Rue François Vervloet - François Vervloetstraat
-            '30237077'  => 'M', // Rue François Vervloet - François Vervloetstraat
             '151163014' => 'M', // Rue Timmermans - Timmermansstraat
         ],
     ],
