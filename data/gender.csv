@@ -1826,6 +1826,7 @@ name,source,gender,wikidata,type
 "Rue François Janssens - François Janssensstraat",config,M,,relation
 "Rue Général Michel - Generaal Michelstraat",config,M,,relation
 "Rue Général Ruquoy - Generaal Ruquoystraat",config,M,,relation
+"Rue Georges Huygens - Georges Huygensstraat",config,M,,way
 "Rue Gillebertus - Gillebertusstraat",config,M,,relation
 "Rue Haeck - Haeckstraat",event,M,,relation
 "Rue Hancart - Hancartstraat",event,M,,way
