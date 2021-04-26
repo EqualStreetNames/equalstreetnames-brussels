@@ -130,6 +130,8 @@ return [
             '244299516' => 'M', // Rue Beeckman - Beeckmanstraat
             '243608671' => 'M', // Rue Beeckman - Beeckmanstraat
             '4426075'   => 'M', // Rue Blanche - Blanchestraat
+            '210294010' => 'M', // Rue Georges Huygens - Georges Huygensstraat
+            '496191041' => 'M', // Rue Georges Huygens - Georges Huygensstraat
             '151163014' => 'M', // Rue Timmermans - Timmermansstraat
         ],
     ],
