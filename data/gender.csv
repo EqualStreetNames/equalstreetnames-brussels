@@ -1413,7 +1413,7 @@ name,source,gender,wikidata,type
 "Rue Lamartine - Lamartinestraat",wikidata,M,Q188697,relation
 "Rue Lambermont - Lambermontstraat",wikidata,M,Q2327076,way
 "Rue Lannoy - Lannoystraat",wikidata,M,Q3172984,relation
-"Rue Le Corrège - Corregiostraat",wikidata,M,Q8457,relation
+"Rue Le Corrège - Correggiostraat",wikidata,M,Q8457,relation
 "Rue Le Tintoret - Tintorettostraat",wikidata,M,Q9319,relation
 "Rue Le Titien - Titiaanstraat",wikidata,M,Q47551,relation
 "Rue Lebeau - Lebeaustraat",wikidata,M,Q468104,way
@@ -1439,7 +1439,7 @@ name,source,gender,wikidata,type
 "Rue Léopold Lenders - Léopold Lendersstraat",wikidata,M,Q3271847,way
 "Rue Léopold Peret - Leopold Peretstraat",wikidata,M,Q86066687,relation
 "Rue Lesbroussart - Lesbroussartstraat",wikidata,M,Q3164229,relation
-"Rue Leys - Leystraat",wikidata,M,Q959521,relation
+"Rue Leys - Leysstraat",wikidata,M,Q959521,relation
 "Rue Liedts - Liedtsstraat",wikidata,M,Q358626,way
 "Rue Lieutenant Jérôme Becker - Luitenant Jérôme Beckerstraat",wikidata,M,Q20970777,relation
 "Rue Lieutenant Liedel - Luitenant Liedelstraat",wikidata,M,Q19995205,relation
@@ -2035,7 +2035,7 @@ name,source,gender,wikidata,type
 "Rue Robert Willame - Robert Willamestraat",event,M,,relation
 "Rue Roger Abeels - Roger Abeelsstraat",event,M,,relation
 "Rue Ropsy Chaudron - Ropsy Chaudronstraat",event,M,,relation
-"Rue Rouen-Bovie - Rouen Boviestraat",event,M,,relation
+"Rue Rouen-Bovie - Rouen-Boviestraat",event,M,,relation
 "Rue Saint-Alphonse - Sint-Alfonsstraat",event,M,,way
 "Rue Saint-André - Sint-Andriesstraat",event,M,,way
 "Rue Saint-Bernard - Sint-Bernardusstraat",event,M,,way
