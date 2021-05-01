@@ -1780,16 +1780,13 @@ name,source,gender,wikidata,type
 "Venelle Vivaldi - Vivaldisteeg",wikidata,M,Q1340,relation
 "Venelle de l'Alchimiste - Alchemiststeeg",wikidata,M,Q294169,relation
 "Rue Willy De Bruyn - Willy De Bruynstraat",wikidata,MX,Q15807938,way
-"Avenue Van Bever - Van Beverlaan",config,?,,way
 "Place Van Meyel - Van Meyelplein",config,?,,relation
 "Rue Bouvier - Bouvierstraat",config,?,,relation
 "Rue Brunard - Brunardstraat",config,?,,relation
 "Rue Buchholtz - Buchholtzstraat",config,?,,relation
 "Rue Capouillet - Capouilletstraat",config,?,,way
-"Rue Crickx - Crickxstraat",config,?,,way
 "Rue De Koninck - De Koninckstraat",config,?,,relation
 "Rue Tazieaux - Tazieauxstraat",config,?,,relation
-"Square Van Bever - Van Beversquare",config,?,,way
 "Avenue Hélène - Helenalaan",config,F,,relation
 "Avenue Jeanne - Johannalaan",config,F,,relation
 "Avenue Juliette - Juliettelaan",config,F,,way
@@ -1809,6 +1806,7 @@ name,source,gender,wikidata,type
 "Avenue Hansen-Soulie - Hansen-Soulielaan",config,M,,relation
 "Avenue Père Hilaire - Pater Hilariuslaan",config,M,,relation
 "Avenue Saint-Jean - Sint-Janslaan",config,M,,relation
+"Avenue Van Bever - Van Beverlaan",config,M,,way
 "Avenue de la Palestre - Palestrelaan",event,M,,way
 "Avenue des Frères Goemaere - Gebroeders Goemaerelaan",config,M,,way
 "Avenue des Frères Legrain - Gebroeders Legrainlaan",config,M,,way
@@ -1819,6 +1817,7 @@ name,source,gender,wikidata,type
 "Rue Blanche - Blanchestraat",config,M,,way
 "Rue Bosquet - Bosquetstraat",config,M,,relation
 "Rue Coenraets - Coenraetsstraat",config,M,,relation
+"Rue Crickx - Crickxstraat",config,M,,way
 "Rue Doyen Adriaens - Deken Adriaensstraat",config,M,,relation
 "Rue Doyen Fierens - Deken Fierensstraat",config,M,,relation
 "Rue Félix De Cuyper - Félix De Cuyperstraat",config,M,,relation
@@ -2103,3 +2102,4 @@ name,source,gender,wikidata,type
 "Rue de Fierlant - de Fierlantstraat",config,M,,relation
 "Rue de Liedekerke - de Liedekerkestraat",config,M,,relation
 "Rue de Ribaucourt - de Ribaucourtstraat",config,M,,relation
+"Square Van Bever - Van Beversquare",config,M,,way
