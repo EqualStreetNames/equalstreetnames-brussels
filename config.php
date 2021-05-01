@@ -105,14 +105,8 @@ return [
             '3004965'  => 'M', // Rue Wayez - Wayezstraat
         ],
         'way' => [
-            '15804085'  => '?', // Avenue Van Bever - Van Beverlaan
-            '599481032' => '?', // Avenue Van Bever - Van Beverlaan
-            '23104735'  => '?', // Square Van Bever - Van Beversquare
-            '23104737'  => '?', // Square Van Bever - Van Beversquare
-            '923453402' => '?', // Square Van Bever - Van Beversquare
             '23647092'  => '?', // Rue Capouillet - Capouilletstraat
             '4730958'   => '?', // Rue Capouillet - Capouilletstraat
-            '13768131'  => '?', // Rue Crickx - Crickxstraat
             '23647145'  => 'F', // Avenue Juliette - Juliettelaan
             '132912922' => 'F', // Avenue Jeanne - Johannalaan
             '14795061'  => 'M', // Avenue des Frères Goemaere - Gebroeders Goemaerelaan
@@ -121,6 +115,8 @@ return [
             '8250579'   => 'M', // Avenue des Frères Legrain - Gebroeders Legrainlaan
             '863287984' => 'M', // Avenue des Frères Legrain - Gebroeders Legrainlaan
             '148190425' => 'M', // Avenue Georges Henri - Georges Henrilaan
+            '15804085'  => 'M', // Avenue Van Bever - Van Beverlaan
+            '599481032' => 'M', // Avenue Van Bever - Van Beverlaan
             '115117025' => 'M', // Impasse Madrille - Madrillegang
             '572851813' => 'M', // Impasse Madrille - Madrillegang
             '132433013' => 'M', // Impasse Ronsmans - Ronsmansgang
@@ -130,9 +126,13 @@ return [
             '244299516' => 'M', // Rue Beeckman - Beeckmanstraat
             '243608671' => 'M', // Rue Beeckman - Beeckmanstraat
             '4426075'   => 'M', // Rue Blanche - Blanchestraat
+            '13768131'  => 'M', // Rue Crickx - Crickxstraat
             '210294010' => 'M', // Rue Georges Huygens - Georges Huygensstraat
             '496191041' => 'M', // Rue Georges Huygens - Georges Huygensstraat
             '151163014' => 'M', // Rue Timmermans - Timmermansstraat
+            '23104735'  => 'M', // Square Van Bever - Van Beversquare
+            '23104737'  => 'M', // Square Van Bever - Van Beversquare
+            '923453402' => 'M', // Square Van Bever - Van Beversquare
         ],
     ],
 
