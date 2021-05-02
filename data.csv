@@ -1,5 +1,6 @@
 type,id,name,gender,person,description
 relation,11086524,Rue Berckmans - Berckmansstraat,M,Gaspard Berckmans,Ancien propriétaire du terrain
+relation,3291549,Rue Haeck - Haeckstraat,M,,Habitant de Jette propriétaire d'une grande ferme dans les environs
 way,4730958,Rue Capouillet - Capouilletstraat,?,,"Ancien(ne) propriétaire du terrain que la rue traverse"
 way,23647092,Rue Capouillet - Capouilletstraat,?,,"Ancien(ne) propriétaire du terrain que la rue traverse"
 way,13768131,Rue Crickx - Crickxstraat,M,,Propriétaire terrien
