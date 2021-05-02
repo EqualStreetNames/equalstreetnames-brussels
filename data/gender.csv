@@ -131,6 +131,7 @@ name,source,gender,wikidata,type
 "Square Marie-José - Marie-Joséplein",wikidata,F,Q72919,relation
 "Square Marie-Louise - Maria-Louizasquare",wikidata,F,Q157491,relation
 "Square Maurane - Mauranesquare",wikidata,F,Q509029,way
+"Square Princesse Jean de Mérode - Prinses Jean de Mérodeplein",wikidata,F,Q75361062,way
 "Tunnel Louise - Louizatunnel",wikidata,F,Q237318,way
 "Allée Albert Dasnoy - Albert Dasnoydreef",wikidata,M,Q2831077,way
 "Allée André Franquin - André Franquindreef",wikidata,M,Q281411,way
@@ -661,7 +662,7 @@ name,source,gender,wikidata,type
 "Boulevard de Smet de Naeyer - de Smet de Naeyerlaan",wikidata,M,Q721781,relation
 "Boulevard du Roi Albert II - Koning Albert II-laan",wikidata,M,Q3911,relation
 "Chaussée Saint-Pierre - Sint-Pieterssteenweg",wikidata,M,Q33923,relation
-"Chaussée de Ruisbroek - Ruisbroekse Steenweg",wikidata,M,Q958774,way
+"Chaussée de Ruisbroek - Ruisbroekse Steenweg",wikidata,M,Q958774,relation
 "Chemin Alfred Hitchcock - Alfred Hitchcockweg",wikidata,M,Q7374,way
 "Chemin Bourvil - Bourvilweg",wikidata,M,Q2750,way
 "Chemin Charles Vanel - Charles Vanelweg",wikidata,M,Q965918,way
@@ -1095,6 +1096,7 @@ name,source,gender,wikidata,type
 "Rue Edmond Bonehill - Edmond Bonehillstraat",wikidata,M,Q95627360,relation
 "Rue Edmond Delcourt - Edmond Delcourtstraat",wikidata,M,Q95627393,relation
 "Rue Edmond Picard - Edmond Picardstraat",wikidata,M,Q2512563,way
+"Rue Edmond Rostand - Edmond Rostandstraat",wikidata,M,Q202749,relation
 "Rue Edmond Tollenaere - Edmond Tollenaerestraat",wikidata,M,Q85438337,relation
 "Rue Edmond Van Cauwenbergh - Edmond Van Cauwenberghstraat",wikidata,M,Q95627400,relation
 "Rue Edmond de Grimberghe - Edmond de Grimberghestraat",wikidata,M,Q95627423,relation
@@ -1312,9 +1314,12 @@ name,source,gender,wikidata,type
 "Rue Gustave Van Huynegem - Gustave Van Huynegemstraat",wikidata,M,Q86065221,relation
 "Rue Guy Mottard - Guy Mottardstraat",wikidata,M,Q96621017,relation
 "Rue Guy-Jean Verachtert - Guy-Jean Verachtertstraat",wikidata,M,Q96621019,relation
+"Rue Hancart - Hancartstraat",wikidata,M,Q106680531,way
 "Rue Hector Denis - Hector Denisstraat",wikidata,M,Q3129235,way
+"Rue Hector Genard - Hector Genardstraat",wikidata,M,Q106680620,relation
 "Rue Héger-Bordet - Héger-Bordetstraat",wikidata,M,Q2387278;Q211787,relation
 "Rue Henri Bergé - Henri Bergéstraat",wikidata,M,Q3130666,relation
+"Rue Henri Caron - Henri Caronstraat",wikidata,M,Q106680650,relation
 "Rue Henri Deleers - Henri Deleersstraat",wikidata,M,Q85427657,relation
 "Rue Henri Deraedt - Henri Deraedtstraat",wikidata,M,Q3130957,way
 "Rue Henri Evenepoel - Henri Evenepoelstraat",wikidata,M,Q2980574,relation
@@ -1330,6 +1335,7 @@ name,source,gender,wikidata,type
 "Rue Herman - Hermanstraat",wikidata,M,Q3165654,way
 "Rue Herman Richir - Herman Richirstraat",wikidata,M,Q3134084,relation
 "Rue Herrewege - Herrewegestraat",wikidata,M,Q168039,relation
+"Rue Heyvaert - Heyvaertstraat",wikidata,M,Q2127657,relation
 "Rue Hobbema - Hobbemastraat",wikidata,M,Q336908,relation
 "Rue Homère - Homerusstraat",wikidata,M,Q6691,relation
 "Rue Horace - Horatiusstraat",wikidata,M,Q6197,relation
@@ -1418,6 +1424,7 @@ name,source,gender,wikidata,type
 "Rue Le Titien - Titiaanstraat",wikidata,M,Q47551,relation
 "Rue Lebeau - Lebeaustraat",wikidata,M,Q468104,way
 "Rue Ledeganck - Ledeganckstraat",wikidata,M,Q13000,relation
+"Rue Lefrancq - Lefrancqstraat",wikidata,M,Q84952089,relation
 "Rue Lens - Lensstraat",wikidata,M,Q2848156,relation
 "Rue Léon Cuissez - Léon Cuissezstraat",wikidata,M,Q85429114,relation
 "Rue Léon Defosset - Léon Defossetstraat",wikidata,M,Q541561,relation
@@ -1476,6 +1483,7 @@ name,source,gender,wikidata,type
 "Rue Maurice Utrillo - Maurice Utrillostraat",wikidata,M,Q108301,relation
 "Rue Maurice Van Rolleghem - Maurice Van Rolleghemstraat",wikidata,M,Q86087613,relation
 "Rue Maurice Wilmotte - Maurice Wilmottestraat",wikidata,M,Q1911476,relation
+"Rue Maurice des Ombiaux - Maurice des Ombiauxstraat",wikidata,M,Q3300678,way
 "Rue Max Waller - Max Wallerstraat",wikidata,M,Q3302357,relation
 "Rue Mellery - Mellerystraat",wikidata,M,Q1041605,relation
 "Rue Melsens - Melsensstraat",wikidata,M,Q2691744,way
@@ -1565,9 +1573,12 @@ name,source,gender,wikidata,type
 "Rue Rubens - Rubensstraat",wikidata,M,Q5599,relation
 "Rue Ruysdael - Ruysdaelstraat",wikidata,M,Q213612,relation
 "Rue Saint Guidon - Sint-Guidostraat",wikidata,M,Q1553720,relation
+"Rue Saint-Christophe - Sint-Kristoffelsstraat",wikidata,M,Q193507,way
 "Rue Saint-Ghislain - Sint-Gisleinsstraat",wikidata,M,Q740017,relation
+"Rue Saint-Henri - Sint-Hendrikstraat",wikidata,M,Q103556,relation
 "Rue Saint-Hubert - Sint-Huibrechtsstraat",wikidata,M,Q159834,relation
 "Rue Saint-Jean Népomucène - Sint-Jan Nepomucenusstraat",wikidata,M,Q221522,way
+"Rue Saint-Joseph - Sint-Jozefstraat",wikidata,M,Q128267,relation
 "Rue Saint-Lambert - Sint-Lambertusstraat",wikidata,M,Q283447,relation
 "Rue Saint-Nicolas - Sint-Nikolaasstraat",wikidata,M,Q44269,relation
 "Rue Saint-Norbert - Sint-Norbertusstraat",wikidata,M,Q160374,relation
@@ -1647,6 +1658,7 @@ name,source,gender,wikidata,type
 "Rue Verwée - Verwéestraat",wikidata,M,Q2835508,way
 "Rue Vésale - Vesaliusstraat",wikidata,M,Q170267,way
 "Rue Veydt - Veydtstraat",wikidata,M,Q85436592,way
+"Rue Victor Allard - Victor Allardstraat",wikidata,M,Q734526,way
 "Rue Victor Greyson - Victor Greysonstraat",wikidata,M,Q85421688,relation
 "Rue Victor Hugo - Victor Hugostraat",wikidata,M,Q535,relation
 "Rue Victor Lefèvre - Victor Lefèvrestraat",wikidata,M,Q3557414,relation
@@ -1716,7 +1728,7 @@ name,source,gender,wikidata,type
 "Square Charles Jordens - Charles Jordenssquare",wikidata,M,Q47513726,way
 "Square Charles Lagrange - Charles Lagrangesquare",wikidata,M,Q2959343,way
 "Square Charles-Maurice Wiser - Charles-Maurice Wiserplein",wikidata,M,Q93095585,relation
-"Square Coghen - Coghensquare",wikidata,M,Q2412466,way
+"Square Coghen - Coghensquare",wikidata,M,Q2412466,relation
 "Square Docteur Jean Joly - Dokter Jean Jolyplein",wikidata,M,Q93096063,relation
 "Square Edmond Machtens - Edmond Machtenssquare",wikidata,M,Q2509847,relation
 "Square Égide Rombaux - Égide Rombauxsquare",wikidata,M,Q3580163,way
@@ -1807,7 +1819,7 @@ name,source,gender,wikidata,type
 "Avenue Père Hilaire - Pater Hilariuslaan",config,M,,relation
 "Avenue Saint-Jean - Sint-Janslaan",config,M,,relation
 "Avenue Van Bever - Van Beverlaan",config,M,,way
-"Avenue de la Palestre - Palestrelaan",event,M,,way
+"Avenue de la Palestre - Palestrelaan",event,M,,relation
 "Avenue des Frères Goemaere - Gebroeders Goemaerelaan",config,M,,way
 "Avenue des Frères Legrain - Gebroeders Legrainlaan",config,M,,way
 "Impasse Madrille - Madrillegang",config,M,,way
@@ -1828,9 +1840,6 @@ name,source,gender,wikidata,type
 "Rue Georges Huygens - Georges Huygensstraat",config,M,,way
 "Rue Gillebertus - Gillebertusstraat",config,M,,relation
 "Rue Haeck - Haeckstraat",event,M,,relation
-"Rue Hancart - Hancartstraat",event,M,,way
-"Rue Hector Genard - Hector Genardstraat",event,M,,relation
-"Rue Henri Caron - Henri Caronstraat",event,M,,relation
 "Rue Henri Chomé - Henri Choméstraat",event,M,,relation
 "Rue Henri De Saegher - Henri De Saegherstraat",event,M,,relation
 "Rue Henri Huybreghts - Henri Huybreghtsstraat",event,M,,relation
@@ -1850,7 +1859,6 @@ name,source,gender,wikidata,type
 "Rue Henri de Braeckeleer - Henri de Braeckeleerstraat",event,M,,relation
 "Rue Henri-François Moreels - Henri-François Moreelsstraat",event,M,,way
 "Rue Henrotte - Henrottestraat",event,M,,relation
-"Rue Heyvaert - Heyvaertstraat",event,M,,relation
 "Rue Honoré Longtin - Honoré Longtinstraat",event,M,,relation
 "Rue Hoorickx - Hoorickxstraat",event,M,,relation
 "Rue Hubert Blauwet - Hubert Blauwetstraat",event,M,,relation
@@ -1939,7 +1947,6 @@ name,source,gender,wikidata,type
 "Rue Laurent Heirbaut - Laurent Heirbautstraat",event,M,,relation
 "Rue Laurent Vandenhoven - Laurent Vandenhovenstraat",event,M,,relation
 "Rue Le Lorrain - Le Lorrainstraat",event,M,,relation
-"Rue Lefrancq - Lefrancqstraat",event,M,,relation
 "Rue Léon Autrique - Léon Autriquestraat",event,M,,relation
 "Rue Léon Daumerie - Léon Daumeriestraat",event,M,,relation
 "Rue Léon Dopéré - Léon Dopéréstraat",event,M,,relation
@@ -2039,13 +2046,10 @@ name,source,gender,wikidata,type
 "Rue Saint-Alphonse - Sint-Alfonsstraat",event,M,,way
 "Rue Saint-André - Sint-Andriesstraat",event,M,,way
 "Rue Saint-Bernard - Sint-Bernardusstraat",event,M,,way
-"Rue Saint-Christophe - Sint-Kristoffelsstraat",event,M,,way
 "Rue Saint-Denis - Sint-Denijsstraat",event,M,,relation
 "Rue Saint-François - Sint-Franciscusstraat",event,M,,relation
 "Rue Saint-Georges - Sint-Jorisstraat",event,M,,way
 "Rue Saint-Géry - Sint-Goriksstraat",event,M,,way
-"Rue Saint-Henri - Sint-Hendrikstraat",event,M,,relation
-"Rue Saint-Joseph - Sint-Jozefstraat",event,M,,relation
 "Rue Saint-Julien - Sint-Juliaanstraat",event,M,,relation
 "Rue Saint-Laurent - Sint-Laurensstraat",event,M,,way
 "Rue Saint-Lazare - Sint-Lazarusstraat",event,M,,way
@@ -2089,7 +2093,6 @@ name,source,gender,wikidata,type
 "Rue Verhoeven - Verhoevenstraat",event,M,,relation
 "Rue Verhulst - Verhulststraat",event,M,,relation
 "Rue Vervloesem - Vervloesemstraat",event,M,,relation
-"Rue Victor Allard - Victor Allardstraat",event,M,,way
 "Rue Victor Gambier - Victor Gambierstraat",event,M,,way
 "Rue Victor Lowet - Victor Lowetstraat",event,M,,relation
 "Rue Victor Mabille - Victor Mabillestraat",event,M,,relation
