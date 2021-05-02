@@ -7,6 +7,7 @@
     "FX",
     "MX",
     "X",
+    "NB",
     "+",
     "?",
     "-"
@@ -25,6 +26,9 @@
       "type": "number"
     },
     "X": {
+      "type": "number"
+    },
+    "NB": {
       "type": "number"
     },
     "+": {

@@ -1,10 +1,16 @@
-name: Validate JSON
+name: Validate JSON+GeoJSON
 
 on:
   push:
-    branches: [master]
+    paths:
+      - ".github/workflows/validate.yml"
+      - "data/*.geojson"
+      - "data/*.json"
   pull_request:
-    branches: [master]
+    paths:
+      - ".github/workflows/validate.yml"
+      - "data/*.geojson"
+      - "data/*.json"
 
 jobs:
   validate-geojson:
@@ -14,14 +20,23 @@ jobs:
       - name: Validate GeoJSON
         uses: docker://orrosenblatt/validate-json-action:latest
         env:
-          INPUT_SCHEMA: ./.github/workflows/FeatureCollection.json
+          INPUT_SCHEMA: ./.github/workflows/schemas/FeatureCollection.json
           INPUT_JSONS: ./data/relations.geojson,./data/ways.geojson
-  validate-json:
+  validate-sources:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
-      - name: Validate JSON
+      - name: Validate "sources.json"
         uses: docker://orrosenblatt/validate-json-action:latest
         env:
-          INPUT_SCHEMA: ./.github/workflows/statistics.json
+          INPUT_SCHEMA: ./.github/workflows/schemas/sources.json
+          INPUT_JSONS: ./data/sources.json
+  validate-statistics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - name: Validate "statistics.json"
+        uses: docker://orrosenblatt/validate-json-action:latest
+        env:
+          INPUT_SCHEMA: ./.github/workflows/schemas/statistics.json
           INPUT_JSONS: ./data/statistics.json
