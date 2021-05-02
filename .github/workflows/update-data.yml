@@ -4,6 +4,7 @@ on:
   # Run every Monday at 1:00 UTC
   schedule:
     - cron: "0 1 * * 1"
+  workflow_dispatch:
   push:
     paths:
       - ".github/workflows/update-data.yml"
@@ -21,14 +22,10 @@ jobs:
     steps:
       - uses: actions/checkout@v2
         with:
-          repository: EqualStreetNames/equalstreetnames
+          repository: ${{ github.repository_owner }}/equalstreetnames
           persist-credentials: false
           submodules: true
-      - name: Use PHP 7.4
-        uses: shivammathur/setup-php@v2
-        with:
-          php-version: 7.4
-          extensions: curl, pdo, sqlite3
+
       - name: Validate composer.json and composer.lock
         working-directory: process
         run: composer validate
@@ -66,7 +63,7 @@ jobs:
         with:
           github_token: ${{ secrets.ACCESS_TOKEN }}
           directory: cities/belgium/brussels
-          repository: EqualStreetNames/equalstreetnames-brussels
+          repository: ${{ github.repository }}
 
       - name: Commit main repository
         if: ${{ github.event_name != 'pull_request' }}
@@ -81,4 +78,4 @@ jobs:
         if: ${{ github.event_name != 'pull_request' }}
         with:
           github_token: ${{ secrets.ACCESS_TOKEN }}
-          repository: EqualStreetNames/equalstreetnames
+          repository: ${{ github.repository_owner }}/equalstreetnames
