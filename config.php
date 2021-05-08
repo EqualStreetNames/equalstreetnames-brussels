@@ -84,7 +84,6 @@ return [
             '3110486'  => 'M', // Avenue Hansen-Soulie - Hansen-Soulielaan
             '3495502'  => 'M', // Avenue Père Hilaire - Pater Hilariuslaan
             '3500230'  => 'M', // Avenue Saint-Jean - Sint-Janslaan
-            '11086524' => 'M', // Rue Berckmans - Berckmansstraat
             '11087006' => 'M', // Rue Bosquet - Bosquetstraat
             '3257052'  => 'M', // Rue Coenraets - Coenraetsstraat
             '3253232'  => 'M', // Rue de Bruyn - de Bruynstraat
@@ -105,8 +104,6 @@ return [
             '3004965'  => 'M', // Rue Wayez - Wayezstraat
         ],
         'way' => [
-            '23647092'  => '?', // Rue Capouillet - Capouilletstraat
-            '4730958'   => '?', // Rue Capouillet - Capouilletstraat
             '23647145'  => 'F', // Avenue Juliette - Juliettelaan
             '132912922' => 'F', // Avenue Jeanne - Johannalaan
             '14795061'  => 'M', // Avenue des Frères Goemaere - Gebroeders Goemaerelaan
@@ -115,8 +112,6 @@ return [
             '8250579'   => 'M', // Avenue des Frères Legrain - Gebroeders Legrainlaan
             '863287984' => 'M', // Avenue des Frères Legrain - Gebroeders Legrainlaan
             '148190425' => 'M', // Avenue Georges Henri - Georges Henrilaan
-            '15804085'  => 'M', // Avenue Van Bever - Van Beverlaan
-            '599481032' => 'M', // Avenue Van Bever - Van Beverlaan
             '115117025' => 'M', // Impasse Madrille - Madrillegang
             '572851813' => 'M', // Impasse Madrille - Madrillegang
             '132433013' => 'M', // Impasse Ronsmans - Ronsmansgang
@@ -130,9 +125,6 @@ return [
             '210294010' => 'M', // Rue Georges Huygens - Georges Huygensstraat
             '496191041' => 'M', // Rue Georges Huygens - Georges Huygensstraat
             '151163014' => 'M', // Rue Timmermans - Timmermansstraat
-            '23104735'  => 'M', // Square Van Bever - Van Beversquare
-            '23104737'  => 'M', // Square Van Bever - Van Beversquare
-            '923453402' => 'M', // Square Van Bever - Van Beversquare
         ],
     ],
 
