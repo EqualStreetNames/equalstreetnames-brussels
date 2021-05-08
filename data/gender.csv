@@ -1424,6 +1424,7 @@ name,source,gender,wikidata,type
 "Rue Le Titien - Titiaanstraat",wikidata,M,Q47551,relation
 "Rue Lebeau - Lebeaustraat",wikidata,M,Q468104,way
 "Rue Ledeganck - Ledeganckstraat",wikidata,M,Q13000,relation
+"Rue Lefrancq - Lefrancqstraat",wikidata,M,Q84952089,relation
 "Rue Lens - Lensstraat",wikidata,M,Q2848156,relation
 "Rue Léon Cuissez - Léon Cuissezstraat",wikidata,M,Q85429114,relation
 "Rue Léon Defosset - Léon Defossetstraat",wikidata,M,Q541561,relation
@@ -1573,6 +1574,7 @@ name,source,gender,wikidata,type
 "Rue Saint Guidon - Sint-Guidostraat",wikidata,M,Q1553720,relation
 "Rue Saint-Christophe - Sint-Kristoffelsstraat",wikidata,M,Q193507,way
 "Rue Saint-Ghislain - Sint-Gisleinsstraat",wikidata,M,Q740017,relation
+"Rue Saint-Henri - Sint-Hendrikstraat",wikidata,M,Q103556,relation
 "Rue Saint-Hubert - Sint-Huibrechtsstraat",wikidata,M,Q159834,relation
 "Rue Saint-Jean Népomucène - Sint-Jan Nepomucenusstraat",wikidata,M,Q221522,way
 "Rue Saint-Joseph - Sint-Jozefstraat",wikidata,M,Q128267,relation
@@ -1945,7 +1947,6 @@ name,source,gender,wikidata,type
 "Rue Laurent Heirbaut - Laurent Heirbautstraat",event,M,,relation
 "Rue Laurent Vandenhoven - Laurent Vandenhovenstraat",event,M,,relation
 "Rue Le Lorrain - Le Lorrainstraat",event,M,,relation
-"Rue Lefrancq - Lefrancqstraat",event,M,,relation
 "Rue Léon Autrique - Léon Autriquestraat",event,M,,relation
 "Rue Léon Daumerie - Léon Daumeriestraat",event,M,,relation
 "Rue Léon Dopéré - Léon Dopéréstraat",event,M,,relation
@@ -2049,7 +2050,6 @@ name,source,gender,wikidata,type
 "Rue Saint-François - Sint-Franciscusstraat",event,M,,relation
 "Rue Saint-Georges - Sint-Jorisstraat",event,M,,way
 "Rue Saint-Géry - Sint-Goriksstraat",event,M,,way
-"Rue Saint-Henri - Sint-Hendrikstraat",event,M,,relation
 "Rue Saint-Julien - Sint-Juliaanstraat",event,M,,relation
 "Rue Saint-Laurent - Sint-Laurensstraat",event,M,,way
 "Rue Saint-Lazare - Sint-Lazarusstraat",event,M,,way
