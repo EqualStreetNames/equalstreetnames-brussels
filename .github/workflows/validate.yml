@@ -22,21 +22,12 @@ jobs:
         env:
           INPUT_SCHEMA: ./.github/workflows/schemas/FeatureCollection.json
           INPUT_JSONS: ./data/relations.geojson,./data/ways.geojson
-  validate-sources:
+  validate-metadata:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
-      - name: Validate "sources.json"
+      - name: Validate "metadata.json"
         uses: docker://orrosenblatt/validate-json-action:latest
         env:
-          INPUT_SCHEMA: ./.github/workflows/schemas/sources.json
-          INPUT_JSONS: ./data/sources.json
-  validate-statistics:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v1
-      - name: Validate "statistics.json"
-        uses: docker://orrosenblatt/validate-json-action:latest
-        env:
-          INPUT_SCHEMA: ./.github/workflows/schemas/statistics.json
-          INPUT_JSONS: ./data/statistics.json
+          INPUT_SCHEMA: ./.github/workflows/schemas/metadata.json
+          INPUT_JSONS: ./data/metadata.json
