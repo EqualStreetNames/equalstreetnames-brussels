@@ -2,7 +2,7 @@
   "title": "JSON Metadata",
   "type": "object",
   "required": [
-    "lastUpdate",
+    "update",
     "genders",
     "sources"
   ],
