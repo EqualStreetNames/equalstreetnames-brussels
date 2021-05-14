@@ -2219,7 +2219,7 @@ Roeierspad,,,,way
 "Rue de la Mâchoire - Kinnebakstraat",,,,way
 "Rue de la Magnanerie - Zijdeteeltstraat",,,,way
 "Rue de la Malle-Poste - Postwagenstraat",,,,way
-"Rue de la Manufacture - Fabriekstraat",,,,way
+"Rue de la Manufacture - Fabriekstraat",,,,relation
 "Rue de la Marjolaine - Marjoleinstraat",,,,relation
 "Rue de la Marne - Marnestraat",,,,relation
 "Rue de la Mécanique - Werktuigkundestraat",,,,relation
@@ -2782,7 +2782,7 @@ Roeierspad,,,,way
 "Rue du Grenat - Granaatstraat",,,,relation
 "Rue du Gruyer - Bosrechterstraat",,,,way
 "Rue du Gulden Bodem - Gulden Bodemstraat",,,,relation
-"Rue du Hall Des Sports - Sporthalstraat",,,,way
+"Rue du Hall des Sports - Sporthalstraat",,,,relation
 "Rue du Ham - Hamstraat",,,,way
 "Rue du Héron - Reigerstraat",,,,way
 "Rue du Heysel - Heizelstraat",,,,relation
@@ -2864,7 +2864,7 @@ Roeierspad,,,,way
 "Rue du Mystère - Mysteriestraat",,,,way
 "Rue du Neep - Neepstraat",,,,relation
 "Rue du Nid - Neststraat",,,,relation
-"Rue du Nieuwmolen - Nieuwmolenstraat",,,,way
+"Rue du Nieuwmolen - Nieuwmolenstraat",,,,relation
 "Rue du Niveau - Waterpasstraat",,,,relation
 "Rue du Nom de Jésus - Naam Jezusstraat",,,,way
 "Rue du Nord - Noordstraat",,,,relation
@@ -3194,3 +3194,4 @@ Woluwedal,,,,way
 Woluwelaan,,,,way
 Woluwepad,,,,way
 "Zwarte Pijnbomenlaan",,,,way
+"clos Monique Rifflet - Monique Riffletgaarde",,,,way
