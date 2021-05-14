@@ -7,7 +7,7 @@
     "sources"
   ],
   "properties": {
-    "lastUpdate": {
+    "update": {
       "type": "string"
     },
     "genders": {
