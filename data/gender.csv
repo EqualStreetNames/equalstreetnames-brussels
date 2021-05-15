@@ -233,6 +233,7 @@ name,source,gender,wikidata,type
 "Avenue Carl Requette - Carl Requettelaan",wikidata,M,Q89808988,relation
 "Avenue Carton de Wiart - Carton de Wiartlaan",wikidata,M,Q14990,relation
 "Avenue Casalta - Casaltalaan",wikidata,M,Q15967644,relation
+"Avenue Chanoine Roose - Kanunnik Rooselaan",wikidata,M,Q106844413,relation
 "Avenue Charbo - Charbolaan",wikidata,M,Q89810259,way
 "Avenue Charle-Albert - Charle-Albertlaan",wikidata,M,Q2831032,way
 "Avenue Charles Brassine - Charles Brassinelaan",wikidata,M,Q89917504,relation
@@ -269,6 +270,7 @@ name,source,gender,wikidata,type
 "Avenue Docteur Decroly - Dokter Decrolylaan",wikidata,M,Q451005,way
 "Avenue Docteur Dejase - Dokter Dejaselaan",wikidata,M,Q2865067,relation
 "Avenue Docteur Edmond Cordier - Dokter Edmond Cordierlaan",wikidata,M,Q3047789,relation
+"Avenue Docteur Lemoine - Dokter Lemoinelaan",wikidata,M,Q106844497,relation
 "Avenue Docteur Zamenhof - Dokter Zamenhoflaan",wikidata,M,Q11758,relation
 "Avenue Dolez - Dolezlaan",wikidata,M,Q2141152,relation
 "Avenue Don Bosco - Don Boscolaan",wikidata,M,Q146183,relation
@@ -1799,11 +1801,15 @@ name,source,gender,wikidata,type
 "Place Van Meyel - Van Meyelplein",csv,+,,relation
 "Rue Buchholtz - Buchholtzstraat",csv,+,,relation
 "Drève Soetkin - Soetkindreef",csv,-,,relation
+"Impasse Ronsmans - Ronsmansgang",csv,?,,way
 "Rue Bouvier - Bouvierstraat",csv,?,,relation
 "Rue Brunard - Brunardstraat",csv,?,,relation
 "Rue Capouillet - Capouilletstraat",csv,?,,way
+"Rue Coenraets - Coenraetsstraat",csv,?,,relation
+"Rue Crickx - Crickxstraat",csv,?,,way
 "Rue De Koninck - De Koninckstraat",csv,?,,relation
 "Rue Decrée - Decréestraat",csv,?,,relation
+"Rue de Bruyn - de Bruynstraat",csv,?,,relation
 "Rue de Ciplet - de Cipletstraat",csv,?,,relation
 "Avenue Hélène - Helenalaan",csv,F,,relation
 "Avenue Jeanne - Johannalaan",csv+event,F,,relation
@@ -1813,34 +1819,29 @@ name,source,gender,wikidata,type
 "Rue Marianne - Mariannestraat",csv,F,,relation
 "Rue Mercelis - Mercelisstraat",csv,F,,relation
 "Rue de Beughem - de Beughemstraat",csv,F,,relation
-"Avenue Chanoine Roose - Kanunnik Rooselaan",config,M,,relation
-"Avenue Docteur Lemoine - Dokter Lemoinelaan",config,M,,relation
-"Avenue Général de Longueville - Generaal de Longuevillelaan",config,M,,relation
-"Avenue Georges Henri - Georges Henrilaan",config,M,,relation
-"Avenue Hansen-Soulie - Hansen-Soulielaan",config,M,,relation
-"Avenue Père Hilaire - Pater Hilariuslaan",config,M,,relation
-"Avenue Saint-Jean - Sint-Janslaan",config,M,,relation
+"Avenue Général de Longueville - Generaal de Longuevillelaan",csv,M,,relation
+"Avenue Georges Henri - Georges Henrilaan",csv+event,M,,relation
+"Avenue Hansen-Soulie - Hansen-Soulielaan",csv+event,M,,relation
+"Avenue Père Hilaire - Pater Hilariuslaan",csv,M,,relation
+"Avenue Saint-Jean - Sint-Janslaan",csv,M,,relation
 "Avenue Van Bever - Van Beverlaan",csv,M,,way
 "Avenue de la Palestre - Palestrelaan",event,M,,relation
-"Avenue des Frères Goemaere - Gebroeders Goemaerelaan",config,M,,way
-"Avenue des Frères Legrain - Gebroeders Legrainlaan",config,M,,way
-"Impasse Madrille - Madrillegang",config,M,,way
-"Impasse Ronsmans - Ronsmansgang",config,M,,way
-"Rue Beeckman - Beeckmanstraat",config,M,,way
+"Avenue des Frères Goemaere - Gebroeders Goemaerelaan",csv,M,,way
+"Avenue des Frères Legrain - Gebroeders Legrainlaan",csv,M,,way
+"Impasse Madrille - Madrillegang",csv,M,,way
+"Rue Beeckman - Beeckmanstraat",csv,M,,way
 "Rue Berckmans - Berckmansstraat",csv,M,,relation
-"Rue Blanche - Blanchestraat",config,M,,way
-"Rue Bosquet - Bosquetstraat",config,M,,relation
-"Rue Coenraets - Coenraetsstraat",config,M,,relation
-"Rue Crickx - Crickxstraat",csv,M,,way
-"Rue Doyen Adriaens - Deken Adriaensstraat",config,M,,relation
-"Rue Doyen Fierens - Deken Fierensstraat",config,M,,relation
-"Rue Félix De Cuyper - Félix De Cuyperstraat",config,M,,relation
-"Rue François Gérard - François Gérardstraat",config,M,,relation
-"Rue François Janssens - François Janssensstraat",config,M,,relation
-"Rue Général Michel - Generaal Michelstraat",config,M,,relation
-"Rue Général Ruquoy - Generaal Ruquoystraat",config,M,,relation
-"Rue Georges Huygens - Georges Huygensstraat",config,M,,way
-"Rue Gillebertus - Gillebertusstraat",config,M,,relation
+"Rue Blanche - Blanchestraat",csv,M,,way
+"Rue Bosquet - Bosquetstraat",csv,M,,relation
+"Rue Doyen Adriaens - Deken Adriaensstraat",csv,M,,relation
+"Rue Doyen Fierens - Deken Fierensstraat",csv,M,,relation
+"Rue Félix De Cuyper - Félix De Cuyperstraat",csv,M,,relation
+"Rue François Gérard - François Gérardstraat",csv,M,,relation
+"Rue François Janssens - François Janssensstraat",csv,M,,relation
+"Rue Général Michel - Generaal Michelstraat",csv,M,,relation
+"Rue Général Ruquoy - Generaal Ruquoystraat",csv,M,,relation
+"Rue Georges Huygens - Georges Huygensstraat",csv,M,,way
+"Rue Gillebertus - Gillebertusstraat",csv,M,,relation
 "Rue Haeck - Haeckstraat",csv,M,,relation
 "Rue Henri De Saegher - Henri De Saegherstraat",csv,M,,relation
 "Rue Henri Huybreghts - Henri Huybreghtsstraat",csv,M,,relation
@@ -2063,8 +2064,8 @@ name,source,gender,wikidata,type
 "Rue Stroobants - Stroobantsstraat",event,M,,relation
 "Rue Sylvain Denayer - Sylvain Denayerstraat",event,M,,relation
 "Rue Tazieaux - Tazieauxstraat",csv,M,,relation
-"Rue Timmermans - Timmermansstraat",config,M,,way
-"Rue Ulens - Ulensstraat",config,M,,relation
+"Rue Timmermans - Timmermansstraat",csv,M,,way
+"Rue Ulens - Ulensstraat",csv,M,,relation
 "Rue Van Bergen - Van Bergenstraat",event,M,,relation
 "Rue Van Elewyck - Van Elewyckstraat",event,M,,relation
 "Rue Van Gaver - Van Gaverstraat",event,M,,way
@@ -2100,9 +2101,9 @@ name,source,gender,wikidata,type
 "Rue Victor Oudart - Victor Oudartstraat",event,M,,relation
 "Rue Victor Rauter - Victor Rauterstraat",event,M,,relation
 "Rue Vlogaert - Vlogaertstraat",csv,M,,way
-"Rue Wayez - Wayezstraat",config,M,,relation
-"Rue de Bruyn - de Bruynstraat",config,M,,relation
-"Rue de Fierlant - de Fierlantstraat",config,M,,relation
-"Rue de Liedekerke - de Liedekerkestraat",config,M,,relation
-"Rue de Ribaucourt - de Ribaucourtstraat",config,M,,relation
+"Rue Wayez - Wayezstraat",csv,M,,relation
+"Rue de Fierlant - de Fierlantstraat",csv,M,,relation
+"Rue de Liedekerke - de Liedekerkestraat",csv,M,,relation
+"Rue de Ribaucourt - de Ribaucourtstraat",csv+event,M,,relation
 "Square Van Bever - Van Beversquare",csv,M,,way
+"Venelle de Saint-Job - Sint-Jobsteeg",event,M,,relation
