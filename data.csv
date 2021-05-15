@@ -1,10 +1,28 @@
 type,id,name,gender,person,description
+relation,3066477,"Place Van Meyel - Van Meyelplein",+,"Époux Van Meyel-Cool","Couple dont les dons permirent notamment la construction d'un orphelinat et d'une crèche"
+relation,11087247,"Rue Buchholtz - Buchholtzstraat",+,"Famille Buchholtz","Propriétaires de terrains dans cette rue"
+relation,3020491,"Drève Soetkin - Soetkindreef",-,Soetkin,"Mère de Tijl Uylenspiegel"
+relation,3294557,"Rue Bouvier - Bouvierstraat",?,,
+relation,2967941,"Rue Brunard - Brunardstraat",?,,
+relation,3438961,"Rue de Ciplet - de Cipletstraat",?,,
+relation,3325445,"Rue De Koninck - De Koninckstraat",?,,"Ancien(ne) propriétaire terrien"
+relation,2981441,"Rue Decrée - Decréestraat",?,,
+relation,3256835,"Avenue Hélène - Helenalaan",F,,
+relation,3228251,"Avenue Jeanne - Johannalaan",F,,
+relation,3505178,"Avenue Paule - Paulalaan",F,,"Fille de Jules Du Jardin (peintre), propriétaire des terrains du quartier Saint-Paul"
+relation,11048375,"Avenue Victoria - Victorialaan",F,,
+relation,3049100,"Rue de Beughem - de Beughemstraat",F,,"Mère du comte Cornet de Grez, une descendante de Louis van Bodeghem"
+relation,11048377,"Rue Marianne - Mariannestraat",F,,"(Probablement) Petite-fille du bourgmestre Léon Vanderkindere"
+relation,3235100,"Rue Mercelis - Mercelisstraat",F,,"(Probablement) Veuve Mercelis, propriétaire des terrains sur lesquels la rue fut ouverte"
+relation,6005861,"Rue Mercelis - Mercelisstraat",F,,"(Probablement) Veuve Mercelis, propriétaire des terrains sur lesquels la rue fut ouverte"
 relation,11086524,"Rue Berckmans - Berckmansstraat",M,"Gaspard Berckmans","Ancien propriétaire du terrain"
 relation,3291549,"Rue Haeck - Haeckstraat",M,,"Habitant de Jette propriétaire d'une grande ferme dans les environs"
 relation,3329877,"Rue Henri De Saegher - Henri De Saegherstraat",M,,
 relation,2969411,"Rue Henri Huybreghts - Henri Huybreghtsstraat",M,,
+relation,3315810,"Rue Tazieaux - Tazieauxstraat",M,,"Ancien propriétaire"
 way,4730958,"Rue Capouillet - Capouilletstraat",?,,"Ancien(ne) propriétaire du terrain que la rue traverse"
 way,23647092,"Rue Capouillet - Capouilletstraat",?,,"Ancien(ne) propriétaire du terrain que la rue traverse"
+way,23647145,"Avenue Juliette - Juliettelaan",F,,
 way,15804085,"Avenue Van Bever - Van Beverlaan",M,"Jean Victor Van Bever","Notaire à Uccle Fort Jaco entre 1802 et 1822, propriétaire terrien et immobilier"
 way,599481032,"Avenue Van Bever - Van Beverlaan",M,"Jean Victor Van Bever","Notaire à Uccle Fort Jaco entre 1802 et 1822, propriétaire terrien et immobilier"
 way,13768131,"Rue Crickx - Crickxstraat",M,,"Propriétaire terrien"

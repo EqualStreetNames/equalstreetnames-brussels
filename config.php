@@ -55,28 +55,6 @@ return [
 
     'gender' => [
         'relation' => [
-            '3066477'  => '?', // Place Van Meyel - Van Meyelplein
-            '3294557'  => '?', // Rue Bouvier - Bouvierstraat
-            '2967941'  => '?', // Rue Brunard - Brunardstraat
-            '11087247' => '?', // Rue Buchholtz - Buchholtzstraat
-            '3325445'  => '?', // Rue De Koninck - De Koninckstraat
-            '3506871'  => '?', // Rue Docteur Kuborn - Dokter Kubornstraat
-            '3520291'  => '?', // Rue Grisar - Grisarstraat
-            '3315810'  => '?', // Rue Tazieaux - Tazieauxstraat
-            '3256835'  => 'F', // Avenue Hélène - Helenalaan
-            '3228251'  => 'F', // Avenue Jeanne - Johannalaan
-            '3505178'  => 'F', // Avenue Paule - Paulalaan
-            '11048375' => 'F', // Avenue Victoria - Victorialaan
-            '3020491'  => 'F', // Drève Soetkin - Soetkindreef
-            '2981441'  => 'F', // Rue Decrée - Decréestraat
-            '3138549'  => 'F', // Rue de la Duchesse - Hertoginstraat
-            '3493466'  => 'F', // Rue de la Duchesse - Hertoginstraat
-            '4815687'  => 'F', // Rue de la Duchesse - Hertoginstraat
-            '11048377' => 'F', // Rue Marianne - Mariannestraat
-            '3235100'  => 'F', // Rue Mercelis - Mercelisstraat
-            '6005861'  => 'F', // Rue Mercelis - Mercelisstraat
-            '3049100'  => 'F', // Rue de Beughem - de Beughemstraat
-            '3438961'  => 'F', // Rue de Ciplet - de Cipletstraat
             '3217433'  => 'M', // Avenue Chanoine Roose - Kanunnik Rooselaan
             '3210021'  => 'M', // Avenue Docteur Lemoine - Dokter Lemoinelaan
             '3258838'  => 'M', // Avenue Général de Longueville - Generaal de Longuevillelaan
@@ -104,8 +82,6 @@ return [
             '3004965'  => 'M', // Rue Wayez - Wayezstraat
         ],
         'way' => [
-            '23647145'  => 'F', // Avenue Juliette - Juliettelaan
-            '132912922' => 'F', // Avenue Jeanne - Johannalaan
             '14795061'  => 'M', // Avenue des Frères Goemaere - Gebroeders Goemaerelaan
             '458810331' => 'M', // Avenue des Frères Goemaere - Gebroeders Goemaerelaan
             '35830442'  => 'M', // Avenue des Frères Legrain - Gebroeders Legrainlaan
