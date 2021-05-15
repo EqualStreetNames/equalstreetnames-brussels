@@ -4,6 +4,8 @@ relation,11087247,"Rue Buchholtz - Buchholtzstraat",+,"Famille Buchholtz","Propr
 relation,3020491,"Drève Soetkin - Soetkindreef",-,Soetkin,"Mère de Tijl Uylenspiegel"
 relation,3294557,"Rue Bouvier - Bouvierstraat",?,,
 relation,2967941,"Rue Brunard - Brunardstraat",?,,
+relation,3257052,"Rue Coenraets - Coenraetsstraat",?,,"Propriétaire de terrains situés à cet endroit"
+relation,3253232,"Rue de Bruyn - de Bruynstraat",?,,
 relation,3438961,"Rue de Ciplet - de Cipletstraat",?,,
 relation,3325445,"Rue De Koninck - De Koninckstraat",?,,"Ancien(ne) propriétaire terrien"
 relation,2981441,"Rue Decrée - Decréestraat",?,,
@@ -15,17 +17,53 @@ relation,3049100,"Rue de Beughem - de Beughemstraat",F,,"Mère du comte Cornet d
 relation,11048377,"Rue Marianne - Mariannestraat",F,,"(Probablement) Petite-fille du bourgmestre Léon Vanderkindere"
 relation,3235100,"Rue Mercelis - Mercelisstraat",F,,"(Probablement) Veuve Mercelis, propriétaire des terrains sur lesquels la rue fut ouverte"
 relation,6005861,"Rue Mercelis - Mercelisstraat",F,,"(Probablement) Veuve Mercelis, propriétaire des terrains sur lesquels la rue fut ouverte"
+relation,3258838,"Avenue Général de Longueville - Generaal de Longuevillelaan",M,,
+relation,2984376,"Avenue Georges Henri - Georges Henrilaan",M,,"(Probablement) Association des prénoms de deux propriétaires fonciers locaux"
+relation,3110486,"Avenue Hansen-Soulie - Hansen-Soulielaan",M,,"Ancien conseiller communal et résistant blessé par la Gestapo dans cette rue et décédé au camp de Buchenwald en 1944"
+relation,3495502,"Avenue Père Hilaire - Pater Hilariuslaan",M,,"Père Franciscain du Chant d'Oiseau, résistant, mort des suites de son emprisonnement"
+relation,3500230,"Avenue Saint-Jean - Sint-Janslaan",M,,
 relation,11086524,"Rue Berckmans - Berckmansstraat",M,"Gaspard Berckmans","Ancien propriétaire du terrain"
+relation,11087006,"Rue Bosquet - Bosquetstraat",M,,"Ancien échevin de Saint-Gilles (de 1836 à 1843)"
+relation,3288989,"Rue de Fierlant - de Fierlantstraat",M,"Baron de Fierlant","Grand propriétaire foncier du quartier du Pont-de-Luttre"
+relation,3252684,"Rue de Liedekerke - de Liedekerkestraat",M,"Comte de Liedekerke","Ancien propriétaire"
+relation,3297585,"Rue de Ribaucourt - de Ribaucourtstraat",M,"Comte de Ribaucourt","Propriétaire de terrains dans le voisinage"
+relation,3312912,"Rue Doyen Adriaens - Deken Adriaensstraat",M,,
+relation,3311841,"Rue Doyen Fierens - Deken Fierensstraat",M,,
+relation,3138882,"Rue Félix De Cuyper - Félix De Cuyperstraat",M,"Félix De Cuyper","Receveur communal d'Anderlecht (1857-1908)"
+relation,3198269,"Rue François Gérard - François Gérardstraat",M,"François Gérard","Médecin-vétérinaire, professeur à l'École de médecine vétérinaire de Cureghem (1812-1893)"
+relation,3474783,"Rue François Janssens - François Janssensstraat",M,"François Janssens","Lithographe, conseiller communal (1857-1904)"
+relation,3367670,"Rue Général Michel - Generaal Michelstraat",M,,
+relation,3489867,"Rue Général Ruquoy - Generaal Ruquoystraat",M,"Louis Hubert Ruquoy","Lieutenant-général, chef d'état-major général de l'armée belge pendant la Première Guerre mondiale (1861-1937)"
+relation,2974969,"Rue Gillebertus - Gillebertusstraat",M,,"Ancien conseiller communal de Jette"
 relation,3291549,"Rue Haeck - Haeckstraat",M,,"Habitant de Jette propriétaire d'une grande ferme dans les environs"
 relation,3329877,"Rue Henri De Saegher - Henri De Saegherstraat",M,,
 relation,2969411,"Rue Henri Huybreghts - Henri Huybreghtsstraat",M,,
 relation,3315810,"Rue Tazieaux - Tazieauxstraat",M,,"Ancien propriétaire"
+relation,3302989,"Rue Ulens - Ulensstraat",M,,"Ancien intendant militaire molenbeekois"
+relation,3004965,"Rue Wayez - Wayezstraat",M,,"Administrateur de la Compagnie Immobilière d'Anderlecht, promoteur de la voie"
+way,132433013,"Impasse Ronsmans - Ronsmansgang",?,,
+way,132433014,"Impasse Ronsmans - Ronsmansgang",?,,
+way,132433015,"Impasse Ronsmans - Ronsmansgang",?,,
 way,4730958,"Rue Capouillet - Capouilletstraat",?,,"Ancien(ne) propriétaire du terrain que la rue traverse"
 way,23647092,"Rue Capouillet - Capouilletstraat",?,,"Ancien(ne) propriétaire du terrain que la rue traverse"
+way,13768131,"Rue Crickx - Crickxstraat",?,,"Propriétaire des terrains sur lesquels cette rue fut tracée"
 way,23647145,"Avenue Juliette - Juliettelaan",F,,
+way,14795061,"Avenue des Frères Goemaere - Gebroeders Goemaerelaan",M,,
+way,458810331,"Avenue des Frères Goemaere - Gebroeders Goemaerelaan",M,,
+way,8250579,"Avenue des Frères Legrain - Gebroeders Legrainlaan",M,,
+way,35830442,"Avenue des Frères Legrain - Gebroeders Legrainlaan",M,,
+way,863287984,"Avenue des Frères Legrain - Gebroeders Legrainlaan",M,,
 way,15804085,"Avenue Van Bever - Van Beverlaan",M,"Jean Victor Van Bever","Notaire à Uccle Fort Jaco entre 1802 et 1822, propriétaire terrien et immobilier"
 way,599481032,"Avenue Van Bever - Van Beverlaan",M,"Jean Victor Van Bever","Notaire à Uccle Fort Jaco entre 1802 et 1822, propriétaire terrien et immobilier"
+way,115117025,"Impasse Madrille - Madrillegang",M,,"Propriétaire du terrain sur lequel cette venelle fut créée au 17ème siècle"
+way,572851813,"Impasse Madrille - Madrillegang",M,,"Propriétaire du terrain sur lequel cette venelle fut créée au 17ème siècle"
+way,243608671,"Rue Beeckman - Beeckmanstraat",M,"Baron de Beeckman","Président du groupe de propriétaires fonciers constructeurs de la rue dans le quartier du nouvel Uccle"
+way,243608882,"Rue Beeckman - Beeckmanstraat",M,"Baron de Beeckman","Président du groupe de propriétaires fonciers constructeurs de la rue dans le quartier du nouvel Uccle"
+way,244299516,"Rue Beeckman - Beeckmanstraat",M,"Baron de Beeckman","Président du groupe de propriétaires fonciers constructeurs de la rue dans le quartier du nouvel Uccle"
+way,4426075,"Rue Blanche - Blanchestraat",M,,Avocat
 way,13768131,"Rue Crickx - Crickxstraat",M,,"Propriétaire terrien"
+way,210294010,"Rue Georges Huygens - Georges Huygensstraat",M,"Georges Huygens",
+way,496191041,"Rue Georges Huygens - Georges Huygensstraat",M,"Georges Huygens",
 way,13520421,"Rue Jules Cockx - Jules Cockxstraat",M,"Jules Cockx","Combattant, originaire d'Auderghem, mort au champ d'honneur durant la première Guerre mondiale"
 way,31428753,"Rue Jules Cockx - Jules Cockxstraat",M,"Jules Cockx","Combattant, originaire d'Auderghem, mort au champ d'honneur durant la première Guerre mondiale"
 way,40146481,"Rue Jules Cockx - Jules Cockxstraat",M,"Jules Cockx","Combattant, originaire d'Auderghem, mort au champ d'honneur durant la première Guerre mondiale"
@@ -40,6 +78,7 @@ way,203942597,"Rue Jules Cockx - Jules Cockxstraat",M,"Jules Cockx","Combattant,
 way,421668829,"Rue Jules Cockx - Jules Cockxstraat",M,"Jules Cockx","Combattant, originaire d'Auderghem, mort au champ d'honneur durant la première Guerre mondiale"
 way,482234634,"Rue Jules Cockx - Jules Cockxstraat",M,"Jules Cockx","Combattant, originaire d'Auderghem, mort au champ d'honneur durant la première Guerre mondiale"
 way,549588780,"Rue Jules Cockx - Jules Cockxstraat",M,"Jules Cockx","Combattant, originaire d'Auderghem, mort au champ d'honneur durant la première Guerre mondiale"
+way,151163014,"Rue Timmermans - Timmermansstraat",M,,"Actionnaire de la Société anonyme des Villas de Forest qui urbanisa ce quartier"
 way,30362070,"Rue Vlogaert - Vlogaertstraat",M,,"Ancien propriétaire"
 way,23104735,"Square Van Bever - Van Beversquare",M,"Jean Victor Van Bever","Notaire à Uccle Fort Jaco entre 1802 et 1822, propriétaire terrien et immobilier"
 way,23104737,"Square Van Bever - Van Beversquare",M,"Jean Victor Van Bever","Notaire à Uccle Fort Jaco entre 1802 et 1822, propriétaire terrien et immobilier"
