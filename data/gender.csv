@@ -1796,25 +1796,23 @@ name,source,gender,wikidata,type
 "Venelle Vivaldi - Vivaldisteeg",wikidata,M,Q1340,relation
 "Venelle de l'Alchimiste - Alchemiststeeg",wikidata,M,Q294169,relation
 "Rue Willy De Bruyn - Willy De Bruynstraat",wikidata,MX,Q15807938,way
-"Place Van Meyel - Van Meyelplein",config,?,,relation
-"Rue Bouvier - Bouvierstraat",config,?,,relation
-"Rue Brunard - Brunardstraat",config,?,,relation
-"Rue Buchholtz - Buchholtzstraat",config,?,,relation
+"Place Van Meyel - Van Meyelplein",csv,+,,relation
+"Rue Buchholtz - Buchholtzstraat",csv,+,,relation
+"Drève Soetkin - Soetkindreef",csv,-,,relation
+"Rue Bouvier - Bouvierstraat",csv,?,,relation
+"Rue Brunard - Brunardstraat",csv,?,,relation
 "Rue Capouillet - Capouilletstraat",csv,?,,way
-"Rue De Koninck - De Koninckstraat",config,?,,relation
-"Rue Tazieaux - Tazieauxstraat",config,?,,relation
-"Avenue Hélène - Helenalaan",config,F,,relation
-"Avenue Jeanne - Johannalaan",config,F,,relation
-"Avenue Juliette - Juliettelaan",config,F,,way
-"Avenue Paule - Paulalaan",config,F,,relation
-"Avenue Victoria - Victorialaan",config,F,,relation
-"Drève Soetkin - Soetkindreef",config,F,,relation
-"Rue Decrée - Decréestraat",config,F,,relation
-"Rue Marianne - Mariannestraat",config,F,,relation
-"Rue Mercelis - Mercelisstraat",config,F,,relation
-"Rue de Beughem - de Beughemstraat",config,F,,relation
-"Rue de Ciplet - de Cipletstraat",config,F,,relation
-"Rue de la Duchesse - Hertoginstraat",config,F,,relation
+"Rue De Koninck - De Koninckstraat",csv,?,,relation
+"Rue Decrée - Decréestraat",csv,?,,relation
+"Rue de Ciplet - de Cipletstraat",csv,?,,relation
+"Avenue Hélène - Helenalaan",csv,F,,relation
+"Avenue Jeanne - Johannalaan",csv+event,F,,relation
+"Avenue Juliette - Juliettelaan",csv,F,,way
+"Avenue Paule - Paulalaan",csv,F,,relation
+"Avenue Victoria - Victorialaan",csv,F,,relation
+"Rue Marianne - Mariannestraat",csv,F,,relation
+"Rue Mercelis - Mercelisstraat",csv,F,,relation
+"Rue de Beughem - de Beughemstraat",csv,F,,relation
 "Avenue Chanoine Roose - Kanunnik Rooselaan",config,M,,relation
 "Avenue Docteur Lemoine - Dokter Lemoinelaan",config,M,,relation
 "Avenue Général de Longueville - Generaal de Longuevillelaan",config,M,,relation
@@ -1879,7 +1877,7 @@ name,source,gender,wikidata,type
 "Rue Jean Ballegeer - Jean Ballegeerstraat",event,M,,way
 "Rue Jean Baptiste François Denys - Jean Baptiste François Denysstraat",event,M,,relation
 "Rue Jean Baudoux - Jean Baudouxstraat",event,M,,relation
-"Rue Jean Benaets - Jean Benaetsstraat",event,M,,way
+"Rue Jean Benaets - Jean Benaetsstraat",event,M,,relation
 "Rue Jean De Greef - Jean De Greefstraat",event,M,,relation
 "Rue Jean Deraeck - Jean Deraeckstraat",event,M,,relation
 "Rue Jean Ekelmans - Jean Ekelmansstraat",event,M,,way
@@ -2064,6 +2062,7 @@ name,source,gender,wikidata,type
 "Rue Steyls - Steylsstraat",event,M,,relation
 "Rue Stroobants - Stroobantsstraat",event,M,,relation
 "Rue Sylvain Denayer - Sylvain Denayerstraat",event,M,,relation
+"Rue Tazieaux - Tazieauxstraat",csv,M,,relation
 "Rue Timmermans - Timmermansstraat",config,M,,way
 "Rue Ulens - Ulensstraat",config,M,,relation
 "Rue Van Bergen - Van Bergenstraat",event,M,,relation
