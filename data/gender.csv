@@ -40,6 +40,7 @@ name,source,gender,wikidata,type
 "Clos Andrée Dumont - Andrée Dumontgaarde",wikidata,F,Q16262799,way
 "Clos Ingrid Bergman - Ingrid Bergmangaarde",wikidata,F,Q43247,relation
 "Clos Marilyn Monroe - Marilyn Monroegaarde",wikidata,F,Q4616,relation
+"Clos Monique Rifflet - Monique Riffletgaarde",wikidata,F,Q21601793,relation
 "Drève Aleyde De Brabant - Aleyde Van Brabantdreef",wikidata,F,Q377613,relation
 "Drêve Anna Boch - Anna Bochdreef",wikidata,F,Q466668,way
 "Drève Aurélie Solvay - Aurélie Solvaydreef",wikidata,F,Q89488177,relation
@@ -1320,10 +1321,12 @@ name,source,gender,wikidata,type
 "Rue Héger-Bordet - Héger-Bordetstraat",wikidata,M,Q2387278;Q211787,relation
 "Rue Henri Bergé - Henri Bergéstraat",wikidata,M,Q3130666,relation
 "Rue Henri Caron - Henri Caronstraat",wikidata,M,Q106680650,relation
+"Rue Henri Chomé - Henri Choméstraat",wikidata,M,Q106839938,relation
 "Rue Henri Deleers - Henri Deleersstraat",wikidata,M,Q85427657,relation
 "Rue Henri Deraedt - Henri Deraedtstraat",wikidata,M,Q3130957,way
 "Rue Henri Evenepoel - Henri Evenepoelstraat",wikidata,M,Q2980574,relation
 "Rue Henri Jacobs - Henri Jacobsstraat",wikidata,M,Q3104623,relation
+"Rue Henri Maes - Henri Maesstraat",wikidata,M,Q106840208,relation
 "Rue Henri Marichal - Henri Marichalstraat",wikidata,M,Q85429116,relation
 "Rue Henri Maus - Henri Mausstraat",wikidata,M,Q3131621,way
 "Rue Henri Simons - Henri Simonsstraat",wikidata,M,Q18001770,relation
@@ -1662,6 +1665,7 @@ name,source,gender,wikidata,type
 "Rue Victor Hugo - Victor Hugostraat",wikidata,M,Q535,relation
 "Rue Victor Lefèvre - Victor Lefèvrestraat",wikidata,M,Q3557414,relation
 "Rue Victor Semet - Victor Semetstraat",wikidata,M,Q85429367,relation
+"Rue Victor Vanderhoeft - Victor Vanderhoeftstraat",wikidata,M,Q106840436,relation
 "Rue Vifquin - Vifquinstraat",wikidata,M,Q3164477,relation
 "Rue Vilain XIIII - Vilain XIIII-straat",wikidata,M,Q329475,relation
 "Rue Virgile - Virgiliusstraat",wikidata,M,Q1398,relation
@@ -1840,10 +1844,8 @@ name,source,gender,wikidata,type
 "Rue Georges Huygens - Georges Huygensstraat",config,M,,way
 "Rue Gillebertus - Gillebertusstraat",config,M,,relation
 "Rue Haeck - Haeckstraat",csv,M,,relation
-"Rue Henri Chomé - Henri Choméstraat",event,M,,relation
-"Rue Henri De Saegher - Henri De Saegherstraat",event,M,,relation
-"Rue Henri Huybreghts - Henri Huybreghtsstraat",event,M,,relation
-"Rue Henri Maes - Henri Maesstraat",event,M,,relation
+"Rue Henri De Saegher - Henri De Saegherstraat",csv,M,,relation
+"Rue Henri Huybreghts - Henri Huybreghtsstraat",csv,M,,relation
 "Rue Henri Maubel - Henri Maubelstraat",event,M,,way
 "Rue Henri Meuwis - Henri Meuwisstraat",event,M,,relation
 "Rue Henri Nogent - Henri Nogentstraat",event,M,,relation
@@ -1931,7 +1933,7 @@ name,source,gender,wikidata,type
 "Rue Joseph Verhasselt - Joseph Verhasseltstraat",event,M,,relation
 "Rue Josse De Boeck - Josse De Boeckstraat",event,M,,relation
 "Rue Jules Broeren - Jules Broerenstraat",event,M,,relation
-"Rue Jules Cockx - Jules Cockxstraat",event,M,,way
+"Rue Jules Cockx - Jules Cockxstraat",csv+event,M,,way
 "Rue Jules Debecker - Jules Debeckerstraat",event,M,,relation
 "Rue Jules Emile Raymond - Jules Emile Raymondstraat",event,M,,relation
 "Rue Jules Francqui - Jules Francquistraat",event,M,,relation
@@ -1998,7 +2000,7 @@ name,source,gender,wikidata,type
 "Rue Mommaerts - Mommaertsstraat",event,M,,relation
 "Rue Moris - Morisstraat",event,M,,way
 "Rue Pangaert - Pangaertstraat",event,M,,relation
-"Rue Papenkasteel - Papenkasteelstraat",event,M,,way
+"Rue Papenkasteel - Papenkasteelstraat",event,M,,relation
 "Rue Paul Bossu - Paul Bossustraat",event,M,,relation
 "Rue Paul Lancsweert - Paul Lancsweertstraat",event,M,,relation
 "Rue Philippe Dewolfs - Philippe Dewolfsstraat",event,M,,way
@@ -2098,8 +2100,7 @@ name,source,gender,wikidata,type
 "Rue Victor Mabille - Victor Mabillestraat",event,M,,relation
 "Rue Victor Oudart - Victor Oudartstraat",event,M,,relation
 "Rue Victor Rauter - Victor Rauterstraat",event,M,,relation
-"Rue Victor Vanderhoeft - Victor Vanderhoeftstraat",event,M,,relation
-"Rue Vlogaert - Vlogaertstraat",event,M,,way
+"Rue Vlogaert - Vlogaertstraat",csv,M,,way
 "Rue Wayez - Wayezstraat",config,M,,relation
 "Rue de Bruyn - de Bruynstraat",config,M,,relation
 "Rue de Fierlant - de Fierlantstraat",config,M,,relation
