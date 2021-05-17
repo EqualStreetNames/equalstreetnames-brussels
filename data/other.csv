@@ -106,7 +106,6 @@ name,source,gender,wikidata,type
 "Rue de Robiano - de Robianostraat",wikidata,,Q2471094,relation
 "Rue de l'Écuyer - Schildknaapsstraat",wikidata,,Q579516,way
 "Rue de l'Ode - Odestraat",wikidata,,Q178985,relation
-"Rue de l'Onyx - Onyxstraat",wikidata,,Q180884,way
 "Rue des Atrébates - Atrebatenstraat",wikidata,,Q164811,relation
 "Rue des Éburons - Eburonenstraat",wikidata,,Q323500,relation
 "Rue des Quatre Fils Aymon - Vierheemskinderenstraat",wikidata,,Q59212800,relation
@@ -121,6 +120,7 @@ name,source,gender,wikidata,type
 "Square Victoria Régina - Victoria Reginaplantsoen",wikidata,,Q162070,relation
 "Square de Noville - Novillesquare",wikidata,,Q3247695,relation
 "Square de la Madelon - Madelonsquare",wikidata,,Q88584349,relation
+"Venelle de Saint-Job - Sint-Jobsteeg",wikidata,,Q1927235,relation
 "Venelle du Boson - Bosonsteeg",wikidata,,Q43101,way
 "'t Hof te Overbeke",,,,relation
 "2ème avenue - 2e laan",,,,way
@@ -1296,6 +1296,7 @@ Kroonweg,,,,way
 Kruipweg,,,,relation
 Kruisberg,,,,relation
 Kweepereboomlaan,,,,way
+"La Petite place des Menteurs - ‘t Leugenaarspleintje",,,,way
 "La Plage - Het Strand",,,,way
 "La Venelle - Het Dreveken",,,,relation
 Lakenstraat,,,,way
@@ -3128,6 +3129,7 @@ Sparrenweg,,,,way
 "Square du Centenaire - Eeuwfeestsquare",,,,relation
 "Square du Grenat - Granaatsquare",,,,relation
 "Square du Manège - Rijschoolplein",,,,relation
+"Square du Rubis - Robijnsquare",,,,relation
 "Square du Sacré-Cœur - Heilig-Hartsquare",,,,way
 "Square du Solbosch - Solbossquare",,,,relation
 "Square du Souvenir - Gedachtenissquare",,,,way
