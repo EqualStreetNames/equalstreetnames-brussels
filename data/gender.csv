@@ -1333,6 +1333,7 @@ name,source,gender,wikidata,type
 "Rue Henri Maus - Henri Mausstraat",wikidata,M,Q3131621,way
 "Rue Henri Simons - Henri Simonsstraat",wikidata,M,Q18001770,relation
 "Rue Henri Stacquet - Henri Stacquetstraat",wikidata,M,Q3133085,relation
+"Rue Henri Van Nerom - Hendrik Van Neromstraat",wikidata,M,Q106879972,relation
 "Rue Henri Vieuxtemps - Henri Vieuxtempsstraat",wikidata,M,Q312790,relation
 "Rue Henri Werrie - Henri Werriestraat",wikidata,M,Q86064547,relation
 "Rue Henri-Joseph Genesse - Henri-Joseph Genessestraat",wikidata,M,Q87487361,relation
@@ -1845,13 +1846,12 @@ name,source,gender,wikidata,type
 "Rue Haeck - Haeckstraat",csv,M,,relation
 "Rue Henri De Saegher - Henri De Saegherstraat",csv,M,,relation
 "Rue Henri Huybreghts - Henri Huybreghtsstraat",csv,M,,relation
-"Rue Henri Maubel - Henri Maubelstraat",event,M,,way
-"Rue Henri Meuwis - Henri Meuwisstraat",event,M,,relation
-"Rue Henri Nogent - Henri Nogentstraat",event,M,,relation
-"Rue Henri Van Antwerpen - Henri Van Antwerpenstraat",event,M,,way
-"Rue Henri Van Bortonne - Henri Van Bortonnestraat",event,M,,relation
-"Rue Henri Van Hamme - Hendrik Van Hammestraat",event,M,,relation
-"Rue Henri Van Nerom - Hendrik Van Neromstraat",event,M,,relation
+"Rue Henri Maubel - Henri Maubelstraat",csv,M,,way
+"Rue Henri Meuwis - Henri Meuwisstraat",csv,M,,relation
+"Rue Henri Nogent - Henri Nogentstraat",csv,M,,relation
+"Rue Henri Van Antwerpen - Henri Van Antwerpenstraat",csv,M,,way
+"Rue Henri Van Bortonne - Henri Van Bortonnestraat",csv,M,,relation
+"Rue Henri Van Hamme - Hendrik Van Hammestraat",csv,M,,relation
 "Rue Henri Van Zuylen - Henri Van Zuylenstraat",event,M,,relation
 "Rue Henri Vandermaelen - Henri Vandermaelenstraat",event,M,,relation
 "Rue Henri Vandersaenen - Henri Vandersaenenstraat",event,M,,relation
