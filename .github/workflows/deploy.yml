@@ -1,7 +1,6 @@
 name: Deploy
 
 on:
-  workflow_dispatch:
   push:
     branches: [master]
   workflow_run:
@@ -15,7 +14,27 @@ defaults:
     working-directory: website
 
 jobs:
+  validate-geojson:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - name: Validate GeoJSON
+        uses: docker://orrosenblatt/validate-json-action:latest
+        env:
+          INPUT_SCHEMA: ./.github/workflows/schemas/FeatureCollection.json
+          INPUT_JSONS: ./data/relations.geojson,./data/ways.geojson
+  validate-metadata:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - name: Validate "metadata.json"
+        uses: docker://orrosenblatt/validate-json-action:latest
+        env:
+          INPUT_SCHEMA: ./.github/workflows/schemas/metadata.json
+          INPUT_JSONS: ./data/metadata.json
+
   build-and-deploy:
+    needs: [validate-geojson, validate-metadata]
     runs-on: ubuntu-latest
     if: ${{ github.event_name == 'push' || github.event.workflow_run.conclusion == 'success' }}
     steps:
