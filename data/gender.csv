@@ -32,7 +32,6 @@ name,source,gender,wikidata,type
 "Avenue Sainte-Alix - Sinte-Aleidislaan",wikidata,F,Q1860408,relation
 "Avenue Sainte-Anne - Sint-Annalaan",wikidata,F,Q164294,way
 "Avenue Simone Veil - Simone Veillaan",wikidata,F,Q298180,way
-"Avenue de Castonier - de Castonierlaan",wikidata,F,Q88385819,way
 "Avenue de la Princesse Paola - Prinses Paolalaan",wikidata,F,Q31129,way
 "Boulevard Maria Groeninckx-De May - Maria Groeninckx-De Maylaan",wikidata,F,Q89488154,relation
 "Carrefour Sainte-Anne - Sint-Annakruispunt",wikidata,F,Q164294,way
@@ -134,6 +133,7 @@ name,source,gender,wikidata,type
 "Square Maurane - Mauranesquare",wikidata,F,Q509029,way
 "Square Princesse Jean de Mérode - Prinses Jean de Mérodeplein",wikidata,F,Q75361062,way
 "Tunnel Louise - Louizatunnel",wikidata,F,Q237318,way
+"de Castonierlaan - Avenue de Castonier",wikidata,F,Q88385819,way
 "Allée Albert Dasnoy - Albert Dasnoydreef",wikidata,M,Q2831077,way
 "Allée André Franquin - André Franquindreef",wikidata,M,Q281411,way
 "Allée André Willequet - André Willequetdreef",wikidata,M,Q523419,way
@@ -274,7 +274,6 @@ name,source,gender,wikidata,type
 "Avenue Docteur Zamenhof - Dokter Zamenhoflaan",wikidata,M,Q11758,relation
 "Avenue Dolez - Dolezlaan",wikidata,M,Q2141152,relation
 "Avenue Don Bosco - Don Boscolaan",wikidata,M,Q146183,relation
-"Avenue Ducpétiaux - Ducpétiauxlaan",wikidata,M,Q2684331,way
 "Avenue Échevin Van Muylders - Schepen Van Muylderslaan",wikidata,M,Q90104285,relation
 "Avenue Edgard Tytgat - Edgard Tytgatlaan",wikidata,M,Q366851,relation
 "Avenue Edmond Candries - Edmond Candrieslaan",wikidata,M,Q90104898,relation
@@ -1336,6 +1335,7 @@ name,source,gender,wikidata,type
 "Rue Henri Van Nerom - Hendrik Van Neromstraat",wikidata,M,Q106879972,relation
 "Rue Henri Vieuxtemps - Henri Vieuxtempsstraat",wikidata,M,Q312790,relation
 "Rue Henri Werrie - Henri Werriestraat",wikidata,M,Q86064547,relation
+"Rue Henri de Braeckeleer - Henri de Braeckeleerstraat",wikidata,M,Q2604669,relation
 "Rue Henri-Joseph Genesse - Henri-Joseph Genessestraat",wikidata,M,Q87487361,relation
 "Rue Henry Villard - Henry Villardstraat",wikidata,M,Q91417,relation
 "Rue Herman - Hermanstraat",wikidata,M,Q3165654,way
@@ -1344,6 +1344,7 @@ name,source,gender,wikidata,type
 "Rue Heyvaert - Heyvaertstraat",wikidata,M,Q2127657,relation
 "Rue Hobbema - Hobbemastraat",wikidata,M,Q336908,relation
 "Rue Homère - Homerusstraat",wikidata,M,Q6691,relation
+"Rue Hoorickx - Hoorickxstraat",wikidata,M,Q106917408,relation
 "Rue Horace - Horatiusstraat",wikidata,M,Q6197,relation
 "Rue Houzeau de Lehaie - Houzeau de Lehaiestraat",wikidata,M,Q768943,relation
 "Rue Hubert Krains - Hubert Krainsstraat",wikidata,M,Q2649700,relation
@@ -1817,9 +1818,11 @@ name,source,gender,wikidata,type
 "Avenue Juliette - Juliettelaan",csv,F,,way
 "Avenue Paule - Paulalaan",csv,F,,relation
 "Avenue Victoria - Victorialaan",csv,F,,relation
+"Clos Marie Koré - Maire Koréhoek",csv,F,,way
 "Rue Marianne - Mariannestraat",csv,F,,relation
 "Rue Mercelis - Mercelisstraat",csv,F,,relation
 "Rue de Beughem - de Beughemstraat",csv,F,,relation
+"Avenue Ducpétiaux - Ducpétiauxlaan",event,M,,relation
 "Avenue Général de Longueville - Generaal de Longuevillelaan",csv,M,,relation
 "Avenue Georges Henri - Georges Henrilaan",csv+event,M,,relation
 "Avenue Hansen-Soulie - Hansen-Soulielaan",csv+event,M,,relation
@@ -1852,21 +1855,19 @@ name,source,gender,wikidata,type
 "Rue Henri Van Antwerpen - Henri Van Antwerpenstraat",csv,M,,way
 "Rue Henri Van Bortonne - Henri Van Bortonnestraat",csv,M,,relation
 "Rue Henri Van Hamme - Hendrik Van Hammestraat",csv,M,,relation
-"Rue Henri Van Zuylen - Henri Van Zuylenstraat",event,M,,relation
-"Rue Henri Vandermaelen - Henri Vandermaelenstraat",event,M,,relation
+"Rue Henri Van Zuylen - Henri Van Zuylenstraat",csv,M,,relation
+"Rue Henri Vandermaelen - Henri Vandermaelenstraat",csv,M,,relation
 "Rue Henri Vandersaenen - Henri Vandersaenenstraat",event,M,,relation
-"Rue Henri Ver Eycken - Henri Ver Eyckenstraat",event,M,,way
-"Rue Henri Wafelaerts - Henri Wafelaertsstraat",event,M,,way
-"Rue Henri de Braeckeleer - Henri de Braeckeleerstraat",event,M,,relation
-"Rue Henri-François Moreels - Henri-François Moreelsstraat",event,M,,way
-"Rue Henrotte - Henrottestraat",event,M,,relation
-"Rue Honoré Longtin - Honoré Longtinstraat",event,M,,relation
-"Rue Hoorickx - Hoorickxstraat",event,M,,relation
-"Rue Hubert Blauwet - Hubert Blauwetstraat",event,M,,relation
-"Rue Hubert Heymans - Hubert Heymansstraat",event,M,,relation
-"Rue Hubert Van Hoorde - Hubert Van Hoordestraat",event,M,,relation
-"Rue Hubert-Jean Coenen - Hubert-Jean Coenenstraat",event,M,,way
-"Rue J. B. Moyens - J. B. Moyensstraat",event,M,,way
+"Rue Henri Ver Eycken - Henri Ver Eyckenstraat",csv,M,,way
+"Rue Henri Wafelaerts - Henri Wafelaertsstraat",csv,M,,way
+"Rue Henri-François Moreels - Henri-François Moreelsstraat",csv,M,,way
+"Rue Henrotte - Henrottestraat",csv,M,,relation
+"Rue Honoré Longtin - Honoré Longtinstraat",csv+event,M,,relation
+"Rue Hubert Blauwet - Hubert Blauwetstraat",csv,M,,relation
+"Rue Hubert Heymans - Hubert Heymansstraat",csv,M,,relation
+"Rue Hubert Van Hoorde - Hubert Van Hoordestraat",csv,M,,relation
+"Rue Hubert-Jean Coenen - Hubert-Jean Coenenstraat",csv,M,,way
+"Rue J. B. Moyens - J. B. Moyensstraat",csv+event,M,,way
 "Rue Jacques Ballings - Jaak Ballingsstraat",event,M,,relation
 "Rue Jacques Boon - Jacques Boonstraat",event,M,,relation
 "Rue Jacques Hoton - Jacques Hotonstraat",event,M,,relation

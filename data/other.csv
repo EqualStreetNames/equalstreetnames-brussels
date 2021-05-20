@@ -163,7 +163,6 @@ Antwerpselaan,,,,way
 "Avenue Achille Reisdorff - Achille Reisdorfflaan",,,,way
 "Avenue Beau-Séjour - Schoon Verblijflaan",,,,way
 "Avenue Bel-Air - Schoon Uitzichtlaan",,,,way
-"Avenue Boesdaallaan",,,,way
 "Avenue Bois du Dimanche - Zondagboslaan",,,,relation
 "Avenue Buysdelle - Buysdellelaan",,,,way
 "Avenue Calypso - Calypsolaan",,,,way
@@ -761,6 +760,7 @@ Antwerpselaan,,,,way
 Berensheide,,,,relation
 Beukenberg,,,,way
 "Bocage des Myosotis",,,,way
+"Boesdaallaan - Avenue Boesdaal",,,,way
 Boomgaardstraat,,,,way
 "Borgval - Borgwal",,,,way
 Bosveldweg,,,,way
@@ -987,7 +987,6 @@ Cauter,,,,relation
 "Clos Hof ten Berg - Hof ten Berg Gaarde",,,,way
 "Clos Jecta - Jectagaarde",,,,relation
 "Clos Manuel - Manuelgaarde",,,,relation
-"Clos Marie Koré",,,,way
 "Clos Medicis - Medicisgaarde",,,,relation
 "Clos Montagne des Lapins - Konijnenberggaarde",,,,relation
 "Clos Mudra - Mudrahoek",,,,relation
@@ -1224,6 +1223,7 @@ GR,,,,way
 "Galerie du Parlement - Parlementsgalerij",,,,relation
 "Galerie du Roi - Koningsgalerij",,,,way
 Gentsesteenweg,,,,way
+"Ginstlaan - Avenue des Genêts",,,,way
 "Grand-Place - Grote Markt",,,,relation
 "Grande Avenue - Grote Laan",,,,way
 "Grande Rue au Bois - Grote Bosstraat",,,,relation
@@ -1282,8 +1282,10 @@ Hunderenveld,,,,relation
 Indringingsweg,,,,way
 Jagersveld,,,,way
 "Jardin des Justes - Tuin der Rechtvaardingen",,,,way
+"Jonetlaan - Avenue Jonet",,,,way
 "Jozef Van Elewijckstraat",,,,way
 Karrenberg,,,,way
+"Kastanjeboomlaan - Avenue des Marronniers",,,,way
 Kasteelhof,,,,relation
 Kattenberg,,,,way
 Kauwberg,,,,way
@@ -1518,6 +1520,7 @@ Plattesteen,,,,way
 "Pont du Cerf - Hertbrugge",,,,relation
 "Porte d'Anderlecht - Anderlechtsepoort",,,,way
 "Porte d'Anvers - Antwerpsepoort",,,,way
+"Porte d’Anvers - Antwerpsepoort",,,,way
 "Porte de Namur - Naamsepoort",,,,way
 "Porte de Tervueren - Tervurensepoort",,,,way
 "Porte du Rivage - Oeverpoort",,,,way
@@ -3187,7 +3190,6 @@ Vlieraardeweg,,,,way
 "Voiliergang - Impasse de la Giroflee",,,,way
 Vrijheidsstraat,,,,way
 "Waterloopad - Sentier de Waterloo",,,,way
-"Waterloose Steenweg",,,,relation
 "Watermael Shopping",,,,way
 "Wekkergang - Impasse du Réveil",,,,way
 Welriekendedreef,,,,way
