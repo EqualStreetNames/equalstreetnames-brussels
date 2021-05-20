@@ -43,6 +43,13 @@ relation,3325482,"Rue Henri Nogent - Henri Nogentstraat",M,"Henri Nogent","Ébé
 relation,2974993,"Rue Henri Van Bortonne - Henri Van Bortonnestraat",M,"Henri Van Bortonne",
 relation,3375860,"Rue Henri Van Hamme - Hendrik Van Hammestraat",M,"Henri Van Hamme",
 relation,3376042,"Rue Henri Van Nerom - Hendrik Van Neromstraat",M,"Henri Van Nerom",
+relation,3145882,"Rue Henri Van Zuylen - Henri Van Zuylenstraat",M,"Henri van Zuylen","Commandant en second du navire-école Comte de Smet de Naeyer, qui habita Uccle (1878-1906)"
+relation,4807084,"Rue Henri Vandermaelen - Henri Vandermaelenstraat",M,"Henri Vandermaelen",
+relation,4784877,"Rue Henrotte - Henrottestraat",M,"Pierre Louis Henrotte","Curé de Notre-Dame de Stockel de 1906 à son décès le 25 octobre 1928"
+relation,2962567,"Rue Honoré Longtin - Honoré Longtinstraat",M,"Honoré Longtin",
+relation,3263377,"Rue Hubert Blauwet - Hubert Blauwetstraat",M,"Hubert Blauwet","Sergent auprès du 22ème régiment de ligne"," mort pour la Patrie (1887-1914)"
+relation,3256838,"Rue Hubert Heymans - Hubert Heymansstraat",M,"Hubert Heymans",
+relation,3375876,"Rue Hubert Van Hoorde - Hubert Van Hoordestraat",M,"Hubert Van Hoorde",
 relation,3315810,"Rue Tazieaux - Tazieauxstraat",M,,"Ancien propriétaire"
 relation,3302989,"Rue Ulens - Ulensstraat",M,,"Ancien intendant militaire molenbeekois"
 relation,3004965,"Rue Wayez - Wayezstraat",M,,"Administrateur de la Compagnie Immobilière d'Anderlecht, promoteur de la voie"
@@ -53,6 +60,8 @@ way,4730958,"Rue Capouillet - Capouilletstraat",?,,"Ancien(ne) propriétaire du 
 way,23647092,"Rue Capouillet - Capouilletstraat",?,,"Ancien(ne) propriétaire du terrain que la rue traverse"
 way,13768131,"Rue Crickx - Crickxstraat",?,,"Propriétaire des terrains sur lesquels cette rue fut tracée"
 way,23647145,"Avenue Juliette - Juliettelaan",F,,
+way,915916792,"Clos Marie Koré - Maire Koréhoek",F,"Marie Koré","Figure de la lutte pour l'indépendance en Côte d'Ivoire"
+way,915916793,"Clos Marie Koré - Maire Koréhoek",F,"Marie Koré","Figure de la lutte pour l'indépendance en Côte d'Ivoire"
 way,14795061,"Avenue des Frères Goemaere - Gebroeders Goemaerelaan",M,,
 way,458810331,"Avenue des Frères Goemaere - Gebroeders Goemaerelaan",M,,
 way,8250579,"Avenue des Frères Legrain - Gebroeders Legrainlaan",M,,
@@ -72,6 +81,12 @@ way,496191041,"Rue Georges Huygens - Georges Huygensstraat",M,"Georges Huygens",
 way,14372823,"Rue Henri Maubel - Henri Maubelstraat",M,"Henri Maubel (pseudonyme de Marcel Belval)","Critique musical, un temps directeur du groupe La Jeune Belgique, qui habita la commune (1862-1917)"
 way,14795587,"Rue Henri Van Antwerpen - Henri Van Antwerpenstraat",M,"Henri Van Antwerpen",
 way,496191033,"Rue Henri Van Antwerpen - Henri Van Antwerpenstraat",M,"Henri Van Antwerpen",
+way,36361070,"Rue Henri Ver Eycken - Henri Ver Eyckenstraat",M,"Henri Ver Eycken",
+way,111513754,"Rue Henri Wafelaerts - Henri Wafelaertsstraat",M,"Henri Wafelaerts","Ancien conseiller communal à Saint-Gilles"
+way,30087257,"Rue Henri-François Moreels - Henri-François Moreelsstraat",M,"Henri-François Moreels",
+way,38966423,"Rue Hubert-Jean Coenen - Hubert-Jean Coenenstraat",M,"Hubert-Jean Coenen",
+way,73335024,"Rue J. B. Moyens - J. B. Moyensstraat",M,"Jean-Baptiste Moyens","Inspirateur de l'ancienne foire Sainte-Anne dans le quartier de Dieleghem"
+way,73335043,"Rue J. B. Moyens - J. B. Moyensstraat",M,"Jean-Baptiste Moyens","Inspirateur de l'ancienne foire Sainte-Anne dans le quartier de Dieleghem"
 way,13520421,"Rue Jules Cockx - Jules Cockxstraat",M,"Jules Cockx","Combattant, originaire d'Auderghem, mort au champ d'honneur durant la première Guerre mondiale"
 way,31428753,"Rue Jules Cockx - Jules Cockxstraat",M,"Jules Cockx","Combattant, originaire d'Auderghem, mort au champ d'honneur durant la première Guerre mondiale"
 way,40146481,"Rue Jules Cockx - Jules Cockxstraat",M,"Jules Cockx","Combattant, originaire d'Auderghem, mort au champ d'honneur durant la première Guerre mondiale"
