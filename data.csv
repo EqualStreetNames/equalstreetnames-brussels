@@ -14,6 +14,7 @@ relation,3434325,"Rue Laneau - Laneaustraat",?,,
 relation,3449144,"Rue Medaets - Medaetsstraat",?,,
 relation,3237633,"Rue Pangaert - Pangaertstraat",?,,
 relation,3536351,"Rue Raphaël - Raphaëlstraat",?,,
+relation,3022870,"Rue Sneessens - Sneessensstraat",?,"E. Sneessens","Membre du bureau de Bienfaisance"
 relation,3433808,"Rue Steyls - Steylsstraat",?,,
 relation,3375381,"Rue Stroobants - Stroobantsstraat",?,,
 relation,3246475,"Rue Van Bergen - Van Bergenstraat",?,,
@@ -58,7 +59,7 @@ relation,3145882,"Rue Henri Van Zuylen - Henri Van Zuylenstraat",M,"Henri van Zu
 relation,4807084,"Rue Henri Vandermaelen - Henri Vandermaelenstraat",M,"Henri Vandermaelen",
 relation,4784877,"Rue Henrotte - Henrottestraat",M,"Pierre Louis Henrotte","Curé de Notre-Dame de Stockel de 1906 à son décès le 25 octobre 1928"
 relation,2962567,"Rue Honoré Longtin - Honoré Longtinstraat",M,"Honoré Longtin",
-relation,3263377,"Rue Hubert Blauwet - Hubert Blauwetstraat",M,"Hubert Blauwet","Sergent auprès du 22ème régiment de ligne"," mort pour la Patrie (1887-1914)"
+relation,3263377,"Rue Hubert Blauwet - Hubert Blauwetstraat",M,"Hubert Blauwet","Sergent auprès du 22ème régiment de ligne, mort pour la Patrie (1887-1914)"
 relation,3256838,"Rue Hubert Heymans - Hubert Heymansstraat",M,"Hubert Heymans",
 relation,3375876,"Rue Hubert Van Hoorde - Hubert Van Hoordestraat",M,"Hubert Van Hoorde",
 relation,3372752,"Rue Jacques Ballings - Jaak Ballingsstraat",M,"Jacques Ballings",
@@ -96,7 +97,6 @@ relation,3325825,"Rue Verheyden - Verheydenstraat",M,,"Propriétaire terrien"
 relation,3011064,"Rue Vervloesem - Vervloesemstraat",M,"Jean-François Vervloesem","Instituteur communal pendant près de 50 ans (1850-1917)"
 relation,3241581,"Rue Victor Lowet - Victor Lowetstraat",M,"Victor Lowet","Soldat au 8ème régiment de Ligne, mort pendant la Première Guerre mondiale (1881-1915)"
 relation,3004965,"Rue Wayez - Wayezstraat",M,,"Administrateur de la Compagnie Immobilière d'Anderlecht, promoteur de la voie"
-relation3022870,"Rue Sneessens - Sneessensstraat",?,"E. Sneessens","Membre du bureau de Bienfaisance"
 way,132433013,"Impasse Ronsmans - Ronsmansgang",?,,
 way,132433014,"Impasse Ronsmans - Ronsmansgang",?,,
 way,132433015,"Impasse Ronsmans - Ronsmansgang",?,,
