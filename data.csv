@@ -2,6 +2,7 @@ type,id,name,gender,person,description
 relation,3066477,"Place Van Meyel - Van Meyelplein",+,"Époux Van Meyel-Cool","Couple dont les dons permirent notamment la construction d'un orphelinat et d'une crèche"
 relation,11087247,"Rue Buchholtz - Buchholtzstraat",+,"Famille Buchholtz","Propriétaires de terrains dans cette rue"
 relation,3020491,"Drève Soetkin - Soetkindreef",-,Soetkin,"Mère de Tijl Uylenspiegel"
+relation,3015625,"Rue Vandenhoven - Vandenhovenstraat",-,"Famille Vandenhoven","Principale famille de Roodebeek, qui donnèrent plusieurs mandataires politiques à la commune de Woluwe-Saint-Lambert"
 relation,3294557,"Rue Bouvier - Bouvierstraat",?,,
 relation,2967941,"Rue Brunard - Brunardstraat",?,,
 relation,3257052,"Rue Coenraets - Coenraetsstraat",?,,"Propriétaire de terrains situés à cet endroit"
@@ -9,6 +10,15 @@ relation,3253232,"Rue de Bruyn - de Bruynstraat",?,,
 relation,3438961,"Rue de Ciplet - de Cipletstraat",?,,
 relation,3325445,"Rue De Koninck - De Koninckstraat",?,,"Ancien(ne) propriétaire terrien"
 relation,2981441,"Rue Decrée - Decréestraat",?,,
+relation,3434325,"Rue Laneau - Laneaustraat",?,,
+relation,3449144,"Rue Medaets - Medaetsstraat",?,,
+relation,3237633,"Rue Pangaert - Pangaertstraat",?,,
+relation,3536351,"Rue Raphaël - Raphaëlstraat",?,,
+relation,3433808,"Rue Steyls - Steylsstraat",?,,
+relation,3375381,"Rue Stroobants - Stroobantsstraat",?,,
+relation,3246475,"Rue Van Bergen - Van Bergenstraat",?,,
+relation,3306592,"Rue Van Hoegaerde - Van Hoegaerdestraat",?,,
+relation,3434772,"Rue Verhoeven - Verhoevenstraat",?,,
 relation,3256835,"Avenue Hélène - Helenalaan",F,,
 relation,3228251,"Avenue Jeanne - Johannalaan",F,,
 relation,3505178,"Avenue Paule - Paulalaan",F,,"Fille de Jules Du Jardin (peintre), propriétaire des terrains du quartier Saint-Paul"
@@ -22,6 +32,7 @@ relation,2984376,"Avenue Georges Henri - Georges Henrilaan",M,,"(Probablement) A
 relation,3110486,"Avenue Hansen-Soulie - Hansen-Soulielaan",M,,"Ancien conseiller communal et résistant blessé par la Gestapo dans cette rue et décédé au camp de Buchenwald en 1944"
 relation,3495502,"Avenue Père Hilaire - Pater Hilariuslaan",M,,"Père Franciscain du Chant d'Oiseau, résistant, mort des suites de son emprisonnement"
 relation,3500230,"Avenue Saint-Jean - Sint-Janslaan",M,,
+relation,3049117,"Petite rue L'Olivier - Korte L'Olivierstraat",M,"Jean L'Olivier","Militaire belge (1792-1854)"
 relation,11086524,"Rue Berckmans - Berckmansstraat",M,"Gaspard Berckmans","Ancien propriétaire du terrain"
 relation,11087006,"Rue Bosquet - Bosquetstraat",M,,"Ancien échevin de Saint-Gilles (de 1836 à 1843)"
 relation,3288989,"Rue de Fierlant - de Fierlantstraat",M,"Baron de Fierlant","Grand propriétaire foncier du quartier du Pont-de-Luttre"
@@ -55,16 +66,46 @@ relation,3077398,"Rue Jacques Boon - Jacques Boonstraat",M,"Jacques Boon","Capit
 relation,3009698,"Rue Jacques Hoton - Jacques Hotonstraat",M,"Jacques Hoton","Résistant (1924-1941)"
 relation,3138897,"Rue Jacques Houtmeyers - Jaak Houtmeyersstraat",M,"Jacques Houtmeyers",
 relation,3059508,"Rue Jacques Rayé - Jacques Rayéstraat",M,"Jacques Rayé","Géomètre-expert qui fit don à la Commune d'une partie de sa fortune et de terrains destinés à l'ouverture d'une rue (1850-1910)"
+relation,3303613,"Rue Jennart - Jennartstraat",M,,"Ancien conseiller communal"
+relation,3066461,"Rue Jonniaux - Jonniauxstraat",M,,"Ancien conseiller communal et échevin etterbeekois"
+relation,3536355,"Rue Jorez - Jorezstraat",M,,"Major-commandant du bataillon de la garde civique d'Anderlecht et patron d'une manufacture de toiles cirées sur la Senne"
+relation,3049116,"Rue L'Olivier - L'Olivierstraat",M,"Jean L'Olivier","Militaire belge (1792-1854)"
+relation,3496013,"Rue Lacaille - Lacaillestraat",M,,
 relation,3379630,"Rue Laurent Vandenhoven - Laurent Vandenhovenstraat",M,"Laurent Vandenhoven",
+relation,3294529,"Rue Le Lorrain - Le Lorrainstraat",M,"Damien Le Lorrain",
+relation,3306655,"Rue Piers - Piersstraat",M,,"Ancien échevin de Molenbeek"
+relation,3241221,"Rue Sergent Sorensen - Sergeant Sorensenstraat",M,,
 relation,3315810,"Rue Tazieaux - Tazieauxstraat",M,,"Ancien propriétaire"
 relation,3302989,"Rue Ulens - Ulensstraat",M,,"Ancien intendant militaire molenbeekois"
+relation,3325363,"Rue Van Kalck - Van Kalckstraat",M,,"Ancien propriétaire terrien"
+relation,3329272,"Rue Van Malder - Van Malderstraat",M,,"Ancien conseiller communal molenbeekois"
+relation,3303536,"Rue Van Meyel - Van Meyelstraat",M,,"(Probablement) Peintre"
+relation,3323306,"Rue Van Wambeke - Van Wambekestraat",M,,"Propriétaire terrien (1842-1928)"
+relation,3430804,"Rue Van Wambeke - Van Wambekestraat",M,,"Propriétaire terrien (1842-1928)"
+relation,3294464,"Rue Vandenboogaerde - Vandenboogaerdestraat",M,"Desiderius Vandenboogaerde","Notaire à Poperinge, propriétaire de terrains à Molenbeek"
+relation,3176748,"Rue Vandenbroeck - Vandenbroeckstraat",M,"Pierre Vandenbroeck","Maître d'école (1790-1857)"
+relation,3329898,"Rue Vanderdussen - Vanderdussenstraat",M,"F. Van der Dussen","Probablement un des propriétaires des Etangs noirs, baron de Kestergat, bourgmestre de Molenbeek sous le régime hollandais"
+relation,3252662,"Rue Vanderhoeven - Vanderhoevenstraat",M,"Filips Vanderhoeven","Doyen des Jardiniers, connu pour la résistance qu'il opposa à Farnèse à la fin du 17ème siècle, et qui résidait dans la commune"
+relation,3049939,"Rue Vandermeersch - Vandermeerschstraat",M,"Charles et Pierre Vandermeersch","Propriétaires des terrains sur lesquels la rue fut tracée"
+relation,3587290,"Rue Vanderschrick - Vanderschrickstraat",M,"Famille Vanderschrick","Célèbre famille saint-gilloise de propriétaires terriens et d'hommes politiques, dont trois bourgmestres : Egide (1825-1840), son fils Jean (1840-1860) et son petit-fils Fernand (1896-1899)"
+relation,3329873,"Rue Vanderstraeten - Vanderstraetenstraat",M,"Charles Vanderstraeten","Inspecteur voyer des faubourgs de Bruxelles (1834-1904)"
+relation,3178229,"Rue Vautier - Vautierstraat",M,,"Inspecteur des athénées et collèges de Belgique, qui participa activement à la Révolution belge (1792-1846)"
+relation,3491661,"Rue Vautier - Vautierstraat",M,,"Inspecteur des athénées et collèges de Belgique, qui participa activement à la Révolution belge (1792-1846)"
+relation,3028884,"Rue Verboeckhaven - Verboeckhavenstraat",M,"Michel Verboekhaven","Propriétaire des terrains sur lesquels la rue fut ouverte en 1871 (1816-1883)"
+relation,3325825,"Rue Verheyden - Verheydenstraat",M,,"Propriétaire terrien"
+relation,3011064,"Rue Vervloesem - Vervloesemstraat",M,"Jean-François Vervloesem","Instituteur communal pendant près de 50 ans (1850-1917)"
+relation,3241581,"Rue Victor Lowet - Victor Lowetstraat",M,"Victor Lowet","Soldat au 8ème régiment de Ligne, mort pendant la Première Guerre mondiale (1881-1915)"
 relation,3004965,"Rue Wayez - Wayezstraat",M,,"Administrateur de la Compagnie Immobilière d'Anderlecht, promoteur de la voie"
+relation3022870,"Rue Sneessens - Sneessensstraat",?,"E. Sneessens","Membre du bureau de Bienfaisance"
 way,132433013,"Impasse Ronsmans - Ronsmansgang",?,,
 way,132433014,"Impasse Ronsmans - Ronsmansgang",?,,
 way,132433015,"Impasse Ronsmans - Ronsmansgang",?,,
 way,4730958,"Rue Capouillet - Capouilletstraat",?,,"Ancien(ne) propriétaire du terrain que la rue traverse"
 way,23647092,"Rue Capouillet - Capouilletstraat",?,,"Ancien(ne) propriétaire du terrain que la rue traverse"
 way,13768131,"Rue Crickx - Crickxstraat",?,,"Propriétaire des terrains sur lesquels cette rue fut tracée"
+way,118566333,"Rue Van Gaver - Van Gaverstraat",?,,"Anciens propriétaires"
+way,432775004,"Rue Van Gaver - Van Gaverstraat",?,,"Anciens propriétaires"
+way,151162994,"Rue Vanden Corput - Vanden Corputstraat",?,,"Propriétaire des terrains à travers cette rue fut tracée à partir de 1905 environ"
 way,23647145,"Avenue Juliette - Juliettelaan",F,,
 way,915916792,"Clos Marie Koré - Maire Koréhoek",F,"Marie Koré","Figure de la lutte pour l'indépendance en Côte d'Ivoire"
 way,915916793,"Clos Marie Koré - Maire Koréhoek",F,"Marie Koré","Figure de la lutte pour l'indépendance en Côte d'Ivoire"
@@ -81,7 +122,6 @@ way,243608671,"Rue Beeckman - Beeckmanstraat",M,"Baron de Beeckman","Président 
 way,243608882,"Rue Beeckman - Beeckmanstraat",M,"Baron de Beeckman","Président du groupe de propriétaires fonciers constructeurs de la rue dans le quartier du nouvel Uccle"
 way,244299516,"Rue Beeckman - Beeckmanstraat",M,"Baron de Beeckman","Président du groupe de propriétaires fonciers constructeurs de la rue dans le quartier du nouvel Uccle"
 way,4426075,"Rue Blanche - Blanchestraat",M,,Avocat
-way,13768131,"Rue Crickx - Crickxstraat",M,,"Propriétaire terrien"
 way,210294010,"Rue Georges Huygens - Georges Huygensstraat",M,"Georges Huygens",
 way,496191041,"Rue Georges Huygens - Georges Huygensstraat",M,"Georges Huygens",
 way,14372823,"Rue Henri Maubel - Henri Maubelstraat",M,"Henri Maubel (pseudonyme de Marcel Belval)","Critique musical, un temps directeur du groupe La Jeune Belgique, qui habita la commune (1862-1917)"
@@ -111,19 +151,32 @@ way,203942597,"Rue Jules Cockx - Jules Cockxstraat",M,"Jules Cockx","Combattant,
 way,421668829,"Rue Jules Cockx - Jules Cockxstraat",M,"Jules Cockx","Combattant, originaire d'Auderghem, mort au champ d'honneur durant la première Guerre mondiale"
 way,482234634,"Rue Jules Cockx - Jules Cockxstraat",M,"Jules Cockx","Combattant, originaire d'Auderghem, mort au champ d'honneur durant la première Guerre mondiale"
 way,549588780,"Rue Jules Cockx - Jules Cockxstraat",M,"Jules Cockx","Combattant, originaire d'Auderghem, mort au champ d'honneur durant la première Guerre mondiale"
+way,12473684,"Rue Marcq - Marcqstraat",M,"G.-S. Marcq","Administrateur du Conseil des Hospices, échevin de la Ville de Bruxelles (1780-1848)"
 way,14454885,"Rue Maurice Charlent - Maurice Charlentstraat",M,"Maurice Charlent",
 way,223925202,"Rue Maurice Charlent - Maurice Charlentstraat",M,"Maurice Charlent",
 way,558240548,"Rue Maurice Charlent - Maurice Charlentstraat",M,"Maurice Charlent",
 way,178710445,"Rue Max Roos - Max Roosstraat",M,"Max Roos","Industriel, propriétaire du terrain à travers lequel la rue fut tracée (1867-1925)"
 way,178710452,"Rue Max Roos - Max Roosstraat",M,"Max Roos","Industriel, propriétaire du terrain à travers lequel la rue fut tracée (1867-1925)"
 way,283214764,"Rue Max Roos - Max Roosstraat",M,"Max Roos","Industriel, propriétaire du terrain à travers lequel la rue fut tracée (1867-1925)"
+way,4730689,"Rue Moris - Morisstraat",M,"William Morris","Pionnier du développement du tram à Bruxelles, et plus particulièrement à Saint-Gilles"
+way,49942346,"Rue Moris - Morisstraat",M,"William Morris","Pionnier du développement du tram à Bruxelles, et plus particulièrement à Saint-Gilles"
 way,155469560,"Rue Philippe Dewolfs - Philippe Dewolfsstraat",M,"Philippe Dewolfs",
 way,284966350,"Rue Pierre de Puysselaer - Pierre de Puysselaerstraat",M,"Pierre de Puysselaer","Ancien directeur des Indienneries de Stalle (1829-1910)"
 way,284966351,"Rue Pierre de Puysselaer - Pierre de Puysselaerstraat",M,"Pierre de Puysselaer","Ancien directeur des Indienneries de Stalle (1829-1910)"
 way,284966352,"Rue Pierre de Puysselaer - Pierre de Puysselaerstraat",M,"Pierre de Puysselaer","Ancien directeur des Indienneries de Stalle (1829-1910)"
 way,8241468,"Rue Rasson - Rassonstraat",M,"Jean-Baptiste Rasson","Officier des carabiniers, conseiller communal (1812-1898)"
 way,36998721,"Rue Rasson - Rassonstraat",M,"Jean-Baptiste Rasson","Officier des carabiniers, conseiller communal (1812-1898)"
+way,15087902,"Rue Steens - Steensstraat",M,"Les frères Steens",Propriétaires
 way,151163014,"Rue Timmermans - Timmermansstraat",M,,"Actionnaire de la Société anonyme des Villas de Forest qui urbanisa ce quartier"
+way,13752032,"Rue Vandenbranden - Vandenbrandenstraat",M,,
+way,13752049,"Rue Vandenbranden - Vandenbrandenstraat",M,,
+way,112022782,"Rue Vander Elst - Vander Elststraat",M,,"Propriétaire vers 1810 d'une usine d'acide nitrique"
+way,112022783,"Rue Vander Elst - Vander Elststraat",M,,"Propriétaire vers 1810 d'une usine d'acide nitrique"
+way,13855133,"Rue Vandermeulen - Vandermeulenstraat",M,,"Artiste-peintre, administrateur de la fabrique d'église de la paroisse Sainte-Gudule"
+way,23541816,"Rue Victor Gambier - Victor Gambierstraat",M,"Victor Gambier","Propriétaire foncier, conseiller communal et échevin, qui habita cette rue (1832-1911)"
+way,44821634,"Rue Victor Gambier - Victor Gambierstraat",M,"Victor Gambier","Propriétaire foncier, conseiller communal et échevin, qui habita cette rue (1832-1911)"
+way,236527758,"Rue Victor Gambier - Victor Gambierstraat",M,"Victor Gambier","Propriétaire foncier, conseiller communal et échevin, qui habita cette rue (1832-1911)"
+way,243568608,"Rue Victor Gambier - Victor Gambierstraat",M,"Victor Gambier","Propriétaire foncier, conseiller communal et échevin, qui habita cette rue (1832-1911)"
 way,30362070,"Rue Vlogaert - Vlogaertstraat",M,,"Ancien propriétaire"
 way,23104735,"Square Van Bever - Van Beversquare",M,"Jean Victor Van Bever","Notaire à Uccle Fort Jaco entre 1802 et 1822, propriétaire terrien et immobilier"
 way,23104737,"Square Van Bever - Van Beversquare",M,"Jean Victor Van Bever","Notaire à Uccle Fort Jaco entre 1802 et 1822, propriétaire terrien et immobilier"
