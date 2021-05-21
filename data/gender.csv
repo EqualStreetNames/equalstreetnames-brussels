@@ -274,6 +274,7 @@ name,source,gender,wikidata,type
 "Avenue Docteur Zamenhof - Dokter Zamenhoflaan",wikidata,M,Q11758,relation
 "Avenue Dolez - Dolezlaan",wikidata,M,Q2141152,relation
 "Avenue Don Bosco - Don Boscolaan",wikidata,M,Q146183,relation
+"Avenue Ducpétiaux - Ducpétiauxlaan",wikidata,M,Q2684331,relation
 "Avenue Échevin Van Muylders - Schepen Van Muylderslaan",wikidata,M,Q90104285,relation
 "Avenue Edgard Tytgat - Edgard Tytgatlaan",wikidata,M,Q366851,relation
 "Avenue Edmond Candries - Edmond Candrieslaan",wikidata,M,Q90104898,relation
@@ -1822,7 +1823,6 @@ name,source,gender,wikidata,type
 "Rue Marianne - Mariannestraat",csv,F,,relation
 "Rue Mercelis - Mercelisstraat",csv,F,,relation
 "Rue de Beughem - de Beughemstraat",csv,F,,relation
-"Avenue Ducpétiaux - Ducpétiauxlaan",event,M,,relation
 "Avenue Général de Longueville - Generaal de Longuevillelaan",csv,M,,relation
 "Avenue Georges Henri - Georges Henrilaan",csv+event,M,,relation
 "Avenue Hansen-Soulie - Hansen-Soulielaan",csv+event,M,,relation

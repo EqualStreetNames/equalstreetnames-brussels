@@ -760,7 +760,6 @@ Antwerpselaan,,,,way
 Berensheide,,,,relation
 Beukenberg,,,,way
 "Bocage des Myosotis",,,,way
-"Boesdaallaan - Avenue Boesdaal",,,,way
 Boomgaardstraat,,,,way
 "Borgval - Borgwal",,,,way
 Bosveldweg,,,,way
@@ -797,7 +796,6 @@ Bosveldweg,,,,way
 "Boulevard du Triomphe - Triomflaan",,,,relation
 Bovenberg,,,,relation
 "Brouwerijstraat - François Vervloetstraat",,,,way
-Brusselstraat,,,,way
 "Cantersteen - Kantersteen",,,,way
 "Carré Capouillet - Capouilletblok",,,,relation
 "Carré Cassimans - Cassimansblok",,,,way
@@ -1102,7 +1100,6 @@ Cauter,,,,relation
 "Couloir secondaire - Secundaire gang",,,,way
 "Cours Amarante - Amarantenhof",,,,relation
 "Coursive Plein Ciel - Openluchtwandelgang",,,,relation
-"De Limburg Stirumlaan - Avenue de Limburg Stirum",,,,way
 "Dédale du Campanile - Campaniledoolgang",,,,relation
 Diegemvoetweg,,,,way
 Dieweg,,,,relation
@@ -1222,12 +1219,9 @@ GR,,,,way
 "Galerie du Midi - Zuidgalerij",,,,way
 "Galerie du Parlement - Parlementsgalerij",,,,relation
 "Galerie du Roi - Koningsgalerij",,,,way
-Gentsesteenweg,,,,way
-"Ginstlaan - Avenue des Genêts",,,,way
 "Grand-Place - Grote Markt",,,,relation
 "Grande Avenue - Grote Laan",,,,way
 "Grande Rue au Bois - Grote Bosstraat",,,,relation
-Grensstraat,,,,relation
 Groenenberg,,,,relation
 Grootveld,,,,relation
 Gulledelle,,,,relation
@@ -1241,7 +1235,6 @@ Hollebeekpad,,,,way
 Homborch,,,,way
 Hondenberg,,,,relation
 Houtweg,,,,relation
-Humaniteitslaan,,,,way
 Hunderenveld,,,,relation
 "Impasse Poils - Poilsgang",,,,way
 "Impasse Schuddeveld - Schuddeveldgang",,,,way
@@ -1279,13 +1272,10 @@ Hunderenveld,,,,relation
 "Impasse du Renard - Vossengang",,,,way
 "Impasse du Roulier - Voermansgang",,,,way
 "Impasse du Val des Roses - Rozendaal",,,,relation
-Indringingsweg,,,,way
 Jagersveld,,,,way
 "Jardin des Justes - Tuin der Rechtvaardingen",,,,way
-"Jonetlaan - Avenue Jonet",,,,way
 "Jozef Van Elewijckstraat",,,,way
 Karrenberg,,,,way
-"Kastanjeboomlaan - Avenue des Marronniers",,,,way
 Kasteelhof,,,,relation
 Kattenberg,,,,way
 Kauwberg,,,,way
@@ -1301,8 +1291,6 @@ Kweepereboomlaan,,,,way
 "La Petite place des Menteurs - ‘t Leugenaarspleintje",,,,way
 "La Plage - Het Strand",,,,way
 "La Venelle - Het Dreveken",,,,relation
-Lakenstraat,,,,way
-Langestaartdreef,,,,way
 Laskouter,,,,relation
 "Le Raccourci",,,,way
 "Lennikse Baan",,,,way
@@ -1324,7 +1312,6 @@ Mariënsteen,,,,relation
 "Meiklokjeslaan - Avenue des Muguets",,,,way
 Middelweg,,,,relation
 Moensberg,,,,way
-Molenweg,,,,way
 "Mont des Arts - Kunstberg",,,,relation
 "Mont du Cinquantenaire - Jubelberg",,,,relation
 "Montagne au Chaudron - Ketelberg",,,,relation
@@ -1334,8 +1321,6 @@ Molenweg,,,,way
 "Montagne de la Gare - Stationberg",,,,relation
 "Montagne des Lapins - Konijnenberg",,,,relation
 "Montée de l'Esplanade",,,,way
-Morenveldweg,,,,way
-Neerhofstraat,,,,way
 Neerleest,,,,relation
 "Ninoofseplein - Place de Ninove",,,,relation
 Noendelle,,,,relation
@@ -1345,7 +1330,6 @@ Opstalweg,,,,way
 "Oudijzergang - Impasse de la Ferraille",,,,way
 "Paardentunnel Leonard",,,,way
 Pachthoevestraat,,,,way
-"Panoramastraat - Rue du Panorama",,,,way
 "Parc du Peterbos - Peterbospark",,,,relation
 "Parcours méditatif du parc du Vogelzang - Meditatieparcours Vogelzangpark",,,,way
 "Parvis Chantecler - Canteclaervoorplein",,,,way
@@ -3070,7 +3054,6 @@ Schoolgat,,,,relation
 "Sentier du pèlerin - Pelgrimspad",,,,way
 Seringenstraat,,,,relation
 Sint-Jansbergsteenweg,,,,way
-Sleutelplasstraat,,,,way
 Sparrenweg,,,,way
 "Square Alexandre - Alexandreplein",,,,way
 "Square Amnesty International - Amnesty Internationalplein",,,,way
@@ -3145,7 +3128,6 @@ Sukkelweg,,,,way
 "Tenbosch - Tenbos",,,,way
 Tenreuken,,,,way
 Tentoonstellingslaan,,,,way
-Terhulpsesteenweg,,,,way
 "The Mint",,,,way
 "Théatre de verdure",,,,way
 "Thon Passage",,,,way
@@ -3155,7 +3137,6 @@ Trassersweg,,,,relation
 Treurenberg,,,,relation
 "Trois Tilleuls - Drie Linden",,,,way
 Tuinbouw,,,,relation
-Tulpenstraat,,,,relation
 "Tunnel Cinquantenaire - Jubelparktunnel",,,,way
 "Tunnel Cortenbergh - Kortenbergtunnel",,,,way
 "Tunnel Loi - Wettunnel",,,,way
@@ -3179,22 +3160,17 @@ Tulpenstraat,,,,relation
 "Venelle du Champ du Moulin - Molenveldsteeg",,,,relation
 "Venelle en Boucle - Lussteeg",,,,relation
 "Verlengde Stallestraat",,,,way
-"Viaduct Zeekanaal Brussel-Schelde",,,,way
 "Vieille Rue du Moulin - Oude Molenstraat",,,,way
 "Vieux Chemin - Oude Weg",,,,way
 "Vieux Marché aux Grains - Oude Graanmarkt",,,,way
-Vlieraardeweg,,,,way
 "Voermansgang - Impasse du Roulier",,,,way
 "Voie 1 - Spoor 1",,,,way
 "Voie 2 - Spoor 2",,,,way
 "Voiliergang - Impasse de la Giroflee",,,,way
-Vrijheidsstraat,,,,way
 "Waterloopad - Sentier de Waterloo",,,,way
 "Watermael Shopping",,,,way
 "Wekkergang - Impasse du Réveil",,,,way
 Welriekendedreef,,,,way
 Windmolenberg,,,,relation
-Woluwedal,,,,way
-Woluwelaan,,,,way
 Woluwepad,,,,way
 "Zwarte Pijnbomenlaan",,,,way
