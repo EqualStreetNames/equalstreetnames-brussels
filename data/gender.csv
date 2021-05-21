@@ -1427,6 +1427,7 @@ name,source,gender,wikidata,type
 "Rue Knapen - Knapenstraat",wikidata,M,Q95354773,relation
 "Rue Lamartine - Lamartinestraat",wikidata,M,Q188697,relation
 "Rue Lambermont - Lambermontstraat",wikidata,M,Q2327076,way
+"Rue Lanfray - Lanfraystraat",wikidata,M,Q101068037,relation
 "Rue Lannoy - Lannoystraat",wikidata,M,Q3172984,relation
 "Rue Le Corrège - Correggiostraat",wikidata,M,Q8457,relation
 "Rue Le Tintoret - Tintorettostraat",wikidata,M,Q9319,relation
@@ -1461,6 +1462,7 @@ name,source,gender,wikidata,type
 "Rue Lieutenant Liedel - Luitenant Liedelstraat",wikidata,M,Q19995205,relation
 "Rue Lieutenant Lippens - Luitenant Lippensstraat",wikidata,M,Q19835682,relation
 "Rue Liévin Verstraeten - Liévin Verstraetenstraat",wikidata,M,Q3257405,relation
+"Rue Limauge - Limaugestraat",wikidata,M,Q101094367,relation
 "Rue Limnander - Limnanderstraat",wikidata,M,Q4792681,relation
 "Rue Lincoln - Lincolnstraat",wikidata,M,Q91,way
 "Rue Linné - Linnéstraat",wikidata,M,Q1043,relation
@@ -1552,6 +1554,7 @@ name,source,gender,wikidata,type
 "Rue Pierre Vandevoorde - Pierre Vandevoordestraat",wikidata,M,Q23901052,relation
 "Rue Pierre Verschelden - Pierre Verscheldenstraat",wikidata,M,Q86066578,relation
 "Rue Plantin - Plantinstraat",wikidata,M,Q380360,relation
+"Rue Pletinckx - Pletinckxstraat",wikidata,M,Q105102315,way
 "Rue Portaels - Portaelsstraat",wikidata,M,Q919158,relation
 "Rue Prévinaire - Prévinairestraat",wikidata,M,Q927597,relation
 "Rue Prince Baudouin - Prins Boudewijnstraat",wikidata,M,Q12976,relation
@@ -1651,6 +1654,7 @@ name,source,gender,wikidata,type
 "Rue Van Ostade - Van Ostadestraat",wikidata,M,Q352438,relation
 "Rue Van Schoor - Van Schoorstraat",wikidata,M,Q18286807,relation
 "Rue Van Swae - Van Swaestraat",wikidata,M,Q86062979,relation
+"Rue Van Winghen - Van Winghenstraat",wikidata,M,Q87487361,relation
 "Rue Van Ysendyck - Van Ysendyckstraat",wikidata,M,Q2375773,way
 "Rue Vandenbussche - Vandenbusschestraat",wikidata,M,Q3165368,relation
 "Rue Vanderborght - Vanderborghtstraat",wikidata,M,Q3185718,relation
@@ -1815,6 +1819,18 @@ name,source,gender,wikidata,type
 "Rue Crickx - Crickxstraat",csv,?,,way
 "Rue De Koninck - De Koninckstraat",csv,?,,relation
 "Rue Decrée - Decréestraat",csv,?,,relation
+"Rue Laneau - Laneaustraat",csv,?,,relation
+"Rue Medaets - Medaetsstraat",csv,?,,relation
+"Rue Pangaert - Pangaertstraat",csv,?,,relation
+"Rue Raphaël - Raphaëlstraat",csv,?,,relation
+"Rue Steyls - Steylsstraat",csv,?,,relation
+"Rue Stroobants - Stroobantsstraat",csv+event,?,,relation
+"Rue Van Bergen - Van Bergenstraat",csv,?,,relation
+"Rue Van Gaver - Van Gaverstraat",csv,?,,way
+"Rue Van Hoegaerde - Van Hoegaerdestraat",csv+event,?,,relation
+"Rue Vanden Corput - Vanden Corputstraat",csv,?,,way
+"Rue Vandenhoven - Vandenhovenstraat",csv+event,?,,relation
+"Rue Verhoeven - Verhoevenstraat",csv,?,,relation
 "Rue de Bruyn - de Bruynstraat",csv,?,,relation
 "Rue de Ciplet - de Cipletstraat",csv,?,,relation
 "Avenue Hélène - Helenalaan",csv,F,,relation
@@ -1836,6 +1852,7 @@ name,source,gender,wikidata,type
 "Avenue des Frères Goemaere - Gebroeders Goemaerelaan",csv,M,,way
 "Avenue des Frères Legrain - Gebroeders Legrainlaan",csv,M,,way
 "Impasse Madrille - Madrillegang",csv,M,,way
+"Petite rue L'Olivier - Korte L'Olivierstraat",csv,M,,relation
 "Rue Beeckman - Beeckmanstraat",csv,M,,way
 "Rue Berckmans - Berckmansstraat",csv,M,,relation
 "Rue Blanche - Blanchestraat",csv,M,,way
@@ -1912,9 +1929,9 @@ name,source,gender,wikidata,type
 "Rue Jean-Baptiste Vanpé - Jean-Baptiste Vanpéstraat",event,M,,relation
 "Rue Jean-Baptiste Verheyden - Jean-Baptiste Verheydenstraat",event,M,,relation
 "Rue Jef Devos - Jef Devosstraat",event,M,,relation
-"Rue Jennart - Jennartstraat",event,M,,relation
-"Rue Jonniaux - Jonniauxstraat",event,M,,relation
-"Rue Jorez - Jorezstraat",event,M,,relation
+"Rue Jennart - Jennartstraat",csv,M,,relation
+"Rue Jonniaux - Jonniauxstraat",csv,M,,relation
+"Rue Jorez - Jorezstraat",csv,M,,relation
 "Rue Joseph Bens - Joseph Bensstraat",csv,M,,way
 "Rue Joseph Brand - Joseph Brandstraat",event,M,,relation
 "Rue Joseph Buedts - Joseph Buedtsstraat",event,M,,relation
@@ -1942,15 +1959,13 @@ name,source,gender,wikidata,type
 "Rue Jules Ruhl - Jules Ruhlstraat",event,M,,relation
 "Rue Jules Vieujant - Jules Vieujantstraat",event,M,,relation
 "Rue Julien Vermeersch - Julien Vermeerschstraat",event,M,,relation
-"Rue L'Olivier - L'Olivierstraat",event,M,,relation
-"Rue Lacaille - Lacaillestraat",event,M,,relation
+"Rue L'Olivier - L'Olivierstraat",csv,M,,relation
+"Rue Lacaille - Lacaillestraat",csv,M,,relation
 "Rue Lambert Crickx - Lambert Crickxstraat",event,M,,relation
 "Rue Lambert Vandervelde - Lambert Vanderveldestraat",event,M,,way
-"Rue Laneau - Laneaustraat",event,M,,relation
-"Rue Lanfray - Lanfraystraat",event,M,,relation
 "Rue Laurent Heirbaut - Laurent Heirbautstraat",event,M,,relation
 "Rue Laurent Vandenhoven - Laurent Vandenhovenstraat",csv+event,M,,relation
-"Rue Le Lorrain - Le Lorrainstraat",event,M,,relation
+"Rue Le Lorrain - Le Lorrainstraat",csv,M,,relation
 "Rue Léon Autrique - Léon Autriquestraat",event,M,,relation
 "Rue Léon Daumerie - Léon Daumeriestraat",event,M,,relation
 "Rue Léon Dopéré - Léon Dopéréstraat",event,M,,relation
@@ -1965,7 +1980,6 @@ name,source,gender,wikidata,type
 "Rue Leopold Rom - Leopold Romstraat",event,M,,relation
 "Rue Léopold Van Asbroeck - Léopold Van Asbroeckstraat",event,M,,way
 "Rue Lieutenant Freddy Wampach - Luitenant Freddy Wampachstraat",event,M,,relation
-"Rue Limauge - Limaugestraat",event,M,,relation
 "Rue Louis Coenen - Louis Coenenstraat",event,M,,way
 "Rue Louis Corhay - Louis Corhaystraat",event,M,,relation
 "Rue Louis De Gunst - Louis De Gunststraat",event,M,,relation
@@ -1985,7 +1999,7 @@ name,source,gender,wikidata,type
 "Rue Marcel Betbèze - Marcel Betbèzestraat",event,M,,relation
 "Rue Marcel Buts - Marcel Butsstraat",event,M,,relation
 "Rue Marcel Grüner - Marcel Grünerstraat",event,M,,relation
-"Rue Marcq - Marcqstraat",event,M,,way
+"Rue Marcq - Marcqstraat",csv,M,,way
 "Rue Martin Lindekens - Martin Lindekensstraat",event,M,,relation
 "Rue Martin Pfeiffer - Martin Pfeifferstraat",event,M,,relation
 "Rue Martin Van Lier - Martin Van Lierstraat",event,M,,relation
@@ -1995,13 +2009,11 @@ name,source,gender,wikidata,type
 "Rue Maurice Liétart - Maurice Liétartstraat",event,M,,way
 "Rue Maurice Xhoneux - Maurice Xhoneuxstraat",event,M,,relation
 "Rue Max Roos - Max Roosstraat",csv+event,M,,way
-"Rue Medaets - Medaetsstraat",event,M,,relation
 "Rue Michel Van Nieuwenborgh - Michel Van Nieuwenborghstraat",event,M,,relation
 "Rue Michel Zwaab - Michel Zwaabstraat",event,M,,relation
 "Rue Mode Vliebergh - Mode Vlieberghstraat",event,M,,relation
 "Rue Mommaerts - Mommaertsstraat",event,M,,relation
-"Rue Moris - Morisstraat",event,M,,way
-"Rue Pangaert - Pangaertstraat",event,M,,relation
+"Rue Moris - Morisstraat",csv,M,,way
 "Rue Papenkasteel - Papenkasteelstraat",event,M,,relation
 "Rue Paul Bossu - Paul Bossustraat",event,M,,relation
 "Rue Paul Lancsweert - Paul Lancsweertstraat",event,M,,relation
@@ -2022,13 +2034,11 @@ name,source,gender,wikidata,type
 "Rue Pierre de Puysselaer - Pierre de Puysselaerstraat",csv,M,,way
 "Rue Pierre-J. Demessemaeker - Pierre-J. Demessemaekerstraat",event,M,,relation
 "Rue Pierre-Victor Jacobs - Pierre-Victor Jacobsstraat",event,M,,relation
-"Rue Piers - Piersstraat",event,M,,relation
-"Rue Pletinckx - Pletinckxstraat",event,M,,way
+"Rue Piers - Piersstraat",csv,M,,relation
 "Rue Pol Stoppelaere - Pol Stoppelaerestraat",event,M,,relation
 "Rue Polydore Moerman - Polydore Moermanstraat",event,M,,relation
 "Rue Professeur Hendrickx - Professor Hendrickxstraat",event,M,,relation
 "Rue Prosper Préser - Prosper Préserstraat",event,M,,relation
-"Rue Raphaël - Raphaëlstraat",event,M,,relation
 "Rue Rasson - Rassonstraat",csv,M,,way
 "Rue Remi Fraeyman - Remi Fraeymanstraat",event,M,,relation
 "Rue Remy Soetens - Remy Soetensstraat",event,M,,relation
@@ -2050,54 +2060,44 @@ name,source,gender,wikidata,type
 "Rue Saint-André - Sint-Andriesstraat",event,M,,way
 "Rue Saint-Bernard - Sint-Bernardusstraat",event,M,,way
 "Rue Saint-François - Sint-Franciscusstraat",event,M,,relation
-"Rue Saint-Georges - Sint-Jorisstraat",event,M,,way
 "Rue Saint-Géry - Sint-Goriksstraat",event,M,,way
 "Rue Saint-Julien - Sint-Juliaanstraat",event,M,,relation
 "Rue Saint-Laurent - Sint-Laurensstraat",event,M,,way
 "Rue Saint-Lazare - Sint-Lazarusstraat",event,M,,way
 "Rue Saint-Martin - Sint-Maartenstraat",event,M,,relation
-"Rue Sergent Sorensen - Sergeant Sorensenstraat",event,M,,relation
+"Rue Sergent Sorensen - Sergeant Sorensenstraat",csv+event,M,,relation
 "Rue Sneessens - Sneessensstraat",event,M,,relation
 "Rue Stanislas Legrelle - Stanislas Legrellestraat",event,M,,relation
-"Rue Steens - Steensstraat",event,M,,way
+"Rue Steens - Steensstraat",csv,M,,way
 "Rue Sterckx - Sterckxstraat",event,M,,way
-"Rue Steyls - Steylsstraat",event,M,,relation
-"Rue Stroobants - Stroobantsstraat",event,M,,relation
 "Rue Sylvain Denayer - Sylvain Denayerstraat",event,M,,relation
 "Rue Tazieaux - Tazieauxstraat",csv,M,,relation
 "Rue Timmermans - Timmermansstraat",csv,M,,way
 "Rue Ulens - Ulensstraat",csv,M,,relation
-"Rue Van Bergen - Van Bergenstraat",event,M,,relation
 "Rue Van Elewyck - Van Elewyckstraat",event,M,,relation
-"Rue Van Gaver - Van Gaverstraat",event,M,,way
-"Rue Van Hoegaerde - Van Hoegaerdestraat",event,M,,relation
-"Rue Van Kalck - Van Kalckstraat",event,M,,relation
+"Rue Van Kalck - Van Kalckstraat",csv,M,,relation
 "Rue Van Lint - Van Lintstraat",event,M,,relation
-"Rue Van Malder - Van Malderstraat",event,M,,relation
-"Rue Van Meyel - Van Meyelstraat",event,M,,relation
+"Rue Van Malder - Van Malderstraat",csv,M,,relation
+"Rue Van Meyel - Van Meyelstraat",csv,M,,relation
 "Rue Van Soust - Van Souststraat",event,M,,relation
-"Rue Van Wambeke - Van Wambekestraat",event,M,,relation
-"Rue Van Winghen - Van Winghenstraat",event,M,,relation
-"Rue Vanden Corput - Vanden Corputstraat",event,M,,way
-"Rue Vandenboogaerde - Vandenboogaerdestraat",event,M,,relation
-"Rue Vandenbranden - Vandenbrandenstraat",event,M,,way
-"Rue Vandenbroeck - Vandenbroeckstraat",event,M,,relation
-"Rue Vandenhoven - Vandenhovenstraat",event,M,,relation
-"Rue Vander Elst - Vander Elststraat",event,M,,way
-"Rue Vanderdussen - Vanderdussenstraat",event,M,,relation
-"Rue Vanderhoeven - Vanderhoevenstraat",event,M,,relation
-"Rue Vandermeersch - Vandermeerschstraat",event,M,,relation
-"Rue Vandermeulen - Vandermeulenstraat",event,M,,way
-"Rue Vanderschrick - Vanderschrickstraat",event,M,,relation
-"Rue Vanderstraeten - Vanderstraetenstraat",event,M,,relation
-"Rue Vautier - Vautierstraat",event,M,,relation
-"Rue Verboeckhaven - Verboeckhavenstraat",event,M,,relation
-"Rue Verheyden - Verheydenstraat",event,M,,relation
-"Rue Verhoeven - Verhoevenstraat",event,M,,relation
+"Rue Van Wambeke - Van Wambekestraat",csv,M,,relation
+"Rue Vandenboogaerde - Vandenboogaerdestraat",csv,M,,relation
+"Rue Vandenbranden - Vandenbrandenstraat",csv,M,,way
+"Rue Vandenbroeck - Vandenbroeckstraat",csv,M,,relation
+"Rue Vander Elst - Vander Elststraat",csv,M,,way
+"Rue Vanderdussen - Vanderdussenstraat",csv,M,,relation
+"Rue Vanderhoeven - Vanderhoevenstraat",csv,M,,relation
+"Rue Vandermeersch - Vandermeerschstraat",csv,M,,relation
+"Rue Vandermeulen - Vandermeulenstraat",csv,M,,way
+"Rue Vanderschrick - Vanderschrickstraat",csv,M,,relation
+"Rue Vanderstraeten - Vanderstraetenstraat",csv+event,M,,relation
+"Rue Vautier - Vautierstraat",csv,M,,relation
+"Rue Verboeckhaven - Verboeckhavenstraat",csv,M,,relation
+"Rue Verheyden - Verheydenstraat",csv+event,M,,relation
 "Rue Verhulst - Verhulststraat",event,M,,relation
-"Rue Vervloesem - Vervloesemstraat",event,M,,relation
-"Rue Victor Gambier - Victor Gambierstraat",event,M,,way
-"Rue Victor Lowet - Victor Lowetstraat",event,M,,relation
+"Rue Vervloesem - Vervloesemstraat",csv+event,M,,relation
+"Rue Victor Gambier - Victor Gambierstraat",csv+event,M,,way
+"Rue Victor Lowet - Victor Lowetstraat",csv+event,M,,relation
 "Rue Victor Mabille - Victor Mabillestraat",event,M,,relation
 "Rue Victor Oudart - Victor Oudartstraat",event,M,,relation
 "Rue Victor Rauter - Victor Rauterstraat",event,M,,relation

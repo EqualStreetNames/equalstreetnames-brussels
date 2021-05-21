@@ -94,6 +94,7 @@ name,source,gender,wikidata,type
 "Rond-Point Boule et Bill - Bollie en Billierotonde",wikidata,,Q59991,way
 "Rue Guillaume Tell - Willem Tellstraat",wikidata,,Q30908,relation
 "Rue Ravenstein - Ravensteinstraat",wikidata,,Q3145650,way
+"Rue Saint-Georges - Sint-Jorisstraat",wikidata,,Q48438,way
 "Rue Saint-Jean - Sint-Jansstraat",wikidata,,Q50037286,way
 "Rue Saint-Michel - Sint-Michielsstraat",wikidata,,Q45581,way
 "Rue d'Anderlecht - Anderlechtsesteenweg",wikidata,,Q12886,way
@@ -1356,7 +1357,6 @@ Pachthoevestraat,,,,way
 "Petite drève des Mésanges - Mezendreefje",,,,way
 "Petite drève du Maréchal - Kleine Maarschalkdreef",,,,way
 "Petite rue Courtois - Korte Courtoisstraat",,,,relation
-"Petite rue L'Olivier - Korte L'Olivierstraat",,,,relation
 "Petite rue au Beurre - Korte Boterstraat",,,,way
 "Petite rue de Monaco - Monacostraatje",,,,way
 "Petite rue de l'Hôpital - Kleine Gasthuisstraat",,,,relation
