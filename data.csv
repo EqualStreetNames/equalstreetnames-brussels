@@ -50,6 +50,12 @@ relation,2962567,"Rue Honoré Longtin - Honoré Longtinstraat",M,"Honoré Longti
 relation,3263377,"Rue Hubert Blauwet - Hubert Blauwetstraat",M,"Hubert Blauwet","Sergent auprès du 22ème régiment de ligne"," mort pour la Patrie (1887-1914)"
 relation,3256838,"Rue Hubert Heymans - Hubert Heymansstraat",M,"Hubert Heymans",
 relation,3375876,"Rue Hubert Van Hoorde - Hubert Van Hoordestraat",M,"Hubert Van Hoorde",
+relation,3372752,"Rue Jacques Ballings - Jaak Ballingsstraat",M,"Jacques Ballings",
+relation,3077398,"Rue Jacques Boon - Jacques Boonstraat",M,"Jacques Boon","Capitaine-commandant de la Compagnie spéciale des sapeurs-pompeurs volontaires d'Anderlecht, mort accidellement (1858-1917)"
+relation,3009698,"Rue Jacques Hoton - Jacques Hotonstraat",M,"Jacques Hoton","Résistant (1924-1941)"
+relation,3138897,"Rue Jacques Houtmeyers - Jaak Houtmeyersstraat",M,"Jacques Houtmeyers",
+relation,3059508,"Rue Jacques Rayé - Jacques Rayéstraat",M,"Jacques Rayé","Géomètre-expert qui fit don à la Commune d'une partie de sa fortune et de terrains destinés à l'ouverture d'une rue (1850-1910)"
+relation,3379630,"Rue Laurent Vandenhoven - Laurent Vandenhovenstraat",M,"Laurent Vandenhoven",
 relation,3315810,"Rue Tazieaux - Tazieauxstraat",M,,"Ancien propriétaire"
 relation,3302989,"Rue Ulens - Ulensstraat",M,,"Ancien intendant militaire molenbeekois"
 relation,3004965,"Rue Wayez - Wayezstraat",M,,"Administrateur de la Compagnie Immobilière d'Anderlecht, promoteur de la voie"
@@ -87,6 +93,10 @@ way,30087257,"Rue Henri-François Moreels - Henri-François Moreelsstraat",M,"He
 way,38966423,"Rue Hubert-Jean Coenen - Hubert-Jean Coenenstraat",M,"Hubert-Jean Coenen",
 way,73335024,"Rue J. B. Moyens - J. B. Moyensstraat",M,"Jean-Baptiste Moyens","Inspirateur de l'ancienne foire Sainte-Anne dans le quartier de Dieleghem"
 way,73335043,"Rue J. B. Moyens - J. B. Moyensstraat",M,"Jean-Baptiste Moyens","Inspirateur de l'ancienne foire Sainte-Anne dans le quartier de Dieleghem"
+way,14372813,"Rue Joseph Bens - Joseph Bensstraat",M,"Joseph Bens","Ancien directeur de l'école de Saint-Job, premier titulaire d'un diplôme officiel (1837–1910)"
+way,33277981,"Rue Joseph Bens - Joseph Bensstraat",M,"Joseph Bens","Ancien directeur de l'école de Saint-Job, premier titulaire d'un diplôme officiel (1837–1910)"
+way,243609002,"Rue Joseph Bens - Joseph Bensstraat",M,"Joseph Bens","Ancien directeur de l'école de Saint-Job, premier titulaire d'un diplôme officiel (1837–1910)"
+way,243609005,"Rue Joseph Bens - Joseph Bensstraat",M,"Joseph Bens","Ancien directeur de l'école de Saint-Job, premier titulaire d'un diplôme officiel (1837–1910)"
 way,13520421,"Rue Jules Cockx - Jules Cockxstraat",M,"Jules Cockx","Combattant, originaire d'Auderghem, mort au champ d'honneur durant la première Guerre mondiale"
 way,31428753,"Rue Jules Cockx - Jules Cockxstraat",M,"Jules Cockx","Combattant, originaire d'Auderghem, mort au champ d'honneur durant la première Guerre mondiale"
 way,40146481,"Rue Jules Cockx - Jules Cockxstraat",M,"Jules Cockx","Combattant, originaire d'Auderghem, mort au champ d'honneur durant la première Guerre mondiale"
@@ -101,6 +111,18 @@ way,203942597,"Rue Jules Cockx - Jules Cockxstraat",M,"Jules Cockx","Combattant,
 way,421668829,"Rue Jules Cockx - Jules Cockxstraat",M,"Jules Cockx","Combattant, originaire d'Auderghem, mort au champ d'honneur durant la première Guerre mondiale"
 way,482234634,"Rue Jules Cockx - Jules Cockxstraat",M,"Jules Cockx","Combattant, originaire d'Auderghem, mort au champ d'honneur durant la première Guerre mondiale"
 way,549588780,"Rue Jules Cockx - Jules Cockxstraat",M,"Jules Cockx","Combattant, originaire d'Auderghem, mort au champ d'honneur durant la première Guerre mondiale"
+way,14454885,"Rue Maurice Charlent - Maurice Charlentstraat",M,"Maurice Charlent",
+way,223925202,"Rue Maurice Charlent - Maurice Charlentstraat",M,"Maurice Charlent",
+way,558240548,"Rue Maurice Charlent - Maurice Charlentstraat",M,"Maurice Charlent",
+way,178710445,"Rue Max Roos - Max Roosstraat",M,"Max Roos","Industriel, propriétaire du terrain à travers lequel la rue fut tracée (1867-1925)"
+way,178710452,"Rue Max Roos - Max Roosstraat",M,"Max Roos","Industriel, propriétaire du terrain à travers lequel la rue fut tracée (1867-1925)"
+way,283214764,"Rue Max Roos - Max Roosstraat",M,"Max Roos","Industriel, propriétaire du terrain à travers lequel la rue fut tracée (1867-1925)"
+way,155469560,"Rue Philippe Dewolfs - Philippe Dewolfsstraat",M,"Philippe Dewolfs",
+way,284966350,"Rue Pierre de Puysselaer - Pierre de Puysselaerstraat",M,"Pierre de Puysselaer","Ancien directeur des Indienneries de Stalle (1829-1910)"
+way,284966351,"Rue Pierre de Puysselaer - Pierre de Puysselaerstraat",M,"Pierre de Puysselaer","Ancien directeur des Indienneries de Stalle (1829-1910)"
+way,284966352,"Rue Pierre de Puysselaer - Pierre de Puysselaerstraat",M,"Pierre de Puysselaer","Ancien directeur des Indienneries de Stalle (1829-1910)"
+way,8241468,"Rue Rasson - Rassonstraat",M,"Jean-Baptiste Rasson","Officier des carabiniers, conseiller communal (1812-1898)"
+way,36998721,"Rue Rasson - Rassonstraat",M,"Jean-Baptiste Rasson","Officier des carabiniers, conseiller communal (1812-1898)"
 way,151163014,"Rue Timmermans - Timmermansstraat",M,,"Actionnaire de la Société anonyme des Villas de Forest qui urbanisa ce quartier"
 way,30362070,"Rue Vlogaert - Vlogaertstraat",M,,"Ancien propriétaire"
 way,23104735,"Square Van Bever - Van Beversquare",M,"Jean Victor Van Bever","Notaire à Uccle Fort Jaco entre 1802 et 1822, propriétaire terrien et immobilier"
