@@ -665,7 +665,6 @@ name,source,gender,wikidata,type
 "Boulevard de Smet de Naeyer - de Smet de Naeyerlaan",wikidata,M,Q721781,relation
 "Boulevard du Roi Albert II - Koning Albert II-laan",wikidata,M,Q3911,relation
 "Chaussée Saint-Pierre - Sint-Pieterssteenweg",wikidata,M,Q33923,relation
-"Chaussée de Ruisbroek - Ruisbroekse Steenweg",wikidata,M,Q958774,relation
 "Chemin Alfred Hitchcock - Alfred Hitchcockweg",wikidata,M,Q7374,way
 "Chemin Bourvil - Bourvilweg",wikidata,M,Q2750,way
 "Chemin Charles Vanel - Charles Vanelweg",wikidata,M,Q965918,way
@@ -733,6 +732,7 @@ name,source,gender,wikidata,type
 "Passage Oliver Hardy - Oliver Hardydoorgang",wikidata,M,Q72911,way
 "Passage Stan Laurel - Stan Laurel Doorgang",wikidata,M,Q72869,way
 "Passage Yves Montand - Yves Montanddoorgang",wikidata,M,Q106057,way
+"Paul Gilsonlaan - Avenue Paul Gilson",wikidata,M,Q958774,way
 "Place Adolphe Sax - Adolphe Saxplein",wikidata,M,Q181995,relation
 "Place Aimé Dandoy - Aimé Dandoyplein",wikidata,M,Q2828051,relation
 "Place Albert Leemans - Albert Leemansplein",wikidata,M,Q85429784,way
@@ -1358,6 +1358,7 @@ name,source,gender,wikidata,type
 "Rue Jacobs Fontaine - Jacobs Fontainestraat",wikidata,M,Q3380316,relation
 "Rue Jacobs-Fontaine - Jacobs-Fontainestraat",wikidata,M,Q3380316,relation
 "Rue Jacques Bassem - Jacques Bassemstraat",wikidata,M,Q3158201,way
+"Rue Jacques Jansen - Jacques Jansenstraat",wikidata,M,Q106923104,relation
 "Rue Jacques Jordaens - Jakob Jordaensstraat",wikidata,M,Q270658,way
 "Rue Jacques Manne - Jacques Mannestraat",wikidata,M,Q63160171,relation
 "Rue Jacques Vandervleet - Jacques Vandervleetstraat",wikidata,M,Q85472462,relation
@@ -1554,6 +1555,7 @@ name,source,gender,wikidata,type
 "Rue Portaels - Portaelsstraat",wikidata,M,Q919158,relation
 "Rue Prévinaire - Prévinairestraat",wikidata,M,Q927597,relation
 "Rue Prince Baudouin - Prins Boudewijnstraat",wikidata,M,Q12976,relation
+"Rue Professeur Hustin - Professor Hustinstraat",wikidata,M,Q2317754,way
 "Rue Prosper Henri Devos - Prosper Henri Devosstraat",wikidata,M,Q18214539,relation
 "Rue Prosper Matthys - Prosper Matthysstraat",wikidata,M,Q2391005,way
 "Rue Puccini - Puccinistraat",wikidata,M,Q7311,relation
@@ -1581,6 +1583,7 @@ name,source,gender,wikidata,type
 "Rue Ruysdael - Ruysdaelstraat",wikidata,M,Q213612,relation
 "Rue Saint Guidon - Sint-Guidostraat",wikidata,M,Q1553720,relation
 "Rue Saint-Christophe - Sint-Kristoffelsstraat",wikidata,M,Q193507,way
+"Rue Saint-Denis - Sint-Denijsstraat",wikidata,M,Q3581317,relation
 "Rue Saint-Ghislain - Sint-Gisleinsstraat",wikidata,M,Q740017,relation
 "Rue Saint-Henri - Sint-Hendrikstraat",wikidata,M,Q103556,relation
 "Rue Saint-Hubert - Sint-Huibrechtsstraat",wikidata,M,Q159834,relation
@@ -1868,12 +1871,11 @@ name,source,gender,wikidata,type
 "Rue Hubert Van Hoorde - Hubert Van Hoordestraat",csv,M,,relation
 "Rue Hubert-Jean Coenen - Hubert-Jean Coenenstraat",csv,M,,way
 "Rue J. B. Moyens - J. B. Moyensstraat",csv+event,M,,way
-"Rue Jacques Ballings - Jaak Ballingsstraat",event,M,,relation
-"Rue Jacques Boon - Jacques Boonstraat",event,M,,relation
-"Rue Jacques Hoton - Jacques Hotonstraat",event,M,,relation
-"Rue Jacques Houtmeyers - Jaak Houtmeyersstraat",event,M,,relation
-"Rue Jacques Jansen - Jacques Jansenstraat",event,M,,relation
-"Rue Jacques Rayé - Jacques Rayéstraat",event,M,,relation
+"Rue Jacques Ballings - Jaak Ballingsstraat",csv,M,,relation
+"Rue Jacques Boon - Jacques Boonstraat",csv,M,,relation
+"Rue Jacques Hoton - Jacques Hotonstraat",csv,M,,relation
+"Rue Jacques Houtmeyers - Jaak Houtmeyersstraat",csv,M,,relation
+"Rue Jacques Rayé - Jacques Rayéstraat",csv,M,,relation
 "Rue Jan Frans De Craen - Jan Frans De Craenstraat",event,M,,relation
 "Rue Jan Verbesselt - Jan Verbesseltstraat",event,M,,relation
 "Rue Jean Ballegeer - Jean Ballegeerstraat",event,M,,way
@@ -1913,7 +1915,7 @@ name,source,gender,wikidata,type
 "Rue Jennart - Jennartstraat",event,M,,relation
 "Rue Jonniaux - Jonniauxstraat",event,M,,relation
 "Rue Jorez - Jorezstraat",event,M,,relation
-"Rue Joseph Bens - Joseph Bensstraat",event,M,,way
+"Rue Joseph Bens - Joseph Bensstraat",csv,M,,way
 "Rue Joseph Brand - Joseph Brandstraat",event,M,,relation
 "Rue Joseph Buedts - Joseph Buedtsstraat",event,M,,relation
 "Rue Joseph Claes - Joseph Claesstraat",event,M,,way
@@ -1947,7 +1949,7 @@ name,source,gender,wikidata,type
 "Rue Laneau - Laneaustraat",event,M,,relation
 "Rue Lanfray - Lanfraystraat",event,M,,relation
 "Rue Laurent Heirbaut - Laurent Heirbautstraat",event,M,,relation
-"Rue Laurent Vandenhoven - Laurent Vandenhovenstraat",event,M,,relation
+"Rue Laurent Vandenhoven - Laurent Vandenhovenstraat",csv+event,M,,relation
 "Rue Le Lorrain - Le Lorrainstraat",event,M,,relation
 "Rue Léon Autrique - Léon Autriquestraat",event,M,,relation
 "Rue Léon Daumerie - Léon Daumeriestraat",event,M,,relation
@@ -1988,11 +1990,11 @@ name,source,gender,wikidata,type
 "Rue Martin Pfeiffer - Martin Pfeifferstraat",event,M,,relation
 "Rue Martin Van Lier - Martin Van Lierstraat",event,M,,relation
 "Rue Mathieu Pauwels - Mathieu Pauwelsstraat",event,M,,relation
-"Rue Maurice Charlent - Maurice Charlentstraat",event,M,,way
+"Rue Maurice Charlent - Maurice Charlentstraat",csv+event,M,,way
 "Rue Maurice De Moor - Maurice De Moorstraat",event,M,,relation
 "Rue Maurice Liétart - Maurice Liétartstraat",event,M,,way
 "Rue Maurice Xhoneux - Maurice Xhoneuxstraat",event,M,,relation
-"Rue Max Roos - Max Roosstraat",event,M,,way
+"Rue Max Roos - Max Roosstraat",csv+event,M,,way
 "Rue Medaets - Medaetsstraat",event,M,,relation
 "Rue Michel Van Nieuwenborgh - Michel Van Nieuwenborghstraat",event,M,,relation
 "Rue Michel Zwaab - Michel Zwaabstraat",event,M,,relation
@@ -2003,7 +2005,7 @@ name,source,gender,wikidata,type
 "Rue Papenkasteel - Papenkasteelstraat",event,M,,relation
 "Rue Paul Bossu - Paul Bossustraat",event,M,,relation
 "Rue Paul Lancsweert - Paul Lancsweertstraat",event,M,,relation
-"Rue Philippe Dewolfs - Philippe Dewolfsstraat",event,M,,way
+"Rue Philippe Dewolfs - Philippe Dewolfsstraat",csv+event,M,,way
 "Rue Philippe Piermez - Philippe Piermezstraat",event,M,,relation
 "Rue Philippe Vander Elst - Filip Vander Elststraat",event,M,,relation
 "Rue Pierre Alderson - Pieter Aldersonstraat",event,M,,relation
@@ -2017,7 +2019,7 @@ name,source,gender,wikidata,type
 "Rue Pierre Mattheussens - Pieter Mattheussensstraat",event,M,,relation
 "Rue Pierre Van Obberghen - Pieter Van Obberghenstraat",event,M,,relation
 "Rue Pierre Vereman - Pierre Veremanstraat",event,M,,way
-"Rue Pierre de Puysselaer - Pierre de Puysselaerstraat",event,M,,way
+"Rue Pierre de Puysselaer - Pierre de Puysselaerstraat",csv,M,,way
 "Rue Pierre-J. Demessemaeker - Pierre-J. Demessemaekerstraat",event,M,,relation
 "Rue Pierre-Victor Jacobs - Pierre-Victor Jacobsstraat",event,M,,relation
 "Rue Piers - Piersstraat",event,M,,relation
@@ -2025,10 +2027,9 @@ name,source,gender,wikidata,type
 "Rue Pol Stoppelaere - Pol Stoppelaerestraat",event,M,,relation
 "Rue Polydore Moerman - Polydore Moermanstraat",event,M,,relation
 "Rue Professeur Hendrickx - Professor Hendrickxstraat",event,M,,relation
-"Rue Professeur Hustin - Professor Hustinstraat",event,M,,way
 "Rue Prosper Préser - Prosper Préserstraat",event,M,,relation
 "Rue Raphaël - Raphaëlstraat",event,M,,relation
-"Rue Rasson - Rassonstraat",event,M,,way
+"Rue Rasson - Rassonstraat",csv,M,,way
 "Rue Remi Fraeyman - Remi Fraeymanstraat",event,M,,relation
 "Rue Remy Soetens - Remy Soetensstraat",event,M,,relation
 "Rue René Christiaens - René Christiaensstraat",event,M,,way
@@ -2048,7 +2049,6 @@ name,source,gender,wikidata,type
 "Rue Saint-Alphonse - Sint-Alfonsstraat",event,M,,way
 "Rue Saint-André - Sint-Andriesstraat",event,M,,way
 "Rue Saint-Bernard - Sint-Bernardusstraat",event,M,,way
-"Rue Saint-Denis - Sint-Denijsstraat",event,M,,relation
 "Rue Saint-François - Sint-Franciscusstraat",event,M,,relation
 "Rue Saint-Georges - Sint-Jorisstraat",event,M,,way
 "Rue Saint-Géry - Sint-Goriksstraat",event,M,,way
