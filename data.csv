@@ -1,8 +1,8 @@
 type,id,name,gender,person,description
 relation,3066477,"Place Van Meyel - Van Meyelplein",+,"Époux Van Meyel-Cool","Couple dont les dons permirent notamment la construction d'un orphelinat et d'une crèche"
 relation,11087247,"Rue Buchholtz - Buchholtzstraat",+,"Famille Buchholtz","Propriétaires de terrains dans cette rue"
+relation,3015625,"Rue Vandenhoven - Vandenhovenstraat",+,"Famille Vandenhoven","Principale famille de Roodebeek, qui donnèrent plusieurs mandataires politiques à la commune de Woluwe-Saint-Lambert"
 relation,3020491,"Drève Soetkin - Soetkindreef",-,Soetkin,"Mère de Tijl Uylenspiegel"
-relation,3015625,"Rue Vandenhoven - Vandenhovenstraat",-,"Famille Vandenhoven","Principale famille de Roodebeek, qui donnèrent plusieurs mandataires politiques à la commune de Woluwe-Saint-Lambert"
 relation,3294557,"Rue Bouvier - Bouvierstraat",?,,
 relation,2967941,"Rue Brunard - Brunardstraat",?,,
 relation,3257052,"Rue Coenraets - Coenraetsstraat",?,,"Propriétaire de terrains situés à cet endroit"
@@ -67,6 +67,32 @@ relation,3077398,"Rue Jacques Boon - Jacques Boonstraat",M,"Jacques Boon","Capit
 relation,3009698,"Rue Jacques Hoton - Jacques Hotonstraat",M,"Jacques Hoton","Résistant (1924-1941)"
 relation,3138897,"Rue Jacques Houtmeyers - Jaak Houtmeyersstraat",M,"Jacques Houtmeyers",
 relation,3059508,"Rue Jacques Rayé - Jacques Rayéstraat",M,"Jacques Rayé","Géomètre-expert qui fit don à la Commune d'une partie de sa fortune et de terrains destinés à l'ouverture d'une rue (1850-1910)"
+relation,3375382,"Rue Jan Frans De Craen - Jan Frans De Craenstraat",M,"Jan Frans De Craen",
+relation,11819954,"Rue Jan Verbesselt - Jan Verbesseltstraat",M,"Jan Verbesselt",
+relation,3217431,"Rue Jean Baptiste François Denys - Jean Baptiste François Denysstraat",M,"Jean Baptiste François Denys","En 1840, premier ""instituteur communal"" de l'enseignement officiel à Anderlecht depuis l'Indépendance (1817-1904)"
+relation,2982119,"Rue Jean Baudoux - Jean Baudouxstraat",M,"Jean Baudoux",
+relation,12715655,"Rue Jean Benaets - Jean Benaetsstraat",M,"Jean Benaets","Instituteur-directeur de l'école communale de Saint-Job (1845-1926)"
+relation,3238881,"Rue Jean De Greef - Jean De Greefstraat",M,"Jean De Greef",
+relation,3488410,"Rue Jean Deraeck - Jean Deraeckstraat",M,"Jean Deraeck",
+relation,3449121,"Rue Jean Gérard Eggericx - Jean Gérard Eggericxstraat",M,"Jean Gérard Eggericx",
+relation,3411354,"Rue Jean Heymans - Jean Heymansstraat",M,"Jean Heymans",
+relation,2984601,"Rue Jean Lagey - Jean Lageystraat",M,"Jean Lagey","Agent de police, mort en service (?-1931)"
+relation,3411386,"Rue Jean Laumans - Jean Laumansstraat",M,"Jean Laumans","Sculpteur (1823-1902)"
+relation,3289007,"Rue Jean Morjau - Jean Morjaustraat",M,"Jean Morjau","Ancien conseiller communal"
+relation,2981599,"Rue Jean Tiebackx - Jan Tiebackxstraat",M,"Jean Tiebackx",
+relation,3322162,"Rue Jean Verbiest - Jean Verbieststraat",M,"Jean Verbiest","Ancien échevin molenbeekois"
+relation,3472073,"Rue Jean Wellens - Jean Wellensstraat",M,"Jean Wellens",
+relation,3339801,"Rue Jean-Baptiste Baeck - Jean-Baptiste Baeckstraat",M,"Jean-Baptiste Baeck","Grand invalide de guerre, employé des PTT, fondateur et président de l'Entente des Groupements Patriotiques de Forest (1892-1965)"
+relation,3372704,"Rue Jean-Baptiste Bauwens - Jan-Baptist Bauwensstraat",M,"Jean-Baptiste Bauwens",
+relation,3329212,"Rue Jean-Baptiste Decock - Jean-Baptiste Decockstraat",M,"Jean-Baptiste Decock",
+relation,3575247,"Rue Jean-Baptiste Dumoulin - Jean-Baptiste Dumoulinstraat",M,"Jean-Baptiste Dumoulin",
+relation,2962481,"Rue Jean-Baptiste Serkeyn - Jean-Baptiste Serkeynstraat",M,"Jean-Baptiste Serkeyn",
+relation,2984014,"Rue Jean-Baptiste Timmermans - Jean-Baptiste Timmermansstraat",M,"Jean-Baptiste Timmermans","Échevin de 1908 à 1912"
+relation,3238871,"Rue Jean-Baptiste Van Pagé - Jean-Baptiste Van Pagéstraat",M,"Jean-Baptiste Van Pagé",
+relation,3271537,"Rue Jean-Baptiste Vandendriesch - Jean Baptiste Vandendrieschstraat",M,"Jean-Baptiste Vandendriesch",
+relation,3308097,"Rue Jean-Baptiste Vanpé - Jean-Baptiste Vanpéstraat",M,"Jean-Baptiste Vanpé",
+relation,4807085,"Rue Jean-Baptiste Verheyden - Jean-Baptiste Verheydenstraat",M,"Jean-Baptiste Verheyden","Soldat au 14ème Régiment d'Artillerie (1888- 1918)"
+relation,3279710,"Rue Jef Devos - Jef Devosstraat",M,"Jef Devos","Conseiller communal et échevin de l'Instruction publique de Forest de 1904 à 1921"
 relation,3303613,"Rue Jennart - Jennartstraat",M,,"Ancien conseiller communal"
 relation,3066461,"Rue Jonniaux - Jonniauxstraat",M,,"Ancien conseiller communal et échevin etterbeekois"
 relation,3536355,"Rue Jorez - Jorezstraat",M,,"Major-commandant du bataillon de la garde civique d'Anderlecht et patron d'une manufacture de toiles cirées sur la Senne"
@@ -96,6 +122,9 @@ relation,3028884,"Rue Verboeckhaven - Verboeckhavenstraat",M,"Michel Verboekhave
 relation,3325825,"Rue Verheyden - Verheydenstraat",M,,"Propriétaire terrien"
 relation,3011064,"Rue Vervloesem - Vervloesemstraat",M,"Jean-François Vervloesem","Instituteur communal pendant près de 50 ans (1850-1917)"
 relation,3241581,"Rue Victor Lowet - Victor Lowetstraat",M,"Victor Lowet","Soldat au 8ème régiment de Ligne, mort pendant la Première Guerre mondiale (1881-1915)"
+relation,3415954,"Rue Victor Mabille - Victor Mabillestraat",M,"Victor Mabille",
+relation,3044820,"Rue Victor Oudart - Victor Oudartstraat",M,"Victor Oudart","Président du bureau de bienfaisance de Schaerbeek (1815-1886)"
+relation,3227643,"Rue Victor Rauter - Victor Rauterstraat",M,"Victor Rauter","Commandant du corps des sapeurs-pompiers volontaires de 1888 jusqu'à sa mort (1854-1910)"
 relation,3004965,"Rue Wayez - Wayezstraat",M,,"Administrateur de la Compagnie Immobilière d'Anderlecht, promoteur de la voie"
 way,132433013,"Impasse Ronsmans - Ronsmansgang",?,,
 way,132433014,"Impasse Ronsmans - Ronsmansgang",?,,
@@ -133,6 +162,14 @@ way,30087257,"Rue Henri-François Moreels - Henri-François Moreelsstraat",M,"He
 way,38966423,"Rue Hubert-Jean Coenen - Hubert-Jean Coenenstraat",M,"Hubert-Jean Coenen",
 way,73335024,"Rue J. B. Moyens - J. B. Moyensstraat",M,"Jean-Baptiste Moyens","Inspirateur de l'ancienne foire Sainte-Anne dans le quartier de Dieleghem"
 way,73335043,"Rue J. B. Moyens - J. B. Moyensstraat",M,"Jean-Baptiste Moyens","Inspirateur de l'ancienne foire Sainte-Anne dans le quartier de Dieleghem"
+way,40807576,"Rue Jean Ballegeer - Jean Ballegeerstraat",M,"Jean Ballegeer","Administrateur de la société qui traça cette rue (1869-1951)"
+way,443027926,"Rue Jean Ballegeer - Jean Ballegeerstraat",M,"Jean Ballegeer","Administrateur de la société qui traça cette rue (1869-1951)"
+way,14795581,"Rue Jean Ekelmans - Jean Ekelmansstraat",M,"Jean Ekelmans",
+way,31717487,"Rue Jean-Baptiste Desmeth - Jan-Baptist Desmethstraat",M,"Jean-Baptiste Desmeth",
+way,35868435,"Rue Jean-Baptiste Desmeth - Jan-Baptist Desmethstraat",M,"Jean-Baptiste Desmeth",
+way,14796173,"Rue Jean-Baptiste Vandercammen - Jean-Baptiste Vandercammenstraat",M,"Jean-Baptiste Vandercammen",
+way,14796498,"Rue Jean-Baptiste Vannypen - Jean-Baptiste Vannypenstraat",M,"Jean-Baptiste Vannypen","Soldat au 2ème régiment de Carabiniers, mort pour la Patrie (1895-1918)"
+way,205027558,"Rue Jean-Baptiste Vannypen - Jean-Baptiste Vannypenstraat",M,"Jean-Baptiste Vannypen","Soldat au 2ème régiment de Carabiniers, mort pour la Patrie (1895-1918)"
 way,14372813,"Rue Joseph Bens - Joseph Bensstraat",M,"Joseph Bens","Ancien directeur de l'école de Saint-Job, premier titulaire d'un diplôme officiel (1837–1910)"
 way,33277981,"Rue Joseph Bens - Joseph Bensstraat",M,"Joseph Bens","Ancien directeur de l'école de Saint-Job, premier titulaire d'un diplôme officiel (1837–1910)"
 way,243609002,"Rue Joseph Bens - Joseph Bensstraat",M,"Joseph Bens","Ancien directeur de l'école de Saint-Job, premier titulaire d'un diplôme officiel (1837–1910)"
