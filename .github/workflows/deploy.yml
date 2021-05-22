@@ -9,10 +9,6 @@ on:
     types:
       - completed
 
-defaults:
-  run:
-    working-directory: website
-
 jobs:
   validate-geojson:
     runs-on: ubuntu-latest
