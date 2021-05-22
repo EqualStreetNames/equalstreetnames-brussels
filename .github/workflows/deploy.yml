@@ -32,9 +32,23 @@ jobs:
         env:
           INPUT_SCHEMA: ./.github/workflows/schemas/metadata.json
           INPUT_JSONS: ./data/metadata.json
+  validate-csv:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+        with:
+          repository: ${{ github.repository_owner }}/equalstreetnames
+          persist-credentials: false
+      - run: git submodule update --init cities/belgium/brussels
+      - run: composer validate
+        working-directory: process
+      - run: composer install --prefer-dist --no-progress
+        working-directory: process
+      - run: php process.php normalize-csv --city=belgium/brussels
+        working-directory: process
 
   build-and-deploy:
-    needs: [validate-geojson, validate-metadata]
+    needs: [validate-geojson, validate-metadata, validate-csv]
     runs-on: ubuntu-latest
     if: ${{ github.event_name == 'push' || github.event.workflow_run.conclusion == 'success' }}
     steps:
