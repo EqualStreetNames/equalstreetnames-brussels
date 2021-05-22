@@ -1371,9 +1371,11 @@ name,source,gender,wikidata,type
 "Rue Jan Bollen - Jan Bollenstraat",wikidata,M,Q20006818,relation
 "Rue Jan Van Ruusbroeck - Jan Van Ruusbroeckstraat",wikidata,M,Q920312,relation
 "Rue Jean Chapelié - Jean Chapeliéstraat",wikidata,M,Q3171220,way
+"Rue Jean Jacquet - Jean Jacquetstraat",wikidata,M,Q106935981,relation
 "Rue Jean Lambotte - Jean Lambottestraat",wikidata,M,Q17361894,relation
 "Rue Jean Massart - Jean Massartstraat",wikidata,M,Q2482340,relation+way
 "Rue Jean Noté - Jean Notéstraat",wikidata,M,Q1685726,relation
+"Rue Jean Paquot - Jean Paquotstraat",wikidata,M,Q101095203,relation
 "Rue Jean Preckher - Jean Preckherstraat",wikidata,M,Q3939196,relation
 "Rue Jean Robie - Jean Robiestraat",wikidata,M,Q3174364,way
 "Rue Jean Stas - Jean Stasstraat",wikidata,M,Q560706,way
@@ -1382,8 +1384,11 @@ name,source,gender,wikidata,type
 "Rue Jean d'Ardenne - Jean d'Ardennestraat",wikidata,M,Q85429628,relation
 "Rue Jean d'Osta - Jean d'Ostastraat",wikidata,M,Q3175237,way
 "Rue Jean de Brouchoven de Bergeyck - Jean de Brouchoven de Bergeyckstraat",wikidata,M,Q1814651,way
+"Rue Jean-Baptiste Brems - Jean-Baptiste Bremsstraat",wikidata,M,Q106936053,relation
 "Rue Jean-Baptiste Colyns - Jean-Baptiste Colynsstraat",wikidata,M,Q60830286,way
 "Rue Jean-Baptiste Janssen - Jean-Baptiste Janssenstraat",wikidata,M,Q918726,relation
+"Rue Jean-Baptiste Labarre - Jean-Baptiste Labarrestraat",wikidata,M,Q106936104,way
+"Rue Jean-Baptiste Lepage - Jean-Baptiste Lepagestraat",wikidata,M,Q106936134,relation
 "Rue Jean-Baptiste Meunier - Jean-Baptiste Meunierstraat",wikidata,M,Q5985474,way
 "Rue Jean-Baptiste Mosselmans - Jan-Baptist Mosselmansstraat",wikidata,M,Q60446195,relation
 "Rue Jean-Baptiste Verbeyst - Jean-Baptiste Verbeyststraat",wikidata,M,Q86065275,relation
@@ -1642,17 +1647,20 @@ name,source,gender,wikidata,type
 "Rue Van Campenhout - Van Campenhoutstraat",wikidata,M,Q1363402,relation
 "Rue Van Droogenbroeck - Van Droogenbroeckstraat",wikidata,M,Q2266893,relation
 "Rue Van Dyck - Van Dyckstraat",wikidata,M,Q150679,relation
+"Rue Van Elewyck - Van Elewyckstraat",wikidata,M,Q106936201,relation
 "Rue Van Eyck - Van Eyckstraat",wikidata,M,Q102272,relation
 "Rue Van Hammée - Van Hamméestraat",wikidata,M,Q2856780,relation
 "Rue Van Helmont - Van Helmontstraat",wikidata,M,Q294169,way
 "Rue Van Hoorde - Van Hoordestraat",wikidata,M,Q2517470,relation
 "Rue Van Hove - Van Hovestraat",wikidata,M,Q2960366,relation
+"Rue Van Lint - Van Lintstraat",wikidata,M,Q106936231,relation
 "Rue Van Maerlant - Van Maerlantstraat",wikidata,M,Q1393906,way
 "Rue Van Moer - Van Moerstraat",wikidata,M,Q3164475,relation
 "Rue Van Oost - Van Ooststraat",wikidata,M,Q388619,relation
 "Rue Van Orley - Van Orleystraat",wikidata,M,Q454678,relation
 "Rue Van Ostade - Van Ostadestraat",wikidata,M,Q352438,relation
 "Rue Van Schoor - Van Schoorstraat",wikidata,M,Q18286807,relation
+"Rue Van Soust - Van Souststraat",wikidata,M,Q106936275,relation
 "Rue Van Swae - Van Swaestraat",wikidata,M,Q86062979,relation
 "Rue Van Winghen - Van Winghenstraat",wikidata,M,Q87487361,relation
 "Rue Van Ysendyck - Van Ysendyckstraat",wikidata,M,Q2375773,way
@@ -1668,6 +1676,7 @@ name,source,gender,wikidata,type
 "Rue Vergote - Vergotestraat",wikidata,M,Q2124063,relation
 "Rue Verhas - Verhasstraat",wikidata,M,Q2036536,relation
 "Rue Verheyleweghen - Verheyleweghenstraat",wikidata,M,Q3372356,relation
+"Rue Verhulst - Verhulststraat",wikidata,M,Q106936356,relation
 "Rue Véronèse - Veronesestraat",wikidata,M,Q9440,relation
 "Rue Verwée - Verwéestraat",wikidata,M,Q2835508,way
 "Rue Vésale - Vesaliusstraat",wikidata,M,Q170267,way
@@ -1894,42 +1903,37 @@ name,source,gender,wikidata,type
 "Rue Jacques Hoton - Jacques Hotonstraat",csv,M,,relation
 "Rue Jacques Houtmeyers - Jaak Houtmeyersstraat",csv,M,,relation
 "Rue Jacques Rayé - Jacques Rayéstraat",csv,M,,relation
-"Rue Jan Frans De Craen - Jan Frans De Craenstraat",event,M,,relation
-"Rue Jan Verbesselt - Jan Verbesseltstraat",event,M,,relation
-"Rue Jean Ballegeer - Jean Ballegeerstraat",event,M,,way
-"Rue Jean Baptiste François Denys - Jean Baptiste François Denysstraat",event,M,,relation
-"Rue Jean Baudoux - Jean Baudouxstraat",event,M,,relation
-"Rue Jean Benaets - Jean Benaetsstraat",event,M,,relation
-"Rue Jean De Greef - Jean De Greefstraat",event,M,,relation
-"Rue Jean Deraeck - Jean Deraeckstraat",event,M,,relation
-"Rue Jean Ekelmans - Jean Ekelmansstraat",event,M,,way
-"Rue Jean Gérard Eggericx - Jean Gérard Eggericxstraat",event,M,,relation
-"Rue Jean Heymans - Jean Heymansstraat",event,M,,relation
-"Rue Jean Jacquet - Jean Jacquetstraat",event,M,,relation
-"Rue Jean Lagey - Jean Lageystraat",event,M,,relation
-"Rue Jean Laumans - Jean Laumansstraat",event,M,,relation
-"Rue Jean Morjau - Jean Morjaustraat",event,M,,relation
-"Rue Jean Paquot - Jean Paquotstraat",event,M,,relation
-"Rue Jean Tiebackx - Jan Tiebackxstraat",event,M,,relation
-"Rue Jean Verbiest - Jean Verbieststraat",event,M,,relation
-"Rue Jean Wellens - Jean Wellensstraat",event,M,,relation
-"Rue Jean-Baptiste Baeck - Jean-Baptiste Baeckstraat",event,M,,relation
-"Rue Jean-Baptiste Bauwens - Jan-Baptist Bauwensstraat",event,M,,relation
-"Rue Jean-Baptiste Brems - Jean-Baptiste Bremsstraat",event,M,,relation
-"Rue Jean-Baptiste Decock - Jean-Baptiste Decockstraat",event,M,,relation
-"Rue Jean-Baptiste Desmeth - Jan-Baptist Desmethstraat",event,M,,way
-"Rue Jean-Baptiste Dumoulin - Jean-Baptiste Dumoulinstraat",event,M,,relation
-"Rue Jean-Baptiste Labarre - Jean-Baptiste Labarrestraat",event,M,,way
-"Rue Jean-Baptiste Lepage - Jean-Baptiste Lepagestraat",event,M,,relation+way
-"Rue Jean-Baptiste Serkeyn - Jean-Baptiste Serkeynstraat",event,M,,relation
-"Rue Jean-Baptiste Timmermans - Jean-Baptiste Timmermansstraat",event,M,,relation
-"Rue Jean-Baptiste Van Pagé - Jean-Baptiste Van Pagéstraat",event,M,,relation
-"Rue Jean-Baptiste Vandendriesch - Jean Baptiste Vandendrieschstraat",event,M,,relation
-"Rue Jean-Baptiste Vandercammen - Jean-Baptiste Vandercammenstraat",event,M,,way
-"Rue Jean-Baptiste Vannypen - Jean-Baptiste Vannypenstraat",event,M,,way
-"Rue Jean-Baptiste Vanpé - Jean-Baptiste Vanpéstraat",event,M,,relation
-"Rue Jean-Baptiste Verheyden - Jean-Baptiste Verheydenstraat",event,M,,relation
-"Rue Jef Devos - Jef Devosstraat",event,M,,relation
+"Rue Jan Frans De Craen - Jan Frans De Craenstraat",csv,M,,relation
+"Rue Jan Verbesselt - Jan Verbesseltstraat",csv,M,,relation
+"Rue Jean Ballegeer - Jean Ballegeerstraat",csv,M,,way
+"Rue Jean Baptiste François Denys - Jean Baptiste François Denysstraat",csv,M,,relation
+"Rue Jean Baudoux - Jean Baudouxstraat",csv,M,,relation
+"Rue Jean Benaets - Jean Benaetsstraat",csv,M,,relation
+"Rue Jean De Greef - Jean De Greefstraat",csv,M,,relation
+"Rue Jean Deraeck - Jean Deraeckstraat",csv,M,,relation
+"Rue Jean Ekelmans - Jean Ekelmansstraat",csv,M,,way
+"Rue Jean Gérard Eggericx - Jean Gérard Eggericxstraat",csv,M,,relation
+"Rue Jean Heymans - Jean Heymansstraat",csv,M,,relation
+"Rue Jean Lagey - Jean Lageystraat",csv,M,,relation
+"Rue Jean Laumans - Jean Laumansstraat",csv,M,,relation
+"Rue Jean Morjau - Jean Morjaustraat",csv,M,,relation
+"Rue Jean Tiebackx - Jan Tiebackxstraat",csv,M,,relation
+"Rue Jean Verbiest - Jean Verbieststraat",csv,M,,relation
+"Rue Jean Wellens - Jean Wellensstraat",csv,M,,relation
+"Rue Jean-Baptiste Baeck - Jean-Baptiste Baeckstraat",csv,M,,relation
+"Rue Jean-Baptiste Bauwens - Jan-Baptist Bauwensstraat",csv,M,,relation
+"Rue Jean-Baptiste Decock - Jean-Baptiste Decockstraat",csv,M,,relation
+"Rue Jean-Baptiste Desmeth - Jan-Baptist Desmethstraat",csv,M,,way
+"Rue Jean-Baptiste Dumoulin - Jean-Baptiste Dumoulinstraat",csv,M,,relation
+"Rue Jean-Baptiste Serkeyn - Jean-Baptiste Serkeynstraat",csv,M,,relation
+"Rue Jean-Baptiste Timmermans - Jean-Baptiste Timmermansstraat",csv,M,,relation
+"Rue Jean-Baptiste Van Pagé - Jean-Baptiste Van Pagéstraat",csv,M,,relation
+"Rue Jean-Baptiste Vandendriesch - Jean Baptiste Vandendrieschstraat",csv,M,,relation
+"Rue Jean-Baptiste Vandercammen - Jean-Baptiste Vandercammenstraat",csv,M,,way
+"Rue Jean-Baptiste Vannypen - Jean-Baptiste Vannypenstraat",csv,M,,way
+"Rue Jean-Baptiste Vanpé - Jean-Baptiste Vanpéstraat",csv,M,,relation
+"Rue Jean-Baptiste Verheyden - Jean-Baptiste Verheydenstraat",csv,M,,relation
+"Rue Jef Devos - Jef Devosstraat",csv,M,,relation
 "Rue Jennart - Jennartstraat",csv,M,,relation
 "Rue Jonniaux - Jonniauxstraat",csv,M,,relation
 "Rue Jorez - Jorezstraat",csv,M,,relation
@@ -2074,12 +2078,9 @@ name,source,gender,wikidata,type
 "Rue Tazieaux - Tazieauxstraat",csv,M,,relation
 "Rue Timmermans - Timmermansstraat",csv,M,,way
 "Rue Ulens - Ulensstraat",csv,M,,relation
-"Rue Van Elewyck - Van Elewyckstraat",event,M,,relation
 "Rue Van Kalck - Van Kalckstraat",csv,M,,relation
-"Rue Van Lint - Van Lintstraat",event,M,,relation
 "Rue Van Malder - Van Malderstraat",csv,M,,relation
 "Rue Van Meyel - Van Meyelstraat",csv,M,,relation
-"Rue Van Soust - Van Souststraat",event,M,,relation
 "Rue Van Wambeke - Van Wambekestraat",csv,M,,relation
 "Rue Vandenboogaerde - Vandenboogaerdestraat",csv,M,,relation
 "Rue Vandenbranden - Vandenbrandenstraat",csv,M,,way
@@ -2094,13 +2095,12 @@ name,source,gender,wikidata,type
 "Rue Vautier - Vautierstraat",csv,M,,relation
 "Rue Verboeckhaven - Verboeckhavenstraat",csv,M,,relation
 "Rue Verheyden - Verheydenstraat",csv+event,M,,relation+way
-"Rue Verhulst - Verhulststraat",event,M,,relation
 "Rue Vervloesem - Vervloesemstraat",csv+event,M,,relation+way
 "Rue Victor Gambier - Victor Gambierstraat",csv+event,M,,way
 "Rue Victor Lowet - Victor Lowetstraat",csv+event,M,,relation+way
-"Rue Victor Mabille - Victor Mabillestraat",event,M,,relation
-"Rue Victor Oudart - Victor Oudartstraat",event,M,,relation
-"Rue Victor Rauter - Victor Rauterstraat",event,M,,relation
+"Rue Victor Mabille - Victor Mabillestraat",csv,M,,relation
+"Rue Victor Oudart - Victor Oudartstraat",csv,M,,relation
+"Rue Victor Rauter - Victor Rauterstraat",csv,M,,relation
 "Rue Vlogaert - Vlogaertstraat",csv,M,,way
 "Rue Wayez - Wayezstraat",csv,M,,relation
 "Rue de Fierlant - de Fierlantstraat",csv,M,,relation
