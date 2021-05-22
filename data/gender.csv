@@ -1398,12 +1398,14 @@ name,source,gender,wikidata,type
 "Rue John Waterloo Wilson - John Waterloo Wilsonstraat",wikidata,M,Q18810465,relation
 "Rue Jolly - Jollystraat",wikidata,M,Q519977,relation
 "Rue Joseph Aernaut - Joseph Aernautstraat",wikidata,M,Q55770532,relation
+"Rue Joseph Brand - Joseph Brandstraat",wikidata,M,Q106937754,relation
 "Rue Joseph Coosemans - Joseph Coosemansstraat",wikidata,M,Q3184785,relation
 "Rue Joseph Diongre - Joseph Diongrestraat",wikidata,M,Q2472963,relation+way
 "Rue Joseph Dujardin - Joseph Dujardinstraat",wikidata,M,Q15304186,relation
 "Rue Joseph Dupont - Joseph Dupontstraat",wikidata,M,Q3184890,relation
 "Rue Joseph II - Jozef II-straat",wikidata,M,Q76555,relation
 "Rue Joseph Jacquet - Joseph Jacquetstraat",wikidata,M,Q3185130,relation
+"Rue Joseph Kelchtermans - Joseph Kelchtermansstraat",wikidata,M,Q106938026,relation
 "Rue Joseph Pavez - Joseph Pavezstraat",wikidata,M,Q17429147,relation
 "Rue Joseph Plateau - Josef Plateaustraat",wikidata,M,Q379993,way
 "Rue Joseph Stallaert - Joseph Stallaertstraat",wikidata,M,Q645601,way
@@ -1415,11 +1417,13 @@ name,source,gender,wikidata,type
 "Rue Jul Merckaert - Jul Merckaertstraat",wikidata,M,Q2183081,relation
 "Rue Jules Besme - Jules Besmestraat",wikidata,M,Q84375317,relation
 "Rue Jules Bouillon - Jules Bouillonstraat",wikidata,M,Q84467048,relation
+"Rue Jules Broeren - Jules Broerenstraat",wikidata,M,Q106938134,relation
 "Rue Jules Delhaize - Jules Delhaizestraat",wikidata,M,Q3188521,relation
 "Rue Jules Destrée - Jules Destréestraat",wikidata,M,Q522308,relation
 "Rue Jules Lahaye - Jules Lahayestraat",wikidata,M,Q86065587,relation+way
 "Rue Jules Lebrun - Jules Lebrunstraat",wikidata,M,Q86831392,relation
 "Rue Jules Lejeune - Jules Lejeunestraat",wikidata,M,Q85427108,way
+"Rue Jules Ruhl - Jules Ruhlstraat",wikidata,M,Q105597970,relation
 "Rue Jules Van Praet - Jules van Praetstraat",wikidata,M,Q3070531,way
 "Rue Julius Hoste - Julius Hostestraat",wikidata,M,Q2184644,relation
 "Rue Karel Mertens - Karel Mertensstraat",wikidata,M,Q95353284,relation
@@ -1846,12 +1850,14 @@ name,source,gender,wikidata,type
 "Avenue Hélène - Helenalaan",csv,F,,relation
 "Avenue Jeanne - Johannalaan",csv+event,F,,relation+way
 "Avenue Juliette - Juliettelaan",csv,F,,way
+"Avenue Marie-Clotilde - Marie-Clotildelaan",csv,F,,way
 "Avenue Paule - Paulalaan",csv,F,,relation
 "Avenue Victoria - Victorialaan",csv,F,,relation
 "Clos Marie Koré - Maire Koréhoek",csv,F,,way
 "Rue Marianne - Mariannestraat",csv,F,,relation
 "Rue Mercelis - Mercelisstraat",csv,F,,relation
 "Rue de Beughem - de Beughemstraat",csv,F,,relation
+"Avenue Achille Reisdorff - Achille Reisdorfflaan",csv,M,,way
 "Avenue Général de Longueville - Generaal de Longuevillelaan",csv,M,,relation
 "Avenue Georges Henri - Georges Henrilaan",csv+event,M,,relation+way
 "Avenue Hansen-Soulie - Hansen-Soulielaan",csv+event,M,,relation+way
@@ -1938,32 +1944,28 @@ name,source,gender,wikidata,type
 "Rue Jonniaux - Jonniauxstraat",csv,M,,relation
 "Rue Jorez - Jorezstraat",csv,M,,relation
 "Rue Joseph Bens - Joseph Bensstraat",csv,M,,way
-"Rue Joseph Brand - Joseph Brandstraat",event,M,,relation
-"Rue Joseph Buedts - Joseph Buedtsstraat",event,M,,relation
-"Rue Joseph Claes - Joseph Claesstraat",event,M,,way
-"Rue Joseph Cuylits - Joseph Cuylitsstraat",event,M,,way
-"Rue Joseph Dekeyn - Joseph Dekeynstraat",event,M,,relation
-"Rue Joseph Delhaye - Joseph Delhayestraat",event,M,,relation
-"Rue Joseph Druez - Joseph Druezstraat",event,M,,relation
-"Rue Joseph Genot - Joseph Genotstraat",event,M,,relation
-"Rue Joseph Hazard - Joseph Hazardstraat",event,M,,way
-"Rue Joseph Kelchtermans - Joseph Kelchtermansstraat",event,M,,relation
-"Rue Joseph Loossens - Joseph Loossensstraat",event,M,,relation
-"Rue Joseph Mertens - Joseph Mertensstraat",event,M,,relation
-"Rue Joseph Schols - Joseph Scholsstraat",event,M,,relation+way
-"Rue Joseph Schuermans - Joseph Schuermansstraat",event,M,,relation
-"Rue Joseph Van Boterdael - Joseph Van Boterdaelstraat",event,M,,relation
-"Rue Joseph Van Camp - Joseph Van Campstraat",event,M,,relation
-"Rue Joseph Verhasselt - Joseph Verhasseltstraat",event,M,,relation
-"Rue Josse De Boeck - Josse De Boeckstraat",event,M,,relation
-"Rue Jules Broeren - Jules Broerenstraat",event,M,,relation
+"Rue Joseph Buedts - Joseph Buedtsstraat",csv,M,,relation
+"Rue Joseph Claes - Joseph Claesstraat",csv,M,,way
+"Rue Joseph Cuylits - Joseph Cuylitsstraat",csv,M,,way
+"Rue Joseph Dekeyn - Joseph Dekeynstraat",csv,M,,relation
+"Rue Joseph Delhaye - Joseph Delhayestraat",csv,M,,relation
+"Rue Joseph Druez - Joseph Druezstraat",csv,M,,relation
+"Rue Joseph Genot - Joseph Genotstraat",csv,M,,relation
+"Rue Joseph Hazard - Joseph Hazardstraat",csv,M,,way
+"Rue Joseph Loossens - Joseph Loossensstraat",csv,M,,relation
+"Rue Joseph Mertens - Joseph Mertensstraat",csv,M,,relation
+"Rue Joseph Schols - Joseph Scholsstraat",csv+event,M,,relation+way
+"Rue Joseph Schuermans - Joseph Schuermansstraat",csv,M,,relation
+"Rue Joseph Van Boterdael - Joseph Van Boterdaelstraat",csv,M,,relation
+"Rue Joseph Van Camp - Joseph Van Campstraat",csv,M,,relation
+"Rue Joseph Verhasselt - Joseph Verhasseltstraat",csv,M,,relation
+"Rue Josse De Boeck - Josse De Boeckstraat",csv,M,,relation
 "Rue Jules Cockx - Jules Cockxstraat",csv+event,M,,way
-"Rue Jules Debecker - Jules Debeckerstraat",event,M,,relation
-"Rue Jules Emile Raymond - Jules Emile Raymondstraat",event,M,,relation
-"Rue Jules Francqui - Jules Francquistraat",event,M,,relation
-"Rue Jules Ruhl - Jules Ruhlstraat",event,M,,relation
-"Rue Jules Vieujant - Jules Vieujantstraat",event,M,,relation
-"Rue Julien Vermeersch - Julien Vermeerschstraat",event,M,,relation
+"Rue Jules Debecker - Jules Debeckerstraat",csv,M,,relation
+"Rue Jules Emile Raymond - Jules Emile Raymondstraat",csv,M,,relation
+"Rue Jules Francqui - Jules Francquistraat",csv,M,,relation
+"Rue Jules Vieujant - Jules Vieujantstraat",csv,M,,relation
+"Rue Julien Vermeersch - Julien Vermeerschstraat",csv,M,,relation
 "Rue L'Olivier - L'Olivierstraat",csv,M,,relation
 "Rue Lacaille - Lacaillestraat",csv,M,,relation
 "Rue Lambert Crickx - Lambert Crickxstraat",event,M,,relation
