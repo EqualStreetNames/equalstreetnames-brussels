@@ -1,10 +1,10 @@
 {
-    "update": "2021-05-23T07:30:56+00:00",
+    "update": "2021-05-23T16:07:20+00:00",
     "sources": {
-        "wikidata": 1951,
-        "csv": 204,
+        "wikidata": 1952,
+        "csv": 223,
         "config": 0,
-        "event": 101,
+        "event": 81,
         "-": 3049
     },
     "genders": {

@@ -1482,6 +1482,7 @@ name,source,gender,wikidata,type
 "Rue Louis Braille - Louis Braillestraat",wikidata,M,Q93182,relation
 "Rue Louis Coenen - Louis Coenenstraat",wikidata,M,Q106945725,way
 "Rue Louis Ernotte - Louis Ernottestraat",wikidata,M,Q85429485,relation+way
+"Rue Louis Hap - Louis Hapstraat",wikidata,M,Q106949419,relation
 "Rue Louis Hymans - Louis Hymansstraat",wikidata,M,Q3262216,way
 "Rue Louis Jasmin - Louis Jasminstraat",wikidata,M,Q91103626,relation
 "Rue Louis Lumière - Louis Lumièrestraat",wikidata,M,Q1962284,relation
@@ -1897,7 +1898,7 @@ name,source,gender,wikidata,type
 "Rue Henri Van Hamme - Hendrik Van Hammestraat",csv,M,,relation
 "Rue Henri Van Zuylen - Henri Van Zuylenstraat",csv,M,,relation
 "Rue Henri Vandermaelen - Henri Vandermaelenstraat",csv,M,,relation
-"Rue Henri Vandersaenen - Henri Vandersaenenstraat",event,M,,relation
+"Rue Henri Vandersaenen - Henri Vandersaenenstraat",csv,M,,relation
 "Rue Henri Ver Eycken - Henri Ver Eyckenstraat",csv,M,,way
 "Rue Henri Wafelaerts - Henri Wafelaertsstraat",csv,M,,way
 "Rue Henri-François Moreels - Henri-François Moreelsstraat",csv,M,,way
@@ -1989,11 +1990,10 @@ name,source,gender,wikidata,type
 "Rue Leopold Rom - Leopold Romstraat",csv,M,,relation
 "Rue Léopold Van Asbroeck - Léopold Van Asbroeckstraat",event,M,,way
 "Rue Lieutenant Freddy Wampach - Luitenant Freddy Wampachstraat",csv,M,,relation
-"Rue Louis Corhay - Louis Corhaystraat",event,M,,relation
-"Rue Louis De Gunst - Louis De Gunststraat",event,M,,relation
-"Rue Louis De Smet - Louis De Smetstraat",event,M,,relation
-"Rue Louis Delhove - Louis Delhovestraat",event,M,,relation
-"Rue Louis Hap - Louis Hapstraat",event,M,,relation
+"Rue Louis Corhay - Louis Corhaystraat",csv,M,,relation
+"Rue Louis De Gunst - Louis De Gunststraat",csv,M,,relation
+"Rue Louis De Smet - Louis De Smetstraat",csv,M,,relation
+"Rue Louis Delhove - Louis Delhovestraat",csv,M,,relation
 "Rue Louis Isidore Lamey - Louis Isidore Lameystraat",event,M,,way
 "Rue Louis Marcx - Louis Marcxstraat",event,M,,relation
 "Rue Louis Mascré - Louis Mascréstraat",event,M,,relation
@@ -2048,20 +2048,20 @@ name,source,gender,wikidata,type
 "Rue Professeur Hendrickx - Professor Hendrickxstraat",event,M,,relation
 "Rue Prosper Préser - Prosper Préserstraat",event,M,,relation
 "Rue Rasson - Rassonstraat",csv,M,,way
-"Rue Remi Fraeyman - Remi Fraeymanstraat",event,M,,relation
-"Rue Remy Soetens - Remy Soetensstraat",event,M,,relation
-"Rue René Christiaens - René Christiaensstraat",event,M,,way
-"Rue René Declercq - René Declercqstraat",event,M,,relation
-"Rue René Devillers - René Devillersstraat",event,M,,relation
-"Rue René Henry - René Henrystraat",event,M,,relation
-"Rue René Reniers - René Reniersstraat",event,M,,relation
-"Rue Richard Braibant - Richard Braibantstraat",event,M,,relation
-"Rue Richard Kips - Richard Kips straat",event,M,,relation
-"Rue Richard Vandevelde - Richard Vandeveldestraat",event,M,,relation
-"Rue Robert Buyck - Robert Buyckstraat",event,M,,relation
-"Rue Robert Thoreau - Robert Thoreaustraat",event,M,,relation
-"Rue Robert Willame - Robert Willamestraat",event,M,,relation
-"Rue Roger Abeels - Roger Abeelsstraat",event,M,,relation
+"Rue Remi Fraeyman - Remi Fraeymanstraat",csv,M,,relation
+"Rue Remy Soetens - Remy Soetensstraat",csv,M,,relation
+"Rue René Christiaens - René Christiaensstraat",csv,M,,way
+"Rue René Declercq - René Declercqstraat",csv,M,,relation
+"Rue René Devillers - René Devillersstraat",csv,M,,relation
+"Rue René Henry - René Henrystraat",csv,M,,relation
+"Rue René Reniers - René Reniersstraat",csv,M,,relation
+"Rue Richard Braibant - Richard Braibantstraat",csv,M,,relation
+"Rue Richard Kips - Richard Kips straat",csv,M,,relation
+"Rue Richard Vandevelde - Richard Vandeveldestraat",csv,M,,relation
+"Rue Robert Buyck - Robert Buyckstraat",csv,M,,relation
+"Rue Robert Thoreau - Robert Thoreaustraat",csv,M,,relation
+"Rue Robert Willame - Robert Willamestraat",csv,M,,relation
+"Rue Roger Abeels - Roger Abeelsstraat",csv,M,,relation
 "Rue Ropsy Chaudron - Ropsy Chaudronstraat",csv,M,,relation+way
 "Rue Rouen-Bovie - Rouen-Boviestraat",csv,M,,relation
 "Rue Saint-Alphonse - Sint-Alfonsstraat",csv,M,,way
