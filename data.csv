@@ -117,10 +117,20 @@ relation,3326140,"Rue Jules Vieujant - Jules Vieujantstraat",M,"Jules Vieujant",
 relation,3449190,"Rue Julien Vermeersch - Julien Vermeerschstraat",M,"Julien Vermeersch",
 relation,3049116,"Rue L'Olivier - L'Olivierstraat",M,"Jean L'Olivier","(1792-1854) Militaire belge"
 relation,3496013,"Rue Lacaille - Lacaillestraat",M,,
+relation,3240346,"Rue Laurent Heirbaut - Laurent Heirbautstraat",M,"Laurent Heirbaut",
 relation,3379630,"Rue Laurent Vandenhoven - Laurent Vandenhovenstraat",M,"Laurent Vandenhoven",
 relation,3294529,"Rue Le Lorrain - Le Lorrainstraat",M,"Damien Le Lorrain",
+relation,3575282,"Rue Leopold Rom - Leopold Romstraat",M,"Leopold Rom",
+relation,2994280,"Rue Lieutenant Freddy Wampach - Luitenant Freddy Wampachstraat",M,"Freddy Wampach","(1903-1943) Militaire, résistant agent parachutiste, fusillé au Tir national, qui habita cette rue"
 relation,3306655,"Rue Piers - Piersstraat",M,,"Ancien échevin de Molenbeek"
+relation,3546815,"Rue Ropsy Chaudron - Ropsy Chaudronstraat",M,,"Promoteur et fondateur des Abattoirs d'Anderlecht, qui se trouvaient dans la rue"
+relation,3235096,"Rue Rouen-Bovie - Rouen-Boviestraat",M,"François Bovie"," François Bovie, par legs testamentaire, avait fait un don à la commune afin de décerner un prix annuel aux meilleurs élèves des écoles communales"
+relation,3256996,"Rue Saint-François - Sint-Franciscusstraat",M,Saint-François,
+relation,3244579,"Rue Saint-Julien - Sint-Juliaanstraat",M,Saint-Julien,
+relation,3306602,"Rue Saint-Julien - Sint-Juliaanstraat",M,Saint-Julien,
+relation,3333168,"Rue Saint-Martin - Sint-Maartenstraat",M,"Martin Godfurneau et Martin Van Beveren","Propriétaires ayant urbanisé le quartier"
 relation,3241221,"Rue Sergent Sorensen - Sergeant Sorensenstraat",M,,
+relation,2967966,"Rue Stanislas Legrelle - Stanislas Legrellestraat",M,"Stanislas Legrelle",
 relation,3315810,"Rue Tazieaux - Tazieauxstraat",M,,"Ancien propriétaire"
 relation,3302989,"Rue Ulens - Ulensstraat",M,,"Ancien intendant militaire molenbeekois"
 relation,3325363,"Rue Van Kalck - Van Kalckstraat",M,,"Ancien propriétaire terrien"
@@ -227,7 +237,15 @@ way,284966351,"Rue Pierre de Puysselaer - Pierre de Puysselaerstraat",M,"Pierre 
 way,284966352,"Rue Pierre de Puysselaer - Pierre de Puysselaerstraat",M,"Pierre de Puysselaer","(1829-1910) Ancien directeur des Indienneries de Stalle"
 way,8241468,"Rue Rasson - Rassonstraat",M,"Jean-Baptiste Rasson","(1812-1898) Officier des carabiniers, conseiller communal"
 way,36998721,"Rue Rasson - Rassonstraat",M,"Jean-Baptiste Rasson","(1812-1898) Officier des carabiniers, conseiller communal"
+way,8083516,"Rue Ropsy Chaudron - Ropsy Chaudronstraat",M,,"Promoteur et fondateur des Abattoirs d'Anderlecht, qui se trouvaient dans la rue"
+way,14184120,"Rue Saint-Alphonse - Sint-Alfonsstraat",M,Saint-Alphonse,
+way,12990788,"Rue Saint-André - Sint-Andriesstraat",M,Saint-André,
+way,8512036,"Rue Saint-Géry - Sint-Goriksstraat",M,Saint-Géry,
+way,8512066,"Rue Saint-Laurent - Sint-Laurensstraat",M,Saint-Laurent,
+way,924125258,"Rue Saint-Laurent - Sint-Laurensstraat",M,Saint-Laurent,
+way,27780620,"Rue Saint-Lazare - Sint-Lazarusstraat",M,Saint-Lazare,
 way,15087902,"Rue Steens - Steensstraat",M,"Les frères Steens",Propriétaires
+way,17505335,"Rue Sterckx - Sterckxstraat",M,"François-Adrien-Joseph Sterckx","(1826-1873) Propriétaire foncier, ancien échevin de Saint-Gilles"
 way,151163014,"Rue Timmermans - Timmermansstraat",M,,"Actionnaire de la Société anonyme des Villas de Forest qui urbanisa ce quartier"
 way,13752032,"Rue Vandenbranden - Vandenbrandenstraat",M,,
 way,13752049,"Rue Vandenbranden - Vandenbrandenstraat",M,,
