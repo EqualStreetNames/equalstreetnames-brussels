@@ -1436,6 +1436,8 @@ name,source,gender,wikidata,type
 "Rue Knapen - Knapenstraat",wikidata,M,Q95354773,relation
 "Rue Lamartine - Lamartinestraat",wikidata,M,Q188697,relation
 "Rue Lambermont - Lambermontstraat",wikidata,M,Q2327076,way
+"Rue Lambert Crickx - Lambert Crickxstraat",wikidata,M,Q106945601,relation
+"Rue Lambert Vandervelde - Lambert Vanderveldestraat",wikidata,M,Q106945655,way
 "Rue Lanfray - Lanfraystraat",wikidata,M,Q101068037,relation
 "Rue Lannoy - Lannoystraat",wikidata,M,Q3172984,relation
 "Rue Le Corrège - Correggiostraat",wikidata,M,Q8457,relation
@@ -1478,6 +1480,7 @@ name,source,gender,wikidata,type
 "Rue Locquenghien - Locquenghienstraat",wikidata,M,Q3175532,way
 "Rue Lodewijk Van Boeckel - Lodewijk Van Boeckelstraat",wikidata,M,Q41884515,relation
 "Rue Louis Braille - Louis Braillestraat",wikidata,M,Q93182,relation
+"Rue Louis Coenen - Louis Coenenstraat",wikidata,M,Q106945725,way
 "Rue Louis Ernotte - Louis Ernottestraat",wikidata,M,Q85429485,relation+way
 "Rue Louis Hymans - Louis Hymansstraat",wikidata,M,Q3262216,way
 "Rue Louis Jasmin - Louis Jasminstraat",wikidata,M,Q91103626,relation
@@ -1595,7 +1598,7 @@ name,source,gender,wikidata,type
 "Rue Ruysdael - Ruysdaelstraat",wikidata,M,Q213612,relation
 "Rue Saint Guidon - Sint-Guidostraat",wikidata,M,Q1553720,relation
 "Rue Saint-Christophe - Sint-Kristoffelsstraat",wikidata,M,Q193507,way
-"Rue Saint-Denis - Sint-Denijsstraat",wikidata,M,Q3581317,relation+way
+"Rue Saint-Denis - Sint-Denijsstraat",wikidata,M,Q244380,relation+way
 "Rue Saint-Ghislain - Sint-Gisleinsstraat",wikidata,M,Q740017,relation
 "Rue Saint-Henri - Sint-Hendrikstraat",wikidata,M,Q103556,relation
 "Rue Saint-Hubert - Sint-Huibrechtsstraat",wikidata,M,Q159834,relation
@@ -1626,6 +1629,7 @@ name,source,gender,wikidata,type
 "Rue Steppé - Steppéstraat",wikidata,M,Q42299360,relation
 "Rue Stevin - Stevinstraat",wikidata,M,Q23696,relation
 "Rue Stijn Streuvels - Stijn Streuvelsstraat",wikidata,M,Q175669,relation
+"Rue Sylvain Denayer - Sylvain Denayerstraat",wikidata,M,Q106945751,relation
 "Rue T'Kint - T'Kintstraat",wikidata,M,Q3157906,way
 "Rue Tacquet - Tacquetstraat",wikidata,M,Q781744,relation
 "Rue Tasson-Snel - Tasson-Snelstraat",wikidata,M,Q19859214,relation
@@ -1968,9 +1972,7 @@ name,source,gender,wikidata,type
 "Rue Julien Vermeersch - Julien Vermeerschstraat",csv,M,,relation
 "Rue L'Olivier - L'Olivierstraat",csv,M,,relation
 "Rue Lacaille - Lacaillestraat",csv,M,,relation
-"Rue Lambert Crickx - Lambert Crickxstraat",event,M,,relation
-"Rue Lambert Vandervelde - Lambert Vanderveldestraat",event,M,,way
-"Rue Laurent Heirbaut - Laurent Heirbautstraat",event,M,,relation
+"Rue Laurent Heirbaut - Laurent Heirbautstraat",csv,M,,relation
 "Rue Laurent Vandenhoven - Laurent Vandenhovenstraat",csv+event,M,,relation+way
 "Rue Le Lorrain - Le Lorrainstraat",csv,M,,relation
 "Rue Léon Autrique - Léon Autriquestraat",event,M,,relation
@@ -1984,10 +1986,9 @@ name,source,gender,wikidata,type
 "Rue Léopold De Swaef - Léopold De Swaefstraat",event,M,,relation
 "Rue Léopold Demesmaeker - Léopold Demesmaekerstraat",event,M,,relation
 "Rue Léopold Procureur - Léopold Procureurstraat",event,M,,relation
-"Rue Leopold Rom - Leopold Romstraat",event,M,,relation
+"Rue Leopold Rom - Leopold Romstraat",csv,M,,relation
 "Rue Léopold Van Asbroeck - Léopold Van Asbroeckstraat",event,M,,way
-"Rue Lieutenant Freddy Wampach - Luitenant Freddy Wampachstraat",event,M,,relation
-"Rue Louis Coenen - Louis Coenenstraat",event,M,,way
+"Rue Lieutenant Freddy Wampach - Luitenant Freddy Wampachstraat",csv,M,,relation
 "Rue Louis Corhay - Louis Corhaystraat",event,M,,relation
 "Rue Louis De Gunst - Louis De Gunststraat",event,M,,relation
 "Rue Louis De Smet - Louis De Smetstraat",event,M,,relation
@@ -2061,22 +2062,21 @@ name,source,gender,wikidata,type
 "Rue Robert Thoreau - Robert Thoreaustraat",event,M,,relation
 "Rue Robert Willame - Robert Willamestraat",event,M,,relation
 "Rue Roger Abeels - Roger Abeelsstraat",event,M,,relation
-"Rue Ropsy Chaudron - Ropsy Chaudronstraat",event,M,,relation+way
-"Rue Rouen-Bovie - Rouen-Boviestraat",event,M,,relation
-"Rue Saint-Alphonse - Sint-Alfonsstraat",event,M,,way
-"Rue Saint-André - Sint-Andriesstraat",event,M,,way
+"Rue Ropsy Chaudron - Ropsy Chaudronstraat",csv,M,,relation+way
+"Rue Rouen-Bovie - Rouen-Boviestraat",csv,M,,relation
+"Rue Saint-Alphonse - Sint-Alfonsstraat",csv,M,,way
+"Rue Saint-André - Sint-Andriesstraat",csv,M,,way
 "Rue Saint-Bernard - Sint-Bernardusstraat",event,M,,way
-"Rue Saint-François - Sint-Franciscusstraat",event,M,,relation
-"Rue Saint-Géry - Sint-Goriksstraat",event,M,,way
-"Rue Saint-Julien - Sint-Juliaanstraat",event,M,,relation
-"Rue Saint-Laurent - Sint-Laurensstraat",event,M,,way
-"Rue Saint-Lazare - Sint-Lazarusstraat",event,M,,way
-"Rue Saint-Martin - Sint-Maartenstraat",event,M,,relation
+"Rue Saint-François - Sint-Franciscusstraat",csv,M,,relation
+"Rue Saint-Géry - Sint-Goriksstraat",csv,M,,way
+"Rue Saint-Julien - Sint-Juliaanstraat",csv,M,,relation
+"Rue Saint-Laurent - Sint-Laurensstraat",csv,M,,way
+"Rue Saint-Lazare - Sint-Lazarusstraat",csv,M,,way
+"Rue Saint-Martin - Sint-Maartenstraat",csv,M,,relation
 "Rue Sergent Sorensen - Sergeant Sorensenstraat",csv+event,M,,relation+way
-"Rue Stanislas Legrelle - Stanislas Legrellestraat",event,M,,relation
+"Rue Stanislas Legrelle - Stanislas Legrellestraat",csv,M,,relation
 "Rue Steens - Steensstraat",csv,M,,way
-"Rue Sterckx - Sterckxstraat",event,M,,way
-"Rue Sylvain Denayer - Sylvain Denayerstraat",event,M,,relation
+"Rue Sterckx - Sterckxstraat",csv,M,,way
 "Rue Tazieaux - Tazieauxstraat",csv,M,,relation
 "Rue Timmermans - Timmermansstraat",csv,M,,way
 "Rue Ulens - Ulensstraat",csv,M,,relation
