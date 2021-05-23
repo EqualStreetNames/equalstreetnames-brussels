@@ -57,6 +57,7 @@ relation,3375860,"Rue Henri Van Hamme - Hendrik Van Hammestraat",M,"Henri Van Ha
 relation,3376042,"Rue Henri Van Nerom - Hendrik Van Neromstraat",M,"Henri Van Nerom",
 relation,3145882,"Rue Henri Van Zuylen - Henri Van Zuylenstraat",M,"Henri van Zuylen","(1876-1965) Commandant en second du navire-école Comte de Smet de Naeyer, qui habita Uccle"
 relation,4807084,"Rue Henri Vandermaelen - Henri Vandermaelenstraat",M,"Henri Vandermaelen",
+relation,3006041,"Rue Henri Vandersaenen - Henri Vandersaenenstraat",M,"Henri Vandersaenen",
 relation,4784877,"Rue Henrotte - Henrottestraat",M,"Pierre Louis Henrotte","Curé de Notre-Dame de Stockel de 1906 à son décès le 25 octobre 1928"
 relation,2962567,"Rue Honoré Longtin - Honoré Longtinstraat",M,"Honoré Longtin",
 relation,3263377,"Rue Hubert Blauwet - Hubert Blauwetstraat",M,"Hubert Blauwet","(1887-1914) Sergent auprès du 22ème régiment de ligne, mort pour la Patrie"
@@ -122,7 +123,24 @@ relation,3379630,"Rue Laurent Vandenhoven - Laurent Vandenhovenstraat",M,"Lauren
 relation,3294529,"Rue Le Lorrain - Le Lorrainstraat",M,"Damien Le Lorrain",
 relation,3575282,"Rue Leopold Rom - Leopold Romstraat",M,"Leopold Rom",
 relation,2994280,"Rue Lieutenant Freddy Wampach - Luitenant Freddy Wampachstraat",M,"Freddy Wampach","(1903-1943) Militaire, résistant agent parachutiste, fusillé au Tir national, qui habita cette rue"
+relation,3322161,"Rue Louis Corhay - Louis Corhaystraat",M,"Louis Corhay",
+relation,3328520,"Rue Louis De Gunst - Louis De Gunststraat",M,"Louis De Gunst",
+relation,3266390,"Rue Louis De Smet - Louis De Smetstraat",M,"Louis De Smet","Soldat berchemois mort pour la Patrie durant la Première Guerre mondiale"
+relation,3237647,"Rue Louis Delhove - Louis Delhovestraat",M,"Louis Delhove",
 relation,3306655,"Rue Piers - Piersstraat",M,,"Ancien échevin de Molenbeek"
+relation,3502679,"Rue Remi Fraeyman - Remi Fraeymanstraat",M,"Remi Fraeyman",
+relation,2981539,"Rue Remy Soetens - Remy Soetensstraat",M,"Remy Soetens",
+relation,3488472,"Rue René Declercq - René Declercqstraat",M,"René Joseph Declercq","Soldat du 1er Régiment des Chasseurs à Cheval, mort pour la Patrie à Opprebais le 16 août 1914"
+relation,3575259,"Rue René Devillers - René Devillersstraat",M,"René Devillers","Soldat au 4ème Régiment de Ligne, mort pour la Patrie à Bixchoote le 27 juillet 1918"
+relation,3262928,"Rue René Henry - René Henrystraat",M,"René Henry","(1881-1917) Journaliste, ancien conseiller communal (1908), membre du Bureau de Bienfaisance et des Hospices civils dont l'hôpital se trouvait à proximité"
+relation,2981324,"Rue René Reniers - René Reniersstraat",M,"René Reniers",
+relation,3238666,"Rue Richard Braibant - Richard Braibantstraat",M,"Richard Braibant",
+relation,3046252,"Rue Richard Kips - Richard Kips straat",M,"Richard Kips","Compositeur et directeur de l'académie de musique d'Etterbeek"
+relation,3066201,"Rue Richard Vandevelde - Richard Vandeveldestraat",M,"Richard Vandevelde","(1850-1899) Ancien conseiller communal, également géomètre et promoteur du quartier d'Helmet"
+relation,3138868,"Rue Robert Buyck - Robert Buyckstraat",M,"Robert Buyck","Officier de marine qui périt en mer en secourant un navire en détresse"
+relation,3449141,"Rue Robert Thoreau - Robert Thoreaustraat",M,"Robert Thoreau",
+relation,3006111,"Rue Robert Willame - Robert Willamestraat",M,"Robert Willame","(1901-1945) Employé, résistant, mort en déportation"
+relation,3241230,"Rue Roger Abeels - Roger Abeelsstraat",M,"Roger Abeels",
 relation,3546815,"Rue Ropsy Chaudron - Ropsy Chaudronstraat",M,,"Promoteur et fondateur des Abattoirs d'Anderlecht, qui se trouvaient dans la rue"
 relation,3235096,"Rue Rouen-Bovie - Rouen-Boviestraat",M,"François Bovie"," François Bovie, par legs testamentaire, avait fait un don à la commune afin de décerner un prix annuel aux meilleurs élèves des écoles communales"
 relation,3256996,"Rue Saint-François - Sint-Franciscusstraat",M,Saint-François,
@@ -237,6 +255,8 @@ way,284966351,"Rue Pierre de Puysselaer - Pierre de Puysselaerstraat",M,"Pierre 
 way,284966352,"Rue Pierre de Puysselaer - Pierre de Puysselaerstraat",M,"Pierre de Puysselaer","(1829-1910) Ancien directeur des Indienneries de Stalle"
 way,8241468,"Rue Rasson - Rassonstraat",M,"Jean-Baptiste Rasson","(1812-1898) Officier des carabiniers, conseiller communal"
 way,36998721,"Rue Rasson - Rassonstraat",M,"Jean-Baptiste Rasson","(1812-1898) Officier des carabiniers, conseiller communal"
+way,14796497,"Rue René Christiaens - René Christiaensstraat",M,"René Christiaens",
+way,496191040,"Rue René Christiaens - René Christiaensstraat",M,"René Christiaens",
 way,8083516,"Rue Ropsy Chaudron - Ropsy Chaudronstraat",M,,"Promoteur et fondateur des Abattoirs d'Anderlecht, qui se trouvaient dans la rue"
 way,14184120,"Rue Saint-Alphonse - Sint-Alfonsstraat",M,Saint-Alphonse,
 way,12990788,"Rue Saint-André - Sint-Andriesstraat",M,Saint-André,
