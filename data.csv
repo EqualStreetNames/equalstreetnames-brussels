@@ -8,6 +8,7 @@ relation,2967941,"Rue Brunard - Brunardstraat",?,,
 relation,3325445,"Rue De Koninck - De Koninckstraat",?,,"Ancien(ne) propriétaire terrien"
 relation,2981441,"Rue Decrée - Decréestraat",?,,
 relation,3449144,"Rue Medaets - Medaetsstraat",?,,
+relation,3415959,"Rue Mode Vliebergh - Mode Vlieberghstraat",?,"Mode Vliebergh",
 relation,3237633,"Rue Pangaert - Pangaertstraat",?,,
 relation,3536351,"Rue Raphaël - Raphaëlstraat",?,,
 relation,3022870,"Rue Sneessens - Sneessensstraat",?,"E. Sneessens","Membre du bureau de Bienfaisance"
@@ -121,12 +122,38 @@ relation,3434325,"Rue Laneau - Laneaustraat",M,"H.P.A. Laneau","Bourgmestre de J
 relation,3240346,"Rue Laurent Heirbaut - Laurent Heirbautstraat",M,"Laurent Heirbaut",
 relation,3379630,"Rue Laurent Vandenhoven - Laurent Vandenhovenstraat",M,"Laurent Vandenhoven",
 relation,3294529,"Rue Le Lorrain - Le Lorrainstraat",M,"Damien Le Lorrain",
+relation,3246367,"Rue Léon Autrique - Léon Autriquestraat",M,"Léon Autrique",
+relation,3367672,"Rue Léon Daumerie - Léon Daumeriestraat",M,"Léon-Joseph Daumerie","(1858-1949) Avocat, propriétaire de l'ancien château et domaine de Beyseghem, également appelé campagne Daumerie"
+relation,2967939,"Rue Léon Dopéré - Léon Dopéréstraat",M,"Léon Dopéré",
+relation,3243500,"Rue Léon Fourez - Léon Fourezstraat",M,"Léon Fourez","(?-1925) Ancien échevin de l'Instruction publique en fonction de 1921 jusqu'à sa mort en mai 1925"
+relation,3238878,"Rue Léon Matheys - Léon Matheysstraat",M,"Léon Matheys",
+relation,2984656,"Rue Léon Nicodème - Léon Nicodèmestraat",M,"Léon Nicodème","(1866-1947) Ancien conseiller communal"
+relation,3082023,"Rue Léon Scampart - Léon Scampartstraat",M,"Léon Scampart","Ancien échevin d'Etterbeek"
+relation,3241575,"Rue Léopold Demesmaeker - Léopold Demesmaekerstraat",M,"Léopold Demesmaeker",
+relation,2966730,"Rue Léopold Procureur - Léopold Procureurstraat",M,"Léopold Procureur",
 relation,3575282,"Rue Leopold Rom - Leopold Romstraat",M,"Leopold Rom",
 relation,2994280,"Rue Lieutenant Freddy Wampach - Luitenant Freddy Wampachstraat",M,"Freddy Wampach","(1903-1943) Militaire, résistant agent parachutiste, fusillé au Tir national, qui habita cette rue"
 relation,3322161,"Rue Louis Corhay - Louis Corhaystraat",M,"Louis Corhay",
 relation,3328520,"Rue Louis De Gunst - Louis De Gunststraat",M,"Louis De Gunst",
 relation,3266390,"Rue Louis De Smet - Louis De Smetstraat",M,"Louis De Smet","Soldat berchemois mort pour la Patrie durant la Première Guerre mondiale"
 relation,3237647,"Rue Louis Delhove - Louis Delhovestraat",M,"Louis Delhove",
+relation,3011615,"Rue Louis Marcx - Louis Marcxstraat",M,"Louis Marcx",
+relation,3074799,"Rue Louis Socquet - Louis Socquetstraat",M,"Louis Socquet","(1863-1921) Homme politique schaerbeekois"
+relation,3488463,"Rue Louis Thys - Louis Thysstraat",M,"Louis Thys",
+relation,3488391,"Rue Louis Titeca - Louis Titecastraat",M,"Louis Titeca",
+relation,3434680,"Rue Louis Wittouck - Louis Wittouckstraat",M,"Louis Wittouck","En hommage à Louis Wittouck, dont la veuve avait en 1892 légué à quatre jeunes femmes laekenoises pauvres, 2.000 francs chacune ""à la condition qu'elles soient honnêtes, travailleuses et économes"""
+relation,3189549,"Rue Major René Dubreucq - Majoor René Dubreucqstraat",M,"René Dubreucq",
+relation,3321211,"Rue Marcel Betbèze - Marcel Betbèzestraat",M,"Marcel Betbèze",
+relation,3449066,"Rue Marcel Buts - Marcel Butsstraat",M,"Marcel Buts",
+relation,3321240,"Rue Marcel Grüner - Marcel Grünerstraat",M,"Marcel Grüner","(1922-1944/1945) Résistant qui habita Molenbeek"
+relation,3449186,"Rue Martin Lindekens - Martin Lindekensstraat",M,"Martin Lindekens",
+relation,3321239,"Rue Martin Pfeiffer - Martin Pfeifferstraat",M,"Martin Pfeiffer","(1888-1946) Résistant, ancien conseiller communal socialiste à Molenbeek à partir de 1926, mort des suites d'un attentat"
+relation,3289010,"Rue Martin Van Lier - Martin Van Lierstraat",M,"Martin Van Lier","(1851-1881) Ancien secrétaire communal de 1879 à 1881"
+relation,2983620,"Rue Mathieu Pauwels - Mathieu Pauwelsstraat",M,"Mathieu Pauwels","Menuisier à Berchem-Sainte-Agathe, soldat au 7ème régiment de ligne, mort pour la Patrie à Aarchot en août 1914"
+relation,3434658,"Rue Maurice De Moor - Maurice De Moorstraat",M,"Maurice De Moor",
+relation,3241309,"Rue Maurice Xhoneux - Maurice Xhoneuxstraat",M,"Maurice Xhoneux","(1830-1909) Industriel, lieutenant des pompiers volontaires d'Anderlecht"
+relation,3265986,"Rue Michel Van Nieuwenborgh - Michel Van Nieuwenborghstraat",M,"Michel Van Nieuwenborgh","(1879-1915) Habitant de Berchem-Sainte-Agathe mort lors d'une explosion dans l'atelier de munitions où il travaillait pendant la Première Guerre mondiale"
+relation,3292681,"Rue Michel Zwaab - Michel Zwaabstraat",M,"Michel Zwaab","Ancien secrétaire communal à Molenbeek au début du 20e siècle"
 relation,3077943,"Rue Paul Bossu - Paul Bossustraat",M,"Paul Bossu","Soldat décédé à Woluwé-Saint-Pierre le 1er mai 1919 des suites de blessures encourues durant la première guerre mondiale"
 relation,3472039,"Rue Paul Lancsweert - Paul Lancsweertstraat",M,"Paul Lancsweert",
 relation,3245737,"Rue Philippe Piermez - Philippe Piermezstraat",M,"Philippe-Joseph Piermez","Ancien échevin koekelbergeois, qui fut d'abord conseiller communal puis échevin de 1896 à 1911. Il eut une grande influence sur la politique locale et défendit avec ardeur l'enseignement officiel."
@@ -254,10 +281,15 @@ way,203942597,"Rue Jules Cockx - Jules Cockxstraat",M,"Jules Cockx","Combattant,
 way,421668829,"Rue Jules Cockx - Jules Cockxstraat",M,"Jules Cockx","Combattant, originaire d'Auderghem, mort au champ d'honneur durant la première Guerre mondiale"
 way,482234634,"Rue Jules Cockx - Jules Cockxstraat",M,"Jules Cockx","Combattant, originaire d'Auderghem, mort au champ d'honneur durant la première Guerre mondiale"
 way,549588780,"Rue Jules Cockx - Jules Cockxstraat",M,"Jules Cockx","Combattant, originaire d'Auderghem, mort au champ d'honneur durant la première Guerre mondiale"
+way,14796180,"Rue Léon Vande Woesteyne - Léon Vande Woesteynestraat",M,"Léon Vande Woesteyne",
+way,423461674,"Rue Léopold Van Asbroeck - Léopold Van Asbroeckstraat",M,"Léopold Van Asbroeck",
+way,444796373,"Rue Louis Isidore Lamey - Louis Isidore Lameystraat",M,"Louis Isidore Lamey",
+way,34562001,"Rue Marcel Buts - Marcel Butsstraat",M,"Marcel Buts",
 way,12473684,"Rue Marcq - Marcqstraat",M,"G.-S. Marcq","(1780-1848) Administrateur du Conseil des Hospices, échevin de la Ville de Bruxelles"
 way,14454885,"Rue Maurice Charlent - Maurice Charlentstraat",M,"Maurice Charlent",
 way,223925202,"Rue Maurice Charlent - Maurice Charlentstraat",M,"Maurice Charlent",
 way,558240548,"Rue Maurice Charlent - Maurice Charlentstraat",M,"Maurice Charlent",
+way,30767343,"Rue Maurice Liétart - Maurice Liétartstraat",M,"Maurice Liétart",
 way,178710445,"Rue Max Roos - Max Roosstraat",M,"Max Roos","(1867-1925) Industriel, propriétaire du terrain à travers lequel la rue fut tracée"
 way,178710452,"Rue Max Roos - Max Roosstraat",M,"Max Roos","(1867-1925) Industriel, propriétaire du terrain à travers lequel la rue fut tracée"
 way,283214764,"Rue Max Roos - Max Roosstraat",M,"Max Roos","(1867-1925) Industriel, propriétaire du terrain à travers lequel la rue fut tracée"
