@@ -5,12 +5,8 @@ relation,3015625,"Rue Vandenhoven - Vandenhovenstraat",+,"Famille Vandenhoven","
 relation,3020491,"Drève Soetkin - Soetkindreef",-,Soetkin,"Mère de Tijl Uylenspiegel"
 relation,3294557,"Rue Bouvier - Bouvierstraat",?,,
 relation,2967941,"Rue Brunard - Brunardstraat",?,,
-relation,3257052,"Rue Coenraets - Coenraetsstraat",?,,"Propriétaire de terrains situés à cet endroit"
-relation,3253232,"Rue de Bruyn - de Bruynstraat",?,,
-relation,3438961,"Rue de Ciplet - de Cipletstraat",?,,
 relation,3325445,"Rue De Koninck - De Koninckstraat",?,,"Ancien(ne) propriétaire terrien"
 relation,2981441,"Rue Decrée - Decréestraat",?,,
-relation,3434325,"Rue Laneau - Laneaustraat",?,,
 relation,3449144,"Rue Medaets - Medaetsstraat",?,,
 relation,3237633,"Rue Pangaert - Pangaertstraat",?,,
 relation,3536351,"Rue Raphaël - Raphaëlstraat",?,,
@@ -25,6 +21,7 @@ relation,3228251,"Avenue Jeanne - Johannalaan",F,,
 relation,3505178,"Avenue Paule - Paulalaan",F,,"Fille de Jules Du Jardin (peintre), propriétaire des terrains du quartier Saint-Paul"
 relation,11048375,"Avenue Victoria - Victorialaan",F,,
 relation,3049100,"Rue de Beughem - de Beughemstraat",F,,"Mère du comte Cornet de Grez, une descendante de Louis van Bodeghem"
+relation,3438961,"Rue de Ciplet - de Cipletstraat",F,,"Madame De Ciplet a légué par testament 30.000 francs aux pauvres de Laeken"
 relation,11048377,"Rue Marianne - Mariannestraat",F,,"(Probablement) Petite-fille du bourgmestre Léon Vanderkindere"
 relation,3235100,"Rue Mercelis - Mercelisstraat",F,,"(Probablement) Veuve Mercelis, propriétaire des terrains sur lesquels la rue fut ouverte"
 relation,6005861,"Rue Mercelis - Mercelisstraat",F,,"(Probablement) Veuve Mercelis, propriétaire des terrains sur lesquels la rue fut ouverte"
@@ -36,6 +33,8 @@ relation,3500230,"Avenue Saint-Jean - Sint-Janslaan",M,,
 relation,3049117,"Petite rue L'Olivier - Korte L'Olivierstraat",M,"Jean L'Olivier","(1792-1854) Militaire belge"
 relation,11086524,"Rue Berckmans - Berckmansstraat",M,"Gaspard Berckmans","Ancien propriétaire du terrain"
 relation,11087006,"Rue Bosquet - Bosquetstraat",M,,"Ancien échevin de Saint-Gilles (de 1836 à 1843)"
+relation,3257052,"Rue Coenraets - Coenraetsstraat",M,,"Propriétaire de terrains situés à cet endroit"
+relation,3253232,"Rue de Bruyn - de Bruynstraat",M,,"Propriétaires des parcelles"
 relation,3288989,"Rue de Fierlant - de Fierlantstraat",M,"Baron de Fierlant","Grand propriétaire foncier du quartier du Pont-de-Luttre"
 relation,3252684,"Rue de Liedekerke - de Liedekerkestraat",M,"Comte de Liedekerke","Ancien propriétaire"
 relation,3297585,"Rue de Ribaucourt - de Ribaucourtstraat",M,"Comte de Ribaucourt","Propriétaire de terrains dans le voisinage"
@@ -118,6 +117,7 @@ relation,3326140,"Rue Jules Vieujant - Jules Vieujantstraat",M,"Jules Vieujant",
 relation,3449190,"Rue Julien Vermeersch - Julien Vermeerschstraat",M,"Julien Vermeersch",
 relation,3049116,"Rue L'Olivier - L'Olivierstraat",M,"Jean L'Olivier","(1792-1854) Militaire belge"
 relation,3496013,"Rue Lacaille - Lacaillestraat",M,,
+relation,3434325,"Rue Laneau - Laneaustraat",M,"H.P.A. Laneau","Bourgmestre de Jette entre 1882 et 1885"
 relation,3240346,"Rue Laurent Heirbaut - Laurent Heirbautstraat",M,"Laurent Heirbaut",
 relation,3379630,"Rue Laurent Vandenhoven - Laurent Vandenhovenstraat",M,"Laurent Vandenhoven",
 relation,3294529,"Rue Le Lorrain - Le Lorrainstraat",M,"Damien Le Lorrain",
@@ -127,7 +127,21 @@ relation,3322161,"Rue Louis Corhay - Louis Corhaystraat",M,"Louis Corhay",
 relation,3328520,"Rue Louis De Gunst - Louis De Gunststraat",M,"Louis De Gunst",
 relation,3266390,"Rue Louis De Smet - Louis De Smetstraat",M,"Louis De Smet","Soldat berchemois mort pour la Patrie durant la Première Guerre mondiale"
 relation,3237647,"Rue Louis Delhove - Louis Delhovestraat",M,"Louis Delhove",
+relation,3077943,"Rue Paul Bossu - Paul Bossustraat",M,"Paul Bossu","Soldat décédé à Woluwé-Saint-Pierre le 1er mai 1919 des suites de blessures encourues durant la première guerre mondiale"
+relation,3472039,"Rue Paul Lancsweert - Paul Lancsweertstraat",M,"Paul Lancsweert",
+relation,3245737,"Rue Philippe Piermez - Philippe Piermezstraat",M,"Philippe-Joseph Piermez","Ancien échevin koekelbergeois, qui fut d'abord conseiller communal puis échevin de 1896 à 1911. Il eut une grande influence sur la politique locale et défendit avec ardeur l'enseignement officiel."
+relation,3367674,"Rue Philippe Vander Elst - Filip Vander Elststraat",M,"Philippe Vander Elst",
+relation,3375844,"Rue Pierre Alderson - Pieter Aldersonstraat",M,"Petrus Alderson","(1837-1916) Musicien, co-fondateur de l'harmonie royale De Ster à Evere"
+relation,3237025,"Rue Pierre Biddaer - Pierre Biddaerstraat",M,"Pierre Biddaer","(1863-1936) Docteur en sciences politiques et administratives, secrétaire communal, publiciste"
+relation,3488454,"Rue Pierre De Cock - Pierre De Cockstraat",M,"Pierre De Cock",
+relation,3502674,"Rue Pierre Delacroix - Pierre Delacroixstraat",M,"Pierre Delacroix",
+relation,3287112,"Rue Pierre Gassée - Pierre Gasséestraat",M,"Pierre Gassée","(1828-1908) Peintre-décorateur, acteur, co-fondateur du Nationaal Vlaams Toneel (vers 1850), dessinateur de la Compagnie des Bronzes (à partir de 1862) et conseiller communal (1882-1904) à Molenbeek"
+relation,3371441,"Rue Pierre Mattheussens - Pieter Mattheussensstraat",M,"Pierre Mattheussens","Secrétaire communal d'Evere de 1872 à 1890"
+relation,3326002,"Rue Pierre-J. Demessemaeker - Pierre-J. Demessemaekerstraat",M,"Pierre-Jean Demessemaeker","Horticulteur, président du Bureau de Bienfaisance"
 relation,3306655,"Rue Piers - Piersstraat",M,,"Ancien échevin de Molenbeek"
+relation,3286260,"Rue Polydore Moerman - Polydore Moermanstraat",M,"Polydore Moerman","Propriétaire d'une ferme à proximité"
+relation,3198273,"Rue Professeur Hendrickx - Professor Hendrickxstraat",M,"Félix Hendrickx","(1859-1936) Professeur émérite à l'Ecole de médecine vétérinaire de Cureghem, président de l'Académie de médecine de Belgique"
+relation,3271474,"Rue Prosper Préser - Prosper Préserstraat",M,"Prosper Préser","(1890-1915) Caporal au 1er régiment des carabiniers, habitant de Berchem-Sainte-Agathe, mort pour la Patrie"
 relation,3502679,"Rue Remi Fraeyman - Remi Fraeymanstraat",M,"Remi Fraeyman",
 relation,2981539,"Rue Remy Soetens - Remy Soetensstraat",M,"Remy Soetens",
 relation,3488472,"Rue René Declercq - René Declercqstraat",M,"René Joseph Declercq","Soldat du 1er Régiment des Chasseurs à Cheval, mort pour la Patrie à Opprebais le 16 août 1914"
@@ -140,14 +154,14 @@ relation,3066201,"Rue Richard Vandevelde - Richard Vandeveldestraat",M,"Richard 
 relation,3138868,"Rue Robert Buyck - Robert Buyckstraat",M,"Robert Buyck","Officier de marine qui périt en mer en secourant un navire en détresse"
 relation,3449141,"Rue Robert Thoreau - Robert Thoreaustraat",M,"Robert Thoreau",
 relation,3006111,"Rue Robert Willame - Robert Willamestraat",M,"Robert Willame","(1901-1945) Employé, résistant, mort en déportation"
-relation,3241230,"Rue Roger Abeels - Roger Abeelsstraat",M,"Roger Abeels",
+relation,3241230,"Rue Roger Abeels - Roger Abeelsstraat",M,"Roger Abeels","Résistant pendant la Seconde Guerre mondiale ayant recueilli le Sergent Sorensen (voir rue perpendiculaire) un soldat américain dont l'avion s'est écrasé"
 relation,3546815,"Rue Ropsy Chaudron - Ropsy Chaudronstraat",M,,"Promoteur et fondateur des Abattoirs d'Anderlecht, qui se trouvaient dans la rue"
 relation,3235096,"Rue Rouen-Bovie - Rouen-Boviestraat",M,"François Bovie"," François Bovie, par legs testamentaire, avait fait un don à la commune afin de décerner un prix annuel aux meilleurs élèves des écoles communales"
 relation,3256996,"Rue Saint-François - Sint-Franciscusstraat",M,Saint-François,
 relation,3244579,"Rue Saint-Julien - Sint-Juliaanstraat",M,Saint-Julien,
 relation,3306602,"Rue Saint-Julien - Sint-Juliaanstraat",M,Saint-Julien,
 relation,3333168,"Rue Saint-Martin - Sint-Maartenstraat",M,"Martin Godfurneau et Martin Van Beveren","Propriétaires ayant urbanisé le quartier"
-relation,3241221,"Rue Sergent Sorensen - Sergeant Sorensenstraat",M,,
+relation,3241221,"Rue Sergent Sorensen - Sergeant Sorensenstraat",M,"Gerald Sorensen","Soldat américain dont l'avion s'est écrasé dans la région d'Ath recueilli par Roger Abeels (voir rue perpendiculaire) résistant pendant la Seconde Guerre mondiale"
 relation,2967966,"Rue Stanislas Legrelle - Stanislas Legrellestraat",M,"Stanislas Legrelle",
 relation,3315810,"Rue Tazieaux - Tazieauxstraat",M,,"Ancien propriétaire"
 relation,3302989,"Rue Ulens - Ulensstraat",M,,"Ancien intendant militaire molenbeekois"
@@ -253,6 +267,8 @@ way,155469560,"Rue Philippe Dewolfs - Philippe Dewolfsstraat",M,"Philippe Dewolf
 way,284966350,"Rue Pierre de Puysselaer - Pierre de Puysselaerstraat",M,"Pierre de Puysselaer","(1829-1910) Ancien directeur des Indienneries de Stalle"
 way,284966351,"Rue Pierre de Puysselaer - Pierre de Puysselaerstraat",M,"Pierre de Puysselaer","(1829-1910) Ancien directeur des Indienneries de Stalle"
 way,284966352,"Rue Pierre de Puysselaer - Pierre de Puysselaerstraat",M,"Pierre de Puysselaer","(1829-1910) Ancien directeur des Indienneries de Stalle"
+way,36336774,"Rue Pierre Géruzet - Pierre Géruzetstraat",M,"Pierre Géruzet",
+way,35682348,"Rue Pierre Vereman - Pierre Veremanstraat",M,"Pierre Vereman",
 way,8241468,"Rue Rasson - Rassonstraat",M,"Jean-Baptiste Rasson","(1812-1898) Officier des carabiniers, conseiller communal"
 way,36998721,"Rue Rasson - Rassonstraat",M,"Jean-Baptiste Rasson","(1812-1898) Officier des carabiniers, conseiller communal"
 way,14796497,"Rue René Christiaens - René Christiaensstraat",M,"René Christiaens",
