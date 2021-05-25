@@ -14,6 +14,7 @@ name,source,gender,wikidata,type
 "Avenue Artémis - Artemislaan",wikidata,,Q39503,relation
 "Avenue Brigade Piron - Brigade Pironlaan",wikidata,,Q2036237,relation
 "Avenue Cassiopée - Cassiopealaan",wikidata,,Q207681,relation
+"Avenue Charles Michiels - Charles Michielslaan",wikidata,,Q2873572,relation
 "Avenue De Biolley - De Biolleylaan",wikidata,,Q56787881,relation
 "Avenue De Roovere - De Rooverelaan",wikidata,,Q22998598,relation
 "Avenue Minerve - Minervalaan",wikidata,,Q126916,relation
@@ -115,7 +116,7 @@ name,source,gender,wikidata,type
 "Rue du Zéphyr - Westenwindstraat",wikidata,,Q467515,relation
 "Sentier des Aubépines - Hagedoornpad",wikidata,,Q132557,way
 "Sentier des Lilas - Seringenpad",wikidata,,Q6565319,way
-"Square Apollo - Apollosquare",wikidata,,Q37340,relation
+"Square Apollo - Apollosquare",wikidata,,Q43653,relation
 "Square Lison - Lisonsquare",wikidata,,Q88583938,relation
 "Square Manon - Manonsquare",wikidata,,Q88583708,relation
 "Square Toinon - Toinonsquare",wikidata,,Q88583488,way
