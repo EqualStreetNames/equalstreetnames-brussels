@@ -241,6 +241,7 @@ name,source,gender,wikidata,type
 "Avenue Charles Dierickx - Charles Dierickxlaan",wikidata,M,Q89918184,way
 "Avenue Charles Gilisquet - Charles Gilisquetlaan",wikidata,M,Q89918321,relation+way
 "Avenue Charles Madoux - Charles Madouxlaan",wikidata,M,Q2398384,way
+"Avenue Charles Michiels - Charles Michielslaan",wikidata,M,Q2873572;Q90038974,relation
 "Avenue Charles Plisnier - Charles Plisnierlaan",wikidata,M,Q1065801,relation
 "Avenue Charles Schaller - Charles Schallerlaan",wikidata,M,Q17039757,relation
 "Avenue Charles Thielemans - Charles Thielemanslaan",wikidata,M,Q89918395,relation
@@ -1460,6 +1461,7 @@ name,source,gender,wikidata,type
 "Rue Léonard de Vinci - Leonardo da Vincistraat",wikidata,M,Q762,way
 "Rue Léopold - Leopoldstraat",wikidata,M,Q12971,relation
 "Rue Léopold Courouble - Léopold Couroublestraat",wikidata,M,Q3271785,relation
+"Rue Léopold De Swaef - Léopold De Swaefstraat",wikidata,M,Q106977820,relation
 "Rue Léopold Delbove - Léopold Delbovestraat",wikidata,M,Q85425362,relation
 "Rue Léopold I - Leopold I straat",wikidata,M,Q12971,relation
 "Rue Léopold I - Leopold I-straat",wikidata,M,Q12971,relation
@@ -1485,13 +1487,16 @@ name,source,gender,wikidata,type
 "Rue Louis Hymans - Louis Hymansstraat",wikidata,M,Q3262216,way
 "Rue Louis Jasmin - Louis Jasminstraat",wikidata,M,Q91103626,relation
 "Rue Louis Lumière - Louis Lumièrestraat",wikidata,M,Q1962284,relation
+"Rue Louis Mascré - Louis Mascréstraat",wikidata,M,Q21395994,relation
 "Rue Louis Scutenaire - Louis Scutenairestraat",wikidata,M,Q2038113,relation
 "Rue Louis Titz - Louis Titzstraat",wikidata,M,Q18967745,relation
 "Rue Louis van Beethoven - Louis van Beethovenstraat",wikidata,M,Q255,relation
 "Rue Luther - Lutherstraat",wikidata,M,Q9554,relation
+"Rue M. L. Uytroever - M. L. Uytroeverstraat",wikidata,M,Q3263229,relation
 "Rue Madyol - Madyolstraat",wikidata,M,Q18507695,relation
 "Rue Maes - Maesstraat",wikidata,M,Q49619000,relation
 "Rue Major Brück - Majoor Brückstraat",wikidata,M,Q2361774,way
+"Rue Major Pétillon - Majoor Pétillonstraat",wikidata,M,Q96654555,relation
 "Rue Marcel Mariën - Marcel Mariënstraat",wikidata,M,Q1865524,relation
 "Rue Marconi - Marconistraat",wikidata,M,Q36488,way
 "Rue Martin V - Martinus V-straat",wikidata,M,Q169612,relation+way
@@ -1514,6 +1519,7 @@ name,source,gender,wikidata,type
 "Rue Metsys - Metsysstraat",wikidata,M,Q314275,relation
 "Rue Meyerbeer - Meyerbeerstraat",wikidata,M,Q105237,relation
 "Rue Mignot Delstanche - Mignot Delstanchestraat",wikidata,M,Q85426749,way
+"Rue Mommaerts - Mommaertsstraat",wikidata,M,Q106978358,relation
 "Rue Montoyer - Montoyerstraat",wikidata,M,Q327170,relation+way
 "Rue Moretus - Moretusstraat",wikidata,M,Q1913333,relation
 "Rue Murillo - Murillostraat",wikidata,M,Q192062,relation
@@ -1841,6 +1847,7 @@ name,source,gender,wikidata,type
 "Rue De Koninck - De Koninckstraat",csv,?,,relation
 "Rue Decrée - Decréestraat",csv,?,,relation
 "Rue Medaets - Medaetsstraat",csv,?,,relation
+"Rue Mode Vliebergh - Mode Vlieberghstraat",csv,?,,relation
 "Rue Pangaert - Pangaertstraat",csv,?,,relation
 "Rue Raphaël - Raphaëlstraat",csv,?,,relation
 "Rue Sneessens - Sneessensstraat",csv,?,,relation
@@ -1979,51 +1986,45 @@ name,source,gender,wikidata,type
 "Rue Laurent Heirbaut - Laurent Heirbautstraat",csv,M,,relation
 "Rue Laurent Vandenhoven - Laurent Vandenhovenstraat",csv+event,M,,relation+way
 "Rue Le Lorrain - Le Lorrainstraat",csv,M,,relation
-"Rue Léon Autrique - Léon Autriquestraat",event,M,,relation
-"Rue Léon Daumerie - Léon Daumeriestraat",event,M,,relation
-"Rue Léon Dopéré - Léon Dopéréstraat",event,M,,relation
-"Rue Léon Fourez - Léon Fourezstraat",event,M,,relation
-"Rue Léon Matheys - Léon Matheysstraat",event,M,,relation
-"Rue Léon Nicodème - Léon Nicodèmestraat",event,M,,relation+way
-"Rue Léon Scampart - Léon Scampartstraat",event,M,,relation
-"Rue Léon Vande Woesteyne - Léon Vande Woesteynestraat",event,M,,way
-"Rue Léopold De Swaef - Léopold De Swaefstraat",event,M,,relation
-"Rue Léopold Demesmaeker - Léopold Demesmaekerstraat",event,M,,relation
-"Rue Léopold Procureur - Léopold Procureurstraat",event,M,,relation
+"Rue Léon Autrique - Léon Autriquestraat",csv,M,,relation
+"Rue Léon Daumerie - Léon Daumeriestraat",csv,M,,relation
+"Rue Léon Dopéré - Léon Dopéréstraat",csv,M,,relation
+"Rue Léon Fourez - Léon Fourezstraat",csv,M,,relation
+"Rue Léon Matheys - Léon Matheysstraat",csv,M,,relation
+"Rue Léon Nicodème - Léon Nicodèmestraat",csv+event,M,,relation+way
+"Rue Léon Scampart - Léon Scampartstraat",csv,M,,relation
+"Rue Léon Vande Woesteyne - Léon Vande Woesteynestraat",csv,M,,way
+"Rue Léopold Demesmaeker - Léopold Demesmaekerstraat",csv,M,,relation
+"Rue Léopold Procureur - Léopold Procureurstraat",csv,M,,relation
 "Rue Leopold Rom - Leopold Romstraat",csv,M,,relation
-"Rue Léopold Van Asbroeck - Léopold Van Asbroeckstraat",event,M,,way
+"Rue Léopold Van Asbroeck - Léopold Van Asbroeckstraat",csv,M,,way
 "Rue Lieutenant Freddy Wampach - Luitenant Freddy Wampachstraat",csv,M,,relation
 "Rue Louis Corhay - Louis Corhaystraat",csv,M,,relation
 "Rue Louis De Gunst - Louis De Gunststraat",csv,M,,relation
 "Rue Louis De Smet - Louis De Smetstraat",csv,M,,relation
 "Rue Louis Delhove - Louis Delhovestraat",csv,M,,relation
-"Rue Louis Isidore Lamey - Louis Isidore Lameystraat",event,M,,way
-"Rue Louis Marcx - Louis Marcxstraat",event,M,,relation
-"Rue Louis Mascré - Louis Mascréstraat",event,M,,relation
-"Rue Louis Socquet - Louis Socquetstraat",event,M,,relation
-"Rue Louis Thys - Louis Thysstraat",event,M,,relation+way
-"Rue Louis Titeca - Louis Titecastraat",event,M,,relation
-"Rue Louis Wittouck - Louis Wittouckstraat",event,M,,relation
-"Rue M. L. Uytroever - M. L. Uytroeverstraat",event,M,,relation
-"Rue Major Pétillon - Majoor Pétillonstraat",event,M,,relation
-"Rue Major René Dubreucq - Majoor René Dubreucqstraat",event,M,,relation
-"Rue Marcel Betbèze - Marcel Betbèzestraat",event,M,,relation
-"Rue Marcel Buts - Marcel Butsstraat",event,M,,relation+way
-"Rue Marcel Grüner - Marcel Grünerstraat",event,M,,relation
+"Rue Louis Isidore Lamey - Louis Isidore Lameystraat",csv,M,,way
+"Rue Louis Marcx - Louis Marcxstraat",csv,M,,relation
+"Rue Louis Socquet - Louis Socquetstraat",csv,M,,relation
+"Rue Louis Thys - Louis Thysstraat",csv+event,M,,relation+way
+"Rue Louis Titeca - Louis Titecastraat",csv,M,,relation
+"Rue Louis Wittouck - Louis Wittouckstraat",csv,M,,relation
+"Rue Major René Dubreucq - Majoor René Dubreucqstraat",csv,M,,relation
+"Rue Marcel Betbèze - Marcel Betbèzestraat",csv,M,,relation
+"Rue Marcel Buts - Marcel Butsstraat",csv,M,,relation+way
+"Rue Marcel Grüner - Marcel Grünerstraat",csv,M,,relation
 "Rue Marcq - Marcqstraat",csv,M,,way
-"Rue Martin Lindekens - Martin Lindekensstraat",event,M,,relation
-"Rue Martin Pfeiffer - Martin Pfeifferstraat",event,M,,relation
-"Rue Martin Van Lier - Martin Van Lierstraat",event,M,,relation
-"Rue Mathieu Pauwels - Mathieu Pauwelsstraat",event,M,,relation
+"Rue Martin Lindekens - Martin Lindekensstraat",csv,M,,relation
+"Rue Martin Pfeiffer - Martin Pfeifferstraat",csv,M,,relation
+"Rue Martin Van Lier - Martin Van Lierstraat",csv,M,,relation
+"Rue Mathieu Pauwels - Mathieu Pauwelsstraat",csv,M,,relation
 "Rue Maurice Charlent - Maurice Charlentstraat",csv+event,M,,way
-"Rue Maurice De Moor - Maurice De Moorstraat",event,M,,relation
-"Rue Maurice Liétart - Maurice Liétartstraat",event,M,,way
-"Rue Maurice Xhoneux - Maurice Xhoneuxstraat",event,M,,relation
+"Rue Maurice De Moor - Maurice De Moorstraat",csv,M,,relation
+"Rue Maurice Liétart - Maurice Liétartstraat",csv,M,,way
+"Rue Maurice Xhoneux - Maurice Xhoneuxstraat",csv,M,,relation
 "Rue Max Roos - Max Roosstraat",csv+event,M,,way
-"Rue Michel Van Nieuwenborgh - Michel Van Nieuwenborghstraat",event,M,,relation
-"Rue Michel Zwaab - Michel Zwaabstraat",event,M,,relation
-"Rue Mode Vliebergh - Mode Vlieberghstraat",event,M,,relation
-"Rue Mommaerts - Mommaertsstraat",event,M,,relation
+"Rue Michel Van Nieuwenborgh - Michel Van Nieuwenborghstraat",csv,M,,relation
+"Rue Michel Zwaab - Michel Zwaabstraat",csv,M,,relation
 "Rue Moris - Morisstraat",csv,M,,way
 "Rue Papenkasteel - Papenkasteelstraat",event,M,,relation+way
 "Rue Paul Bossu - Paul Bossustraat",csv,M,,relation
