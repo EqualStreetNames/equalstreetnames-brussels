@@ -241,7 +241,7 @@ name,source,gender,wikidata,type
 "Avenue Charles Dierickx - Charles Dierickxlaan",wikidata,M,Q89918184,way
 "Avenue Charles Gilisquet - Charles Gilisquetlaan",wikidata,M,Q89918321,relation+way
 "Avenue Charles Madoux - Charles Madouxlaan",wikidata,M,Q2398384,way
-"Avenue Charles Michiels - Charles Michielslaan",wikidata,M,Q90038974,relation
+"Avenue Charles Michiels - Charles Michielslaan",wikidata,M,Q2873572;Q90038974,relation
 "Avenue Charles Plisnier - Charles Plisnierlaan",wikidata,M,Q1065801,relation
 "Avenue Charles Schaller - Charles Schallerlaan",wikidata,M,Q17039757,relation
 "Avenue Charles Thielemans - Charles Thielemanslaan",wikidata,M,Q89918395,relation
