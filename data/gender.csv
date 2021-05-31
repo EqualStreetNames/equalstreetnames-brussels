@@ -241,7 +241,7 @@ name,source,gender,wikidata,type
 "Avenue Charles Dierickx - Charles Dierickxlaan",wikidata,M,Q89918184,way
 "Avenue Charles Gilisquet - Charles Gilisquetlaan",wikidata,M,Q89918321,relation+way
 "Avenue Charles Madoux - Charles Madouxlaan",wikidata,M,Q2398384,way
-"Avenue Charles Michiels - Charles Michielslaan",wikidata,M,Q2873572;Q90038974,relation
+"Avenue Charles Michiels - Charles Michielslaan",wikidata,M,Q90038974,relation
 "Avenue Charles Plisnier - Charles Plisnierlaan",wikidata,M,Q1065801,relation
 "Avenue Charles Schaller - Charles Schallerlaan",wikidata,M,Q17039757,relation
 "Avenue Charles Thielemans - Charles Thielemanslaan",wikidata,M,Q89918395,relation
@@ -618,7 +618,7 @@ name,source,gender,wikidata,type
 "Avenue du Bourgmestre Jean Neybergh - Burgemeester Jean Neyberghlaan",wikidata,M,Q15389556,relation+way
 "Avenue du Compte Moens De Fernig - Graaf Moens De Ferniglaan",wikidata,M,Q676660,way
 "Avenue du Duc Jean - Hertog Janlaan",wikidata,M,Q15988,relation
-"Avenue du Général de Ceuninck - Generaal de Ceunincklaan",wikidata,M,Q1999936,relation+way
+"Avenue du Général de Ceuninck - Generaal de Ceunincklaan",wikidata,M,Q1999936,relation
 "Avenue du Prince d'Orange - Prins van Oranjelaan",wikidata,M,Q154287,way
 "Avenue du Roi Albert - Koning Albertlaan",wikidata,M,Q55008046,relation+way
 "Avenue du Roi Chevalier - Ridder Koninglaan",wikidata,M,Q55008046,relation
@@ -727,6 +727,7 @@ name,source,gender,wikidata,type
 "Parvis Saint-Henri - Sint-Hendriksvoorplein",wikidata,M,Q103556,relation
 "Parvis Saint-Jean-Baptiste - Sint-Jan-Baptistvoorplein",wikidata,M,Q40662,relation
 "Parvis Saint-Pierre - Sint-Pietersvoorplein",wikidata,M,Q33923,relation+way
+"Passage Chambon - Chambondoorgang",wikidata,M,Q2830757,way
 "Passage Charles Rogier - Karel Rogier doorgang",wikidata,M,Q468109,way
 "Passage Joe Van Holsbeeck - Joe Van Holsbeeckpassage",wikidata,M,Q21504923,way
 "Passage Oliver Hardy - Oliver Hardydoorgang",wikidata,M,Q72911,way
@@ -1755,6 +1756,7 @@ name,source,gender,wikidata,type
 "Rue du Cardinal Mercier - Kardinaal Mercierstraat",wikidata,M,Q468097,way
 "Rue du Lieutenant Lotin - Luitenant Lotinstraat",wikidata,M,Q62418645,way
 "Rue du Prince Albert - Prins Albertstraat",wikidata,M,Q55008046,relation
+"Rue du Prince Royal - Koninklijke-Prinsstraat",wikidata,M,Q12967,relation
 "Rue du Taciturne - Willem de Zwijgerstraat",wikidata,M,Q78454,relation
 "Rue t'Serclaes - t'Serclaesstraat",wikidata,M,Q898342,relation
 "Sentier Guy Demanet - Guy Demanetpad",wikidata,M,Q92922742,way
