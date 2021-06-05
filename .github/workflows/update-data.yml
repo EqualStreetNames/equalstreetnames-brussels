@@ -41,6 +41,10 @@ jobs:
       - name: Update sub-modules
         run: git submodule update --remote --merge cities/belgium/brussels
 
+      - name: Normalize `data.csv` file
+        working-directory: process
+        run: php process.php tool:normalize-csv --city=belgium/brussels
+
       - name: Run update
         working-directory: process
         run: composer run update-data -- --city=belgium/brussels
