@@ -201,6 +201,7 @@ Alsembergsesteenweg,wikidata,,Q661993,way
 "Allée du Cloître - Kloosterdreef",,,,way
 "Allée du Derby - Derbydreef",,,,way
 "Allée du Hérisson - Egeldreef",,,,relation
+"Allée du Rubis - Robijnweg",,,,way
 "Allée du Stade - Stadiondreef",,,,way
 "Allée du Turf - Turfdreef",,,,way
 "Allées de Provence - Provencewandelwegen",,,,relation+way
@@ -1400,6 +1401,7 @@ Pachthoevestraat,,,,way
 "Petite rue du Musée - Korte Museumstraat",,,,way
 "Petite rue du Nord - Korte Noordstraat",,,,relation
 "Place Basse - Laagplein",,,,way
+"Place Clemenceau - Clemenceauplein",,,,way
 "Place Communale - Gemeenteplaats",,,,relation
 "Place Communale - Gemeenteplein",,,,way
 "Place Communale d'Auderghem - Gemeenteplein van Oudergem",,,,way
@@ -1407,7 +1409,6 @@ Pachthoevestraat,,,,way
 "Place De Moor - De Moorplein",,,,way
 "Place Dewandre - Dewandreplein",,,,relation
 "Place Guy Cudell - Guy Cudellplein",,,,way
-"Place Loubna Lafquiri - Loubna Lafquiriplein",,,,way
 "Place Ronde - Rondplein",,,,way
 "Place Sainctelette - Saincteletteplaats",,,,relation+way
 "Place Sainte-Croix - Heilig-Kruisplein",,,,relation+way
@@ -1793,7 +1794,7 @@ Roeierspad,,,,way
 "Rue d'Angleterre - Engelandstraat",,,,relation+way
 "Rue d'Aragon - Aragonstraat",,,,way
 "Rue d'Ardenne - Ardennestraat",,,,relation+way
-"Rue d'Arenberg - Arenbergstraat",,,,way
+"Rue d'Arenberg - Arenbergstraat",,,,relation
 "Rue d'Argent - Zilverstraat",,,,relation
 "Rue d'Artois - Artesiëstraat",,,,way
 "Rue d'Assaut - Stormstraat",,,,way
@@ -2993,6 +2994,7 @@ Schoolgat,,,,relation
 "Sentier de l'Élagueur - Snoeierspad",,,,way
 "Sentier de l'Embarcadère - Steigerpad",,,,way
 "Sentier de la Cambre - Ter Kamerenvoetpad",,,,way
+"Sentier de la Cornaline - Kornalijnpad",,,,way
 "Sentier de la Drève - Dreefpad",,,,relation
 "Sentier de la Duchesse - Hertoginnenpad",,,,way
 "Sentier de la Ferme à Chicons - Witloofboerderijpad",,,,way
@@ -3069,6 +3071,7 @@ Sparrenweg,,,,way
 "Square Willy Authom - Willy Authomsquare",,,,way
 "Square de Biarritz - Biarritzsquare",,,,relation
 "Square de Boondael - Boondaalsesquare",,,,relation
+"Square de Corée - Koreasquare",,,,way
 "Square de La Fraternelle - La Fraternellesquare",,,,relation
 "Square de Léopoldville - Leopoldstadplein",,,,relation+way
 "Square de Meudon - Meudonplein",,,,way
@@ -3094,7 +3097,6 @@ Sparrenweg,,,,way
 "Square des Blindés - Pantsertroepensquare",,,,way
 "Square des Bruxellois - Brusselaarsplein",,,,way
 "Square des Cicindèles - Zandkeverssquare",,,,way
-"Square des Citronniers - Citroenbomensquare",,,,way
 "Square des Combattants - Strijderssquare",,,,relation+way
 "Square des Héros - Heldensquare",,,,way
 "Square des Latins - Latijnensquare",,,,relation+way
