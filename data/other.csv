@@ -40,6 +40,7 @@ Alsembergsesteenweg,wikidata,,Q661993,way
 "Avenue de Visé - Visélaan",wikidata,,Q49743,way
 "Avenue de Woluwé Saint-Lambert - Sint-Lambrechts Woluwelaan",wikidata,,Q211764,relation+way
 "Avenue de l'Hippodrome - Renbaanlaan",wikidata,,Q2419360,relation+way
+"Avenue de l'Yser - IJzerlaan",wikidata,,Q217061,relation+way
 "Avenue de la Brabançonne - Brabançonnelaan",wikidata,,Q161539,relation+way
 "Avenue de la Porte de Hal - Hallepoortlaan",wikidata,,Q2988142,relation
 "Avenue des Chanterelles - Hanenkammenlaan",wikidata,,Q3942018,way
@@ -173,6 +174,7 @@ Alsembergsesteenweg,wikidata,,Q661993,way
 "Square Victoria Régina - Victoria Reginaplantsoen",wikidata,,Q162070,relation
 "Square de Noville - Novillesquare",wikidata,,Q3247695,relation
 "Square de la Madelon - Madelonsquare",wikidata,,Q88584349,relation
+"Square du Vieux Tilleul - Oude-Lindesquare",wikidata,,Q107294142,relation+way
 "Venelle de Saint-Job - Sint-Jobsteeg",wikidata,,Q1927235,relation
 "Venelle du Boson - Bosonsteeg",wikidata,,Q43101,way
 "'t Hof te Overbeke",,,,relation
@@ -384,8 +386,6 @@ Antwerpselaan,,,,way
 "Avenue de l'Oud-Kapelleke - Oud-Kapellekelaan",,,,relation+way
 "Avenue de l'Université - Hogeschoollaan",,,,relation+way
 "Avenue de l'Uruguay - Uruguaylaan",,,,relation
-"Avenue de l'Yser - IJzerlaan",,,,way
-"Avenue de l'Yser - Ijzerlaan",,,,relation
 "Avenue de la Basilique - Basilieklaan",,,,relation+way
 "Avenue de la Béatitude - Gelukzaligheidslaan",,,,relation
 "Avenue de la Belle Alliance - Belle Alliancelaan",,,,way
@@ -1475,7 +1475,7 @@ Pachthoevestraat,,,,way
 "Place des Castors - Castorplein",,,,way
 "Place des Citronniers - Citroenbomenplein",,,,way
 "Place des Coopérateurs - Samenwerkersplein",,,,relation
-"Place des Gueux - Geuzenplein",,,,way
+"Place des Gueux - Geuzenplein",,,,relation+way
 "Place des Héros - Heldenplein",,,,way
 "Place des Palais - Paleizenplein",,,,relation+way
 "Place des Quatre Livres - Vier Boekenplein",,,,way
@@ -3062,7 +3062,6 @@ Sparrenweg,,,,way
 "Square De Fré - De Frésquare",,,,way
 "Square De Guise - De Guiseplein",,,,relation
 "Square Docteur Decroly - Dokter Decrolysquare",,,,way
-"Square Eddy Merckx - Eddy Merckxsquare",,,,way
 "Square Gutenberg - Gutenbergsquare",,,,way
 "Square Herschel Grynszpan - Herschel Grynszpansquare",,,,way
 "Square Louisa - Louisaplantsoen",,,,relation
@@ -3122,7 +3121,6 @@ Sparrenweg,,,,way
 "Square du Souvenir - Gedachtenissquare",,,,way
 "Square du Souverain - Vorstsquare",,,,way
 "Square du Val de la Cambre - Terkamerendalsquare",,,,relation+way
-"Square du Vieux Tilleul - Oude-Lindesquare",,,,relation+way
 Sterstraat,,,,way
 Stuyvenberg,,,,relation
 Sukkelweg,,,,way
