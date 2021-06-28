@@ -260,7 +260,7 @@ Antwerpselaan,,,,way
 "Avenue Pégase - Pegasuslaan",,,,relation
 "Avenue Pré des Agneaux - Lammerendrieslaan",,,,way
 "Avenue Prekelinden - Prekelindenlaan",,,,relation
-"Avenue Rommelaere - Rommelaerelaan",,,,relation
+"Avenue Rommelaere - Rommelaerelaan",,,,relation+way
 "Avenue Salomé - Salomélaan",,,,relation
 "Avenue Thomson - Thomsonlaan",,,,way
 "Avenue Valduchesse - Hertoginnedallaan",,,,way
@@ -857,7 +857,6 @@ Bovenberg,,,,relation
 "Carré Tillens - Tillensblok",,,,relation
 "Carré aux Platanes - Platanenwijk",,,,relation+way
 "Carré des Herbes Sauvages - Wildehoek",,,,relation
-"Carrefour Jean Monnet - Jean Monnet Kruispunt",,,,way
 "Carrefour des Attelages - Gespanhoek",,,,way
 Cauter,,,,relation
 "Champ du Tilleul - Lindeveld",,,,relation+way
@@ -1242,14 +1241,16 @@ GR,,,,way
 "GR 126",,,,way
 "Galerie Agora",,,,way
 "Galerie Bortier - Bortiergalerij",,,,way
-"Galerie Louise",,,,way
+"Galerie Louise - Louizagalerij",,,,way
+"Galerie Matongé - Matongégalerij",,,,way
 "Galerie Pacific",,,,way
+"Galerie Porte Louise - Louizapoortgalerij",,,,way
 "Galerie Saint-Josse - Sint-Joost Galerij",,,,way
 "Galerie Sauvage Decor - Sauvage Decorgalerij",,,,way
 "Galerie Sud - Zuidgalerij",,,,way
 "Galerie Toison d'Or - Galerij Toison d’Or",,,,way
 "Galerie de Waterloo - Waterloogalerij",,,,way
-"Galerie de la Porte de Namur",,,,way
+"Galerie de la Porte de Namur - Galerij van de Naamsepoort",,,,way
 "Galerie des Argousiers - Duindoorngalerij",,,,relation
 "Galerie du Centre - Centrumgalerij",,,,way
 "Galerie du Cinquantenaire - Jubelgalerij",,,,way
@@ -1322,7 +1323,6 @@ Kroonweg,,,,way
 Kruipweg,,,,relation
 Kruisberg,,,,relation
 Kweepereboomlaan,,,,way
-"La Petite place des Menteurs - ‘t Leugenaarspleintje",,,,way
 "La Plage - Het Strand",,,,way
 "La Venelle - Het Dreveken",,,,relation
 Laskouter,,,,relation+way
@@ -1519,6 +1519,7 @@ Pachthoevestraat,,,,way
 "Plaine du tir à l'arc - Boogschuttersplein",,,,way
 Plattesteen,,,,way
 "Pont de Buda - Budabrug",,,,way
+"Pont des Hospices - Godshuizenbrug",,,,way
 "Pont du Cerf - Hertbrugge",,,,relation
 "Porte d'Anderlecht - Anderlechtsepoort",,,,way
 "Porte d'Anvers - Antwerpsepoort",,,,way

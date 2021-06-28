@@ -162,7 +162,7 @@ name,source,gender,wikidata,type
 "Allée Nardo Lenaerts - Nardo Lenaertsdreef",wikidata,M,Q89691189,way
 "Allée Nicolas de Staël - Nicolas de Staëldreef",wikidata,M,Q470551,way
 "Allée Omer Dierickx - Omer Dierickxdreef",wikidata,M,Q18225422,way
-"Allée Paul Auguste Masui - Paul Auguste Masuidreef",wikidata,M,Q22236124,way
+"Allée Paul Auguste Masui - Paul Auguste Masuidreef",wikidata,M,Q2366973,way
 "Allée Paul Craps - Paul Crapsdreef",wikidata,M,Q14655027,way
 "Allée Paul Ooghe - Paul Ooghedreef",wikidata,M,Q7152828,relation
 "Allée Peyo - Peyodreef",wikidata,M,Q309945,way
@@ -665,6 +665,7 @@ name,source,gender,wikidata,type
 "Boulevard Théo Lambert - Théo Lambertlaan",wikidata,M,Q91929694,relation
 "Boulevard de Smet de Naeyer - de Smet de Naeyerlaan",wikidata,M,Q721781,relation+way
 "Boulevard du Roi Albert II - Koning Albert II-laan",wikidata,M,Q3911,relation
+"Carrefour Jean Monnet - Jean Monnet Kruispunt",wikidata,M,Q159700,way
 "Chaussée Saint-Pierre - Sint-Pieterssteenweg",wikidata,M,Q33923,relation+way
 "Chemin Alfred Hitchcock - Alfred Hitchcockweg",wikidata,M,Q7374,way
 "Chemin Bourvil - Bourvilweg",wikidata,M,Q2750,way
