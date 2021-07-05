@@ -202,6 +202,7 @@ Alsembergsesteenweg,wikidata,,Q661993,way
 "Allée des Raisins - Druivenallee",,,,way
 "Allée du Cloître - Kloosterdreef",,,,way
 "Allée du Derby - Derbydreef",,,,way
+"Allée du Fair-Play - Fair Playlaan",,,,way
 "Allée du Hérisson - Egeldreef",,,,relation
 "Allée du Rubis - Robijnweg",,,,way
 "Allée du Stade - Stadiondreef",,,,way
@@ -548,6 +549,7 @@ Antwerpselaan,,,,way
 "Avenue des Ebéniers - Ebbebomenlaan",,,,relation+way
 "Avenue des Edelweiss - Edelweisslaan",,,,relation
 "Avenue des Églantiers - Wilderoselaarslaan",,,,way
+"Avenue des Églantiers - Wilderozelaarslaan",,,,way
 "Avenue des Églantines - Eglantierenlaan",,,,relation
 "Avenue des Eoliennes - Staartmolenslaan",,,,relation
 "Avenue des Éperons d'Or - Gulden-Sporenlaan",,,,relation
@@ -648,7 +650,7 @@ Antwerpselaan,,,,way
 "Avenue des Seringas - Wildejasmijnenlaan",,,,way
 "Avenue des Sittelles - Boomkleverlaan",,,,relation
 "Avenue des Sophoras - Sophoraslaan",,,,way
-"Avenue des Sorbiers - Lijsterbessebomenlaan",,,,way
+"Avenue des Sorbiers - Lijsterbessenbomenlaan",,,,way
 "Avenue des Sports - Sportlaan",,,,way
 "Avenue des Staphylins - Roofkeverslaan",,,,way
 "Avenue des Statuaires - Beeldhouwerslaan",,,,relation
@@ -839,7 +841,7 @@ Bosveldweg,,,,way
 "Boulevard du Jardin Botanique - Kruidtuinlaan",,,,relation
 "Boulevard du Jubilé - Jubelfeestlaan",,,,relation+way
 "Boulevard du Midi - Zuidlaan",,,,way
-"Boulevard du Neuvième de Ligne - Negende Linielaan",,,,relation
+"Boulevard du Neuvième de Ligne - Negende Linielaan",,,,relation+way
 "Boulevard du Régent - Regentlaan",,,,relation
 "Boulevard du Souverain - Vorstlaan",,,,relation+way
 "Boulevard du Triomphe - Triomflaan",,,,relation+way
@@ -898,13 +900,21 @@ Cauter,,,,relation
 "Chaussée de Zellik - Steenweg op Zellik",,,,relation
 "Chaussée de Zellik - Zelliksesteenweg",,,,way
 "Chaussée de la Hulpe - Terhulpsesteenweg",,,,way
+"Chemin Ahmet Insel",,,,way
+"Chemin Auguste Baron",,,,way
 "Chemin Avijl - Avijlweg",,,,way
 "Chemin Berckmans - Berckmansweg",,,,way
 "Chemin Edmond Galoppin",,,,way
+"Chemin Elena Milashina",,,,way
 "Chemin Endymion - Endymionweg",,,,way
+"Chemin Henri Storck",,,,way
 "Chemin Herlinde et Théobald - Herlinde en Theobaldweg",,,,way
+"Chemin Leila Saadé",,,,way
 "Chemin Longchamp - Longchamppad",,,,way
+"Chemin Louise Arbour",,,,way
+"Chemin Marie Popelin",,,,way
 "Chemin Saint-Sébastien - Sint-Sebastiaansweg",,,,way
+"Chemin Suzanne Tassier",,,,way
 "Chemin Tibout - Tiboutsweg",,,,relation
 "Chemin Vert - Groenweg",,,,relation
 "Chemin d'Odont",,,,way
@@ -942,6 +952,7 @@ Cauter,,,,relation
 "Chemin des Aménagistes - Bedrijfsregelingersweg",,,,way
 "Chemin des Amoureux - Verliefdenweg",,,,way
 "Chemin des Anémones - Anemonenweg",,,,way
+"Chemin des Asperges - Aspergesweg",,,,way
 "Chemin des Bolets - Boletenweg",,,,way
 "Chemin des Buissons",,,,way
 "Chemin des Buttes",,,,way
@@ -958,12 +969,14 @@ Cauter,,,,relation
 "Chemin des Iris - Irissenweg",,,,way
 "Chemin des Joubarbes - Huislokenweg",,,,way
 "Chemin des Lucioles - Glimwormenweg",,,,way
+"Chemin des Machinistes - Machinistenweg",,,,way
 "Chemin des Moutons - Schapenweg",,,,way
 "Chemin des Myrtilles - Bosbessenweg",,,,way
 "Chemin des Oiseleurs - Vogelvangersweg",,,,way
 "Chemin des Ours - Berenweg",,,,way
 "Chemin des Patineurs - Schaatsersweg",,,,way
 "Chemin des Pelouses - Grasperkenweg",,,,way
+"Chemin des Petits Pas - Kleine Stapjesweg",,,,way
 "Chemin des Pharmaciens",,,,way
 "Chemin des Pins - Pijnbomenweg",,,,way
 "Chemin des Primevères - Sleutelbloemenweg",,,,way
@@ -974,6 +987,7 @@ Cauter,,,,relation
 "Chemin des Taupes - Mollenweg",,,,way
 "Chemin des Tempêtes - Stormenweg",,,,way
 "Chemin des Tigelles - Stengeltjesweg",,,,relation
+"Chemin des Tournesols - Zonnebloemweg",,,,way
 "Chemin des Traqueurs - Drijversweg",,,,way
 "Chemin des Tumuli - Tumuliweg",,,,way
 "Chemin des serres - Weg naar de serres",,,,way
@@ -996,6 +1010,7 @@ Cauter,,,,relation
 "Chemin du Jardin de Sculptures - Beelhouwtuinweg",,,,way
 "Chemin du Kattepoel - Kattepoelweg",,,,way
 "Chemin du Keelbeek - Keelbeekweg",,,,way
+"Chemin du Marécage - Kikkerpoelweg",,,,way
 "Chemin du Moulin - Molenweg",,,,way
 "Chemin du Moulin Rose - Roze Molenweg",,,,way
 "Chemin du Pivert - Groene spechtweg",,,,way
@@ -1009,7 +1024,9 @@ Cauter,,,,relation
 "Chemin du Rouge-Gorge - Roodborstjesweg",,,,way
 "Chemin du Soir - Avondpad",,,,way
 "Chemin du Struykbeken - Struykbekenweg",,,,way
+"Chemin du Têtard - Dikkopweg",,,,way
 "Chemin du Vellemolen - Vellemolenweg",,,,way
+"Chemin du Verger - Boomgaardweg",,,,way
 "Chemin du Vossegat - Vossegatweg",,,,way
 "Chemin du tir à l'arc - Boogschuttersweg",,,,way
 "Chemin privé 't Cortenbosch - Private Weg 't Cortenbosch",,,,relation
@@ -1327,6 +1344,7 @@ Kweepereboomlaan,,,,way
 "La Venelle - Het Dreveken",,,,relation
 Laskouter,,,,relation+way
 "Le Raccourci",,,,way
+"Le Raccourci - De Binnendoor",,,,way
 Lenniksebaan,,,,way
 Lijkweg,,,,way
 Lindenberg,,,,relation
@@ -1369,6 +1387,7 @@ Pachthoevestraat,,,,way
 "Passage Morren",,,,way
 "Passage de la Vecquée - Vecquéepassage",,,,relation+way
 "Passage des Citronniers - Citroenbomendoorgang",,,,way
+"Passage des Quatre Livres - Vierponden doorgang",,,,way
 "Passage du Soleil Couchant - Avondzonpassage",,,,way
 "Passage du Travail - Arbeidsdoorgang",,,,way
 "Passerelle Gosselies - Gosseliesbrug",,,,way
@@ -2885,7 +2904,7 @@ Roeierspad,,,,way
 "Rue du Planeur - Zweefvliegtuigstraat",,,,relation
 "Rue du Poinçon - Priemstraat",,,,way
 "Rue du Poivre - Peperstraat",,,,way
-"Rue du Pôle - Poolstraat",,,,relation
+"Rue du Pôle - Poolstraat",,,,relation+way
 "Rue du Pommier - Appelboomstraat",,,,relation+way
 "Rue du Pont Neuf - Nieuwbrug",,,,relation
 "Rue du Pont de l'Avenue - Laanbrugstraat",,,,relation+way
@@ -3059,6 +3078,7 @@ Sint-Jansbergsteenweg,,,,way
 Sparrenweg,,,,way
 "Square Alexandre - Alexandreplein",,,,way
 "Square Amnesty International - Amnesty Internationalplein",,,,way
+"Square Atlas - Atlasplein",,,,way
 "Square Cardinal Cardijn - Kardinaal Cardijnplantsoen",,,,way
 "Square De Fré - De Frésquare",,,,way
 "Square De Guise - De Guiseplein",,,,relation
@@ -3143,6 +3163,7 @@ Tuinbouw,,,,relation+way
 "Tunnel Stéphanie - Stefaniatunnel",,,,way
 "Tunnel Tervuren - Tervurentunnel",,,,way
 "Tunnel de la Woluwe - Woluwetunnel",,,,way
+Vaartkant-Oost,,,,way
 "Val Maria - Mariëndaal",,,,relation
 "Val de Marne - Marnedal",,,,relation
 "Val de la Futaie - Hogebomendaal",,,,relation+way
