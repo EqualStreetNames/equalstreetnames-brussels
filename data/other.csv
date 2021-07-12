@@ -5,10 +5,13 @@ name,source,gender,wikidata,type
 "Allée des Hortensias - Hortensiaslaan",wikidata,,Q155997,way
 "Allée des Iris - Irisdreef",wikidata,,Q156901,way
 "Allée des Jacinthes - Hyacintendreef",wikidata,,Q158758,way
+"Allée des Joutes - Steekspeldreef",wikidata,,Q1413053,way
 "Allée des Lilas - Seringenlaan",wikidata,,Q157449,way
+"Allée des Palais - Paleizendreef",wikidata,,Q635307,way
 "Allée des Perce-neige - Sneeuwklokjesdreef",wikidata,,Q105415,way
 "Allée des Pervenches - Maagdenpalmdreef",wikidata,,Q220925,way
 "Allée du Minotaure - Minotaurusweg",wikidata,,Q129866,way
+"Allée du Parlement - Parlementdreef",wikidata,,Q1137059,way
 Alsembergsesteenweg,wikidata,,Q661993,way
 "Avenue Andromède - Andromedalaan",wikidata,,Q161582,relation
 "Avenue Ariane - Arianelaan",wikidata,,Q131535,relation+way
@@ -83,6 +86,8 @@ Alsembergsesteenweg,wikidata,,Q661993,way
 "Clos du Drossart - Drossaardgaarde",wikidata,,Q10970991,relation+way
 "Cours Saint-Michel - Sint-Michielswarande",wikidata,,Q45581,relation+way
 "Drève Tyl Uylenspiegel - Tijl Uilenspiegeldreef",wikidata,,Q164083,relation
+"Drêve des Rêves - Dromendreef",wikidata,,Q36348,way
+"Esplanade Solidarność 1980",wikidata,,Q1003,relation
 "Esplanade of the European Parliament",wikidata,,Q8889,way
 "Galerie Ravenstein - Ravensteingalerij",wikidata,,Q3145650,relation
 "Galerie de la Reine - Koninginnegalerij",wikidata,,Q16511993,way
@@ -93,6 +98,9 @@ Alsembergsesteenweg,wikidata,,Q661993,way
 "Impasse du Cheval - Paardgang",wikidata,,Q726,relation
 "Marché au Poisson - Vismarkt",wikidata,,Q600396,relation
 "Marché aux Porcs - Varkensmarkt",wikidata,,Q787,relation
+"Mer des Pavés - Kasseienzee",wikidata,,Q757022,way
+"Passage Hilton - Hiltonpassage",wikidata,,Q598884,way
+"Passage de Milan - Milaanpassage",wikidata,,Q490,way
 "Passage de la Caricole - Caricolegang",wikidata,,Q2938776,way
 "Passage de la Frite - Frietgang",wikidata,,Q152088,way
 "Passage de la Kriek - Kriekgang",wikidata,,Q1756073,way
@@ -111,8 +119,11 @@ Alsembergsesteenweg,wikidata,,Q661993,way
 "Place de Saint-Job - Sint-Jobsplein",wikidata,,Q1927235,way
 "Place de l'Albertine - Albertinaplein",wikidata,,Q383931,way
 "Place de la Bourse - Beursplein",wikidata,,Q28485845,way
+"Place de la Forêt Noire - Zwarte Woudplein",wikidata,,Q4204,way
 "Place de la Liberté - Vrijheidsplein",wikidata,,Q2979,relation+way
 "Place de la Monnaie - Muntplein",wikidata,,Q464780,relation
+"Place de la Musique - Muziekplein",wikidata,,Q638,way
+"Place de la Paix - Vredeplein",wikidata,,Q454,relation+way
 "Place de la Reine - Koninginneplein",wikidata,,Q19643,way
 "Place des Chasseurs Ardennais - Ardense Jagersplein",wikidata,,Q893039,way
 "Place des Martyrs - Martelaarsplein",wikidata,,Q6498826,relation+way
@@ -155,6 +166,7 @@ Alsembergsesteenweg,wikidata,,Q661993,way
 "Rue des Bouchers - Beenhouwersstraat",wikidata,,Q329737,way
 "Rue des Chapeliers - Hoedenmakersstraat",wikidata,,Q1639239,relation
 "Rue des Éburons - Eburonenstraat",wikidata,,Q323500,relation
+"Rue des Entrepôts - Stapelhuizenstraat",wikidata,,Q1362225,way
 "Rue des Faisans - Fazantenstraat",wikidata,,Q214169,relation+way
 "Rue des Ménages - Huishoudensstraat",wikidata,,Q259059,relation
 "Rue des Quatre Fils Aymon - Vierheemskinderenstraat",wikidata,,Q59212800,relation
@@ -175,6 +187,7 @@ Alsembergsesteenweg,wikidata,,Q661993,way
 "Square de Noville - Novillesquare",wikidata,,Q3247695,relation
 "Square de la Madelon - Madelonsquare",wikidata,,Q88584349,relation
 "Square du Vieux Tilleul - Oude-Lindesquare",wikidata,,Q107294142,relation+way
+"Steenweg op Ruisbroek",wikidata,,Q1993738,way
 "Venelle de Saint-Job - Sint-Jobsteeg",wikidata,,Q1927235,relation
 "Venelle du Boson - Bosonsteeg",wikidata,,Q43101,way
 "'t Hof te Overbeke",,,,relation
@@ -190,6 +203,7 @@ Alsembergsesteenweg,wikidata,,Q661993,way
 "Allée de la Vénerie - Jagerijdreef",,,,way
 "Allée des Amazones - Amazonendreef",,,,way
 "Allée des Arroches - Meldendreef",,,,way
+"Allée des Bailles - Baliedreef",,,,way
 "Allée des Blaireaux - Dassendreef",,,,way
 "Allée des Citronniers - Citroenbomendreef",,,,relation+way
 "Allée des Colzas - Sloordelle",,,,relation
@@ -206,6 +220,7 @@ Alsembergsesteenweg,wikidata,,Q661993,way
 "Allée du Hérisson - Egeldreef",,,,relation
 "Allée du Rubis - Robijnweg",,,,way
 "Allée du Stade - Stadiondreef",,,,way
+"Allée du Trône - Troondreef",,,,way
 "Allée du Turf - Turfdreef",,,,way
 "Allées de Provence - Provencewandelwegen",,,,relation+way
 "Allées du Languedoc - Languedocwandelwegen",,,,relation+way
@@ -424,6 +439,7 @@ Antwerpselaan,,,,way
 "Avenue de la Foresterie - Vorsterielaan",,,,way
 "Avenue de la Forêt - Woudlaan",,,,relation
 "Avenue de la Gazelle - Gazellelaan",,,,way
+"Avenue de la Gueuze - Gueuzelaan",,,,way
 "Avenue de la Hallebarde - Hellebaardlaan",,,,relation
 "Avenue de la Héronnière - Reigerboslaan",,,,way
 "Avenue de la Houlette - Herdersstaflaan",,,,way
@@ -548,8 +564,7 @@ Antwerpselaan,,,,way
 "Avenue des Dryades - Bosnimfenlaan",,,,way
 "Avenue des Ebéniers - Ebbebomenlaan",,,,relation+way
 "Avenue des Edelweiss - Edelweisslaan",,,,relation
-"Avenue des Églantiers - Wilderoselaarslaan",,,,way
-"Avenue des Églantiers - Wilderozelaarslaan",,,,way
+"Avenue des Églantiers - Wilderozelaarslaan",,,,relation
 "Avenue des Églantines - Eglantierenlaan",,,,relation
 "Avenue des Eoliennes - Staartmolenslaan",,,,relation
 "Avenue des Éperons d'Or - Gulden-Sporenlaan",,,,relation
@@ -970,6 +985,7 @@ Cauter,,,,relation
 "Chemin des Joubarbes - Huislokenweg",,,,way
 "Chemin des Lucioles - Glimwormenweg",,,,way
 "Chemin des Machinistes - Machinistenweg",,,,way
+"Chemin des Mimules - Maskerbloemenweg",,,,way
 "Chemin des Moutons - Schapenweg",,,,way
 "Chemin des Myrtilles - Bosbessenweg",,,,way
 "Chemin des Oiseleurs - Vogelvangersweg",,,,way
@@ -1212,7 +1228,6 @@ Donderberg,,,,relation
 "Dreve des Mustangs - Mustangdreef",,,,way
 "Drève des Quatre Frênes - Vieressendreef",,,,way
 "Drève des Renards - Vossendreef",,,,way
-"Drêve des Rêves - Dromendreef",,,,way
 "Drève des Rhododendrons - Rododendronsdreef",,,,way
 "Drève des Saules - Wilgendreef",,,,relation
 "Drève des Shetlands - Shetlanderdreef",,,,relation
@@ -1370,6 +1385,7 @@ Moensberg,,,,way
 "Montagne de la Gare - Stationberg",,,,relation
 "Montagne des Lapins - Konijnenberg",,,,relation
 "Montée de l'Esplanade",,,,way
+Mutsaertplaats,,,,way
 Neerleest,,,,relation
 "Ninoofseplein - Place de Ninove",,,,relation
 Noendelle,,,,relation+way
@@ -1384,6 +1400,7 @@ Pachthoevestraat,,,,way
 "Parvis Chantecler - Canteclaervoorplein",,,,way
 "Parvis Saint-Gilles - Sint-Gillisvoorplein",,,,relation+way
 "Parvis de la Trinité - Drievuldigheidsvoorplein",,,,way
+"Passage Grand Cerf - Grote hertpassage",,,,way
 "Passage Morren",,,,way
 "Passage de la Vecquée - Vecquéepassage",,,,relation+way
 "Passage des Citronniers - Citroenbomendoorgang",,,,way
@@ -1420,7 +1437,6 @@ Pachthoevestraat,,,,way
 "Petite rue du Musée - Korte Museumstraat",,,,way
 "Petite rue du Nord - Korte Noordstraat",,,,relation
 "Place Basse - Laagplein",,,,way
-"Place Clemenceau - Clemenceauplein",,,,way
 "Place Communale - Gemeenteplaats",,,,relation
 "Place Communale - Gemeenteplein",,,,way
 "Place Communale d'Auderghem - Gemeenteplein van Oudergem",,,,way
@@ -1464,15 +1480,12 @@ Pachthoevestraat,,,,way
 "Place de la Demi-Lune - Halvemaanplein",,,,relation
 "Place de la Dynastie - Vorstenhuisplein",,,,way
 "Place de la Fleur de Blé - Korenbloemplein",,,,relation
-"Place de la Forêt Noire - Zwarte Woudplein",,,,way
 "Place de la Gare - Stationsplein",,,,relation
 "Place de la Grotte - Grotplein",,,,relation
 "Place de la Justice - Gerechtsplein",,,,relation
 "Place de la Maison Rouge - Roodhuisplein",,,,relation
 "Place de la Minoterie - Meelfabrieksplein",,,,relation
-"Place de la Musique - Muziekplein",,,,way
-"Place de la Nation - Natieplein",,,,relation
-"Place de la Paix - Vredeplein",,,,relation+way
+"Place de la Nation - Natieplein",,,,relation+way
 "Place de la Patrie - Vaderlandsplein",,,,relation
 "Place de la Petite Suisse - Klein-Zwitserlandplein",,,,relation+way
 "Place de la Querelle - Krakeelplein",,,,relation
@@ -2460,7 +2473,6 @@ Roeierspad,,,,way
 "Rue des Égyptiens - Egyptenarenstraat",,,,relation
 "Rue des Ellébores - Kerstrozenstraat",,,,way
 "Rue des Emérillons - Smellekensstraat",,,,way
-"Rue des Entrepôts - Pakhuizenstraat",,,,way
 "Rue des Éperonniers - Spoormakersstraat",,,,way
 "Rue des Épicéas - Epiceastraat",,,,relation
 "Rue des Érables - Ahornbomenstraat",,,,relation

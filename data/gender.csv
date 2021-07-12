@@ -5,6 +5,7 @@ name,source,gender,wikidata,type
 "Avenue Pierre et Marie Curie - Pierre en Marie Curielaan",wikidata,+,Q37463;Q7186,relation
 "Avenue Tedesco - Tedescolaan",wikidata,+,Q91870858;Q91870861;Q91871003,way
 "Rue Albert et Marie-Louise Servais-Kinet - Albert en Marie-Louise Servais-Kinetstraat",wikidata,+,Q89366028;Q89366128,relation
+"Agora Simone Veil",wikidata,F,Q298180,way
 "Allée Clara Clairbert - Clara Clairbertdreef",wikidata,F,Q5125964,relation
 "Allée Estelle Juste - Estelle Justedreef",wikidata,F,Q38031104,way
 "Allée Irène Vanderlinden - Irène Vanderlindendreef",wikidata,F,Q86199370,way
@@ -51,7 +52,7 @@ name,source,gender,wikidata,type
 "Parvis Sainte-Alix - Sinte-Aleidisvoorplein",wikidata,F,Q1860408,relation+way
 "Parvis Sainte-Cécile - Sint-Ceciliavoorplein",wikidata,F,Q80513,relation
 "Parvis Sainte-Gudule - Sint-Goedelevoorplein",wikidata,F,Q267660,way
-"Passage Marguerite Yourcenar - Marguerite Yourcenar doorgang",wikidata,F,Q163118,way
+"Passage Marguerite Yourcenar - Marguerite Yourcenardoorgang",wikidata,F,Q163118,way
 "Passage Simone Signoret - Simone Signoretdoorgang",wikidata,F,Q106126,way
 "Petite Rue Malibran - Korte Malibranstraat",wikidata,F,Q232783,relation
 "Petite Rue Sainte-Anne - Kleine Sint-Annastraat",wikidata,F,Q164294,relation+way
@@ -157,6 +158,7 @@ name,source,gender,wikidata,type
 "Allée Jos Albert - Jos Albertdreef",wikidata,M,Q16010220,way
 "Allée José Dierickx - José Dierickxdreef",wikidata,M,Q16219379,way
 "Allée Kurt Peiser - Kurt Peiserdreef",wikidata,M,Q2536774,way
+"Allée Lambermont - Lambermontdreef",wikidata,M,Q2327076,way
 "Allée Léandre Grandmoulin - Léandre Grandmoulindreef",wikidata,M,Q3270050,way
 "Allée Léon Londot - Léon Londotdreef",wikidata,M,Q2556621,way
 "Allée Nardo Lenaerts - Nardo Lenaertsdreef",wikidata,M,Q89691189,way
@@ -172,6 +174,7 @@ name,source,gender,wikidata,type
 "Allée Pierre Scoupreman - Pierre Scoupremandreef",wikidata,M,Q22009572,way
 "Allée Raymond Dierickx - Raymond Dierickxdreef",wikidata,M,Q55769864,way
 "Allée Victor Hubinon - Victor Hubinondreef",wikidata,M,Q659873,way
+"Allée Zinner - Zinnerdreef",wikidata,M,Q24288413,way
 "Avenue A. Vermeylen - A. Vermeylenlaan",wikidata,M,Q764378,relation
 "Avenue Adolphe Buyl - Adolphe Buyllaan",wikidata,M,Q2824787,relation+way
 "Avenue Adolphe Demeur - Adolphe Demeurlaan",wikidata,M,Q15869362,relation
@@ -622,7 +625,7 @@ name,source,gender,wikidata,type
 "Avenue du Général de Ceuninck - Generaal de Ceunincklaan",wikidata,M,Q1999936,relation
 "Avenue du Prince d'Orange - Prins van Oranjelaan",wikidata,M,Q154287,way
 "Avenue du Roi Albert - Koning Albertlaan",wikidata,M,Q55008046,relation+way
-"Avenue du Roi Chevalier - Ridder Koninglaan",wikidata,M,Q55008046,relation
+"Avenue du Roi Chevalier - Ridder Koninglaan",wikidata,M,Q55008046,relation+way
 "Avenue du Roi-Soldat - Koning-Soldaatlaan",wikidata,M,Q55008046,relation
 "Avenue van der Meerschen - van der Meerschenlaan",wikidata,M,Q27894060,relation
 "Boulevard Adolphe Max - Adolphe Maxlaan",wikidata,M,Q2535128,way
@@ -723,6 +726,7 @@ name,source,gender,wikidata,type
 "Impasse Saint-Jacques - Sint-Jakobsgang",wikidata,M,Q43999,way
 "Impasse Saint-Nicolas - Sint-Nikolaasgang",wikidata,M,Q44269,way
 "Jardin Martin V - Martinus V-tuin",wikidata,M,Q169612,relation
+"Lounge Sakharov",wikidata,M,Q997,way
 "Mont Saint-Lambert - Sint-Lambertusberg",wikidata,M,Q283447,relation
 "Parc Jean Monnet - Jean Monnetpark",wikidata,M,Q159700,relation
 "Parvis Saint-Antoine - Sint-Antoniusvoorplein",wikidata,M,Q167477,way
@@ -751,6 +755,7 @@ name,source,gender,wikidata,type
 "Place Cardinal Mercier - Kardinaal Mercierplein",wikidata,M,Q468097,relation+way
 "Place Charles Graux - Charles Grauxplein",wikidata,M,Q472511,way
 "Place Charles Rogier - Karel Rogierplein",wikidata,M,Q468109,way
+"Place Clemenceau - Clemenceauplein",wikidata,M,Q171730,way
 "Place Colignon - Colignonplein",wikidata,M,Q2823049,relation
 "Place Colonel Bremer - Kolonel Bremerplein",wikidata,M,Q3425928,way
 "Place Constantin Meunier - Constantin Meunierplein",wikidata,M,Q552440,way
@@ -1839,7 +1844,7 @@ name,source,gender,wikidata,type
 "Venelle Schubert - Schubertsteeg",wikidata,M,Q7312,relation+way
 "Venelle Victor Bourgeois - Victor Bourgeoissteeg",wikidata,M,Q291159,relation
 "Venelle Vivaldi - Vivaldisteeg",wikidata,M,Q1340,relation
-"Venelle de l'Alchimiste - Alchemiststeeg",wikidata,M,Q294169,relation
+"Venelle de l'Alchimiste - Alchemiststeeg",wikidata,M,Q294169,relation+way
 "Rue Willy De Bruyn - Willy De Bruynstraat",wikidata,MX,Q15807938,way
 "Place Van Meyel - Van Meyelplein",csv,+,,relation
 "Rue Buchholtz - Buchholtzstraat",csv,+,,relation
