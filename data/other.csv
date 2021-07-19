@@ -148,6 +148,7 @@ Alsembergsesteenweg,wikidata,,Q661993,way
 "Rue d'Anderlecht - Anderlechtsesteenweg",wikidata,,Q12886,way
 "Rue d'Arlon - Aarlenstraat",wikidata,,Q675960,relation+way
 "Rue d'Ophem - Oppemstraat",wikidata,,Q2520768,way
+"Rue de Béthanie - Bethaniëstraat",wikidata,,Q831190,way
 "Rue de Cologne - Keulenstraat",wikidata,,Q365,relation
 "Rue de Dilbeek - Dilbeekstraat",wikidata,,Q31567150;Q641134,relation+way
 "Rue de Dinant - Dinantstraat",wikidata,,Q108247,relation
@@ -1271,7 +1272,8 @@ Esplanade,,,,relation
 "Font Saint Landry - Sint Lendriksborre",,,,relation
 GR,,,,way
 "GR 126",,,,way
-"Galerie Agora",,,,way
+"Galerie Agora - Agoragalerij",,,,way
+"Galerie Anspach - Anspachgalerij",,,,way
 "Galerie Bortier - Bortiergalerij",,,,way
 "Galerie Louise - Louizagalerij",,,,way
 "Galerie Matongé - Matongégalerij",,,,way
@@ -1318,6 +1320,7 @@ Hunderenveld,,,,relation
 "Impasse de la Bouquetière - Bloemenmeisjesgang",,,,way
 "Impasse de la Cuve - Kuipgang",,,,way
 "Impasse de la Faucille - Sikkelgang",,,,way
+"Impasse de la Ferraille - Oudijzergang",,,,way
 "Impasse de la Fidélité - Getrouwheidsgang",,,,relation
 "Impasse de la Pie - Ekstergang",,,,way
 "Impasse de la Poupée - Poppegang",,,,way
@@ -1392,7 +1395,6 @@ Noendelle,,,,relation+way
 "Oppemlaan - Avenue d'Oppem",,,,way
 Opstalweg,,,,way
 "Oude Molenstraat",,,,way
-"Oudijzergang - Impasse de la Ferraille",,,,way
 "Paardentunnel Leonard",,,,way
 Pachthoevestraat,,,,way
 "Parc du Peterbos - Peterbospark",,,,relation

@@ -76,7 +76,6 @@ name,source,gender,wikidata,type
 "Place de la Duchesse de Brabant - Hertogin van Brabantplaats",wikidata,F,Q234047,relation+way
 "Place de la Reine Paola - Koningin Paolaplein",wikidata,F,Q31129,relation+way
 "Pont Suzan Daniel - Suzan Danielbrug",wikidata,F,Q2198159,way
-"Quai Reine Astrid - Kw Koningin Astrid",wikidata,F,Q230238,way
 "Rue Akarova - Akarovastraat",wikidata,F,Q2828943,relation
 "Rue Amélie Gomand - Amélie Gomandstraat",wikidata,F,Q89489801,relation
 "Rue Andrée de Jongh - Andrée de Jonghstraat",wikidata,F,Q461027,way
@@ -310,7 +309,7 @@ name,source,gender,wikidata,type
 "Avenue Ernest Masoin - Ernest Masoinlaan",wikidata,M,Q3057077,relation+way
 "Avenue Ernest Renan - Ernest Renanlaan",wikidata,M,Q157155,relation
 "Avenue Eudore Pirmez - Eudore Pirmezlaan",wikidata,M,Q239063,relation+way
-"Avenue Eugène Baie - Eugène Baielaan",wikidata,M,Q27559987,relation+way
+"Avenue Eugène Baie - Eugène Baielaan",wikidata,M,Q27559987,relation
 "Avenue Eugène Demolder - Eugène Demolderlaan",wikidata,M,Q2744860,relation
 "Avenue Eugène Godaux - Eugène Godauxlaan",wikidata,M,Q90146122,relation
 "Avenue Eugène Plasky - Eugène Plaskylaan",wikidata,M,Q3060103,relation
@@ -1875,7 +1874,7 @@ name,source,gender,wikidata,type
 "Avenue Marie-Clotilde - Marie-Clotildelaan",csv,F,,way
 "Avenue Paule - Paulalaan",csv,F,,relation
 "Avenue Victoria - Victorialaan",csv,F,,relation
-"Clos Marie Koré - Maire Koréhoek",csv,F,,way
+"Clos Marie Koré - Marie Koréhoek",csv,F,,way
 "Rue Marianne - Mariannestraat",csv,F,,relation
 "Rue Mercelis - Mercelisstraat",csv,F,,relation
 "Rue de Beughem - de Beughemstraat",csv,F,,relation
