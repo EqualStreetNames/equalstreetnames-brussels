@@ -118,6 +118,7 @@ Alsembergsesteenweg,wikidata,,Q661993,way
 "Place de Louvain - Leuvenseplein",wikidata,,Q118958,way
 "Place de Saint-Job - Sint-Jobsplein",wikidata,,Q1927235,way
 "Place de l'Albertine - Albertinaplein",wikidata,,Q383931,way
+"Place de l'Atomium - Atomiumplein",wikidata,,Q180901;Q523346,relation
 "Place de la Bourse - Beursplein",wikidata,,Q28485845,way
 "Place de la Forêt Noire - Zwarte Woudplein",wikidata,,Q4204,way
 "Place de la Liberté - Vrijheidsplein",wikidata,,Q2979,relation+way
@@ -162,6 +163,7 @@ Alsembergsesteenweg,wikidata,,Q661993,way
 "Rue de l'Escalier - Trapstraat",wikidata,,Q12511,relation
 "Rue de l'Etourneau - Spreeuwstraat",wikidata,,Q25469,way
 "Rue de l'Ode - Odestraat",wikidata,,Q178985,relation
+"Rue de l'Yser - IJzerstraat",wikidata,,Q217061,way
 "Rue de la Science - Wetenschapsstraat",wikidata,,Q336,relation
 "Rue des Atrébates - Atrebatenstraat",wikidata,,Q164811,relation
 "Rue des Bouchers - Beenhouwersstraat",wikidata,,Q329737,way
@@ -1466,7 +1468,6 @@ Pachthoevestraat,,,,way
 "Place de l'Altitude Cent - Hoogte Honderdplein",,,,way
 "Place de l'Amitié - Vriendschapsplein",,,,relation
 "Place de l'Ancienne Barrière - Oude-Afspanningsplein",,,,relation
-"Place de l'Atomium - Atomiumplein",,,,relation
 "Place de l'Aurore - Dageraadsplein",,,,relation
 "Place de l'Église - Kerkplein",,,,relation+way
 "Place de l'Initiative - Initiatiefplein",,,,relation
@@ -2045,7 +2046,7 @@ Roeierspad,,,,way
 "Rue de l'Azur - Azuurstraat",,,,relation
 "Rue de l'Eau - Waterstraat",,,,relation+way
 "Rue de l'Éclipse - Eclipsstraat",,,,way
-"Rue de l'Ecluse - Sasstraat",,,,way
+"Rue de l'Écluse - Sasstraat",,,,way
 "Rue de l'École - Schoolstraat",,,,relation
 "Rue de l'Ecole Moderne - Moderne-Schoolstraat",,,,relation
 "Rue de l'Économie - Zuinigheidsstraat",,,,relation
@@ -2124,7 +2125,6 @@ Roeierspad,,,,way
 "Rue de l'Outarde - Trapgansstraat",,,,way
 "Rue de l'Union - Uniestraat",,,,way
 "Rue de l'Urbanisme - Stedebouwstraat",,,,relation+way
-"Rue de l'Yser - IJzerstraat",,,,way
 "Rue de l’Égalité des Droits - Gelijke Rechtenstraat",,,,way
 "Rue de l’Émancipation - Emancipatiestraat",,,,relation
 "Rue de la Balsamine - Balsamienstraat",,,,relation
@@ -3209,3 +3209,4 @@ Welriekendedreef,,,,way
 Windmolenberg,,,,relation
 Woluwepad,,,,way
 "Zwarte Pijnbomenlaan",,,,way
+"chemin de paillis - Finse piste",,,,way

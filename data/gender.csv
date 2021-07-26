@@ -76,6 +76,7 @@ name,source,gender,wikidata,type
 "Place de la Duchesse de Brabant - Hertogin van Brabantplaats",wikidata,F,Q234047,relation+way
 "Place de la Reine Paola - Koningin Paolaplein",wikidata,F,Q31129,relation+way
 "Pont Suzan Daniel - Suzan Danielbrug",wikidata,F,Q2198159,way
+"Rond-point Maurane - Rondpunt Maurane",wikidata,F,Q509029,way
 "Rue Akarova - Akarovastraat",wikidata,F,Q2828943,relation
 "Rue Amélie Gomand - Amélie Gomandstraat",wikidata,F,Q89489801,relation
 "Rue Andrée de Jongh - Andrée de Jonghstraat",wikidata,F,Q461027,way
@@ -603,7 +604,7 @@ name,source,gender,wikidata,type
 "Avenue Voltaire - Voltairelaan",wikidata,M,Q9068,relation+way
 "Avenue Waxweiler - Waxweilerlaan",wikidata,M,Q3501999,relation
 "Avenue Wellington - Wellingtonlaan",wikidata,M,Q131691,relation
-"Avenue Winston Churchill - Winston Churchilllaan",wikidata,M,Q8016,way
+"Avenue Winston Churchill - Winston Churchilllaan",wikidata,M,Q8016,relation
 "Avenue Xavier Henrard - Xavier Henrardlaan",wikidata,M,Q91900322,relation
 "Avenue Yvan Lutens - Yvan Lutenslaan",wikidata,M,Q91900345,relation
 "Avenue Zaman - Zamanlaan",wikidata,M,Q3184905,way
@@ -694,7 +695,7 @@ name,source,gender,wikidata,type
 "Clos Jacques Wagner - Jacques Wagnergaarde",wikidata,M,Q92205134,relation
 "Clos Jean Mermoz - Jean Mermozgaarde",wikidata,M,Q680897,relation
 "Clos Jean Van Ryn - Jean Van Ryngaarde",wikidata,M,Q3174957,relation
-"Clos Jean-Pierre De Launoit - Jean-Pierre De Launoitgaarde",wikidata,M,Q3983874,way
+"Clos Jean-Pierre de Launoit - Jean-Pierre de Launoitgaarde",wikidata,M,Q3983874,way
 "Clos Joseph Hanse - Joseph Hanse hof",wikidata,M,Q1707180,relation
 "Clos Joseph Hendrickx - Joseph Hendrickxgaarde",wikidata,M,Q21345695,relation
 "Clos Joseph Otten - Joseph Ottengaarde",wikidata,M,Q92205252,relation
@@ -820,7 +821,7 @@ name,source,gender,wikidata,type
 "Place Maurice Van Meenen - Maurice Van Meenenplein",wikidata,M,Q92914140,way
 "Place Max Tircher - Max Tircherplein",wikidata,M,Q86089495,relation+way
 "Place Ministre Wauters - Minister Wautersplein",wikidata,M,Q585785,relation
-"Place Olivier Strebelle - Olivier Strebelleplein",wikidata,M,Q2532822,way
+"Place Olivier Strebelle - Olivier Strebelleplein",wikidata,M,Q2532822,relation
 "Place Oscar Ruelens - Oscar Ruelensplein",wikidata,M,Q92916718,relation
 "Place Paul Craps - Paul Crapsplein",wikidata,M,Q14655027,way
 "Place Paul Janson - Paul Jansonplein",wikidata,M,Q730367,way
