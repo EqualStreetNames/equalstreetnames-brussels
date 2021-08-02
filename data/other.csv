@@ -967,6 +967,7 @@ Cauter,,,,relation
 "Chemin de la Source - Weg naar de Bron",,,,way
 "Chemin de la Source - Weg naar de bron",,,,way
 "Chemin de la Truite - Forelweg",,,,way
+"Chemin de paillis - Finse piste",,,,way
 "Chemin des Aménagistes - Bedrijfsregelingersweg",,,,way
 "Chemin des Amoureux - Verliefdenweg",,,,way
 "Chemin des Anémones - Anemonenweg",,,,way
@@ -2044,7 +2045,7 @@ Roeierspad,,,,way
 "Rue de l'Avenir - Toekomststraat",,,,relation+way
 "Rue de l'Avocette - Kluitstraat",,,,way
 "Rue de l'Azur - Azuurstraat",,,,relation
-"Rue de l'Eau - Waterstraat",,,,relation+way
+"Rue de l'Eau - Waterstraat",,,,relation
 "Rue de l'Éclipse - Eclipsstraat",,,,way
 "Rue de l'Écluse - Sasstraat",,,,way
 "Rue de l'École - Schoolstraat",,,,relation
@@ -3209,4 +3210,3 @@ Welriekendedreef,,,,way
 Windmolenberg,,,,relation
 Woluwepad,,,,way
 "Zwarte Pijnbomenlaan",,,,way
-"chemin de paillis - Finse piste",,,,way
