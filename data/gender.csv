@@ -128,13 +128,13 @@ name,source,gender,wikidata,type
 "Square Elsa Frison - Elsa Frisonsquare",wikidata,F,Q89490926,relation
 "Square Joséphine-Charlotte - Joséphine-Charlottesquare",wikidata,F,Q160984,relation
 "Square Marguerite - Margaretasquare",wikidata,F,Q79158,relation
-"Square Marguerite Duras - Marguerite Durassquare",wikidata,F,Q153248,relation
 "Square Marie Curie - Marie Curiesquare",wikidata,F,Q7186,relation
 "Square Marie-José - Marie-Joséplein",wikidata,F,Q72919,relation
 "Square Marie-Louise - Maria-Louizasquare",wikidata,F,Q157491,relation
 "Square Maurane - Mauranesquare",wikidata,F,Q509029,way
 "Square Princesse Jean de Mérode - Prinses Jean de Mérodeplein",wikidata,F,Q75361062,way
 "Tunnel Louise - Louizatunnel",wikidata,F,Q237318,way
+"Tunnel Stéphanie - Stefaniatunnel",wikidata,F,Q170197,way
 "de Castonierlaan - Avenue de Castonier",wikidata,F,Q88385819,way
 "Allée Albert Dasnoy - Albert Dasnoydreef",wikidata,M,Q2831077,way
 "Allée André Franquin - André Franquindreef",wikidata,M,Q281411,way
@@ -176,6 +176,7 @@ name,source,gender,wikidata,type
 "Allée Raymond Dierickx - Raymond Dierickxdreef",wikidata,M,Q55769864,way
 "Allée Victor Hubinon - Victor Hubinondreef",wikidata,M,Q659873,way
 "Allée Zinner - Zinnerdreef",wikidata,M,Q24288413,way
+"Avenue  John Kennedy -  John Kennedylaan",wikidata,M,Q9696,way
 "Avenue A. Vermeylen - A. Vermeylenlaan",wikidata,M,Q764378,relation
 "Avenue Adolphe Buyl - Adolphe Buyllaan",wikidata,M,Q2824787,relation+way
 "Avenue Adolphe Demeur - Adolphe Demeurlaan",wikidata,M,Q15869362,relation
@@ -633,7 +634,7 @@ name,source,gender,wikidata,type
 "Boulevard Anspach - Anspachlaan",wikidata,M,Q462143,way
 "Boulevard Aristide Briand - Aristide Briandlaan",wikidata,M,Q179888,relation
 "Boulevard Auguste Reyers - Auguste Reyerslaan",wikidata,M,Q2871374,relation+way
-"Boulevard Barthélémy - Barthelemylaan",wikidata,M,Q2361218,way
+"Boulevard Barthélémy - Barthélémylaan",wikidata,M,Q2361218,relation
 "Boulevard Baudouin - Boudewijnlaan",wikidata,M,Q12976,relation+way
 "Boulevard Bischoffsheim - Bischoffsheimlaan",wikidata,M,Q670908,relation+way
 "Boulevard Brand Whitlock - Brand Whitlocklaan",wikidata,M,Q753365,relation+way
@@ -670,6 +671,7 @@ name,source,gender,wikidata,type
 "Boulevard de Smet de Naeyer - de Smet de Naeyerlaan",wikidata,M,Q721781,relation+way
 "Boulevard du Roi Albert II - Koning Albert II-laan",wikidata,M,Q3911,relation
 "Carrefour Jean Monnet - Jean Monnet Kruispunt",wikidata,M,Q159700,way
+"Carrefour de Sélys Longchamps - de Sélis Longchampskruispunt",wikidata,M,Q2198309,way
 "Chaussée Saint-Pierre - Sint-Pieterssteenweg",wikidata,M,Q33923,relation+way
 "Chemin Alfred Hitchcock - Alfred Hitchcockweg",wikidata,M,Q7374,way
 "Chemin Bourvil - Bourvilweg",wikidata,M,Q2750,way
@@ -1617,6 +1619,7 @@ name,source,gender,wikidata,type
 "Rue Rubens - Rubensstraat",wikidata,M,Q5599,relation+way
 "Rue Ruysdael - Ruysdaelstraat",wikidata,M,Q213612,relation
 "Rue Saint Guidon - Sint-Guidostraat",wikidata,M,Q1553720,relation
+"Rue Saint-Bernard - Sint-Bernardusstraat",wikidata,M,Q188411,way
 "Rue Saint-Christophe - Sint-Kristoffelsstraat",wikidata,M,Q193507,way
 "Rue Saint-Denis - Sint-Denijsstraat",wikidata,M,Q244380,relation+way
 "Rue Saint-Ghislain - Sint-Gisleinsstraat",wikidata,M,Q740017,relation

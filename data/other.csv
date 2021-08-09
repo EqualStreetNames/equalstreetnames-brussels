@@ -45,6 +45,7 @@ Alsembergsesteenweg,wikidata,,Q661993,way
 "Avenue de l'Hippodrome - Renbaanlaan",wikidata,,Q2419360,relation+way
 "Avenue de l'Yser - IJzerlaan",wikidata,,Q217061,relation+way
 "Avenue de la Brabançonne - Brabançonnelaan",wikidata,,Q161539,relation+way
+"Avenue de la Gueuze - Gueuzelaan",wikidata,,Q1520229,way
 "Avenue de la Porte de Hal - Hallepoortlaan",wikidata,,Q2988142,relation
 "Avenue des Chanterelles - Hanenkammenlaan",wikidata,,Q3942018,way
 "Avenue des Jonquilles - Narcissenlaan",wikidata,,Q29465,relation
@@ -127,6 +128,7 @@ Alsembergsesteenweg,wikidata,,Q661993,way
 "Place de la Paix - Vredeplein",wikidata,,Q454,relation+way
 "Place de la Reine - Koninginneplein",wikidata,,Q19643,way
 "Place des Chasseurs Ardennais - Ardense Jagersplein",wikidata,,Q893039,way
+"Place des Gueux - Geuzenplein",wikidata,,Q699636,relation+way
 "Place des Martyrs - Martelaarsplein",wikidata,,Q6498826,relation+way
 "Place des Muscaris - Druifhyacintenplein",wikidata,,Q161151,way
 "Place des Tulipes - Tulpenplein",wikidata,,Q93201,way
@@ -164,6 +166,7 @@ Alsembergsesteenweg,wikidata,,Q661993,way
 "Rue de l'Etourneau - Spreeuwstraat",wikidata,,Q25469,way
 "Rue de l'Ode - Odestraat",wikidata,,Q178985,relation
 "Rue de l'Yser - IJzerstraat",wikidata,,Q217061,way
+"Rue de la Brasserie - Brouwerijstraat",wikidata,,Q2661513,relation+way
 "Rue de la Science - Wetenschapsstraat",wikidata,,Q336,relation
 "Rue des Atrébates - Atrebatenstraat",wikidata,,Q164811,relation
 "Rue des Bouchers - Beenhouwersstraat",wikidata,,Q329737,way
@@ -442,7 +445,6 @@ Antwerpselaan,,,,way
 "Avenue de la Foresterie - Vorsterielaan",,,,way
 "Avenue de la Forêt - Woudlaan",,,,relation
 "Avenue de la Gazelle - Gazellelaan",,,,way
-"Avenue de la Gueuze - Gueuzelaan",,,,way
 "Avenue de la Hallebarde - Hellebaardlaan",,,,relation
 "Avenue de la Héronnière - Reigerboslaan",,,,way
 "Avenue de la Houlette - Herdersstaflaan",,,,way
@@ -668,7 +670,7 @@ Antwerpselaan,,,,way
 "Avenue des Seringas - Wildejasmijnenlaan",,,,way
 "Avenue des Sittelles - Boomkleverlaan",,,,relation
 "Avenue des Sophoras - Sophoraslaan",,,,way
-"Avenue des Sorbiers - Lijsterbessenbomenlaan",,,,way
+"Avenue des Sorbiers - Lijsterbessenbomenlaan",,,,relation
 "Avenue des Sports - Sportlaan",,,,way
 "Avenue des Staphylins - Roofkeverslaan",,,,way
 "Avenue des Statuaires - Beeldhouwerslaan",,,,relation
@@ -865,6 +867,7 @@ Bosveldweg,,,,way
 "Boulevard du Triomphe - Triomflaan",,,,relation+way
 Bovenberg,,,,relation
 "Brouwerijstraat - François Vervloetstraat",,,,way
+Brusselsesteenweg,,,,way
 "Cantersteen - Kantersteen",,,,way
 "Carré Capouillet - Capouilletblok",,,,relation
 "Carré Cassimans - Cassimansblok",,,,way
@@ -963,6 +966,7 @@ Cauter,,,,relation
 "Chemin de la Luge - Sleeweg",,,,way
 "Chemin de la Meute - Jachtkoppelweg",,,,way
 "Chemin de la Perce-Neige - Sneeuwklokjesweg",,,,relation+way
+"Chemin de la Prêle des Marais - Lidrusweg",,,,relation
 "Chemin de la Source - Bronweg",,,,relation
 "Chemin de la Source - Weg naar de Bron",,,,way
 "Chemin de la Source - Weg naar de bron",,,,way
@@ -1266,7 +1270,7 @@ Dries,,,,way
 Duivenschietweg,,,,way
 "Eden City",,,,way
 "Ensemble Jean Christophe",,,,relation
-"Espace Louise",,,,way
+"Espace Louise - Louiza Espace",,,,way
 Esplanade,,,,relation
 "Esplanade de l'Europe - Europaesplanade",,,,relation+way
 "Esplanade du Berlaymont - Esplanade",,,,way
@@ -1281,12 +1285,12 @@ GR,,,,way
 "Galerie Louise - Louizagalerij",,,,way
 "Galerie Matongé - Matongégalerij",,,,way
 "Galerie Pacific",,,,way
-"Galerie Porte Louise - Louizapoortgalerij",,,,way
 "Galerie Saint-Josse - Sint-Joost Galerij",,,,way
 "Galerie Sauvage Decor - Sauvage Decorgalerij",,,,way
 "Galerie Sud - Zuidgalerij",,,,way
 "Galerie Toison d'Or - Galerij Toison d’Or",,,,way
 "Galerie de Waterloo - Waterloogalerij",,,,way
+"Galerie de la Porte Louise - Galerij van de Louizapoort",,,,way
 "Galerie de la Porte de Namur - Galerij van de Naamsepoort",,,,way
 "Galerie des Argousiers - Duindoorngalerij",,,,relation
 "Galerie du Centre - Centrumgalerij",,,,way
@@ -1511,7 +1515,6 @@ Pachthoevestraat,,,,way
 "Place des Castors - Castorplein",,,,way
 "Place des Citronniers - Citroenbomenplein",,,,way
 "Place des Coopérateurs - Samenwerkersplein",,,,relation
-"Place des Gueux - Geuzenplein",,,,relation+way
 "Place des Héros - Heldenplein",,,,way
 "Place des Palais - Paleizenplein",,,,relation+way
 "Place des Quatre Livres - Vier Boekenplein",,,,way
@@ -1565,8 +1568,8 @@ Plattesteen,,,,way
 "Porte du Rivage - Oeverpoort",,,,way
 "Potaardestraat - Rue d'Argile",,,,way
 "Promenade P. L. Vrijdags - P. L. Vrijdagsvandelweg",,,,way
-"Promenade Verte - Groene Wandeling",,,,way
 "Promenade de l'Alma - Almawandeling",,,,relation+way
+"Promenade verte",,,,way
 "Putterie - Putterij",,,,way
 "Quai à la Chaux - Kalkkaai",,,,way
 "Quai à la Houille - Steenkoolkaai",,,,way
@@ -1770,7 +1773,6 @@ Roeierspad,,,,way
 "Rue Roodenberg - Rodenberg",,,,relation
 "Rue Rouge - Rodestraat",,,,relation
 "Rue Rouge Cloître - Rood Kloosterstraat",,,,way
-"Rue Saint-Bernard - Sint-Bernardusstraat",,,,way
 "Rue Saint-Boniface - Sint-Bonifaasstraat",,,,relation
 "Rue Saint-Josse - Sint-Jooststraat",,,,relation
 "Rue Saint-Vincent de Paul - Sint-Vincentius a Paulostraat",,,,relation
@@ -2145,7 +2147,6 @@ Roeierspad,,,,way
 "Rue de la Bougie - Waskaarsstraat",,,,relation
 "Rue de la Bourse - Beursstraat",,,,way
 "Rue de la Braie - Moutstraat",,,,way
-"Rue de la Brasserie - Brouwerijstraat",,,,relation
 "Rue de la Bravoure - Dapperheidsstraat",,,,relation
 "Rue de la Briqueterie - Steenbakkerijstraat",,,,relation
 "Rue de la Bruyère - Heidestraat",,,,relation
@@ -2170,7 +2171,7 @@ Roeierspad,,,,way
 "Rue de la Cible - Schietschijfstraat",,,,relation
 "Rue de la Ciboulette - Bieslookstraat",,,,relation
 "Rue de la Cigale - Krekelenberg",,,,relation
-"Rue de la Cigogne - Ooievaarsstraat",,,,way
+"Rue de la Cigogne - Ooievaarstraat",,,,relation
 "Rue de la Citadelle - Citadelstraat",,,,way
 "Rue de la Cité - Woonwijkstraat",,,,relation
 "Rue de la Cité Joyeuse - Kindvriendelijk Huisstraat",,,,relation+way
@@ -3175,7 +3176,6 @@ Tuinbouw,,,,relation+way
 "Tunnel Cinquantenaire - Jubelparktunnel",,,,way
 "Tunnel Cortenbergh - Kortenbergtunnel",,,,way
 "Tunnel Loi - Wettunnel",,,,way
-"Tunnel Stéphanie - Stefaniatunnel",,,,way
 "Tunnel Tervuren - Tervurentunnel",,,,way
 "Tunnel de la Woluwe - Woluwetunnel",,,,way
 Vaartkant-Oost,,,,way
@@ -3210,3 +3210,4 @@ Welriekendedreef,,,,way
 Windmolenberg,,,,relation
 Woluwepad,,,,way
 "Zwarte Pijnbomenlaan",,,,way
+"avenue de la Passerelle prolongée - Verlengde Loopbruglaan",,,,way
