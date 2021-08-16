@@ -612,6 +612,7 @@ name,source,gender,wikidata,type
 "Avenue Zaman - Zamanlaan",wikidata,M,Q3184905,way
 "Avenue Zénobe Gramme - Zénobe Grammelaan",wikidata,M,Q247603,relation+way
 "Avenue d'Orbaix - D'Orbaixlaan",wikidata,M,Q91915269,way
+"Avenue de Beaulieu - de Beaulieulaan",wikidata,M,Q2824939,way
 "Avenue de Broqueville - de Broquevillelaan",wikidata,M,Q705103,relation+way
 "Avenue de Busleyden - de Busleydenlaan",wikidata,M,Q2278766,relation
 "Avenue de Foestraets - de Foestraetslaan",wikidata,M,Q22955182,way
@@ -1720,6 +1721,7 @@ name,source,gender,wikidata,type
 "Rue Victor Vanderhoeft - Victor Vanderhoeftstraat",wikidata,M,Q106840436,relation
 "Rue Vifquin - Vifquinstraat",wikidata,M,Q3164477,relation
 "Rue Vilain XIIII - Vilain XIIII-straat",wikidata,M,Q329475,relation+way
+"Rue Villa Hermosa - Villa Hermosastraat",wikidata,M,Q2551465,way
 "Rue Virgile - Virgiliusstraat",wikidata,M,Q1398,relation
 "Rue Vogler - Voglerstraat",wikidata,M,Q3372389,relation
 "Rue Vonck - Vonckstraat",wikidata,M,Q1357793,relation
