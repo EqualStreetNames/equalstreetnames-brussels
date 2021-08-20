@@ -928,6 +928,7 @@ Brusselsesteenweg,,,,way
 Cauter,,,,relation
 "Champ du Tilleul - Lindeveld",,,,relation+way
 "Champ du Vert Chasseur - Groene Jagersveld",,,,way
+"Champ du Vert Chasseur - Groenejagersveld",,,,way
 "Chaussée d'Etterbeek - Etterbeeksesteenweg",,,,relation+way
 "Chaussée d'Etterbeek - Steenweg op Etterbeek",,,,relation
 "Chaussée d'Ixelles - Elsense Steenweg",,,,relation
@@ -1600,7 +1601,6 @@ Pachthoevestraat,,,,way
 "Place du White Star - White Starplein",,,,relation
 "Placette de l'Alizé - Alizépleintje",,,,way
 "Plaine des Loisirs - Lustplein",,,,relation
-"Plaine du tir à l'arc - Boogschuttersplein",,,,way
 Plattesteen,,,,way
 "Pont de Buda - Budabrug",,,,way
 "Pont des Hospices - Godshuizenbrug",,,,way
@@ -1701,6 +1701,7 @@ Roeierspad,,,,way
 "Rue Clément De Cléty - Clément De Clétystraat",,,,relation
 "Rue Communale - Gemeentestraat",,,,relation
 "Rue Courte - Kortestraat",,,,relation
+"Rue Courte des Halles - Korte Hallenstraat",,,,way
 "Rue Courtois - Courtoisstraat",,,,relation
 "Rue Creuse - Hollestraat",,,,relation
 "Rue Dansette - Dansettestraat",,,,relation
