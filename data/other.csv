@@ -10,6 +10,7 @@ name,source,gender,wikidata,type
 "Allée des Palais - Paleizendreef",wikidata,,Q635307,way
 "Allée des Perce-neige - Sneeuwklokjesdreef",wikidata,,Q105415,way
 "Allée des Pervenches - Maagdenpalmdreef",wikidata,,Q220925,way
+"Allée du Fair-play - Fair Playlaan",wikidata,,Q995616,way
 "Allée du Minotaure - Minotaurusweg",wikidata,,Q129866,way
 "Allée du Parlement - Parlementdreef",wikidata,,Q1137059,way
 Alsembergsesteenweg,wikidata,,Q661993,way
@@ -88,7 +89,8 @@ Alsembergsesteenweg,wikidata,,Q661993,way
 "Clos du Drossart - Drossaardgaarde",wikidata,,Q10970991,relation+way
 "Cours Saint-Michel - Sint-Michielswarande",wikidata,,Q45581,relation+way
 "Drève Tyl Uylenspiegel - Tijl Uilenspiegeldreef",wikidata,,Q164083,relation
-"Drêve des Rêves - Dromendreef",wikidata,,Q36348,way
+"Drève des Rêves - Dromendreef",wikidata,,Q36348,way
+"Escalier des Juifs - Jodentrap",wikidata,,Q7325,way
 "Esplanade Solidarność 1980",wikidata,,Q1003,relation
 "Esplanade of the European Parliament",wikidata,,Q8889,way
 "Galerie Ravenstein - Ravensteingalerij",wikidata,,Q3145650,relation
@@ -280,6 +282,7 @@ Alsembergsesteenweg,wikidata,,Q661993,way
 "Ancien Middelweg - Oude Middelweg",,,,way
 "Ancienne chaussée de Haecht - Oude Haachtsesteenweg",,,,relation
 Antwerpselaan,,,,way
+"Aux Promoteurs des Installations Maritimes - Aan de Ontwerpers der Zeehaveninrichtingen",,,,way
 "Avenue 's Heren Huys - 's Herenhuislaan",,,,way
 "Avenue Beau-Séjour - Schoon Verblijflaan",,,,way
 "Avenue Bel-Air - Schoon Uitzichtlaan",,,,way
@@ -344,6 +347,7 @@ Antwerpselaan,,,,way
 "Avenue d'Andrimont - Andrimontlaan",,,,way
 "Avenue d'Août - Augustuslaan",,,,relation
 "Avenue d'Auderghem - Oudergemlaan",,,,relation+way
+"Avenue d'Auderghem - Oudergemselaan",,,,relation
 "Avenue d'Avril - Aprillaan",,,,relation
 "Avenue d'Homborchveld - Homborchveldlaan",,,,way
 "Avenue d'Hougoumont - Hougoumontlaan",,,,way
@@ -508,6 +512,7 @@ Antwerpselaan,,,,way
 "Avenue de la Paix - Vredelaan",,,,relation
 "Avenue de la Palestre - Palestrelaan",,,,relation+way
 "Avenue de la Passerelle - Loopbruglaan",,,,way
+"Avenue de la Passerelle prolongée - Verlengde Loopbruglaan",,,,way
 "Avenue de la Pelouse - Grasperklaan",,,,relation
 "Avenue de la Persévérance - Volhardingslaan",,,,relation
 "Avenue de la Perspective - Perspectieflaan",,,,relation
@@ -949,6 +954,7 @@ Cauter,,,,relation
 "Chaussée de La Hulpe - Terhulpsesteenweg",,,,way
 "Chaussée de Merchtem - Steenweg op Merchtem",,,,relation
 "Chaussée de Mont-Saint-Jean - Sint-Jansbergsteenweg",,,,way
+"Chaussée de Mont-Saint-Jean - Steenweg op Sint-Jansberg",,,,way
 "Chaussée de Neerstalle - Neerstallesteenweg",,,,way
 "Chaussée de Neerstalle - Neerstalse Steenweg",,,,relation
 "Chaussée de Ninove - Ninoofse Steenweg",,,,relation
@@ -970,7 +976,6 @@ Cauter,,,,relation
 "Chemin Auguste Baron",,,,way
 "Chemin Avijl - Avijlweg",,,,way
 "Chemin Berckmans - Berckmansweg",,,,way
-"Chemin Edmond Galoppin",,,,way
 "Chemin Elena Milashina",,,,way
 "Chemin Endymion - Endymionweg",,,,way
 "Chemin Henri Storck",,,,way
@@ -979,7 +984,6 @@ Cauter,,,,relation
 "Chemin Longchamp - Longchamppad",,,,way
 "Chemin Louise Arbour",,,,way
 "Chemin Marie Popelin",,,,way
-"Chemin Saint-Sébastien - Sint-Sebastiaansweg",,,,way
 "Chemin Suzanne Tassier",,,,way
 "Chemin Tibout - Tiboutsweg",,,,relation
 "Chemin Vert - Groenweg",,,,relation
@@ -1232,7 +1236,7 @@ Donderberg,,,,relation
 "Drève Grange aux Dîmes - Tiendenschuurdreef",,,,way
 "Drève Hendrickx - Hendrickxdreef",,,,way
 "Dreve Hof Ter Musschen - Hof Ter Musschendreef",,,,relation+way
-"Drêve Maritime - Maritiemdreef",,,,way
+"Drève Maritime - Maritiemdreef",,,,way
 "Drève Olympique - Olympische Dreef",,,,relation+way
 "Drève Pittoresque - Schilderachtige dreef",,,,relation
 "Drève Van Kerm - Van Kermdreef",,,,way
@@ -1313,6 +1317,8 @@ Dries,,,,way
 Duivenschietweg,,,,way
 "Eden City",,,,way
 "Ensemble Jean Christophe",,,,relation
+"Escalier des Lions - Leeuwentrap",,,,way
+"Escaliers des Minimes - Minimentrap",,,,way
 "Espace Louise - Louiza Espace",,,,way
 Esplanade,,,,relation
 "Esplanade de l'Europe - Europaesplanade",,,,relation+way
@@ -1376,7 +1382,7 @@ Hunderenveld,,,,relation
 "Impasse de la Poupée - Poppegang",,,,way
 "Impasse de la Providence - Voorzienigheidsgang",,,,way
 "Impasse de la Serpette - Snoeimesjesgang",,,,way
-"Impasse de la Tête de Boeuf - Ossekopgang",,,,way
+"Impasse de la Tête de Bœuf - Ossekopgang",,,,way
 "Impasse des Cadeaux - Geschenkengang",,,,way
 "Impasse des Chansons - Liedjesgang",,,,way
 "Impasse des Combattants - Strijdersgang",,,,relation
@@ -1424,7 +1430,6 @@ Lindenberg,,,,relation
 "Mail du Topweg - Malie van de Topweg",,,,relation
 "Manhattan Shopping",,,,way
 "Marché au Bois - Houtmarkt",,,,way
-"Marché aux Herbes - Grasmarkt",,,,relation
 Mariënborre,,,,relation
 Mariënsteen,,,,relation
 "Meiklokjeslaan - Avenue des Muguets",,,,way
@@ -1446,7 +1451,6 @@ Noendelle,,,,relation+way
 "Oppemlaan - Avenue d'Oppem",,,,way
 Opstalweg,,,,way
 "Oude Molenstraat",,,,way
-"Paardentunnel Leonard",,,,way
 Pachthoevestraat,,,,way
 "Parc du Peterbos - Peterbospark",,,,relation
 "Parcours méditatif du parc du Vogelzang - Meditatieparcours Vogelzangpark",,,,way
@@ -1498,10 +1502,10 @@ Pachthoevestraat,,,,way
 "Place De Linde - De Lindeplein",,,,relation+way
 "Place De Moor - De Moorplein",,,,way
 "Place Dewandre - Dewandreplein",,,,relation
-"Place Guy Cudell - Guy Cudellplein",,,,way
 "Place Ronde - Rondplein",,,,way
 "Place Sainctelette - Saincteletteplaats",,,,relation+way
 "Place Sainte-Croix - Heilig-Kruisplein",,,,relation+way
+"Place Sainte-Gudule - Sinter-Goedeleplein",,,,relation
 "Place Terdelt - Terdeltplein",,,,relation+way
 "Place Van Hoegaerde - Van Hoegaerdeplein",,,,relation
 "Place de Bastogne - Bastenakenplein",,,,relation+way
@@ -1641,6 +1645,7 @@ Plattesteen,,,,way
 "Quai du Chantier - Werfkaai",,,,way
 "Quai du Commerce - Handelskaai",,,,way
 "Quai du Hainaut - Henegouwenkaai",,,,relation
+"Quais des Yachts - Jachtenkaai",,,,way
 "RC mini car/buggy racetrack",,,,way
 "Rampe Gauloise - Gallischeoprit",,,,relation
 "Rampe Lambermont - Lambermontoprit",,,,way
@@ -2206,7 +2211,7 @@ Roeierspad,,,,way
 "Rue de la Caserne - Kazernestraat",,,,relation
 "Rue de la Cavatine - Cavatinestraat",,,,relation
 "Rue de la Célidée - Célidéestraat",,,,relation
-"Rue de la Chancellerie - Kanselarijstraat",,,,way
+"Rue de la Chancellerie - Kanselarijstraat",,,,relation+way
 "Rue de la Chanterelle - Lokvogelstraat",,,,relation+way
 "Rue de la Chapelle - Kapellestraat",,,,relation
 "Rue de la Charité - Liefdadigheidsstraat",,,,relation
@@ -2487,7 +2492,7 @@ Roeierspad,,,,way
 "Rue des Citoyens - Burgersstraat",,,,relation
 "Rue des Clématites - Clématisstraat",,,,relation
 "Rue des Colombophiles - Duivenmelkersstraat",,,,relation
-"Rue des Colonies - Koloniënstraat",,,,way
+"Rue des Colonies - Koloniënstraat",,,,relation+way
 "Rue des Combattants - Strijdersstraat",,,,relation+way
 "Rue des Comédiens - Komediantenstraat",,,,way
 "Rue des Commerçants - Koopliedenstraat",,,,way
@@ -3143,22 +3148,21 @@ Sparrenweg,,,,way
 "Square De Fré - De Frésquare",,,,way
 "Square De Guise - De Guiseplein",,,,relation
 "Square Docteur Decroly - Dokter Decrolysquare",,,,way
-"Square Gutenberg - Gutenbergsquare",,,,way
 "Square Herschel Grynszpan - Herschel Grynszpansquare",,,,way
 "Square Louisa - Louisaplantsoen",,,,relation
 "Square Omer Denis - Omer Denissquare",,,,way
 "Square Velghe - Velghesquare",,,,way
 "Square Willy Authom - Willy Authomsquare",,,,way
-"Square de Biarritz - Biarritzsquare",,,,relation
+"Square de Biarritz - Biarritzsquare",,,,relation+way
 "Square de Boondael - Boondaalsesquare",,,,relation
 "Square de Corée - Koreasquare",,,,way
-"Square de La Fraternelle - La Fraternellesquare",,,,relation
+"Square de La Fraternelle - La Fraternellesquare",,,,relation+way
 "Square de Léopoldville - Leopoldstadplein",,,,relation+way
 "Square de Meudon - Meudonplein",,,,way
 "Square de l'Accueil - Onthaalsquare",,,,relation
 "Square de l'Améthyste - Amethistsquare",,,,relation
 "Square de l'Arbalète - Kruisboogsquare",,,,way
-"Square de l'Aviation - Luchtvaartsquare",,,,relation+way
+"Square de l'Aviation - Luchtvaartsquare",,,,relation
 "Square de l'Europe - Europaplein",,,,relation
 "Square de l'Onyx - Onyxsquare",,,,relation
 "Square de la Cerisaie - Kerseboomgaardsquare",,,,way
@@ -3219,9 +3223,12 @@ Treurenberg,,,,relation
 Tuinbouw,,,,relation+way
 "Tunnel Cinquantenaire - Jubelparktunnel",,,,way
 "Tunnel Cortenbergh - Kortenbergtunnel",,,,way
+"Tunnel Léonard - Léonardtunnel",,,,way
 "Tunnel Loi - Wettunnel",,,,way
+"Tunnel Reyers-Centre - Reyers-centrumtunnel",,,,way
+"Tunnel Reyers-Meiser - Reyers-Meisertunnel",,,,way
 "Tunnel Tervuren - Tervurentunnel",,,,way
-"Tunnel de la Woluwe - Woluwetunnel",,,,way
+"Tunnel Woluwe - Woluwetunnel",,,,way
 Vaartkant-Oost,,,,way
 "Val Maria - Mariëndaal",,,,relation
 "Val de Marne - Marnedal",,,,relation
@@ -3254,4 +3261,3 @@ Welriekendedreef,,,,way
 Windmolenberg,,,,relation
 Woluwepad,,,,way
 "Zwarte Pijnbomenlaan",,,,way
-"avenue de la Passerelle prolongée - Verlengde Loopbruglaan",,,,way

@@ -42,7 +42,7 @@ name,source,gender,wikidata,type
 "Clos Marilyn Monroe - Marilyn Monroegaarde",wikidata,F,Q4616,relation+way
 "Clos Monique Rifflet - Monique Riffletgaarde",wikidata,F,Q21601793,relation
 "Drève Aleyde De Brabant - Aleyde Van Brabantdreef",wikidata,F,Q377613,relation
-"Drêve Anna Boch - Anna Bochdreef",wikidata,F,Q466668,way
+"Drève Anna Boch - Anna Bochdreef",wikidata,F,Q466668,way
 "Drève Aurélie Solvay - Aurélie Solvaydreef",wikidata,F,Q89488177,relation
 "Drève Louisa Chaudoir - Louisa Chaudoirdreef",wikidata,F,Q89488828,relation
 "Drève Sainte-Anne - Sint-Annadreef",wikidata,F,Q164294,relation
@@ -70,7 +70,6 @@ name,source,gender,wikidata,type
 "Place Reine Astrid - Koningin Astridplein",wikidata,F,Q230238,relation+way
 "Place Reine Fabiola - Koningin Fabiolaplein",wikidata,F,Q231171,relation+way
 "Place Sainte-Catherine - Sint-Katelijneplein",wikidata,F,Q179718,relation
-"Place Sainte-Gudule - Sinter-Goedeleplein",wikidata,F,Q267660,way
 "Place Séverine - Séverineplein",wikidata,F,Q453679,relation+way
 "Place Stéphanie - Stefaniaplein",wikidata,F,Q170197,relation+way
 "Place de la Duchesse de Brabant - Hertogin van Brabantplaats",wikidata,F,Q234047,relation+way
@@ -176,7 +175,6 @@ name,source,gender,wikidata,type
 "Allée Raymond Dierickx - Raymond Dierickxdreef",wikidata,M,Q55769864,way
 "Allée Victor Hubinon - Victor Hubinondreef",wikidata,M,Q659873,way
 "Allée Zinner - Zinnerdreef",wikidata,M,Q24288413,way
-"Avenue  John Kennedy -  John Kennedylaan",wikidata,M,Q9696,way
 "Avenue A. Vermeylen - A. Vermeylenlaan",wikidata,M,Q764378,relation
 "Avenue Adolphe Buyl - Adolphe Buyllaan",wikidata,M,Q2824787,relation+way
 "Avenue Adolphe Demeur - Adolphe Demeurlaan",wikidata,M,Q15869362,relation
@@ -611,7 +609,7 @@ name,source,gender,wikidata,type
 "Avenue Yvan Lutens - Yvan Lutenslaan",wikidata,M,Q91900345,relation
 "Avenue Zaman - Zamanlaan",wikidata,M,Q3184905,way
 "Avenue Zénobe Gramme - Zénobe Grammelaan",wikidata,M,Q247603,relation+way
-"Avenue d'Orbaix - D'Orbaixlaan",wikidata,M,Q91915269,way
+"Avenue d'Orbaix - d'Orbaixlaan",wikidata,M,Q91915269,relation
 "Avenue de Beaulieu - de Beaulieulaan",wikidata,M,Q2824939,way
 "Avenue de Broqueville - de Broquevillelaan",wikidata,M,Q705103,relation+way
 "Avenue de Busleyden - de Busleydenlaan",wikidata,M,Q2278766,relation
@@ -677,12 +675,14 @@ name,source,gender,wikidata,type
 "Chemin Alfred Hitchcock - Alfred Hitchcockweg",wikidata,M,Q7374,way
 "Chemin Bourvil - Bourvilweg",wikidata,M,Q2750,way
 "Chemin Charles Vanel - Charles Vanelweg",wikidata,M,Q965918,way
+"Chemin Edmond Galoppin - Edmond Galoppinweg",wikidata,M,Q2363548,way
 "Chemin Eric von Stroheim - Eric von Stroheimweg",wikidata,M,Q78508,way
 "Chemin François Truffaut - François Truffautweg",wikidata,M,Q53002,way
 "Chemin Laurence Olivier - Laurence Oliviergaarde",wikidata,M,Q55245,relation
 "Chemin Luigi Visconti - Luigi Viscontiweg",wikidata,M,Q3066379,way
 "Chemin Luis Bunuel - Luis Bunuelweg",wikidata,M,Q51545,way
 "Chemin Pierre Vereman - Pierre Veremanweg",wikidata,M,Q92020420,way
+"Chemin Saint-Sébastien - Sint-Sebastiaansweg",wikidata,M,Q183332,way
 "Cité Fontainas - Fontainashof",wikidata,M,Q2744763,relation
 "Cité Jourdan - Jourdan Wijk",wikidata,M,Q92021312,way
 "Clos A.J. Slegers - A.J. Slegersgaarde",wikidata,M,Q89585848,relation
@@ -786,6 +786,7 @@ name,source,gender,wikidata,type
 "Place Georges Brugmann - Georges Brugmannplein",wikidata,M,Q3102386,way
 "Place Guido Gezelle - Guido Gezelleplein",wikidata,M,Q336977,relation
 "Place Gustave Pattyn - Gustave Pattynplein",wikidata,M,Q86089048,relation
+"Place Guy Cudell - Guy Cudellplein",wikidata,M,Q2712382,way
 "Place Guy d'Arezzo - Guido van Arezzoplein",wikidata,M,Q192238,relation
 "Place Henri Conscience - Hendrik Conscienceplein",wikidata,M,Q378133,relation
 "Place Henri De Smet - Henri De Smetplein",wikidata,M,Q27272720,way
@@ -1804,6 +1805,7 @@ name,source,gender,wikidata,type
 "Square Georges Golinvaux - Georges Golinvauxsquare",wikidata,M,Q17042124,relation
 "Square Georges Marlow - Georges Marlowsquare",wikidata,M,Q18115508,relation
 "Square Gérard Van Caulaert - Gérard Van Caulaertsquare",wikidata,M,Q93107328,relation
+"Square Gutenberg - Gutenbergsquare",wikidata,M,Q8958,way
 "Square Henri Frick - Henri Fricksquare",wikidata,M,Q3131125,way
 "Square Henri Michaux - Henri Michauxsquare",wikidata,M,Q160780,way
 "Square Henri Rey - Henri Reysquare",wikidata,M,Q93108033,relation
@@ -1843,7 +1845,7 @@ name,source,gender,wikidata,type
 "Tunnel Belliard - Belliardtunnel",wikidata,M,Q767534,way
 "Tunnel Léopold II - Leopold II-tunnel",wikidata,M,Q12967,way
 "Tunnel Montgomery - Montgomerytunnel",wikidata,M,Q152025,way
-"Tunnel Reyers - Reyerstunnel",wikidata,M,Q2871374,way
+"Tunnel Reyers-Montgomery- Reyers-Montgomerytunnel",wikidata,M,Q2871374;Q152025,way
 "Venelle Chopin - Chopinsteeg",wikidata,M,Q1268,relation
 "Venelle Mozart - Mozartsteeg",wikidata,M,Q254,relation
 "Venelle Robert Brout - Robert Broutsteeg",wikidata,M,Q151833,way
