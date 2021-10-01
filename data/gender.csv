@@ -74,6 +74,8 @@ name,source,gender,wikidata,type
 "Place Stéphanie - Stefaniaplein",wikidata,F,Q170197,relation+way
 "Place de la Duchesse de Brabant - Hertogin van Brabantplaats",wikidata,F,Q234047,relation+way
 "Place de la Reine Paola - Koningin Paolaplein",wikidata,F,Q31129,relation+way
+"Pont Fatima Mernissi - Fatima Mernissibrug",wikidata,F,Q242376,way
+"Pont Loredana Marchi - Loredana Marchibrug",wikidata,F,Q108410028,way
 "Pont Suzan Daniel - Suzan Danielbrug",wikidata,F,Q2198159,way
 "Rond-point Maurane - Rondpunt Maurane",wikidata,F,Q509029,way
 "Rue Akarova - Akarovastraat",wikidata,F,Q2828943,relation
@@ -117,6 +119,7 @@ name,source,gender,wikidata,type
 "Rue Sainte-Marie - Sint-Mariastraat",wikidata,F,Q345,relation+way
 "Rue Sainte-Thérèse - Sint-Theresiastraat",wikidata,F,Q174880,relation
 "Rue Stéphanie - Stefaniastraat",wikidata,F,Q170197,relation+way
+"Rue Suzanne Tassier - Suzanne Tassierstraat",wikidata,F,Q18613190,relation
 "Rue Van Gulick - Van Gulickstraat",wikidata,F,Q89490401,relation+way
 "Rue Virginie Plas - Virginie Plasstraat",wikidata,F,Q84347503,way
 "Rue Yvonne Jospa - Yvonne Jospastraat",wikidata,F,Q3574207,relation
@@ -174,6 +177,7 @@ name,source,gender,wikidata,type
 "Allée Pierre Scoupreman - Pierre Scoupremandreef",wikidata,M,Q22009572,way
 "Allée Raymond Dierickx - Raymond Dierickxdreef",wikidata,M,Q55769864,way
 "Allée Victor Hubinon - Victor Hubinondreef",wikidata,M,Q659873,way
+"Allée Yithzak Rabin - Yithzak Rabindreef",wikidata,M,Q34060,way
 "Allée Zinner - Zinnerdreef",wikidata,M,Q24288413,way
 "Avenue A. Vermeylen - A. Vermeylenlaan",wikidata,M,Q764378,relation
 "Avenue Adolphe Buyl - Adolphe Buyllaan",wikidata,M,Q2824787,relation+way
@@ -182,7 +186,7 @@ name,source,gender,wikidata,type
 "Avenue Adolphe Lacomblé - Adolphe Lacomblélaan",wikidata,M,Q26707524,relation
 "Avenue Adolphe Wansart - Adolphe Wansartlaan",wikidata,M,Q18507692,relation
 "Avenue Adrien Bayet - Adrien Bayetlaan",wikidata,M,Q89586939,relation+way
-"Avenue Air Marshal Coningham - Air Marshal Coninghamlaan",wikidata,M,Q2739491,way
+"Avenue Air Marshal Coningham - Air Marshal Coninghamlaan",wikidata,M,Q2739491,relation
 "Avenue Albert - Albertlaan",wikidata,M,Q55008046,way
 "Avenue Albert Brachet - Albert Brachetlaan",wikidata,M,Q1921361,relation
 "Avenue Albert De Coster - Albert De Costerlaan",wikidata,M,Q15869653,relation
@@ -722,6 +726,7 @@ name,source,gender,wikidata,type
 "Drève Joseph Vanderborght - Joseph Vanderborghtdreef",wikidata,M,Q3185718,way
 "Drève Recteur Van Waeyenbergh - Rector Van Waeyenberghdreef",wikidata,M,Q2248867,way
 "Drève Saint-Hubert - Sint-Hubertusdreef",wikidata,M,Q159834,relation
+"Espace Baron Paul Halter - Baron Paul Halterplaats",wikidata,M,Q3371421,way
 "Esplanade Jacques Brel - Jacques Brelesplanade",wikidata,M,Q1666,way
 "Esplanade Paul-Henri Spaak - Paul-Henri Spaakvoorplein",wikidata,M,Q155691,way
 "Froebelstraat - Rue Froebel",wikidata,M,Q76679,way
@@ -974,7 +979,7 @@ name,source,gender,wikidata,type
 "Rue Auguste Heene - Auguste Heenestraat",wikidata,M,Q93577073,way
 "Rue Auguste Lambiotte - Auguste Lambiottestraat",wikidata,M,Q11309738,relation
 "Rue Auguste Lumière - Auguste Lumièrestraat",wikidata,M,Q4272245,relation
-"Rue Auguste Orts - Auguste Ortsstraat",wikidata,M,Q2871354,way
+"Rue Auguste Orts - Auguste Ortsstraat",wikidata,M,Q2871354,relation
 "Rue Auguste Renoir - Auguste Renoirstraat",wikidata,M,Q39931,relation
 "Rue Auguste Snieders - Auguste Sniedersstraat",wikidata,M,Q2192202,relation
 "Rue Auguste Van Zande - Auguste Van Zandestraat",wikidata,M,Q93577080,relation
@@ -995,7 +1000,6 @@ name,source,gender,wikidata,type
 "Rue Berthelot - Berthelotstraat",wikidata,M,Q18425,relation
 "Rue Blaes - Blaesstraat",wikidata,M,Q23889107,relation
 "Rue Blockmans - Blockmansstraat",wikidata,M,Q93861185,relation
-"Rue Bodeghem - Bodegemsestraat",wikidata,M,Q3263599,way
 "Rue Boduognat - Boduognatusstraat",wikidata,M,Q890044,relation
 "Rue Bollinckx - Bollinckxstraat",wikidata,M,Q93861200,relation+way
 "Rue Bonaventure - Bonaventurestraat",wikidata,M,Q20871249,relation
@@ -1038,7 +1042,7 @@ name,source,gender,wikidata,type
 "Rue Charles Hanssens - Charles Hanssensstraat",wikidata,M,Q2958200,relation
 "Rue Charles Lechat - Charles Lechatstraat",wikidata,M,Q94417841,way
 "Rue Charles Legrelle - Charles Legrellestraat",wikidata,M,Q94418114,relation
-"Rue Charles Lemaire - Charles Lemairestraat",wikidata,M,Q2090301,relation
+"Rue Charles Lemaire - Charles Lemairestraat",wikidata,M,Q108443387,relation
 "Rue Charles Malis - Charles Malisstraat",wikidata,M,Q94418374,relation
 "Rue Charles Martel - Karel Martelstraat",wikidata,M,Q3301,relation
 "Rue Charles Meert - Charles Meertstraat",wikidata,M,Q94418757,relation
@@ -1687,7 +1691,7 @@ name,source,gender,wikidata,type
 "Rue Van Hoorde - Van Hoordestraat",wikidata,M,Q2517470,relation
 "Rue Van Hove - Van Hovestraat",wikidata,M,Q2960366,relation
 "Rue Van Lint - Van Lintstraat",wikidata,M,Q106936231,relation
-"Rue Van Maerlant - Van Maerlantstraat",wikidata,M,Q1393906,way
+"Rue Van Maerlant - Van Maerlantstraat",wikidata,M,Q1393906,relation
 "Rue Van Moer - Van Moerstraat",wikidata,M,Q3164475,relation
 "Rue Van Oost - Van Ooststraat",wikidata,M,Q388619,relation
 "Rue Van Orley - Van Orleystraat",wikidata,M,Q454678,relation
@@ -1773,6 +1777,7 @@ name,source,gender,wikidata,type
 "Rue du Prince Royal - Koninklijke-Prinsstraat",wikidata,M,Q12967,relation
 "Rue du Taciturne - Willem de Zwijgerstraat",wikidata,M,Q78454,relation
 "Rue t'Serclaes - t'Serclaesstraat",wikidata,M,Q898342,relation
+"Sentier Gaucheret - Gaucheretweg",wikidata,M,Q92463287,way
 "Sentier Guy Demanet - Guy Demanetpad",wikidata,M,Q92922742,way
 "Square Albert Devèze - Albert Devèzesquare",wikidata,M,Q457695,way
 "Square Albert Ier - Albert I-square",wikidata,M,Q55008046,relation
