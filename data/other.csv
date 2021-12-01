@@ -58,6 +58,7 @@ Alsembergsesteenweg,wikidata,,Q661993,way
 "Avenue du Manoir d'Anjou - Manoir d'Anjoulaan",wikidata,,Q60853950,relation
 "Avenue du Prince de Ligne - Prins de Lignelaan",wikidata,,Q3922015,relation+way
 "Boulevard Saint-Michel - Sint-Michielslaan",wikidata,,Q45581,relation+way
+"Boulevard de Berlaimont - de Berlaimontlaan",wikidata,,Q14849959,way
 "Boulevard de Dixmude - Diksmuidelaan",wikidata,,Q215244,relation
 "Carrefour de l'Europe - Europakruispunt",wikidata,,Q46,way
 "Ceci n'est pas une rue",wikidata,,Q1061035,way
@@ -95,7 +96,6 @@ Alsembergsesteenweg,wikidata,,Q661993,way
 "Drève du Comte de Flandre - Graaf van Vlaanderendreef",wikidata,,Q21597600,way
 "Escalier des Juifs - Jodentrap",wikidata,,Q7325,way
 "Esplanade Solidarność 1980",wikidata,,Q1003,relation
-"Esplanade of the European Parliament",wikidata,,Q8889,way
 "Galerie Ravenstein - Ravensteingalerij",wikidata,,Q3145650,relation
 "Galerie de la Reine - Koninginnegalerij",wikidata,,Q16511993,way
 "Galerie des Princes - Prinsengalerij",wikidata,,Q3403409,way
@@ -125,10 +125,11 @@ Alsembergsesteenweg,wikidata,,Q661993,way
 "Place Saint-Jean - Sint-Jansplein",wikidata,,Q50037286,relation
 "Place d'Espagne - Spanjeplein",wikidata,,Q29,relation
 "Place de Dinant - Dinantplein",wikidata,,Q108247,way
+"Place de Londres - Londenplein",wikidata,,Q84,relation+way
 "Place de Louvain - Leuvenseplein",wikidata,,Q118958,way
 "Place de Saint-Job - Sint-Jobsplein",wikidata,,Q1927235,way
 "Place de l'Albertine - Albertinaplein",wikidata,,Q383931,way
-"Place de l'Atomium - Atomiumplein",wikidata,,Q180901;Q523346,relation
+"Place de l'Atomium - Atomiumplein",wikidata,,Q180901,relation
 "Place de la Bourse - Beursplein",wikidata,,Q28485845,way
 "Place de la Forêt Noire - Zwarte Woudplein",wikidata,,Q4204,way
 "Place de la Liberté - Vrijheidsplein",wikidata,,Q2979,relation+way
@@ -168,11 +169,15 @@ Alsembergsesteenweg,wikidata,,Q661993,way
 "Rue de Dilbeek - Dilbeekstraat",wikidata,,Q31567150;Q641134,relation+way
 "Rue de Dinant - Dinantstraat",wikidata,,Q108247,relation
 "Rue de Ganshoren - Ganshorensestraat",wikidata,,Q366552,relation+way
+"Rue de Londres - Londenstraat",wikidata,,Q84,relation+way
 "Rue de Louvain - Leuvenseweg",wikidata,,Q118958,relation
 "Rue de Mérode - de Mérodestraat",wikidata,,Q1568461,relation+way
 "Rue de Montserrat - Montserratstraat",wikidata,,Q13353,relation
 "Rue de Percke - de Perckestraat",wikidata,,Q109318924,way
 "Rue de Robiano - de Robianostraat",wikidata,,Q2471094,relation
+"Rue de Spa - Spastraat",wikidata,,Q39865,relation+way
+"Rue de Toulouse - Toulousestraat",wikidata,,Q7880,relation+way
+"Rue de Trèves - Trierstraat",wikidata,,Q3138,relation+way
 "Rue de l'Écuyer - Schildknaapsstraat",wikidata,,Q579516,way
 "Rue de l'Éléphant - Olifantstraat",wikidata,,Q7378,relation
 "Rue de l'Escalier - Trapstraat",wikidata,,Q12511,relation
@@ -205,7 +210,7 @@ Alsembergsesteenweg,wikidata,,Q661993,way
 "Sentier des Lilas - Seringenpad",wikidata,,Q6565319,way
 "Square Apollo - Apollosquare",wikidata,,Q43653,relation
 "Square Lison - Lisonsquare",wikidata,,Q88583938,relation
-"Square Manon - Manonsquare",wikidata,,Q88583708,relation
+"Square Manon - Manonsquare",wikidata,,Q88583708,relation+way
 "Square Toinon - Toinonsquare",wikidata,,Q88583488,way
 "Square Victoria Régina - Victoria Reginaplantsoen",wikidata,,Q162070,relation
 "Square de Corée - Koreasquare",wikidata,,Q18097,way
@@ -214,7 +219,8 @@ Alsembergsesteenweg,wikidata,,Q661993,way
 "Square du Solbosch - Solbossquare",wikidata,,Q3280691,relation+way
 "Square du Vieux Tilleul - Oude-Lindesquare",wikidata,,Q107294142,relation+way
 "Steenweg op Ruisbroek",wikidata,,Q1993738,way
-"Tunnel Cortenbergh - Kortenbergtunnel",wikidata,,Q929474,way
+"Tunnel Cortenbergh - Kortenbergtunnel",wikidata,,Q2181368,way
+"Tunnel Joyeuse Entrée - Blijde Inkomsttunnel",wikidata,,Q18927701,way
 "Tunnel Preckher-Senne - Preckher-Zennetunnel",wikidata,,Q3939196;Q845920,way
 "Venelle de Saint-Job - Sint-Jobsteeg",wikidata,,Q1927235,relation
 "Venelle du Boson - Bosonsteeg",wikidata,,Q43101,way
@@ -902,7 +908,6 @@ Bosveldweg,,,,way
 "Boulevard Paepsem - Paepsemlaan",,,,relation+way
 "Boulevard d'Anvers - Antwerpselaan",,,,way
 "Boulevard d'Ypres - Ieperlaan",,,,way
-"Boulevard de Berlaimont - de Berlaimontlaan",,,,way
 "Boulevard de Nieuport - Nieuwpoortlaan",,,,way
 "Boulevard de Waterloo - Waterloolaan",,,,way
 "Boulevard de l'Abattoir - Slachthuislaan",,,,way
@@ -1133,7 +1138,7 @@ Cauter,,,,relation
 "Clos de Wagram - Wagramgaarde",,,,way
 "Clos de l'Algarve - Algarvegaarde",,,,relation
 "Clos de l'Argilière - Kleigroevegaarde",,,,relation
-"Clos de l'Equerre - Winkelhaakhoek",,,,relation
+"Clos de l'Équerre - Winkelhaakhoek",,,,relation
 "Clos de l'Oasis - Oasebinnenhof",,,,way
 "Clos de la Balance - Weegschaalbinnenhof",,,,relation
 "Clos de la Ballade - Balladegaarde",,,,relation
@@ -1263,6 +1268,7 @@ Donderberg,,,,relation
 "Drève de Pinnebeek - Pinnebeekdreef",,,,way
 "Drève de Rivieren - de Rivierendreef",,,,relation+way
 "Drève de Touraine - Tourainedreef",,,,way
+"Drève de Willerieken - Willerieksedreef",,,,way
 "Drève de l'Aérodrome - Vliegvelddreef",,,,way
 "Drève de l'Infante - Infantedreef",,,,way
 "Drève de la Chapelle - Kapeldreef",,,,way
@@ -1330,7 +1336,6 @@ Duivenschietweg,,,,way
 "Escaliers des Minimes - Minimentrap",,,,way
 Esplanade,,,,relation
 "Esplanade de l'Europe - Europaesplanade",,,,relation+way
-"Esplanade du Berlaymont - Esplanade",,,,way
 "Fond de vallée - Beneden in het dal",,,,way
 "Font Saint Landry - Sint Lendriksborre",,,,relation
 GR,,,,way
@@ -1451,7 +1456,6 @@ Moensberg,,,,way
 "Montée de l'Esplanade",,,,way
 Mutsaertplaats,,,,way
 Neerleest,,,,relation
-"Ninoofseplein - Place de Ninove",,,,relation
 Noendelle,,,,relation+way
 "Oppemlaan - Avenue d'Oppem",,,,way
 Opstalweg,,,,way
@@ -1516,7 +1520,6 @@ Pachthoevestraat,,,,way
 "Place de Bethléem - Bethlehemplein",,,,way
 "Place de Helmet - Helmetseplein",,,,relation
 "Place de Houffalize - Houffalizeplein",,,,relation
-"Place de Londres - Londenplein",,,,relation+way
 "Place de Mai - Meiplein",,,,relation
 "Place de Mexico - Mexicoplein",,,,way
 "Place de Ninove - Ninoofseplein",,,,way
@@ -1966,7 +1969,6 @@ Roeierspad,,,,way
 "Rue de Lombardie - Lombardijestraat",,,,way
 "Rue de Lombartzyde - Lombardsijdestraat",,,,relation
 "Rue de Loncin - Loncinstraat",,,,way
-"Rue de Londres - Londenstraat",,,,relation+way
 "Rue de Loxum - Loxumstraat",,,,way
 "Rue de Lusambo - Lusambostraat",,,,relation
 "Rue de Malines - Mechelsestraat",,,,way
@@ -2013,7 +2015,6 @@ Roeierspad,,,,way
 "Rue de Sébastopol - Sebastopolstraat",,,,relation
 "Rue de Serbie - Serviëstraat",,,,relation
 "Rue de Soignies - Zinnikstraat",,,,way
-"Rue de Spa - Spastraat",,,,relation+way
 "Rue de Stalle - Stallestraat",,,,way
 "Rue de Strasbourg - Straatsburgstraat",,,,relation
 "Rue de Suède - Zwedenstraat",,,,relation+way
@@ -2024,9 +2025,7 @@ Roeierspad,,,,way
 "Rue de Ter Plast - Terplaststraat",,,,relation
 "Rue de Termonde - Dendermondsestraat",,,,relation
 "Rue de Tervaete - Tervaetestraat",,,,relation+way
-"Rue de Toulouse - Toulousestraat",,,,relation+way
 "Rue de Tournai - Doornikstraat",,,,way
-"Rue de Trèves - Trierstraat",,,,relation+way
 "Rue de Veeweyde - Veeweidestraat",,,,relation+way
 "Rue de Venise - Venetiëstraat",,,,relation
 "Rue de Verdun - Verdunstraat",,,,relation
@@ -2446,6 +2445,7 @@ Roeierspad,,,,way
 "Rue des Bannières - Bannierenstraat",,,,relation
 "Rue des Bassins - Kommenstraat",,,,relation+way
 "Rue des Bataves - Batavierenstraat",,,,relation
+"Rue des Bateliers - Schippersstraat",,,,way
 "Rue des Bégonias - Begoniastraat",,,,way
 "Rue des Béguines - Begijnenstraat",,,,relation
 "Rue des Béguinettes - Piepelingenstraat",,,,way
@@ -3138,7 +3138,6 @@ Schoolgat,,,,relation
 "Sentier du Zircon - Zirkoonpad",,,,way
 "Sentier du pèlerin - Pelgrimspad",,,,way
 Seringenstraat,,,,relation
-Sint-Jansbergsteenweg,,,,way
 Sparrenweg,,,,way
 "Square Alexandre - Alexandreplein",,,,way
 "Square Amnesty International - Amnesty Internationalplein",,,,way
@@ -3250,7 +3249,6 @@ Vaartkant-Oost,,,,way
 "Waterloopad - Sentier de Waterloo",,,,way
 "Watermael Shopping",,,,way
 "Wekkergang - Impasse du Réveil",,,,way
-Welriekendedreef,,,,way
 Windmolenberg,,,,relation
 Woluwepad,,,,way
 "Zwarte Pijnbomenlaan",,,,way

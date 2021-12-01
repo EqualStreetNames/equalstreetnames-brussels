@@ -13,7 +13,7 @@ name,source,gender,wikidata,type
 "Allée Louisa Haerens - Louisa Haerensdreef",wikidata,F,Q88801975,way
 "Allée Louise Van den Plas - Louise Van den Plasdreef",wikidata,F,Q3263875,relation
 "Allée Maud Frère - Maud Frèredreef",wikidata,F,Q3300098,way
-"Allée Rosa Luxembourg - Rosa Luxemburgdreef",wikidata,F,Q7231,relation
+"Allée Rosa Luxembourg - Rosa Luxemburgdreef",wikidata,F,Q7231,way
 "Allée Suzanne Cocq - Suzanne Cocqdreef",wikidata,F,Q21645086,way
 "Avenue Clémentine - Clementinalaan",wikidata,F,Q261129,way
 "Avenue Éléonore - Eleonorelaan",wikidata,F,Q57527,relation
@@ -678,6 +678,7 @@ name,source,gender,wikidata,type
 "Boulevard Théo Lambert - Théo Lambertlaan",wikidata,M,Q91929694,relation
 "Boulevard de Smet de Naeyer - de Smet de Naeyerlaan",wikidata,M,Q721781,relation+way
 "Boulevard du Roi Albert II - Koning Albert II-laan",wikidata,M,Q3911,relation
+"Carrefour Jean Monnet - Jean Monnet Kruispunt",wikidata,M,Q159700,way
 "Carrefour de Sélys Longchamps - de Sélis Longchampskruispunt",wikidata,M,Q2198309,way
 "Chaussée Saint-Pierre - Sint-Pieterssteenweg",wikidata,M,Q33923,relation+way
 "Chemin Alfred Hitchcock - Alfred Hitchcockweg",wikidata,M,Q7374,way
@@ -692,6 +693,7 @@ name,source,gender,wikidata,type
 "Chemin Pierre Vereman - Pierre Veremanweg",wikidata,M,Q92020420,way
 "Chemin Saint-Sébastien - Sint-Sebastiaansweg",wikidata,M,Q183332,way
 "Cité Fontainas - Fontainashof",wikidata,M,Q2744763,relation
+"Cité Gomand",wikidata,M,Q109349834,relation
 "Cité Jourdan - Jourdan Wijk",wikidata,M,Q92021312,way
 "Clos A.J. Slegers - A.J. Slegersgaarde",wikidata,M,Q89585848,relation
 "Clos Albert Crommelynck - Albert Crommelynckgaarde",wikidata,M,Q2831066,way
@@ -711,6 +713,7 @@ name,source,gender,wikidata,type
 "Clos Joseph Hanse - Joseph Hanse hof",wikidata,M,Q1707180,relation
 "Clos Joseph Hendrickx - Joseph Hendrickxgaarde",wikidata,M,Q21345695,relation
 "Clos Joseph Otten - Joseph Ottengaarde",wikidata,M,Q92205252,relation
+"Clos Lieutenant-Colonel Louis Bégault - Luitenant-Kolonel Louis Bégaultgaarde",wikidata,M,Q14639327,way
 "Clos Louis Banken - Louis Bankengaarde",wikidata,M,Q92300076,relation
 "Clos Lucien Outers - Lucien Outersgaarde",wikidata,M,Q1967161,relation
 "Clos Marcel Fonteyne - Marcel Fonteynegaarde",wikidata,M,Q92300534,relation
@@ -849,6 +852,7 @@ name,source,gender,wikidata,type
 "Place Quetelet - Queteletplein",wikidata,M,Q20012,relation+way
 "Place Raymond Blyckaerts - Raymond Blyckaertsplein",wikidata,M,Q27036489,relation+way
 "Place Rik Wouters - Rik Woutersplein",wikidata,M,Q939197,way
+"Place Rolin - Rolinplein",wikidata,M,Q2163086,way
 "Place Rouppe - Rouppeplein",wikidata,M,Q2009106,relation
 "Place Saint-Antoine - Sint-Antoonplein",wikidata,M,Q167477,relation+way
 "Place Saint-Denis - Sint-Denijsplein",wikidata,M,Q244380,relation+way
@@ -1354,7 +1358,7 @@ name,source,gender,wikidata,type
 "Rue Henri Jacobs - Henri Jacobsstraat",wikidata,M,Q3104623,relation
 "Rue Henri Maes - Henri Maesstraat",wikidata,M,Q106840208,relation
 "Rue Henri Marichal - Henri Marichalstraat",wikidata,M,Q85429116,relation
-"Rue Henri Maus - Henri Mausstraat",wikidata,M,Q3131621,way
+"Rue Henri Maus - Henri Mausstraat",wikidata,M,Q3131621,relation
 "Rue Henri Simons - Henri Simonsstraat",wikidata,M,Q18001770,relation
 "Rue Henri Stacquet - Henri Stacquetstraat",wikidata,M,Q3133085,relation
 "Rue Henri Van Nerom - Hendrik Van Neromstraat",wikidata,M,Q106879972,relation
