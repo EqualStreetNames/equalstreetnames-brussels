@@ -18,7 +18,7 @@ name,source,gender,wikidata,type
 "Avenue Clémentine - Clementinalaan",wikidata,F,Q261129,way
 "Avenue Éléonore - Eleonorelaan",wikidata,F,Q57527,relation
 "Avenue Ernestine - Ernestinelaan",wikidata,F,Q87047440,relation
-"Avenue Ginette Javaux - Ginette Javauxlaan",wikidata,F,Q3106728,way
+"Avenue Ginette Javaux - Ginette Javauxlaan",wikidata,F,Q3106728,relation
 "Avenue Impératrice Charlotte - Keizerin Charlottelaan",wikidata,F,Q154971,relation+way
 "Avenue Jacqueline Harpman - Jacqueline Harpmanlaan",wikidata,F,Q371922,way
 "Avenue Louise - Louizalaan",wikidata,F,Q237318,way
@@ -37,6 +37,11 @@ name,source,gender,wikidata,type
 "Avenue de la Princesse Paola - Prinses Paolalaan",wikidata,F,Q31129,way
 "Boulevard Maria Groeninckx-De May - Maria Groeninckx-De Maylaan",wikidata,F,Q89488154,relation+way
 "Carrefour Sainte-Anne - Sint-Annakruispunt",wikidata,F,Q164294,way
+"Chemin Elena Milashina",wikidata,F,Q1396156,way
+"Chemin Leila Saadé",wikidata,F,Q109533022,way
+"Chemin Marie Popelin",wikidata,F,Q2627259,way
+"Chemin Suzanne Tassier",wikidata,F,Q18613190,way
+"Chemin des Sœurs Schampaert - Gezusters Schampaertweg",wikidata,F,Q110062927;Q110062935,way
 "Clos Andrée De Jongh - Andrée de Jonghgaarde",wikidata,F,Q461027,way
 "Clos Andrée Dumont - Andrée Dumontgaarde",wikidata,F,Q16262799,way
 "Clos Ingrid Bergman - Ingrid Bergmangaarde",wikidata,F,Q43247,relation+way
@@ -59,6 +64,8 @@ name,source,gender,wikidata,type
 "Parvis Sainte-Gudule - Sint-Goedelevoorplein",wikidata,F,Q267660,way
 "Passage Marguerite Yourcenar - Marguerite Yourcenardoorgang",wikidata,F,Q163118,way
 "Passage Simone Signoret - Simone Signoretdoorgang",wikidata,F,Q106126,way
+"Passerelle Fatima Mernissi - Fatima Mernissiloopbrug",wikidata,F,Q242376,way
+"Passerelle Loredana Marchi - Loredana Marchiloopbrug",wikidata,F,Q108410028,way
 "Petite Rue Malibran - Korte Malibranstraat",wikidata,F,Q232783,relation
 "Petite Rue Sainte-Anne - Kleine Sint-Annastraat",wikidata,F,Q164294,relation+way
 "Petite rue Anna Magnani - Kleine Anna Magnanistraat",wikidata,F,Q56011,way
@@ -79,8 +86,6 @@ name,source,gender,wikidata,type
 "Place Stéphanie - Stefaniaplein",wikidata,F,Q170197,relation+way
 "Place de la Duchesse de Brabant - Hertogin van Brabantplaats",wikidata,F,Q234047,relation+way
 "Place de la Reine Paola - Koningin Paolaplein",wikidata,F,Q31129,relation+way
-"Pont Fatima Mernissi - Fatima Mernissibrug",wikidata,F,Q242376,way
-"Pont Loredana Marchi - Loredana Marchibrug",wikidata,F,Q108410028,way
 "Pont Suzan Daniel - Suzan Danielbrug",wikidata,F,Q2198159,way
 "Rond-point Maurane - Rondpunt Maurane",wikidata,F,Q509029,way
 "Rue Akarova - Akarovastraat",wikidata,F,Q2828943,relation
@@ -681,16 +686,21 @@ name,source,gender,wikidata,type
 "Carrefour Jean Monnet - Jean Monnet Kruispunt",wikidata,M,Q159700,way
 "Carrefour de Sélys Longchamps - de Sélis Longchampskruispunt",wikidata,M,Q2198309,way
 "Chaussée Saint-Pierre - Sint-Pieterssteenweg",wikidata,M,Q33923,relation+way
+"Chemin Ahmet Insel",wikidata,M,Q6067928,way
 "Chemin Alfred Hitchcock - Alfred Hitchcockweg",wikidata,M,Q7374,way
 "Chemin Bourvil - Bourvilweg",wikidata,M,Q2750,way
 "Chemin Charles Vanel - Charles Vanelweg",wikidata,M,Q965918,way
 "Chemin Edmond Galoppin - Edmond Galoppinweg",wikidata,M,Q2363548,way
 "Chemin Eric von Stroheim - Eric von Stroheimweg",wikidata,M,Q78508,way
+"Chemin François Englert",wikidata,M,Q151746,way
 "Chemin François Truffaut - François Truffautweg",wikidata,M,Q53002,way
+"Chemin Henri Storck",wikidata,M,Q2033012,way
 "Chemin Laurence Olivier - Laurence Oliviergaarde",wikidata,M,Q55245,relation
+"Chemin Louise Arbour",wikidata,M,Q6067928,way
 "Chemin Luigi Visconti - Luigi Viscontiweg",wikidata,M,Q3066379,way
 "Chemin Luis Bunuel - Luis Bunuelweg",wikidata,M,Q51545,way
 "Chemin Pierre Vereman - Pierre Veremanweg",wikidata,M,Q92020420,way
+"Chemin Robert Brout",wikidata,M,Q151833,way
 "Chemin Saint-Sébastien - Sint-Sebastiaansweg",wikidata,M,Q183332,way
 "Cité Fontainas - Fontainashof",wikidata,M,Q2744763,relation
 "Cité Gomand",wikidata,M,Q109349834,relation
@@ -763,7 +773,7 @@ name,source,gender,wikidata,type
 "Place Aimé Dandoy - Aimé Dandoyplein",wikidata,M,Q2828051,relation
 "Place Albert Leemans - Albert Leemansplein",wikidata,M,Q85429784,way
 "Place Alexandre Pouchkine - Alexander Poesjkinplein",wikidata,M,Q7200,way
-"Place Alphonse Lemmens - Alphonse Lemmensplein",wikidata,M,Q85423919,relation
+"Place Alphonse Lemmens - Alphonse Lemmensplein",wikidata,M,Q85423919,relation+way
 "Place André Duchêne - André Duchêneplein",wikidata,M,Q2847678,way
 "Place Anneessens - Anneessensplein",wikidata,M,Q3083817,way
 "Place Antoine Delporte - Antoine Delporteplein",wikidata,M,Q2853852,way
@@ -1560,6 +1570,7 @@ name,source,gender,wikidata,type
 "Rue Nicolas Doyen - Nicolas Doyenstraat",wikidata,M,Q95578182,relation+way
 "Rue Nicolay - Nicolaystraat",wikidata,M,Q5237107;Q95578217,relation
 "Rue Niellon - Niellonstraat",wikidata,M,Q1983109,relation
+"Rue Nisard - Nisardstraat",wikidata,M,Q110096820,way
 "Rue Nothomb - Nothombstraat",wikidata,M,Q446472,relation
 "Rue Omer Lepreux - Omer Lepreuxstraat",wikidata,M,Q15352764,relation
 "Rue Ortélius - Orteliusstraat",wikidata,M,Q232916,way
@@ -1787,6 +1798,7 @@ name,source,gender,wikidata,type
 "Rue du Cardinal - Kardinaalsstraat",wikidata,M,Q451178,relation
 "Rue du Cardinal Mercier - Kardinaal Mercierstraat",wikidata,M,Q468097,way
 "Rue du Lieutenant Lotin - Luitenant Lotinstraat",wikidata,M,Q62418645,way
+"Rue du Président - Voorzittersstraat",wikidata,M,Q289570,relation
 "Rue du Prince Albert - Prins Albertstraat",wikidata,M,Q55008046,relation
 "Rue du Prince Royal - Koninklijke-Prinsstraat",wikidata,M,Q12967,relation
 "Rue du Taciturne - Willem de Zwijgerstraat",wikidata,M,Q78454,relation
@@ -1857,6 +1869,7 @@ name,source,gender,wikidata,type
 "Square Robert Pequeur - Robert Pequeursquare",wikidata,M,Q85423877,relation
 "Square Sainctelette - Sainctelettesquare",wikidata,M,Q2248372,relation+way
 "Square Servaes Hoedemaekers - Servaas Hoedemaekerssquare",wikidata,M,Q93110353,relation
+"Square Théodore Verhaegen - Théodore Verhaegensquare",wikidata,M,Q1870097,way
 "Square Valère-Gille - Valère-Gillesquare",wikidata,M,Q3554196,relation
 "Square Vergote - Vergoteplein",wikidata,M,Q2124063,relation
 "Square Victor Voets - Victor Voetssquare",wikidata,M,Q41795553,relation
