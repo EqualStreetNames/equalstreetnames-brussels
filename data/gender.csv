@@ -42,7 +42,7 @@ name,source,gender,wikidata,type
 "Chemin Marie Popelin",wikidata,F,Q2627259,way
 "Chemin Suzanne Tassier",wikidata,F,Q18613190,way
 "Chemin des Sœurs Schampaert - Gezusters Schampaertweg",wikidata,F,Q110062927;Q110062935,way
-"Clos Andrée De Jongh - Andrée de Jonghgaarde",wikidata,F,Q461027,way
+"Clos Andrée De Jongh - Andrée de Jonghgaarde",wikidata,F,Q461027,relation
 "Clos Andrée Dumont - Andrée Dumontgaarde",wikidata,F,Q16262799,way
 "Clos Ingrid Bergman - Ingrid Bergmangaarde",wikidata,F,Q43247,relation+way
 "Clos Marie Koré - Marie Koréhoek",wikidata,F,Q109044416,way
@@ -61,7 +61,6 @@ name,source,gender,wikidata,type
 "Parvis Notre-Dame - Onze-Lieve-Vrouwvoorplein",wikidata,F,Q345,relation+way
 "Parvis Sainte-Alix - Sinte-Aleidisvoorplein",wikidata,F,Q1860408,relation+way
 "Parvis Sainte-Cécile - Sint-Ceciliavoorplein",wikidata,F,Q80513,relation
-"Parvis Sainte-Gudule - Sint-Goedelevoorplein",wikidata,F,Q267660,way
 "Passage Marguerite Yourcenar - Marguerite Yourcenardoorgang",wikidata,F,Q163118,way
 "Passage Simone Signoret - Simone Signoretdoorgang",wikidata,F,Q106126,way
 "Passerelle Fatima Mernissi - Fatima Mernissiloopbrug",wikidata,F,Q242376,way
@@ -178,7 +177,6 @@ name,source,gender,wikidata,type
 "Allée Omer Dierickx - Omer Dierickxdreef",wikidata,M,Q18225422,way
 "Allée Paul Auguste Masui - Paul Auguste Masuidreef",wikidata,M,Q2366973,way
 "Allée Paul Craps - Paul Crapsdreef",wikidata,M,Q14655027,way
-"Allée Paul M. G. Levy - Paul M. G. Levydreef",wikidata,M,Q3371840,way
 "Allée Paul Ooghe - Paul Ooghedreef",wikidata,M,Q7152828,relation
 "Allée Peyo - Peyodreef",wikidata,M,Q309945,way
 "Allée Philibert Cockx - Philibert Cockxdreef",wikidata,M,Q2450871,way
@@ -290,7 +288,7 @@ name,source,gender,wikidata,type
 "Avenue Docteur Edmond Cordier - Dokter Edmond Cordierlaan",wikidata,M,Q3047789,relation
 "Avenue Docteur Lemoine - Dokter Lemoinelaan",wikidata,M,Q106844497,relation
 "Avenue Docteur Zamenhof - Dokter Zamenhoflaan",wikidata,M,Q11758,relation
-"Avenue Dolez - Dolezlaan",wikidata,M,Q2141152,relation
+"Avenue Dolez - Dolezlaan",wikidata,M,Q2141152,relation+way
 "Avenue Don Bosco - Don Boscolaan",wikidata,M,Q146183,relation
 "Avenue Ducpétiaux - Ducpétiauxlaan",wikidata,M,Q2684331,relation
 "Avenue Échevin Van Muylders - Schepen Van Muylderslaan",wikidata,M,Q90104285,relation
@@ -442,9 +440,10 @@ name,source,gender,wikidata,type
 "Avenue Jean Dubrucq - Jean Dubrucqlaan",wikidata,M,Q2285285,relation+way
 "Avenue Jean Jaurès - Jean Jaurèslaan",wikidata,M,Q12688,relation
 "Avenue Jean Josée - Jean Joséelaan",wikidata,M,Q90719810,relation
-"Avenue Jean Joseph Crocq - Jean Joseph Crocqlaan",wikidata,M,Q3171488,relation+way
+"Avenue Jean Joseph Crocq - Jean Joseph Crocqlaan",wikidata,M,Q3171488,way
 "Avenue Jean Laudy - Jean Laudylaan",wikidata,M,Q4843860,relation
 "Avenue Jean Monnet - Jean Monnetlaan",wikidata,M,Q159700,relation+way
+"Avenue Jean Palfijn - Jean Palfijnlaan",wikidata,M,Q1682107,relation
 "Avenue Jean Palfyn - Jan Palfynlaan",wikidata,M,Q1682107,relation
 "Avenue Jean Roch Collon - Jean Roch Collonlaan",wikidata,M,Q45286272,relation
 "Avenue Jean Sebastien Bach - Johann Sebastian Bachlaan",wikidata,M,Q1339,relation+way
@@ -459,6 +458,7 @@ name,source,gender,wikidata,type
 "Avenue Jean-Baptiste Depaire - Jean-Baptiste Depairelaan",wikidata,M,Q86086166,relation+way
 "Avenue Jean-François Debecker - Jean-François Debeckerlaan",wikidata,M,Q90832971,relation
 "Avenue Jean-François Leemans - Jean-François Leemanslaan",wikidata,M,Q90834772,way
+"Avenue Jean-Joseph Crocq - Jean-Joseph Crocqlaan",wikidata,M,Q3171488,relation
 "Avenue Jef Lambeaux - Jef Lambeauxlaan",wikidata,M,Q2515102,way
 "Avenue Jolé - Jolélaan",wikidata,M,Q90915648;Q90916142,way
 "Avenue Joseph Baeck - Joseph Baecklaan",wikidata,M,Q14632763,relation+way
@@ -695,7 +695,6 @@ name,source,gender,wikidata,type
 "Chemin François Englert",wikidata,M,Q151746,way
 "Chemin François Truffaut - François Truffautweg",wikidata,M,Q53002,way
 "Chemin Henri Storck",wikidata,M,Q2033012,way
-"Chemin Laurence Olivier - Laurence Oliviergaarde",wikidata,M,Q55245,relation
 "Chemin Louise Arbour",wikidata,M,Q6067928,way
 "Chemin Luigi Visconti - Luigi Viscontiweg",wikidata,M,Q3066379,way
 "Chemin Luis Bunuel - Luis Bunuelweg",wikidata,M,Q51545,way
@@ -723,6 +722,7 @@ name,source,gender,wikidata,type
 "Clos Joseph Hanse - Joseph Hanse hof",wikidata,M,Q1707180,relation
 "Clos Joseph Hendrickx - Joseph Hendrickxgaarde",wikidata,M,Q21345695,relation
 "Clos Joseph Otten - Joseph Ottengaarde",wikidata,M,Q92205252,relation
+"Clos Laurence Olivier - Laurence Oliviergaarde",wikidata,M,Q55245,relation
 "Clos Lieutenant-Colonel Louis Bégault - Luitenant-Kolonel Louis Bégaultgaarde",wikidata,M,Q14639327,way
 "Clos Louis Banken - Louis Bankengaarde",wikidata,M,Q92300076,relation
 "Clos Lucien Outers - Lucien Outersgaarde",wikidata,M,Q1967161,relation
@@ -748,7 +748,6 @@ name,source,gender,wikidata,type
 "Espace Baron Paul Halter - Baron Paul Halterplaats",wikidata,M,Q3371421,way
 "Esplanade Jacques Brel - Jacques Brelesplanade",wikidata,M,Q1666,way
 "Esplanade Paul-Henri Spaak - Paul-Henri Spaakvoorplein",wikidata,M,Q155691,way
-"Froebelstraat - Rue Froebel",wikidata,M,Q76679,way
 "Galerie Horta - Hortagalerij",wikidata,M,Q49744,way
 "Impasse Saint Sébastien - Sint-Sebastiaansgang",wikidata,M,Q183332,way
 "Impasse Saint-Jacques - Sint-Jakobsgang",wikidata,M,Q43999,way
@@ -798,10 +797,10 @@ name,source,gender,wikidata,type
 "Place Émile Danco - Émile Dancoplein",wikidata,M,Q3588445,relation
 "Place Émile Vandervelde - Émile Vanderveldeplein",wikidata,M,Q286556,way
 "Place Ernest S'Jonghers - Ernest S'Jonghersplein",wikidata,M,Q85425215,relation
-"Place Eugène Flagey - Eugène Flageyplein",wikidata,M,Q1978611,relation+way
+"Place Eugène Flagey - Eugène Flageyplein",wikidata,M,Q1978611,relation
 "Place Eugène Keym - Eugène Keymplein",wikidata,M,Q18061002,relation+way
 "Place Eugène Simonis - Eugène Simonisplein",wikidata,M,Q585463,relation
-"Place Eugène Verboekhoven - Eugène Verboekhovenplein",wikidata,M,Q1353771,relation
+"Place Eugène Verboekhoven - Eugène Verboekhovenplein",wikidata,M,Q1353771,relation+way
 "Place Félix Govaert - Félix Govaertplein",wikidata,M,Q3092453,way
 "Place Fernand Cocq - Fernand Cocqplein",wikidata,M,Q2218278,relation
 "Place Fontainas - Fontainasplein",wikidata,M,Q2744763,way
@@ -865,14 +864,14 @@ name,source,gender,wikidata,type
 "Place Rolin - Rolinplein",wikidata,M,Q2163086,way
 "Place Rouppe - Rouppeplein",wikidata,M,Q2009106,relation
 "Place Saint-Antoine - Sint-Antoonplein",wikidata,M,Q167477,relation+way
-"Place Saint-Denis - Sint-Denijsplein",wikidata,M,Q244380,relation+way
+"Place Saint-Denis - Sint-Denijsplein",wikidata,M,Q244380,relation
 "Place Saint-Géry - Sint-Goriksplein",wikidata,M,Q585739,way
 "Place Saint-Josse - Sint-Joostplein",wikidata,M,Q1398293,relation+way
 "Place Saint-Lambert - Sint-Lambertusplein",wikidata,M,Q283447,relation+way
 "Place Saint-Lazare - Sint-Lazarusplein",wikidata,M,Q539890,way
 "Place Saint-Nicolas - Sint-Nikolaasplein",wikidata,M,Q44269,relation
 "Place Saint-Pierre - Sint-Pietersplein",wikidata,M,Q33923,relation+way
-"Place Saint-Vincent - Sint-Vincentiusplaats",wikidata,M,Q2462614,relation
+"Place Saint-Vincent - Sint-Vincentiusplaats",wikidata,M,Q2462614,relation+way
 "Place Salvador Allende - Salvador Allendeplein",wikidata,M,Q440,way
 "Place Simon Bolivar - Simon Bolivarplein",wikidata,M,Q8605,way
 "Place Solvay - Solvayplein",wikidata,M,Q311665,relation
@@ -997,7 +996,7 @@ name,source,gender,wikidata,type
 "Rue Auguste Denie - Auguste Deniestraat",wikidata,M,Q93577059,relation
 "Rue Auguste Gevaert - Auguste Gevaertstraat",wikidata,M,Q682376,relation
 "Rue Auguste Hainaut - Auguste Hainautstraat",wikidata,M,Q93577069,relation
-"Rue Auguste Heene - Auguste Heenestraat",wikidata,M,Q93577073,way
+"Rue Auguste Heene - Auguste Heenestraat",wikidata,M,Q93577073,relation
 "Rue Auguste Lambiotte - Auguste Lambiottestraat",wikidata,M,Q11309738,relation
 "Rue Auguste Lumière - Auguste Lumièrestraat",wikidata,M,Q4272245,relation
 "Rue Auguste Orts - Auguste Ortsstraat",wikidata,M,Q2871354,relation
@@ -1276,6 +1275,7 @@ name,source,gender,wikidata,type
 "Rue Frère-Orban - Frère-Orbanstraat",wikidata,M,Q705791,relation
 "Rue Fridtjof Nansen - Fridtjof Nansenstraat",wikidata,M,Q72292,relation
 "Rue Fritz Toussaint - Fritz Toussaintstraat",wikidata,M,Q1843789,relation
+"Rue Froebel - Froebelstraat",wikidata,M,Q76679,way
 "Rue Froissart - Froissartstraat",wikidata,M,Q315000,relation
 "Rue Fulton - Fultonstraat",wikidata,M,Q192496,relation
 "Rue Gachard - Gachardstraat",wikidata,M,Q551746,relation
@@ -1381,6 +1381,7 @@ name,source,gender,wikidata,type
 "Rue Herman Richir - Herman Richirstraat",wikidata,M,Q3134084,relation
 "Rue Herrewege - Herrewegestraat",wikidata,M,Q168039,relation
 "Rue Heyvaert - Heyvaertstraat",wikidata,M,Q2127657,relation
+"Rue Hippolyte Vervack - Hippolyte Vervackstraat",wikidata,M,Q93577073,relation
 "Rue Hobbema - Hobbemastraat",wikidata,M,Q336908,relation
 "Rue Homère - Homerusstraat",wikidata,M,Q6691,relation
 "Rue Hoorickx - Hoorickxstraat",wikidata,M,Q106917408,relation
@@ -1462,7 +1463,7 @@ name,source,gender,wikidata,type
 "Rue Jules Lebrun - Jules Lebrunstraat",wikidata,M,Q86831392,relation
 "Rue Jules Lejeune - Jules Lejeunestraat",wikidata,M,Q85427108,way
 "Rue Jules Ruhl - Jules Ruhlstraat",wikidata,M,Q105597970,relation
-"Rue Jules Van Praet - Jules van Praetstraat",wikidata,M,Q3070531,way
+"Rue Jules Van Praet - Jules Van Praetstraat",wikidata,M,Q3070531,way
 "Rue Julius Hoste - Julius Hostestraat",wikidata,M,Q2184644,relation
 "Rue Juste Lipse - Justus Lipsiusstraat",wikidata,M,Q315871,relation
 "Rue Karel Mertens - Karel Mertensstraat",wikidata,M,Q95353284,relation
@@ -1740,6 +1741,7 @@ name,source,gender,wikidata,type
 "Rue Verheyleweghen - Verheyleweghenstraat",wikidata,M,Q3372356,relation
 "Rue Verhulst - Verhulststraat",wikidata,M,Q106936356,relation
 "Rue Véronèse - Veronesestraat",wikidata,M,Q9440,relation
+"Rue Vervloesem - Vervloesemstraat",csv+wikidata,M,Q110360005,relation+way
 "Rue Verwée - Verwéestraat",wikidata,M,Q2835508,way
 "Rue Vésale - Vesaliusstraat",wikidata,M,Q170267,way
 "Rue Veydt - Veydtstraat",wikidata,M,Q85436592,way
@@ -1757,6 +1759,7 @@ name,source,gender,wikidata,type
 "Rue Vonck - Vonckstraat",wikidata,M,Q1357793,relation
 "Rue Vondel - Vondelstraat",wikidata,M,Q312673,relation
 "Rue Walckiers - Walckiersstraat",wikidata,M,Q3580087,relation
+"Rue Walkiers - Walkiersstraat",wikidata,M,Q3580087,relation
 "Rue Wappers - Wappersstraat",wikidata,M,Q727869,relation
 "Rue Washington - Washingtonstraat",wikidata,M,Q23,way
 "Rue Watteeu - Watteeustraat",wikidata,M,Q18655405,relation
@@ -1765,7 +1768,7 @@ name,source,gender,wikidata,type
 "Rue Wéry - Wérystraat",wikidata,M,Q4107813,relation
 "Rue Wiertz - Wiertzstraat",wikidata,M,Q352978,relation+way
 "Rue Willebrord Van Perck - Willebrord Van Perckstraat",wikidata,M,Q94722641,relation
-"Rue Willem De Mol - Willem De Molstraat",wikidata,M,Q3568359,relation
+"Rue Willem De Mol - Willem De Molstraat",wikidata,M,Q3568359,relation+way
 "Rue Willem Kuhnen - Willem Kuhnenstraat",wikidata,M,Q94722753,relation
 "Rue Willems - Willemsstraat",wikidata,M,Q3271470,relation
 "Rue William Degouve de Nuncques - William Degouve de Nuncquesstraat",wikidata,M,Q1049510,relation
@@ -1952,7 +1955,6 @@ name,source,gender,wikidata,type
 "Rue Henri Meuwis - Henri Meuwisstraat",csv,M,,relation
 "Rue Henri Nogent - Henri Nogentstraat",csv,M,,relation
 "Rue Henri Van Antwerpen - Henri Van Antwerpenstraat",csv,M,,way
-"Rue Henri Van Bortonne - Henri Van Bortonnestraat",csv,M,,relation
 "Rue Henri Van Hamme - Hendrik Van Hammestraat",csv,M,,relation
 "Rue Henri Van Zuylen - Henri Van Zuylenstraat",csv,M,,relation
 "Rue Henri Vandermaelen - Henri Vandermaelenstraat",csv,M,,relation
@@ -2121,7 +2123,6 @@ name,source,gender,wikidata,type
 "Rue Sergent Sorensen - Sergeant Sorensenstraat",csv,M,,relation+way
 "Rue Stanislas Legrelle - Stanislas Legrellestraat",csv,M,,relation
 "Rue Steens - Steensstraat",csv,M,,way
-"Rue Sterckx - Sterckxstraat",csv,M,,way
 "Rue Tazieaux - Tazieauxstraat",csv,M,,relation
 "Rue Timmermans - Timmermansstraat",csv,M,,way
 "Rue Ulens - Ulensstraat",csv,M,,relation
@@ -2142,7 +2143,6 @@ name,source,gender,wikidata,type
 "Rue Vautier - Vautierstraat",csv,M,,relation
 "Rue Verboeckhaven - Verboeckhavenstraat",csv,M,,relation
 "Rue Verheyden - Verheydenstraat",csv,M,,relation+way
-"Rue Vervloesem - Vervloesemstraat",csv,M,,relation+way
 "Rue Victor Gambier - Victor Gambierstraat",csv,M,,way
 "Rue Victor Lowet - Victor Lowetstraat",csv,M,,relation+way
 "Rue Victor Mabille - Victor Mabillestraat",csv,M,,relation
