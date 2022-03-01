@@ -177,6 +177,7 @@ name,source,gender,wikidata,type
 "Allée Omer Dierickx - Omer Dierickxdreef",wikidata,M,Q18225422,way
 "Allée Paul Auguste Masui - Paul Auguste Masuidreef",wikidata,M,Q2366973,way
 "Allée Paul Craps - Paul Crapsdreef",wikidata,M,Q14655027,way
+"Allée Paul M. G. Levy - Paul M. G. Levydreef",wikidata,M,Q3371840,way
 "Allée Paul Ooghe - Paul Ooghedreef",wikidata,M,Q7152828,relation
 "Allée Peyo - Peyodreef",wikidata,M,Q309945,way
 "Allée Philibert Cockx - Philibert Cockxdreef",wikidata,M,Q2450871,way
@@ -779,6 +780,7 @@ name,source,gender,wikidata,type
 "Place Antoine Gilson - Antoine Gilsonplein",wikidata,M,Q92383828,way
 "Place Arthur Van Gehuchten - Arthur Van Gehuchtenplein",wikidata,M,Q2865369,relation
 "Place Bara - Baraplein",wikidata,M,Q350861,relation+way
+"Place Bichon - Bichonplein",wikidata,M,Q110899203,way
 "Place Bizet - Bizetplein",wikidata,M,Q56158,relation+way
 "Place Cardinal Mercier - Kardinaal Mercierplein",wikidata,M,Q468097,relation+way
 "Place Charles Graux - Charles Grauxplein",wikidata,M,Q472511,way
@@ -1287,7 +1289,7 @@ name,source,gender,wikidata,type
 "Rue Geefs - Geefsstraat",wikidata,M,Q3090303,way
 "Rue Gendebien - Gendebienstraat",wikidata,M,Q693047,relation
 "Rue Général Biebuyck - Generaal Biebuyckstraat",wikidata,M,Q57778922,relation
-"Rue Général Capiaumont - Generaal Capiaumontstraat",wikidata,M,Q85429793,relation
+"Rue Général Capiaumont - Generaal Capiaumontstraat",wikidata,M,Q27897973,relation
 "Rue Général Eenens - Generaal Eenensstraat",wikidata,M,Q2834436,relation
 "Rue Général Fivé - Generaal Fivéstraat",wikidata,M,Q96358490,relation
 "Rue Général Gratry - Generaal Gratrystraat",wikidata,M,Q96358529,relation
