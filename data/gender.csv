@@ -96,7 +96,6 @@ name,source,gender,wikidata,type
 "Rue Christine - Kristinastraat",wikidata,F,Q167439,relation
 "Rue Clémentine - Clementinestraat",wikidata,F,Q261129,relation
 "Rue Edith Cavell - Edith Cavellstraat",wikidata,F,Q237564,way
-"Rue Eliane Vogel-Polsky - Eliane Vogel-Polskystraat",wikidata,F,Q50348436,way
 "Rue Élise - Elizastraat",wikidata,F,Q89490193,relation
 "Rue Fernande Volral - Fernande Volralstraat",wikidata,F,Q16262717,relation
 "Rue Gabrielle Petit - Gabrielle Petitstraat",wikidata,F,Q468263,relation
@@ -687,6 +686,7 @@ name,source,gender,wikidata,type
 "Carrefour Jean Monnet - Jean Monnet Kruispunt",wikidata,M,Q159700,way
 "Carrefour de Sélys Longchamps - de Sélis Longchampskruispunt",wikidata,M,Q2198309,way
 "Chaussée Saint-Pierre - Sint-Pieterssteenweg",wikidata,M,Q33923,relation+way
+"Chaussée de La Hulpe - Terhulpsesteenweg",wikidata,M,Q8007,way
 "Chemin Ahmet Insel",wikidata,M,Q6067928,way
 "Chemin Alfred Hitchcock - Alfred Hitchcockweg",wikidata,M,Q7374,way
 "Chemin Bourvil - Bourvilweg",wikidata,M,Q2750,way
@@ -1440,6 +1440,7 @@ name,source,gender,wikidata,type
 "Rue Jolly - Jollystraat",wikidata,M,Q519977,relation
 "Rue Joseph Aernaut - Joseph Aernautstraat",wikidata,M,Q55770532,relation
 "Rue Joseph Brand - Joseph Brandstraat",wikidata,M,Q106937754,relation
+"Rue Joseph Buedts - Joseph Buedtsstraat",wikidata,M,Q111325129,relation
 "Rue Joseph Coosemans - Joseph Coosemansstraat",wikidata,M,Q3184785,relation
 "Rue Joseph Diongre - Joseph Diongrestraat",wikidata,M,Q2472963,relation+way
 "Rue Joseph Dujardin - Joseph Dujardinstraat",wikidata,M,Q15304186,relation
@@ -1879,6 +1880,7 @@ name,source,gender,wikidata,type
 "Square Vergote - Vergoteplein",wikidata,M,Q2124063,relation
 "Square Victor Voets - Victor Voetssquare",wikidata,M,Q41795553,relation
 "Square de Meeûs - de Meeûssquare",wikidata,M,Q2440073,relation
+"Square du Roi Baudouin - Koning Boudewijnplein",wikidata,M,Q12976,way
 "Tunnel Belliard - Belliardtunnel",wikidata,M,Q767534,way
 "Tunnel Léopold II - Leopold II-tunnel",wikidata,M,Q12967,way
 "Tunnel Montgomery - Montgomerytunnel",wikidata,M,Q152025,way
@@ -1892,7 +1894,7 @@ name,source,gender,wikidata,type
 "Venelle Victor Bourgeois - Victor Bourgeoissteeg",wikidata,M,Q291159,relation
 "Venelle Vivaldi - Vivaldisteeg",wikidata,M,Q1340,relation
 "Venelle de l'Alchimiste - Alchemiststeeg",wikidata,M,Q294169,relation+way
-"Rue Willy De Bruyn - Willy De Bruynstraat",wikidata,MX,Q15807938,way
+"Rue Willy De Bruyn - Willy De Bruynstraat",wikidata,MX,Q15807938,relation
 "Place Van Meyel - Van Meyelplein",csv,+,,relation
 "Rue Buchholtz - Buchholtzstraat",csv,+,,relation
 "Rue Vandenhoven - Vandenhovenstraat",csv,+,,relation
@@ -2011,7 +2013,6 @@ name,source,gender,wikidata,type
 "Rue Jonniaux - Jonniauxstraat",csv,M,,relation
 "Rue Jorez - Jorezstraat",csv,M,,relation
 "Rue Joseph Bens - Joseph Bensstraat",csv,M,,way
-"Rue Joseph Buedts - Joseph Buedtsstraat",csv,M,,relation
 "Rue Joseph Claes - Joseph Claesstraat",csv,M,,way
 "Rue Joseph Cuylits - Joseph Cuylitsstraat",csv,M,,way
 "Rue Joseph Dekeyn - Joseph Dekeynstraat",csv,M,,relation

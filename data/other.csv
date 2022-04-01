@@ -82,7 +82,7 @@ Alsembergsesteenweg,wikidata,,Q661993,way
 "Chaussée de Jette - Jetse Steenweg",wikidata,,Q241918,relation+way
 "Chaussée de Jette - Jetsesteenweg",wikidata,,Q241918,relation
 "Chaussée de Louvain - Leuvense Steenweg",wikidata,,Q118958,way
-"Chaussée de Louvain - Leuvense Steenweg/Leuvensesteenweg",wikidata,,Q118958,way
+"Chaussée de Louvain - Leuvense Steenweg / Chaussée de Louvain - Leuvensesteenweg",wikidata,,Q118958,way
 "Chaussée de Louvain - Leuvensesteenweg",wikidata,,Q118958,relation+way
 "Chaussée de Louvain - Steenweg op Leuven",wikidata,,Q118958,relation
 "Chaussée de Mons - Bergense Steenweg",wikidata,,Q83407,relation+way
@@ -174,6 +174,7 @@ Alsembergsesteenweg,wikidata,,Q661993,way
 "Quai de Veeweyde - Veeweidekaai",wikidata,,Q690493,relation+way
 "Rond Point Bischoffchem - Rond Plein Bischoffchem",wikidata,,Q15895593,way
 "Rond-Point Boule et Bill - Bollie en Billierotonde",wikidata,,Q59991,way
+"Rond-point du Tibet - Tibetrondpunt",wikidata,,Q17269,way
 "Rue Ducale - Hertogstraat",wikidata,,Q166886,relation
 "Rue Guillaume Tell - Willem Tellstraat",wikidata,,Q30908,relation+way
 "Rue Middelbourg - Middelburgstraat",wikidata,,Q52101,way
@@ -219,6 +220,7 @@ Alsembergsesteenweg,wikidata,,Q661993,way
 "Rue des Ellébores - Kerstrozenstraat",wikidata,,Q147834,way
 "Rue des Entrepôts - Stapelhuizenstraat",wikidata,,Q1362225,way
 "Rue des Faisans - Fazantenstraat",wikidata,,Q214169,relation+way
+"Rue des Kuulkappers - Kuulkappersstraat",wikidata,,Q109910775,way
 "Rue des Ménages - Huishoudensstraat",wikidata,,Q259059,relation
 "Rue des Œillets - Anjelierenstraat",wikidata,,Q3237652,relation
 "Rue des Potiers - Pottenbakkersstraat",wikidata,,Q3400050,relation
@@ -247,6 +249,7 @@ Alsembergsesteenweg,wikidata,,Q661993,way
 "Square de Noville - Novillesquare",wikidata,,Q3247695,relation
 "Square de la Madelon - Madelonsquare",wikidata,,Q88584349,relation
 "Square des Bruxellois - Brusselaarsplein",wikidata,,Q108143111,way
+"Square du Bois - Bossquare",wikidata,,Q3241565,way
 "Square du Solbosch - Solbossquare",wikidata,,Q3280691,relation+way
 "Square du Vieux Tilleul - Oude-Lindesquare",wikidata,,Q107294142,relation+way
 "Steenweg op Ruisbroek - Chaussée de Ruisbroek",wikidata,,Q1993738,way
@@ -663,7 +666,7 @@ Antwerpselaan,,,,way
 "Avenue des Dix Arpents - Tiendagwandlaan",,,,relation
 "Avenue des Droits de l'Homme - Mensenrechtenlaan",,,,relation
 "Avenue des Dryades - Bosnimfenlaan",,,,way
-"Avenue des Ebéniers - Ebbebomenlaan",,,,relation+way
+"Avenue des Ébéniers - Ebbebomenlaan",,,,relation
 "Avenue des Edelweiss - Edelweisslaan",,,,relation
 "Avenue des Églantiers - Wilderozelaarslaan",,,,relation
 "Avenue des Églantines - Eglantierenlaan",,,,relation
@@ -690,7 +693,7 @@ Antwerpselaan,,,,way
 "Avenue des Héliotropes - Heliotropenlaan",,,,relation
 "Avenue des Héros - Heldenlaan",,,,way
 "Avenue des Hespérides - Hesperidenlaan",,,,way
-"Avenue des Hêtres pourpres - Puperbeukenlaan",,,,way
+"Avenue des Hêtres pourpres - Purperbeukenlaan",,,,way
 "Avenue des Hospices - Godshuizenlaan",,,,way
 "Avenue des Huileries - Olieslagerijlaan",,,,relation
 "Avenue des Îles d'Or - Goudeneilandenlaan",,,,way
@@ -988,7 +991,6 @@ Cauter,,,,relation
 "Chaussée de Haecht - Haachtse Steenweg",,,,relation
 "Chaussée de Haecht - Haachtsesteenweg",,,,relation+way
 "Chaussée de Helmet - Helmetsesteenweg",,,,relation
-"Chaussée de La Hulpe - Terhulpsesteenweg",,,,way
 "Chaussée de Merchtem - Steenweg op Merchtem",,,,relation
 "Chaussée de Mont-Saint-Jean - Sint-Jansbergsteenweg",,,,way
 "Chaussée de Mont-Saint-Jean - Steenweg op Sint-Jansberg",,,,way
@@ -1036,6 +1038,7 @@ Cauter,,,,relation
 "Chemin de l'Idéal - Ideaalpad",,,,way
 "Chemin de l'Ombre - Lommerweg",,,,way
 "Chemin de la Belladone - Belladonnaweg",,,,way
+"Chemin de la Cabine",,,,way
 "Chemin de la Cascade - Weg naar de Waterval",,,,way
 "Chemin de la Crète - Kimweg",,,,relation
 "Chemin de la Dame d'Onze Heures - Elfurenvrouwweg",,,,way
@@ -1070,9 +1073,11 @@ Cauter,,,,relation
 "Chemin des Joubarbes - Huislokenweg",,,,way
 "Chemin des Lucioles - Glimwormenweg",,,,way
 "Chemin des Machinistes - Machinistenweg",,,,way
+"Chemin des Merles - Merelspad",,,,way
 "Chemin des Mimules - Maskerbloemenweg",,,,way
 "Chemin des Moutons - Schapenweg",,,,way
 "Chemin des Myrtilles - Bosbessenweg",,,,way
+"Chemin des Noctules - Vleermuizenpad",,,,way
 "Chemin des Oiseleurs - Vogelvangersweg",,,,way
 "Chemin des Ours - Berenweg",,,,way
 "Chemin des Patineurs - Schaatsersweg",,,,way
@@ -1267,6 +1272,7 @@ Donderberg,,,,relation
 "Drève Olympique - Olympische Dreef",,,,relation+way
 "Drève Pittoresque - Schilderachtige dreef",,,,relation
 "Drève Van Kerm - Van Kermdreef",,,,way
+"Drève aux Herbes - Grasdreef",,,,way
 "Drève d'Anjou - Anjoudreef",,,,relation
 "Drève de Boendael - Boendaaldreef",,,,way
 "Drève de Bonne-Odeur - Willeriekendreef",,,,way
@@ -1336,6 +1342,7 @@ Donderberg,,,,relation
 "Drève du Sénéchal - Landvoogddreef",,,,way
 "Drève du Tambour - Tamboerdreef",,,,way
 "Drève du Tastevin - Tastevindreef",,,,relation+way
+"Drève du Tir aux Pigeons - Duivenscheutingweg",,,,way
 Dries,,,,way
 Duivenschietweg,,,,way
 "Eden City",,,,way
@@ -1509,6 +1516,13 @@ Pachthoevestraat,,,,way
 "Petite rue du Moulin - Korte Molenstraat",,,,relation
 "Petite rue du Musée - Korte Museumstraat",,,,way
 "Petite rue du Nord - Korte Noordstraat",,,,relation
+"Piste cavalière Hendrickx - Hendrickxruiterspad",,,,way
+"Piste cavalière de Bonne-Odeur - Wellriekenderuiterspad",,,,way
+"Piste cavalière de Velleda - Velledaruiterspad",,,,way
+"Piste cavalière des Bonniers - Bundersruiterspad",,,,way
+"Piste cavalière des Merles - Merelsruiterspad",,,,way
+"Piste cavalière des Noctules - Vleermuizenruiterspad",,,,way
+"Piste cavalière des Ours - Berensruiterspad",,,,way
 "Piste finlandaise - Finse piste",,,,way
 "Place Basse - Laagplein",,,,way
 "Place Communale - Gemeenteplaats",,,,relation
@@ -1630,6 +1644,7 @@ Plattesteen,,,,way
 "Porte du Rivage - Oeverpoort",,,,way
 "Potaardestraat - Rue d'Argile",,,,way
 "Promenade P. L. Vrijdags - P. L. Vrijdagsvandelweg",,,,way
+"Promenade Verte - Groene Wandeling",,,,way
 "Promenade de l'Alma - Almawandeling",,,,relation+way
 "Promenade du Chemin de fer - Spoorwegwandeling",,,,way
 "Putterie - Putterij",,,,way
@@ -1735,11 +1750,13 @@ Roeierspad,,,,way
 "Rue Edouard Michiels - Edouard Michielsstraat",,,,way
 "Rue Égide Van Ophem - Égide Van Ophemstraat",,,,way
 "Rue Eigenhuis - Eigenhuisstraat",,,,way
+"Rue Eliane Vogel-Polsky - Eliane Vogel-Polskystraat",,,,relation
 "Rue Eloy - Eloystraat",,,,relation+way
 "Rue Emile Van Overstraeten - Emile Van Overstraetenstraat",,,,relation
 "Rue Engeland - Engelandstraat",,,,way
 "Rue Esseghem - Esseghemstraat",,,,relation+way
 "Rue Euterpe - Euterpestraat",,,,relation
+"Rue Fernand Gillion - Fernand Gillionstraat",,,,relation
 "Rue Fin - Finstraat",,,,relation
 "Rue Fons Vande Maele - Fons Vande Maelestraat",,,,way
 "Rue Fonson - Fonsonstraat",,,,relation
@@ -2997,7 +3014,7 @@ Roeierspad,,,,way
 "Rue du Remorqueur - Stoomslepersstraat",,,,relation
 "Rue du Rempart des Moines - Papenvest",,,,way
 "Rue du Repos - Ruststraat",,,,relation
-"Rue du Roetaert - Roetaertstraat",,,,way
+"Rue du Roetaert - Roetaertstraat",,,,relation
 "Rue du Roitelet - Winterkoninkjestraat",,,,way
 "Rue du Roman - Romanstraat",,,,relation
 "Rue du Romarin - Rosmarijnstraat",,,,relation
@@ -3071,9 +3088,12 @@ Schaarbeeklei,,,,way
 "Schapenweg - Chemin des Moutons",,,,way
 Schoolgat,,,,relation
 "Sentier 116 - Voetweg 116",,,,way
+"Sentier Decroly",,,,way
 "Sentier Melati - Melatipad",,,,way
+"Sentier d'Auderghem - Oudergempad",,,,way
 "Sentier d'Auderghem - Oudergemvoetpad",,,,way
 "Sentier de Grasdelle - Grasdellepad",,,,way
+"Sentier de Trene Kadol - Trene Kadolpad",,,,way
 "Sentier de Waterloo - Waterloopad",,,,way
 "Sentier de l'Améthyste - Amethistpad",,,,way
 "Sentier de l'Élagueur - Snoeierspad",,,,way
@@ -3086,7 +3106,6 @@ Schoolgat,,,,relation
 "Sentier de la Fontaine - Fonteinpad",,,,way
 "Sentier de la Glaisière - Kleemputpad",,,,way
 "Sentier de la Marjolaine - Marjoleinpad",,,,way
-"Sentier de la Pépinière - Kwekerijpad",,,,way
 "Sentier de la Renarde - Moervospad",,,,way
 "Sentier de la Source Laineuse - Wollenborrepad",,,,way
 "Sentier de la Turquoise - Turkooispad",,,,way
@@ -3100,8 +3119,8 @@ Schoolgat,,,,relation
 "Sentier des Églantiers - Egelantierpad",,,,way
 "Sentier des Endymions - Boshyacintenvoetpad",,,,way
 "Sentier des Fougères - Varensvoetpad",,,,way
+"Sentier des Maianthèmes - Dalkruidenpad",,,,way
 "Sentier des Maraudeurs - Plunderaarspad",,,,way
-"Sentier des Merles - Merelspad",,,,way
 "Sentier des Mésanges - Mezenpad",,,,way
 "Sentier des Muguets - Meibloemenvoetpad",,,,way
 "Sentier des Muscardins - Hazelmuizenpad",,,,way
@@ -3121,6 +3140,7 @@ Schoolgat,,,,relation
 "Sentier du Broek - Broekweg",,,,relation+way
 "Sentier du Caudael - Caudaelvoetpad",,,,way
 "Sentier du Chien de Berger - Herdershondweg",,,,way
+"Sentier du Clos des Chênes - Eikhovevoetpad",,,,way
 "Sentier du Cocker - Cockerweg",,,,way
 "Sentier du Cortenbach - Cortenbachpad",,,,way
 "Sentier du Crabbegat - Crabbegatpad",,,,way
@@ -3129,9 +3149,9 @@ Schoolgat,,,,relation
 "Sentier du Lévrier - Windhondweg",,,,way
 "Sentier du Martin Pêcheur - IJsvogelvoetpad",,,,way
 "Sentier du Moulin à eau - Watermolenpad",,,,way
+"Sentier du Pavillon - Pavilloenpad",,,,way
 "Sentier du Pèlerin - Pelgrimspad",,,,way
 "Sentier du Setter - Setterweg",,,,way
-"Sentier du Vallon des Chênes - Eikendalpad",,,,way
 "Sentier du Vallon des Chênes - Eikendalvoetpad",,,,way
 "Sentier du Verger - Boomgaardpad",,,,relation
 "Sentier du Vuylbeek - Vuilbeekpad",,,,way
@@ -3139,6 +3159,7 @@ Schoolgat,,,,relation
 "Sentier du Zircon - Zirkoonpad",,,,way
 "Sentier du pèlerin - Pelgrimspad",,,,way
 Seringenstraat,,,,relation
+Sluipdelleweg,,,,way
 Sparrenweg,,,,way
 "Square Alexandre - Alexandreplein",,,,way
 "Square Atlas - Atlasplein",,,,way
