@@ -44,6 +44,7 @@ Alsembergsesteenweg,wikidata,,Q661993,way
 "Avenue de Tervueren - Tervurenlaan",wikidata,,Q456544,relation+way
 "Avenue de Visé - Visélaan",wikidata,,Q49743,way
 "Avenue de Woluwé Saint-Lambert - Sint-Lambrechts Woluwelaan",wikidata,,Q211764,relation+way
+"Avenue de l'Hélianthe - Zonnebloemlaan",wikidata,,Q26949,relation
 "Avenue de l'Hippodrome - Renbaanlaan",wikidata,,Q2419360,relation+way
 "Avenue de l'Yser - IJzerlaan",wikidata,,Q217061,relation+way
 "Avenue de la Brabançonne - Brabançonnelaan",wikidata,,Q161539,relation+way
@@ -152,7 +153,7 @@ Alsembergsesteenweg,wikidata,,Q661993,way
 "Place de la Forêt Noire - Zwarte Woudplein",wikidata,,Q4204,way
 "Place de la Liberté - Vrijheidsplein",wikidata,,Q2979,relation+way
 "Place de la Monnaie - Muntplein",wikidata,,Q464780,relation
-"Place de la Musique - Muziekplein",wikidata,,Q638,way
+"Place de la Musique - Muziekplein",wikidata,,Q638,relation
 "Place de la Paix - Vredeplein",wikidata,,Q454,relation+way
 "Place de la Reine - Koninginneplein",wikidata,,Q19643,way
 "Place des Chasseurs Ardennais - Ardense Jagersplein",wikidata,,Q893039,way
@@ -202,6 +203,7 @@ Alsembergsesteenweg,wikidata,,Q661993,way
 "Rue de Spa - Spastraat",wikidata,,Q39865,relation+way
 "Rue de Toulouse - Toulousestraat",wikidata,,Q7880,relation+way
 "Rue de Trèves - Trierstraat",wikidata,,Q3138,relation+way
+"Rue de l'Amigo - Vruntstraat",wikidata,,Q79942014,relation
 "Rue de l'Écuyer - Schildknaapsstraat",wikidata,,Q579516,way
 "Rue de l'Élan - Elandstraat",wikidata,,Q35517,relation
 "Rue de l'Éléphant - Olifantstraat",wikidata,,Q7378,relation
@@ -492,7 +494,6 @@ Antwerpselaan,,,,way
 "Avenue de l'Exposition - Tentoonstellingslaan",,,,relation
 "Avenue de l'Exposition Universelle - Wereldtentoonstellingslaan",,,,relation+way
 "Avenue de l'Expressionnisme - Expressionnismelaan",,,,way
-"Avenue de l'Hélianthe - Zonnebloemlaan",,,,way
 "Avenue de l'Hélice - Schroeflaan",,,,relation
 "Avenue de l'Héliport - Helihavenlaan",,,,relation
 "Avenue de l'Hermine - Hermelijnlaan",,,,way
@@ -983,7 +984,7 @@ Cauter,,,,relation
 "Chaussée de Bruxelles - Brusselse Steenweg",,,,way
 "Chaussée de Buda - Budasesteenweg",,,,relation
 "Chaussée de Dieleghem - Dieleghemse Steenweg",,,,relation
-"Chaussée de Drogenbos - Drogenbossesteenweg",,,,way
+"Chaussée de Drogenbos - Drogenbossesteenweg",,,,relation+way
 "Chaussée de Forest - Vorstse Steenweg",,,,relation
 "Chaussée de Forest - Vorstsesteenweg",,,,relation+way
 "Chaussée de Gand - Gentsesteenweg",,,,relation+way
@@ -1122,7 +1123,7 @@ Cauter,,,,relation
 "Chemin du Pont Rustique - Boerenbrugweg",,,,way
 "Chemin du Pont du Diable - Duivelsbrugweg",,,,way
 "Chemin du Pourpier - Posteleinweg",,,,relation
-"Chemin du Puits - Borreweg",,,,way
+"Chemin du Puits - Borreweg",,,,relation
 "Chemin du Putdael - Putdaelweg",,,,relation+way
 "Chemin du Réservoir - Vergaarbakweg",,,,way
 "Chemin du Rossignol - Nachtegaalsweg",,,,relation
@@ -1351,6 +1352,7 @@ Duivenschietweg,,,,way
 "Escaliers des Minimes - Minimentrap",,,,way
 Esplanade,,,,relation+way
 "Esplanade de l'Europe - Europaesplanade",,,,relation+way
+F28,,,,way
 "Fond de vallée - Beneden in het dal",,,,way
 "Font Saint Landry - Sint Lendriksborre",,,,relation
 GR,,,,way
@@ -1421,6 +1423,7 @@ Hunderenveld,,,,relation
 "Impasse du Pré - Weidegang",,,,relation
 "Impasse du Rempart du Nord - Noordveststeeg",,,,way
 "Impasse du Renard - Vossengang",,,,way
+"Impasse du Réveil - Wekkergang",,,,way
 "Impasse du Roulier - Voermansgang",,,,way
 "Impasse du Val des Roses - Rozendaal",,,,relation
 Jagersveld,,,,way
@@ -1523,7 +1526,7 @@ Pachthoevestraat,,,,way
 "Piste cavalière des Merles - Merelsruiterspad",,,,way
 "Piste cavalière des Noctules - Vleermuizenruiterspad",,,,way
 "Piste cavalière des Ours - Berensruiterspad",,,,way
-"Piste finlandaise - Finse piste",,,,way
+"Piste cyclable de Bonne-Odeur - Wellriekendefietspad",,,,way
 "Place Basse - Laagplein",,,,way
 "Place Communale - Gemeenteplaats",,,,relation
 "Place Communale - Gemeenteplein",,,,way
@@ -1538,7 +1541,7 @@ Pachthoevestraat,,,,way
 "Place Terdelt - Terdeltplein",,,,relation+way
 "Place Van Hoegaerde - Van Hoegaerdeplein",,,,relation
 "Place de Bastogne - Bastenakenplein",,,,relation+way
-"Place de Belgique - Belgieplein",,,,relation
+"Place de Belgique - Belgieplein",,,,relation+way
 "Place de Bethléem - Bethlehemplein",,,,way
 "Place de Helmet - Helmetseplein",,,,relation
 "Place de Houffalize - Houffalizeplein",,,,relation
@@ -1636,6 +1639,7 @@ Pachthoevestraat,,,,way
 Plattesteen,,,,way
 "Pont des Hospices - Godshuizenbrug",,,,way
 "Pont du Cerf - Hertbrugge",,,,relation
+"Pont du Jardin Alpin - Brug van de Alpentuin",,,,way
 "Porte d'Anderlecht - Anderlechtsepoort",,,,way
 "Porte d'Anvers - Antwerpsepoort",,,,way
 "Porte d’Anvers - Antwerpsepoort",,,,way
@@ -1661,8 +1665,7 @@ Plattesteen,,,,way
 "Quai de Mariemont - Mariemontkaai",,,,relation+way
 "Quai de Willebroeck - Willebroekkaai",,,,relation
 "Quai de l'Industrie - Nijverheidskaai",,,,relation+way
-"Quai de la Voirie - Ruimingskaai",,,,way
-"Quai des Armateurs - Rederskaai",,,,way
+"Quai de la Voirie - Ruimingskaai",,,,relation
 "Quai des Charbonnages - Koolmijnenkaai",,,,relation
 "Quai des Péniches - Akenkaai",,,,relation
 "Quai des Usines - Werkhuizenkaai",,,,relation+way
@@ -2082,7 +2085,6 @@ Roeierspad,,,,way
 "Rue de l'Amazone - Amazonestraat",,,,way
 "Rue de l'Amblève - Amblèvestraat",,,,relation
 "Rue de l'Améthyste - Amethiststraat",,,,relation+way
-"Rue de l'Amigo - Vruntstraat",,,,relation
 "Rue de l'Ancien Presbytère - Oude Pastoriestraat",,,,relation
 "Rue de l'Ancienne Cure - Oude Pastoriestraat",,,,relation
 "Rue de l'Ancienne Gare - Oudstationstraat",,,,way
@@ -2943,7 +2945,7 @@ Roeierspad,,,,way
 "Rue du Millefeuille - Duizendbladstraat",,,,way
 "Rue du Ministre - Ministerstraat",,,,way
 "Rue du Miroir - Spiegelstraat",,,,way
-"Rue du Molenblok - Molenblokstraat",,,,relation
+"Rue du Molenblok - Molenblokstraat",,,,relation+way
 "Rue du Monastère - Munsterstraat",,,,way
 "Rue du Moniteur - Staatsbladsstraat",,,,relation
 "Rue du Mont Saint-Alban - Sint-Albaansbergstraat",,,,relation+way
@@ -3268,12 +3270,10 @@ Vaartkant-Oost,,,,way
 "Vieille Rue du Moulin - Oude Molenstraat",,,,way
 "Vieux Chemin - Oude Weg",,,,way
 "Vieux Marché aux Grains - Oude Graanmarkt",,,,way
-"Voermansgang - Impasse du Roulier",,,,way
 "Voie 1 - Spoor 1",,,,way
 "Voie 2 - Spoor 2",,,,way
 "Waterloopad - Sentier de Waterloo",,,,way
 "Watermael Shopping",,,,way
-"Wekkergang - Impasse du Réveil",,,,way
 Windmolenberg,,,,relation
 Woluwepad,,,,way
 "Zwarte Pijnbomenlaan",,,,way
