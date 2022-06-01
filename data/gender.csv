@@ -21,7 +21,7 @@ name,source,gender,wikidata,type
 "Avenue Ginette Javaux - Ginette Javauxlaan",wikidata,F,Q3106728,relation
 "Avenue Impératrice Charlotte - Keizerin Charlottelaan",wikidata,F,Q154971,relation+way
 "Avenue Jacqueline Harpman - Jacqueline Harpmanlaan",wikidata,F,Q371922,way
-"Avenue Louise - Louizalaan",wikidata,F,Q237318,way
+"Avenue Louise - Louizalaan",wikidata,F,Q237318,relation+way
 "Avenue Marguerite Yourcenar - Marguerite Yourcenarlaan",wikidata,F,Q163118,relation
 "Avenue Marie de Hongrie - Maria van Hongarijelaan",wikidata,F,Q157077,relation+way
 "Avenue Marie la Misérable - Lenneke Marelaan",wikidata,F,Q13815118,relation
@@ -144,6 +144,7 @@ name,source,gender,wikidata,type
 "Square Marie-Louise - Maria-Louizasquare",wikidata,F,Q157491,relation
 "Square Maurane - Mauranesquare",wikidata,F,Q509029,way
 "Square Princesse Jean de Mérode - Prinses Jean de Mérodeplein",wikidata,F,Q75361062,way
+"Tunnel Annie Cordy - Annie Cordytunnel",wikidata,F,Q465249,way
 "Tunnel Louise - Louizatunnel",wikidata,F,Q237318,way
 "Tunnel Stéphanie - Stefaniatunnel",wikidata,F,Q170197,way
 "de Castonierlaan - Avenue de Castonier",wikidata,F,Q88385819,way
@@ -418,7 +419,7 @@ name,source,gender,wikidata,type
 "Avenue Huart Hamoir - Huart Hamoirlaan",wikidata,M,Q2823070,relation
 "Avenue Hugo Van der Goes - Hugo Van der Goeslaan",wikidata,M,Q215251,way
 "Avenue Ilya Prigogine - Ilya Prigoginelaan",wikidata,M,Q183509,relation
-"Avenue Isidore Gérard - Isidore Gérardlaan",wikidata,M,Q90565209,way
+"Avenue Isidore Gérard - Isidore Gérardlaan",wikidata,M,Q90565209,relation
 "Avenue Isidore Geyskens - Isidore Geyskenslaan",wikidata,M,Q90565227,relation
 "Avenue J.G. Van Goolen - J.G. Van Goolenlaan",wikidata,M,Q90565330,relation
 "Avenue J.P. Rullens - J.P. Rullenslaan",wikidata,M,Q28927562,relation
@@ -451,7 +452,7 @@ name,source,gender,wikidata,type
 "Avenue Jean Sibélius - Jean Sibéliuslaan",wikidata,M,Q45682,relation
 "Avenue Jean Sobieski - Jan Sobieskilaan",wikidata,M,Q53454,relation+way
 "Avenue Jean Van Horenbeeck - Jean Van Horenbeecklaan",wikidata,M,Q90720974,way
-"Avenue Jean Vanhaelen - Jean Vanhaelenlaan",wikidata,M,Q3174965,way
+"Avenue Jean Vanhaelen - Jean Vanhaelenlaan",wikidata,M,Q3174965,relation
 "Avenue Jean Volders - Jean Volderslaan",wikidata,M,Q3175076,relation
 "Avenue Jean de Bologne - Jean de Bolognelaan",wikidata,M,Q220136,relation
 "Avenue Jean de la Hoese - Jean de la Hoeselaan",wikidata,M,Q2527990,relation+way
@@ -635,7 +636,7 @@ name,source,gender,wikidata,type
 "Avenue de l'Aiglon - Aiglonlaan",wikidata,M,Q7723,way
 "Avenue des Frères Becqué - Gebroeders Becquélaan",wikidata,M,Q91925761;Q91925778,relation
 "Avenue du Bourgmestre Etienne Demunter - Burgemeester Etienne Demunterlaan",wikidata,M,Q91925823,relation+way
-"Avenue du Bourgmestre Jean Neybergh - Burgemeester Jean Neyberghlaan",wikidata,M,Q15389556,relation+way
+"Avenue du Bourgmestre Jean Neybergh - Burgemeester Jean Neyberghlaan",wikidata,M,Q15389556,relation
 "Avenue du Compte Moens De Fernig - Graaf Moens De Ferniglaan",wikidata,M,Q676660,way
 "Avenue du Duc Jean - Hertog Janlaan",wikidata,M,Q15988,relation
 "Avenue du Général de Ceuninck - Generaal de Ceunincklaan",wikidata,M,Q1999936,relation
@@ -831,7 +832,7 @@ name,source,gender,wikidata,type
 "Place Jean Vander Elst - Jean Vander Elstplein",wikidata,M,Q92600481,relation
 "Place Jean-Baptiste Carnoy - Jean-Baptiste Carnoyplein",wikidata,M,Q423006,relation+way
 "Place Jean-Baptiste Degrooff - Jean-Baptiste Degrooffplein",wikidata,M,Q92758389,relation+way
-"Place Jean-Louis Thys - Jean-Louis Thysplaats",wikidata,M,Q1961352,relation
+"Place Jean-Louis Thys - Jean-Louis Thysplaats",wikidata,M,Q1961352,relation+way
 "Place Jef Mennekens - Jef Mennekensplaats",wikidata,M,Q41799507,relation+way
 "Place Joseph Benoît Willems - Joseph Benoît Willemsplein",wikidata,M,Q92758777,relation
 "Place Joseph Wauters - Joseph Wautersplein",wikidata,M,Q585785,way
@@ -874,7 +875,7 @@ name,source,gender,wikidata,type
 "Place Saint-Lambert - Sint-Lambertusplein",wikidata,M,Q283447,relation+way
 "Place Saint-Lazare - Sint-Lazarusplein",wikidata,M,Q539890,relation+way
 "Place Saint-Nicolas - Sint-Nikolaasplein",wikidata,M,Q44269,relation
-"Place Saint-Pierre - Sint-Pietersplein",wikidata,M,Q33923,relation+way
+"Place Saint-Pierre - Sint-Pietersplein",wikidata,M,Q33923,relation
 "Place Saint-Vincent - Sint-Vincentiusplaats",wikidata,M,Q2462614,relation+way
 "Place Salvador Allende - Salvador Allendeplein",wikidata,M,Q440,way
 "Place Simon Bolivar - Simon Bolivarplein",wikidata,M,Q8605,way
@@ -886,7 +887,7 @@ name,source,gender,wikidata,type
 "Place Verheyleweghen - Verheyleweghenplein",wikidata,M,Q3372356,relation
 "Place Victor Horta - Victor Hortaplein",wikidata,M,Q49744,way
 "Place Voltaire - Voltaireplein",wikidata,M,Q9068,relation
-"Place Wappers - Wappersplein",wikidata,M,Q727869,relation
+"Place Wappers - Wappersplein",wikidata,M,Q727869,relation+way
 "Place de Jamblinne de Meux - de Jamblinne de Meuxplein",wikidata,M,Q85944263,relation+way
 "Place du Roi Baudouin - Koning Boudewijnplein",wikidata,M,Q12976,relation
 "Place du Roi Vainqueur - Koning Overwinnaarplein",wikidata,M,Q55008046,relation
@@ -1457,7 +1458,7 @@ name,source,gender,wikidata,type
 "Rue Joseph Vanderlinden - Joseph Vanderlindenstraat",wikidata,M,Q276873,way
 "Rue Joseph Wauters - Joseph Wautersstraat",wikidata,M,Q585785,relation
 "Rue Josse Impens - Josse Impensstraat",wikidata,M,Q3186090,relation
-"Rue Jourdan - Jourdanstraat",wikidata,M,Q92021312,way
+"Rue Jourdan - Jourdanstraat",wikidata,M,Q92021312,relation+way
 "Rue Jul Merckaert - Jul Merckaertstraat",wikidata,M,Q2183081,relation
 "Rue Jules Besme - Jules Besmestraat",wikidata,M,Q84375317,relation
 "Rue Jules Bouillon - Jules Bouillonstraat",wikidata,M,Q84467048,relation
@@ -1885,7 +1886,6 @@ name,source,gender,wikidata,type
 "Square de Meeûs - de Meeûssquare",wikidata,M,Q2440073,relation
 "Square du Roi Baudouin - Koning Boudewijnplein",wikidata,M,Q12976,way
 "Tunnel Belliard - Belliardtunnel",wikidata,M,Q767534,way
-"Tunnel Léopold II - Leopold II-tunnel",wikidata,M,Q12967,way
 "Tunnel Montgomery - Montgomerytunnel",wikidata,M,Q152025,way
 "Tunnel Reyers-Centre - Reyers-centrumtunnel",wikidata,M,Q2871374,way
 "Tunnel Reyers-Meiser - Reyers-Meisertunnel",wikidata,M,Q2871374;Q3164277,way
