@@ -93,9 +93,10 @@ Alsembergsesteenweg,wikidata,,Q661993,way
 "Chaussée de Tervueren - Tervurensteenweg",wikidata,,Q456544,way
 "Chaussée de Tervueren - Tervuursesteenweg",wikidata,,Q456544,way
 "Chaussée de Waterloo - Waterloose Steenweg",wikidata,,Q31579578,relation
-"Chaussée de Waterloo - Waterloosesteenweg",wikidata,,Q31579578,relation
+"Chaussée de Waterloo - Waterloosesteenweg",wikidata,,Q31579578,relation+way
 "Chemin Herlinde et Théobald - Herlinde en Theobaldweg",wikidata,,Q110062882;Q110062886,way
 "Chemin des Fermiers - Pachtersweg",wikidata,,Q54639972,way
+"Chemin du Bonheur - Geluksweg",wikidata,,Q8,way
 "Chemin du Jutland - Jutlandweg",wikidata,,Q25389,relation
 "Clos Cassiopée - Cassiopeagaarde",wikidata,,Q207681,relation
 "Clos Prométhée - Prometheusgaarde",wikidata,,Q83160,relation
@@ -116,8 +117,6 @@ Alsembergsesteenweg,wikidata,,Q661993,way
 "Galerie Ravenstein - Ravensteingalerij",wikidata,,Q3145650,relation
 "Galerie de la Reine - Koninginnegalerij",wikidata,,Q16511993,way
 "Galerie de la Rue de Ruysbroeck - Galerij van de Ruisbroekstraat",wikidata,,Q85073667,way
-"Galerie des Princes - Prinsengalerij",wikidata,,Q3403409,way
-"Galerie du Roi - Koningsgalerij",wikidata,,Q12097,way
 "Impasse aux Huîtres - Oestersgang",wikidata,,Q107411,way
 "Impasse des Boeufs - Ossengang",wikidata,,Q473194,way
 "Impasse du Cheval - Paardgang",wikidata,,Q726,relation
@@ -426,6 +425,7 @@ Antwerpselaan,,,,way
 "Avenue de Chartres - Chartreslaan",,,,relation
 "Avenue de Croydon - Croydonlaan",,,,way
 "Avenue de Février - Februarilaan",,,,relation
+"Avenue de Fléron - Fléronlaan",,,,relation
 "Avenue de Floréal - Floréallaan",,,,way
 "Avenue de Gomrée - de Gomréelaan",,,,relation
 "Avenue de Groenendael - Groenendaalselaan",,,,way
@@ -828,7 +828,6 @@ Antwerpselaan,,,,way
 "Avenue du Domaine - Domeinlaan",,,,way
 "Avenue du Feuillage - Gebladertelaan",,,,way
 "Avenue du Fléau d'Armes - Strijdvlegellaan",,,,relation
-"Avenue du Fléron - Fléronlaan",,,,relation
 "Avenue du Football - Voetballaan",,,,relation
 "Avenue du Fort-Jaco - Fort-Jacolaan",,,,way
 "Avenue du Forum - Forumlaan",,,,relation+way
@@ -1098,7 +1097,6 @@ Cauter,,,,relation
 "Chemin des Traqueurs - Drijversweg",,,,way
 "Chemin des Tumuli - Tumuliweg",,,,way
 "Chemin des serres - Weg naar de serres",,,,way
-"Chemin du Bonheur - Geluksweg",,,,way
 "Chemin du Braakveld - Baakveldweg",,,,way
 "Chemin du Château Martha - Kasteel Marthaweg",,,,way
 "Chemin du Cœur Vert - Groen-Hartweg",,,,way
@@ -1253,6 +1251,7 @@ Cauter,,,,relation
 "Clos du Tilleul - Lindegaarde",,,,relation+way
 "Clos du Trèfle - Klavergaarde",,,,relation
 "Clos du Zavelenberg - Zavelenberggaarde",,,,relation
+Coghen,,,,way
 "Coin des Cerises - Kersenhoek",,,,way
 "Contournement Est",,,,way
 "Corniche Verte - Groene Corniche",,,,relation
@@ -1263,6 +1262,7 @@ Cauter,,,,relation
 "Couloir secondaire - Secundaire gang",,,,way
 "Cours Amarante - Amarantenhof",,,,relation
 "Coursive Plein Ciel - Openluchtwandelgang",,,,relation
+"De Geheime Doorgang - Le Passage Secret",,,,way
 "Dédale du Campanile - Campaniledoolgang",,,,relation
 Diegemvoetweg,,,,way
 Dieweg,,,,relation+way
@@ -1372,11 +1372,13 @@ GR,,,,way
 "Galerie de Waterloo - Waterloogalerij",,,,way
 "Galerie de la Porte de Namur - Galerij van de Naamsepoort",,,,way
 "Galerie des Argousiers - Duindoorngalerij",,,,relation
+"Galerie des Princes - Prinsengalerij",,,,relation
 "Galerie du Centre - Centrumgalerij",,,,way
 "Galerie du Cinquantenaire - Jubelgalerij",,,,way
 "Galerie du Commerce - Handelsgalerij",,,,way
 "Galerie du Midi - Zuidgalerij",,,,way
 "Galerie du Parlement - Parlementsgalerij",,,,relation
+"Galerie du Roi - Koningsgalerij",,,,relation
 "Grand-Place - Grote Markt",,,,relation
 "Grande Avenue - Grote Laan",,,,way
 "Grande rue au Bois - Grote Bosstraat",,,,relation
@@ -1669,6 +1671,7 @@ Plattesteen,,,,way
 "Quai de Willebroeck - Willebroekkaai",,,,relation
 "Quai de l'Industrie - Nijverheidskaai",,,,relation+way
 "Quai de la Voirie - Ruimingskaai",,,,relation
+"Quai des Brumes - Nevelkade",,,,way
 "Quai des Charbonnages - Koolmijnenkaai",,,,relation
 "Quai des Péniches - Akenkaai",,,,relation
 "Quai des Usines - Werkhuizenkaai",,,,relation+way
@@ -2111,7 +2114,7 @@ Roeierspad,,,,way
 "Rue de l'Ascension - Bergopstraat",,,,relation
 "Rue de l'Association - Verenigingstraat",,,,relation
 "Rue de l'Athénée - Atheneumstraat",,,,relation
-"Rue de l'Athénée Royal - Koninklijk Atheneumstraat",,,,relation+way
+"Rue de l'Athénée Royal - Koninklijk Atheneumstraat",,,,relation
 "Rue de l'Aubade - Aubadestraat",,,,relation
 "Rue de l'Aurore - Dageraadstraat",,,,way
 "Rue de l'Automne - Herfststraat",,,,relation
@@ -2126,7 +2129,7 @@ Roeierspad,,,,way
 "Rue de l'Écluse - Sasstraat",,,,way
 "Rue de l'École - Schoolstraat",,,,relation
 "Rue de l'École Moderne - Moderne-Schoolstraat",,,,relation
-"Rue de l'Économie - Zuinigheidsstraat",,,,relation
+"Rue de l'Économie - Spaarzaamheidstraat",,,,relation
 "Rue de l'Écuelle - Napstraat",,,,relation
 "Rue de l'Education - Opvoedingsstraat",,,,relation
 "Rue de l'Égalité - Gelijkheidstraat",,,,relation
@@ -2421,7 +2424,7 @@ Roeierspad,,,,way
 "Rue de la Tarentelle - Tarantellastraat",,,,relation
 "Rue de la Technologie - Technologiestraat",,,,relation
 "Rue de la Teinturerie - Ververijstraat",,,,relation
-"Rue de la Tête d'Or - Guldenhoofdstraat",,,,way
+"Rue de la Tête d'Or - Guldenhoofdstraat",,,,relation
 "Rue de la Tour Japonaise - Japanse Torenstraat",,,,relation+way
 "Rue de la Tourelle - Torekenstraat",,,,relation
 "Rue de la Tranquillité - Gerustheidsstraat",,,,relation

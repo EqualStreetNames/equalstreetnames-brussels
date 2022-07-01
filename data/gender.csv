@@ -42,6 +42,7 @@ name,source,gender,wikidata,type
 "Chemin Marie Popelin",wikidata,F,Q2627259,way
 "Chemin Suzanne Tassier",wikidata,F,Q18613190,way
 "Chemin des Sœurs Schampaert - Gezusters Schampaertweg",wikidata,F,Q110062927;Q110062935,way
+"Clos Amanda Stassart - Amanda Stassartgaarde",wikidata,F,Q87758545,relation
 "Clos Andrée De Jongh - Andrée de Jonghgaarde",wikidata,F,Q461027,relation
 "Clos Andrée Dumont - Andrée Dumontgaarde",wikidata,F,Q16262799,way
 "Clos Ingrid Bergman - Ingrid Bergmangaarde",wikidata,F,Q43247,relation+way
@@ -100,6 +101,7 @@ name,source,gender,wikidata,type
 "Rue Fernande Volral - Fernande Volralstraat",wikidata,F,Q16262717,relation
 "Rue Gabrielle Petit - Gabrielle Petitstraat",wikidata,F,Q468263,relation
 "Rue Gatti de Gamond - Gatti de Gamondstraat",wikidata,F,Q2407913,way
+"Rue Hélène Dutrieu - Hélène Dutrieustraat",wikidata,F,Q236446,way
 "Rue Hélène Ryckmans - Hélène Ryckmansstraat",wikidata,F,Q88580726,relation
 "Rue Isala Van Diest - Isala Van Dieststraat",wikidata,F,Q2551409,way
 "Rue Juliette Wytsman - Juliette Wytsmanstraat",wikidata,F,Q3189783,relation
@@ -1481,7 +1483,7 @@ name,source,gender,wikidata,type
 "Rue Kinet - Kinetstraat",wikidata,M,Q95354432,relation
 "Rue Knapen - Knapenstraat",wikidata,M,Q95354773,relation
 "Rue Lamartine - Lamartinestraat",wikidata,M,Q188697,relation
-"Rue Lambermont - Lambermontstraat",wikidata,M,Q2327076,way
+"Rue Lambermont - Lambermontstraat",wikidata,M,Q2327076,relation
 "Rue Lambert Crickx - Lambert Crickxstraat",wikidata,M,Q106945601,relation
 "Rue Lambert Vandervelde - Lambert Vanderveldestraat",wikidata,M,Q106945655,way
 "Rue Lanfray - Lanfraystraat",wikidata,M,Q101068037,relation
@@ -1571,7 +1573,7 @@ name,source,gender,wikidata,type
 "Rue Moris - Morisstraat",wikidata,M,Q111325036,way
 "Rue Murillo - Murillostraat",wikidata,M,Q192062,relation
 "Rue Musin - Musinstraat",wikidata,M,Q1977323,relation
-"Rue Nestor De Tière - Nestor De Tièrestraat",wikidata,M,Q1959501,relation
+"Rue Nestor De Tière - Nestor De Tièrestraat",wikidata,M,Q1959501,relation+way
 "Rue Nestor Martin - Nestor Martinstraat",wikidata,M,Q88326203,relation+way
 "Rue Newton - Newtonstraat",wikidata,M,Q935,relation
 "Rue Nicolas Defrêcheux - Nicolas Defrêcheuxstraat",wikidata,M,Q934176,relation
@@ -1782,7 +1784,7 @@ name,source,gender,wikidata,type
 "Rue Willy Coppens - Willy Coppensstraat",wikidata,M,Q166995,relation
 "Rue Willy Van Der Meeren - Willy Van Der Meerenstraat",wikidata,M,Q2299826,way
 "Rue Xavier De Bue - Xavier De Buestraat",wikidata,M,Q3570641,relation+way
-"Rue Zinner - Zinnerstraat",wikidata,M,Q24288413,way
+"Rue Zinner - Zinnerstraat",wikidata,M,Q24288413,relation
 "Rue d'Accolay - Accolaystraat",wikidata,M,Q94623747,relation
 "Rue d'Anethan - d'Anethanstraat",wikidata,M,Q725589,relation
 "Rue d'Egmont - Egmontstraat",wikidata,M,Q435844,relation
