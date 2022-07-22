@@ -38,7 +38,7 @@ jobs:
         with:
           repository: ${{ github.repository_owner }}/equalstreetnames
           persist-credentials: false
-      - run: git submodule website --init cities/belgium/brussels
+      - run: git submodule update --init website
       - run: git submodule update --init cities/belgium/brussels
       - run: npm install
         working-directory: website
