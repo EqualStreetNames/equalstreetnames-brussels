@@ -37,6 +37,7 @@ jobs:
       - uses: actions/checkout@v2
         with:
           repository: ${{ github.repository_owner }}/equalstreetnames
+          submodules: true
           persist-credentials: false
       - run: git submodule update --init cities/belgium/brussels
       - run: npm install
