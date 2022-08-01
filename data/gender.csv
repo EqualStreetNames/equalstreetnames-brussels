@@ -647,8 +647,8 @@ name,source,gender,wikidata,type
 "Avenue du Roi Chevalier - Ridder Koninglaan",wikidata,M,Q55008046,relation+way
 "Avenue du Roi-Soldat - Koning-Soldaatlaan",wikidata,M,Q55008046,relation
 "Avenue van der Meerschen - van der Meerschenlaan",wikidata,M,Q27894060,relation
-"Boulevard Adolphe Max - Adolphe Maxlaan",wikidata,M,Q2535128,way
-"Boulevard Anspach - Anspachlaan",wikidata,M,Q462143,way
+"Boulevard Adolphe Max - Adolphe Maxlaan",wikidata,M,Q2535128,relation
+"Boulevard Anspach - Anspachlaan",wikidata,M,Q462143,relation
 "Boulevard Aristide Briand - Aristide Briandlaan",wikidata,M,Q179888,relation
 "Boulevard Auguste Reyers - Auguste Reyerslaan",wikidata,M,Q2871374,relation+way
 "Boulevard Barthélémy - Barthélémylaan",wikidata,M,Q2361218,relation
@@ -837,7 +837,7 @@ name,source,gender,wikidata,type
 "Place Jean-Louis Thys - Jean-Louis Thysplaats",wikidata,M,Q1961352,relation+way
 "Place Jef Mennekens - Jef Mennekensplaats",wikidata,M,Q41799507,relation+way
 "Place Joseph Benoît Willems - Joseph Benoît Willemsplein",wikidata,M,Q92758777,relation
-"Place Joseph Wauters - Joseph Wautersplein",wikidata,M,Q585785,way
+"Place Joseph Wauters - Joseph Wautersplein",wikidata,M,Q585785,relation+way
 "Place Jourdan - Jourdanplein",wikidata,M,Q92021312,relation
 "Place Julien Dillens - Julien Dillensplein",wikidata,M,Q1712238,relation+way
 "Place Laneau - Laneauplein",wikidata,M,Q86064930,relation
@@ -869,7 +869,7 @@ name,source,gender,wikidata,type
 "Place Raymond Blyckaerts - Raymond Blyckaertsplein",wikidata,M,Q27036489,relation+way
 "Place Rik Wouters - Rik Woutersplein",wikidata,M,Q939197,way
 "Place Rolin - Rolinplein",wikidata,M,Q2163086,way
-"Place Rouppe - Rouppeplein",wikidata,M,Q2009106,relation
+"Place Rouppe - Rouppeplein",wikidata,M,Q2009106,relation+way
 "Place Saint-Antoine - Sint-Antoonplein",wikidata,M,Q167477,relation+way
 "Place Saint-Denis - Sint-Denijsplein",wikidata,M,Q244380,relation
 "Place Saint-Géry - Sint-Goriksplein",wikidata,M,Q585739,way
@@ -1698,6 +1698,7 @@ name,source,gender,wikidata,type
 "Rue Tacquet - Tacquetstraat",wikidata,M,Q781744,relation
 "Rue Tasson-Snel - Tasson-Snelstraat",wikidata,M,Q19859214,relation
 "Rue Teniers - Teniersstraat",wikidata,M,Q335022,relation
+"Rue Terre-Neuve - Nieuwland",wikidata,M,Q2009106,relation
 "Rue Théo Coopman - Théo Coopmanstraat",wikidata,M,Q719358,relation
 "Rue Théodore Baron - Théodore Baronstraat",wikidata,M,Q3338779,relation
 "Rue Théodore Bekaert - Théodore Bekaertstraat",wikidata,M,Q95200028,relation
@@ -1808,7 +1809,7 @@ name,source,gender,wikidata,type
 "Rue de Wynants - de Wynantsstraat",wikidata,M,Q86997834,relation
 "Rue de l'Éclusier Cogge - Sluismeester Coggestraat",wikidata,M,Q2182432,relation
 "Rue du Cardinal - Kardinaalsstraat",wikidata,M,Q451178,relation
-"Rue du Cardinal Mercier - Kardinaal Mercierstraat",wikidata,M,Q468097,way
+"Rue du Cardinal Mercier - Kardinaal Mercierstraat",wikidata,M,Q468097,relation
 "Rue du Lieutenant Lotin - Luitenant Lotinstraat",wikidata,M,Q62418645,way
 "Rue du Président - Voorzittersstraat",wikidata,M,Q289570,relation
 "Rue du Prince Albert - Prins Albertstraat",wikidata,M,Q55008046,relation
@@ -1852,6 +1853,7 @@ name,source,gender,wikidata,type
 "Square Henri Frick - Henri Fricksquare",wikidata,M,Q3131125,way
 "Square Henri Michaux - Henri Michauxsquare",wikidata,M,Q160780,way
 "Square Henri Rey - Henri Reysquare",wikidata,M,Q93108033,relation
+"Square Herschel Grynszpan - Herschel Grynszpansquare",wikidata,M,Q313863,way
 "Square Jacques Franck - Jacques Francksquare",wikidata,M,Q2157395,relation
 "Square James Dean - James Deanplein",wikidata,M,Q83359,relation
 "Square Jean Absil - Jean Absilsquare",wikidata,M,Q364121,way
@@ -2080,7 +2082,6 @@ name,source,gender,wikidata,type
 "Rue Mathieu Pauwels - Mathieu Pauwelsstraat",csv,M,,relation
 "Rue Maurice Charlent - Maurice Charlentstraat",csv,M,,way
 "Rue Maurice De Moor - Maurice De Moorstraat",csv,M,,relation
-"Rue Maurice Liétart - Maurice Liétartstraat",csv,M,,way
 "Rue Maurice Xhoneux - Maurice Xhoneuxstraat",csv,M,,relation
 "Rue Max Roos - Max Roosstraat",csv,M,,way
 "Rue Michel Van Nieuwenborgh - Michel Van Nieuwenborghstraat",csv,M,,relation
