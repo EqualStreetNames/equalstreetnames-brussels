@@ -33,7 +33,6 @@ name,source,gender,wikidata,type
 "Avenue Sainte-Alix - Sinte-Aleidislaan",wikidata,F,Q1860408,relation
 "Avenue Sainte-Anne - Sint-Annalaan",wikidata,F,Q164294,way
 "Avenue Simone Veil - Simone Veillaan",wikidata,F,Q298180,way
-"Avenue Victoria - Victorialaan",wikidata,F,Q9439,relation
 "Avenue de la Princesse Paola - Prinses Paolalaan",wikidata,F,Q31129,way
 "Boulevard Maria Groeninckx-De May - Maria Groeninckx-De Maylaan",wikidata,F,Q89488154,relation+way
 "Carrefour Sainte-Anne - Sint-Annakruispunt",wikidata,F,Q164294,way
@@ -46,7 +45,7 @@ name,source,gender,wikidata,type
 "Clos Andrée De Jongh - Andrée de Jonghgaarde",wikidata,F,Q461027,relation
 "Clos Andrée Dumont - Andrée Dumontgaarde",wikidata,F,Q16262799,way
 "Clos Ingrid Bergman - Ingrid Bergmangaarde",wikidata,F,Q43247,relation+way
-"Clos Marie Koré - Marie Koréhoek",wikidata,F,Q109044416,way
+"Clos Marie Koré - Marie Koréhoek",wikidata,F,Q109044416,relation
 "Clos Marilyn Monroe - Marilyn Monroegaarde",wikidata,F,Q4616,relation+way
 "Clos Monique Rifflet - Monique Riffletgaarde",wikidata,F,Q21601793,relation
 "Drève Aleyde De Brabant - Aleyde Van Brabantdreef",wikidata,F,Q377613,relation
@@ -63,6 +62,7 @@ name,source,gender,wikidata,type
 "Parvis Sainte-Alix - Sinte-Aleidisvoorplein",wikidata,F,Q1860408,relation+way
 "Parvis Sainte-Cécile - Sint-Ceciliavoorplein",wikidata,F,Q80513,relation
 "Passage Marguerite Yourcenar - Marguerite Yourcenardoorgang",wikidata,F,Q163118,way
+"Passage Monique Martin - Monique Martin-doorgang",wikidata,F,Q3094148,way
 "Passage Simone Signoret - Simone Signoretdoorgang",wikidata,F,Q106126,way
 "Passerelle Fatima Mernissi - Fatima Mernissiloopbrug",wikidata,F,Q242376,way
 "Passerelle Loredana Marchi - Loredana Marchiloopbrug",wikidata,F,Q108410028,way
@@ -234,7 +234,7 @@ name,source,gender,wikidata,type
 "Avenue Baron Albert d'Huart - Baron Albert d'Huartlaan",wikidata,M,Q2831651,relation+way
 "Avenue Beethoven - Beethovenlaan",wikidata,M,Q255,relation
 "Avenue Benjamin Jansen - Benjamin Jansenlaan",wikidata,M,Q89797231,relation
-"Avenue Besme - Besmelaan",wikidata,M,Q2083665,relation+way
+"Avenue Besme - Besmelaan",wikidata,M,Q2083665,relation
 "Avenue Blücher - Blücherlaan",wikidata,M,Q153522,way
 "Avenue Boileau - Boileaulaan",wikidata,M,Q188857,relation
 "Avenue Bonaparte - Bonapartelaan",wikidata,M,Q517,way
@@ -707,7 +707,6 @@ name,source,gender,wikidata,type
 "Chemin Robert Brout",wikidata,M,Q151833,way
 "Chemin Saint-Sébastien - Sint-Sebastiaansweg",wikidata,M,Q183332,way
 "Cité Fontainas - Fontainashof",wikidata,M,Q2744763,relation
-"Cité Gomand",wikidata,M,Q109349834,relation
 "Cité Jourdan - Jourdan Wijk",wikidata,M,Q92021312,way
 "Clos A.J. Slegers - A.J. Slegersgaarde",wikidata,M,Q89585848,relation
 "Clos Albert Crommelynck - Albert Crommelynckgaarde",wikidata,M,Q2831066,way
@@ -973,7 +972,7 @@ name,source,gender,wikidata,type
 "Rue André Van Hasselt - André Van Hasseltstraat",wikidata,M,Q519653,relation
 "Rue Anneessens - Anneessensstraat",wikidata,M,Q3083817,way
 "Rue Antoine Baeck - Antoine Baeckstraat",wikidata,M,Q93469528,relation
-"Rue Antoine Bréart - Antoine Bréartstraat",wikidata,M,Q93469555,way
+"Rue Antoine Bréart - Antoine Bréartstraat",wikidata,M,Q93469555,relation+way
 "Rue Antoine Clesse - Antoine Clessestraat",wikidata,M,Q1960761,relation
 "Rue Antoine Court - Antoine Courtstraat",wikidata,M,Q93469750,relation
 "Rue Antoine Dansaert - Antoine Dansaertstraat",wikidata,M,Q2853839,way
@@ -1671,7 +1670,7 @@ name,source,gender,wikidata,type
 "Rue Saint-Lambert - Sint-Lambertusstraat",wikidata,M,Q283447,relation
 "Rue Saint-Nicolas - Sint-Nikolaasstraat",wikidata,M,Q44269,relation
 "Rue Saint-Norbert - Sint-Norbertusstraat",wikidata,M,Q160374,relation
-"Rue Saint-Pierre - Sint-Pietersstraat",wikidata,M,Q33923,way
+"Rue Saint-Pierre - Sint-Pietersstraat",wikidata,M,Q33923,relation
 "Rue Saint-Quentin - Saint-Quentinstraat",wikidata,M,Q1293541,relation
 "Rue Saint-Roch - Sint-Rochusstraat",wikidata,M,Q152457,way
 "Rue Saint-Vincent - Sint-Vincentiusstraat",wikidata,M,Q2462614,relation
@@ -2124,7 +2123,6 @@ name,source,gender,wikidata,type
 "Rue Saint-Alphonse - Sint-Alfonsstraat",csv,M,,way
 "Rue Saint-André - Sint-Andriesstraat",csv,M,,way
 "Rue Saint-François - Sint-Franciscusstraat",csv,M,,relation
-"Rue Saint-Géry - Sint-Goriksstraat",csv,M,,way
 "Rue Saint-Julien - Sint-Juliaanstraat",csv,M,,relation
 "Rue Saint-Laurent - Sint-Laurensstraat",csv,M,,way
 "Rue Saint-Lazare - Sint-Lazarusstraat",csv,M,,way
