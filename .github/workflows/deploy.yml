@@ -9,6 +9,11 @@ on:
     types:
       - completed
 
+# Allow one concurrent deployment
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
 jobs:
   validate-geojson:
     runs-on: ubuntu-latest
@@ -29,7 +34,7 @@ jobs:
           INPUT_SCHEMA: ./.github/workflows/schemas/metadata.json
           INPUT_JSONS: ./data/metadata.json
 
-  build-and-deploy:
+  build:
     needs: [validate-geojson, validate-metadata]
     runs-on: ubuntu-latest
     if: ${{ github.event_name == 'push' || github.event.workflow_run.conclusion == 'success' }}
@@ -46,12 +51,20 @@ jobs:
         working-directory: website
         env:
           MAPBOX_TOKEN: ${{ secrets.MAPBOX_TOKEN }}
-
-      - name: Deploy
-        uses: JamesIves/github-pages-deploy-action@3.6.2
+      - uses: actions/upload-pages-artifact@v1
         with:
-          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-          REPOSITORY_NAME: ${{ github.repository }}
-          BRANCH: gh-pages # The branch the action should deploy to.
-          FOLDER: 'website/dist/belgium/brussels' # The folder the action should deploy.
-          CLEAN: true # Automatically remove deleted files from the deploy branch
+          path: website/dist/belgium/brussels
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write      # to deploy to Pages
+      id-token: write   # to verify the deployment originates from an appropriate source
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v1
