@@ -568,7 +568,7 @@ name,source,gender,wikidata,type
 "Avenue Philippe Thomas - Philippe Thomaslaan",wikidata,M,Q91468253,relation
 "Avenue Pierre Beyst - Pierre Beystlaan",wikidata,M,Q91468820,relation
 "Avenue Pierre Devis - Pierre Devislaan",wikidata,M,Q3384746,way
-"Avenue Pierre Vander Biest - Pierre Vander Biestlaan",wikidata,M,Q91469338,relation
+"Avenue Pierre Vander Biest - Pierre Vander Biestlaan",wikidata,M,Q91469338,relation+way
 "Avenue Pierre d'Union - Pierre d'Unionlaan",wikidata,M,Q3384861,way
 "Avenue Pieter Goedefroy - Pieter Goedefroylaan",wikidata,M,Q91639880,relation
 "Avenue Platon - Platolaan",wikidata,M,Q859,relation
@@ -802,7 +802,7 @@ name,source,gender,wikidata,type
 "Place Émile Bockstael - Emile Bockstaelplein",wikidata,M,Q19951885,relation+way
 "Place Émile Danco - Émile Dancoplein",wikidata,M,Q3588445,relation
 "Place Émile Vandervelde - Émile Vanderveldeplein",wikidata,M,Q286556,way
-"Place Ernest S'Jonghers - Ernest S'Jonghersplein",wikidata,M,Q85425215,relation
+"Place Ernest S'Jonghers - Ernest S'Jonghersplein",wikidata,M,Q85425215,relation+way
 "Place Eugène Flagey - Eugène Flageyplein",wikidata,M,Q1978611,relation
 "Place Eugène Keym - Eugène Keymplein",wikidata,M,Q18061002,relation+way
 "Place Eugène Simonis - Eugène Simonisplein",wikidata,M,Q585463,relation
@@ -1014,7 +1014,7 @@ name,source,gender,wikidata,type
 "Rue Bara - Barastraat",wikidata,M,Q350861,relation
 "Rue Baron Dhanis - Baron Dhanisstraat",wikidata,M,Q2344129,relation+way
 "Rue Baron Guillaume Van Hamme - Baron Guillaume Van Hammestraat",wikidata,M,Q93615999,relation
-"Rue Baron Horta - Baron Hortastraat",wikidata,M,Q49744,relation+way
+"Rue Baron Horta - Baron Hortastraat",wikidata,M,Q49744,way
 "Rue Baron Lambert - Baron Lambertstraat",wikidata,M,Q2884771,relation
 "Rue Baron Perelman - Baron Perelmanstraat",wikidata,M,Q456301,relation
 "Rue Baron Roger Vander Noot - Baron Roger Vander Nootstraat",wikidata,M,Q93749212,relation
@@ -1606,7 +1606,7 @@ name,source,gender,wikidata,type
 "Rue Peter Benoit - Peter Benoitstraat",wikidata,M,Q733063,relation
 "Rue Philippe Baucq - Philippe Baucqstraat",wikidata,M,Q3379147,relation+way
 "Rue Philippe Dewolfs - Philippe Dewolfsstraat",wikidata,M,Q109319127,way
-"Rue Philippe de Champagne - Philippe de Champagnestraat",wikidata,M,Q314814,way
+"Rue Philippe de Champagne - Philippe de Champagnestraat",wikidata,M,Q314814,relation
 "Rue Philippe le Bon - Filips de Goedestraat",wikidata,M,Q239337,way
 "Rue Pierre De Breuker - Pierre De Breukerstraat",wikidata,M,Q86063782,relation
 "Rue Pierre Decoster - Pierre Decosterstraat",wikidata,M,Q3384665,relation+way
