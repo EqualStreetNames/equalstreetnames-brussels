@@ -74,6 +74,7 @@ name,source,gender,wikidata,type
 "Place Jo Cox - Jo Coxplein",wikidata,F,Q19872361,way
 "Place Louise - Louizaplein",wikidata,F,Q237318,relation
 "Place Lucienne Herman-Michielsens - Lucienne Herman-Michielsensplein",wikidata,F,Q2210215,way
+"Place Mahsa Amini - Mahsa Aminiplein",wikidata,F,Q113994656,way
 "Place Marguerite d'Autriche - Margaretha van Oostenrijkplein",wikidata,F,Q157100,relation+way
 "Place Marie Janson - Marie Jansonplein",wikidata,F,Q275821,relation
 "Place Marie-José - Marie-Joséplein",wikidata,F,Q72919,relation
@@ -104,6 +105,7 @@ name,source,gender,wikidata,type
 "Rue Hélène Dutrieu - Hélène Dutrieustraat",wikidata,F,Q236446,way
 "Rue Hélène Ryckmans - Hélène Ryckmansstraat",wikidata,F,Q88580726,relation
 "Rue Isala Van Diest - Isala Van Dieststraat",wikidata,F,Q2551409,way
+"Rue Jacqueline Harpman - Jacqueline Harpmanstraat",wikidata,F,Q371922,relation
 "Rue Juliette Wytsman - Juliette Wytsmanstraat",wikidata,F,Q3189783,relation
 "Rue Lola Bobesco - Lola Bobescostraat",wikidata,F,Q2370033,relation
 "Rue Marguerite Bervoets - Marguerite Bervoetsstraat",wikidata,F,Q3290678,relation
@@ -124,7 +126,7 @@ name,source,gender,wikidata,type
 "Rue Rosalie Uyttenhove - Rosalie Uyttenhovestraat",wikidata,F,Q85540711,relation
 "Rue Royale-Sainte-Marie - Koninklijke Sinte-Mariastraat",wikidata,F,Q345,relation+way
 "Rue Sainte-Anne - Sint-Annastraat",wikidata,F,Q164294,way
-"Rue Sainte-Catherine - Sint-Katelijnestraat",wikidata,F,Q179718,way
+"Rue Sainte-Catherine - Sint-Katelijnestraat",wikidata,F,Q179718,relation
 "Rue Sainte-Elisabeth - Sint-Elisabethstraat",wikidata,F,Q235849,relation
 "Rue Sainte-Gertrude - Sint-Geertruidestraat",wikidata,F,Q235619,relation+way
 "Rue Sainte-Marie - Sint-Mariastraat",wikidata,F,Q345,relation+way
@@ -523,7 +525,7 @@ name,source,gender,wikidata,type
 "Avenue Louis Vander Swaelmen - Louis Vander Swaelmenlaan",wikidata,M,Q2468318,way
 "Avenue Louis Vercauteren - Louis Vercauterenlaan",wikidata,M,Q91232015,way
 "Avenue Louis-Léopold Vander Swaelmen - Louis-Léopold Vander Swaelmenlaan",wikidata,M,Q3260692,way
-"Avenue Mahatma Gandhi - Mahatma Gandhilaan",wikidata,M,Q1001,relation+way
+"Avenue Mahatma Gandhi - Mahatma Gandhilaan",wikidata,M,Q1001,relation
 "Avenue Marc Henri Van Laer - Marc Henri Van Laerlaan",wikidata,M,Q85421684,relation
 "Avenue Marcel Devienne - Marcel Deviennelaan",wikidata,M,Q91232050,relation
 "Avenue Marcel Thiry - Marcel Thirylaan",wikidata,M,Q2146661,relation+way
@@ -975,7 +977,7 @@ name,source,gender,wikidata,type
 "Rue Antoine Bréart - Antoine Bréartstraat",wikidata,M,Q93469555,relation+way
 "Rue Antoine Clesse - Antoine Clessestraat",wikidata,M,Q1960761,relation
 "Rue Antoine Court - Antoine Courtstraat",wikidata,M,Q93469750,relation
-"Rue Antoine Dansaert - Antoine Dansaertstraat",wikidata,M,Q2853839,way
+"Rue Antoine Dansaert - Antoine Dansaertstraat",wikidata,M,Q2853839,relation
 "Rue Antoine Gautier - Antoine Gautierstraat",wikidata,M,Q93469973,relation
 "Rue Antoine Labarre - Antoine Labarrestraat",wikidata,M,Q93470045,relation
 "Rue Antoine Nys - Antoine Nysstraat",wikidata,M,Q93470176,relation
@@ -1165,7 +1167,7 @@ name,source,gender,wikidata,type
 "Rue Émile Banning - Émile Banningstraat",wikidata,M,Q863514,relation
 "Rue Émile Bouilliot - Émile Bouilliotstraat",wikidata,M,Q84467713,relation
 "Rue Émile Carpentier - Emile Carpentierstraat",wikidata,M,Q3052257,relation
-"Rue Émile Claus - Émile Clausstraat",wikidata,M,Q733002,way
+"Rue Émile Claus - Émile Clausstraat",wikidata,M,Q733002,relation
 "Rue Émile Delva - Émile Delvastraat",wikidata,M,Q95906583,relation
 "Rue Emile Deroover - Emile Derooverstraat",wikidata,M,Q95907532,relation
 "Rue Émile Feron - Émile Feronstraat",wikidata,M,Q3588520,way
