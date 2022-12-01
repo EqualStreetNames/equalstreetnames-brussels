@@ -100,7 +100,6 @@ name,source,gender,wikidata,type
 "Rue Élise - Elizastraat",wikidata,F,Q89490193,relation
 "Rue Eunice N. Osayande - Eunice N. Osayandestraat",wikidata,F,Q108602159,way
 "Rue Fernande Volral - Fernande Volralstraat",wikidata,F,Q16262717,relation
-"Rue Gabrielle Petit - Gabrielle Petitstraat",wikidata,F,Q468263,relation
 "Rue Gatti de Gamond - Gatti de Gamondstraat",wikidata,F,Q2407913,way
 "Rue Hélène Dutrieu - Hélène Dutrieustraat",wikidata,F,Q236446,way
 "Rue Hélène Ryckmans - Hélène Ryckmansstraat",wikidata,F,Q88580726,relation
@@ -380,7 +379,7 @@ name,source,gender,wikidata,type
 "Avenue Gisseleire Versé - Gisseleire Versélaan",wikidata,M,Q90222356,relation
 "Avenue Gounod - Gounodlaan",wikidata,M,Q180278,relation
 "Avenue Guillaume Abeloos - Guillaume Abelooslaan",wikidata,M,Q90224213,relation
-"Avenue Guillaume Crock - Guillaume Crocklaan",wikidata,M,Q90225495,way
+"Avenue Guillaume Crock - Guillaume Crocklaan",wikidata,M,Q90225495,relation
 "Avenue Guillaume De Greef - Guillaume De Greeflaan",wikidata,M,Q5769755,relation
 "Avenue Guillaume Detroch - Guillaume Detrochlaan",wikidata,M,Q90289429,way
 "Avenue Guillaume Gilbert - Guillaume Gilbertlaan",wikidata,M,Q15965505,relation
@@ -864,7 +863,7 @@ name,source,gender,wikidata,type
 "Place Paul Janson - Paul Jansonplein",wikidata,M,Q730367,way
 "Place Peter Benoit - Peter Benoitplein",wikidata,M,Q733063,relation
 "Place Philippe Werrie - Philippe Werrieplein",wikidata,M,Q92918138,relation
-"Place Poelaert - Poelaertplein",wikidata,M,Q740717,relation
+"Place Poelaert - Poelaertplein",wikidata,M,Q740717,relation+way
 "Place Pogge - Poggeplein",wikidata,M,Q92919401,way
 "Place Quetelet - Queteletplein",wikidata,M,Q20012,relation+way
 "Place Raymond Blyckaerts - Raymond Blyckaertsplein",wikidata,M,Q27036489,relation+way
@@ -1226,6 +1225,7 @@ name,source,gender,wikidata,type
 "Rue Ferdinand Lenoir - Ferdinand Lenoirstraat",wikidata,M,Q86063439,relation+way
 "Rue Fernand Bernier - Fernand Bernierstraat",wikidata,M,Q96084411,relation
 "Rue Fernand Brunfaut - Fernand Brunfautstraat",wikidata,M,Q14850782,relation
+"Rue Fernand Gillion - Fernand Gillionstraat",wikidata,M,Q115165554,relation
 "Rue Fernand Léger - Fernand Légerstraat",wikidata,M,Q157183,relation+way
 "Rue Fernand Mélard - Fernand Mélardstraat",wikidata,M,Q96085046,relation
 "Rue Fernand Neuray - Fernand Neuraystraat",wikidata,M,Q3069284,relation
@@ -1475,6 +1475,7 @@ name,source,gender,wikidata,type
 "Rue Jules Van Praet - Jules Van Praetstraat",wikidata,M,Q3070531,way
 "Rue Julius Hoste - Julius Hostestraat",wikidata,M,Q2184644,relation
 "Rue Juste Lipse - Justus Lipsiusstraat",wikidata,M,Q315871,relation
+"Rue Karel Bogaerd - Karel Bogaerdstraat",wikidata,M,Q42853396,relation+way
 "Rue Karel Mertens - Karel Mertensstraat",wikidata,M,Q95353284,relation
 "Rue Karel Vande Woestijne - Karel Vande Woestijnestraat",wikidata,M,Q1813000,relation
 "Rue Kerckx - Kerckxstraat",wikidata,M,Q95353470,relation
@@ -1527,7 +1528,7 @@ name,source,gender,wikidata,type
 "Rue Limnander - Limnanderstraat",wikidata,M,Q4792681,relation
 "Rue Lincoln - Lincolnstraat",wikidata,M,Q91,way
 "Rue Linné - Linnéstraat",wikidata,M,Q1043,relation
-"Rue Locquenghien - Locquenghienstraat",wikidata,M,Q3175532,way
+"Rue Locquenghien - Locquenghienstraat",wikidata,M,Q3175532,relation
 "Rue Lodewijk Van Boeckel - Lodewijk Van Boeckelstraat",wikidata,M,Q41884515,relation
 "Rue Louis Braille - Louis Braillestraat",wikidata,M,Q93182,relation
 "Rue Louis Coenen - Louis Coenenstraat",wikidata,M,Q106945725,way
@@ -1562,7 +1563,7 @@ name,source,gender,wikidata,type
 "Rue Maurice Wilmotte - Maurice Wilmottestraat",wikidata,M,Q1911476,relation
 "Rue Max Waller - Max Wallerstraat",wikidata,M,Q3302357,relation
 "Rue Mellery - Mellerystraat",wikidata,M,Q1041605,relation
-"Rue Melsens - Melsensstraat",wikidata,M,Q2691744,way
+"Rue Melsens - Melsensstraat",wikidata,M,Q2691744,relation
 "Rue Memling - Memlingstraat",wikidata,M,Q106851,relation
 "Rue Mercator - Mercatorstraat",wikidata,M,Q6353,relation
 "Rue Metsys - Metsysstraat",wikidata,M,Q314275,relation
