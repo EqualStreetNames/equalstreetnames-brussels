@@ -100,6 +100,7 @@ name,source,gender,wikidata,type
 "Rue Élise - Elizastraat",wikidata,F,Q89490193,relation
 "Rue Eunice N. Osayande - Eunice N. Osayandestraat",wikidata,F,Q108602159,way
 "Rue Fernande Volral - Fernande Volralstraat",wikidata,F,Q16262717,relation
+"Rue Gabrielle Petit - Gabrielle Petitstraat",wikidata,F,Q468263,relation
 "Rue Gatti de Gamond - Gatti de Gamondstraat",wikidata,F,Q2407913,way
 "Rue Hélène Dutrieu - Hélène Dutrieustraat",wikidata,F,Q236446,way
 "Rue Hélène Ryckmans - Hélène Ryckmansstraat",wikidata,F,Q88580726,relation
@@ -1668,7 +1669,7 @@ name,source,gender,wikidata,type
 "Rue Saint-Ghislain - Sint-Gisleinsstraat",wikidata,M,Q740017,relation
 "Rue Saint-Henri - Sint-Hendrikstraat",wikidata,M,Q103556,relation
 "Rue Saint-Hubert - Sint-Huibrechtsstraat",wikidata,M,Q159834,relation
-"Rue Saint-Jean Népomucène - Sint-Jan Nepomucenusstraat",wikidata,M,Q221522,way
+"Rue Saint-Jean Népomucène - Sint-Jan Nepomucenusstraat",wikidata,M,Q221522,relation
 "Rue Saint-Joseph - Sint-Jozefstraat",wikidata,M,Q128267,relation
 "Rue Saint-Lambert - Sint-Lambertusstraat",wikidata,M,Q283447,relation
 "Rue Saint-Nicolas - Sint-Nikolaasstraat",wikidata,M,Q44269,relation
@@ -1765,7 +1766,7 @@ name,source,gender,wikidata,type
 "Rue Victor Vanderhoeft - Victor Vanderhoeftstraat",wikidata,M,Q106840436,relation
 "Rue Vifquin - Vifquinstraat",wikidata,M,Q3164477,relation
 "Rue Vilain XIIII - Vilain XIIII-straat",wikidata,M,Q329475,relation+way
-"Rue Villa Hermosa - Villa Hermosastraat",wikidata,M,Q2551465,way
+"Rue Villa Hermosa - Villa Hermosastraat",wikidata,M,Q2551465,relation
 "Rue Virgile - Virgiliusstraat",wikidata,M,Q1398,relation
 "Rue Vogler - Voglerstraat",wikidata,M,Q3372389,relation
 "Rue Vonck - Vonckstraat",wikidata,M,Q1357793,relation
@@ -1924,7 +1925,6 @@ name,source,gender,wikidata,type
 "Rue Steyls - Steylsstraat",csv,?,,relation
 "Rue Stroobants - Stroobantsstraat",csv,?,,relation+way
 "Rue Van Bergen - Van Bergenstraat",csv,?,,relation
-"Rue Van Gaver - Van Gaverstraat",csv,?,,way
 "Rue Van Hoegaerde - Van Hoegaerdestraat",csv,?,,relation
 "Rue Vanden Corput - Vanden Corputstraat",csv,?,,way
 "Rue Verhoeven - Verhoevenstraat",csv,?,,relation
@@ -2077,7 +2077,6 @@ name,source,gender,wikidata,type
 "Rue Marcel Betbèze - Marcel Betbèzestraat",csv,M,,relation
 "Rue Marcel Buts - Marcel Butsstraat",csv,M,,relation+way
 "Rue Marcel Grüner - Marcel Grünerstraat",csv,M,,relation
-"Rue Marcq - Marcqstraat",csv,M,,way
 "Rue Martin Lindekens - Martin Lindekensstraat",csv,M,,relation
 "Rue Martin Pfeiffer - Martin Pfeifferstraat",csv,M,,relation
 "Rue Martin Van Lier - Martin Van Lierstraat",csv,M,,relation
@@ -2124,7 +2123,6 @@ name,source,gender,wikidata,type
 "Rue Ropsy Chaudron - Ropsy Chaudronstraat",csv,M,,relation+way
 "Rue Rouen-Bovie - Rouen-Boviestraat",csv,M,,relation
 "Rue Saint-Alphonse - Sint-Alfonsstraat",csv,M,,way
-"Rue Saint-André - Sint-Andriesstraat",csv,M,,way
 "Rue Saint-François - Sint-Franciscusstraat",csv,M,,relation
 "Rue Saint-Julien - Sint-Juliaanstraat",csv,M,,relation
 "Rue Saint-Laurent - Sint-Laurensstraat",csv,M,,way
@@ -2141,7 +2139,6 @@ name,source,gender,wikidata,type
 "Rue Van Meyel - Van Meyelstraat",csv,M,,relation
 "Rue Van Wambeke - Van Wambekestraat",csv,M,,relation
 "Rue Vandenboogaerde - Vandenboogaerdestraat",csv,M,,relation
-"Rue Vandenbranden - Vandenbrandenstraat",csv,M,,way
 "Rue Vandenbroeck - Vandenbroeckstraat",csv,M,,relation
 "Rue Vander Elst - Vander Elststraat",csv,M,,way
 "Rue Vanderdussen - Vanderdussenstraat",csv,M,,relation
