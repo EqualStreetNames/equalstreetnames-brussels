@@ -33,6 +33,7 @@ name,source,gender,wikidata,type
 "Avenue Sainte-Alix - Sinte-Aleidislaan",wikidata,F,Q1860408,relation
 "Avenue Sainte-Anne - Sint-Annalaan",wikidata,F,Q164294,way
 "Avenue Simone Veil - Simone Veillaan",wikidata,F,Q298180,way
+"Avenue Victoria - Victorialaan",wikidata,F,Q9439,relation
 "Avenue de la Princesse Paola - Prinses Paolalaan",wikidata,F,Q31129,way
 "Boulevard Maria Groeninckx-De May - Maria Groeninckx-De Maylaan",wikidata,F,Q89488154,relation+way
 "Carrefour Sainte-Anne - Sint-Annakruispunt",wikidata,F,Q164294,way
@@ -596,7 +597,7 @@ name,source,gender,wikidata,type
 "Avenue Rogier - Rogierlaan",wikidata,M,Q468109,way
 "Avenue Romain Rolland - Romain Rollandlaan",wikidata,M,Q47162,relation
 "Avenue Saint-Augustin - Sint-Augustinuslaan",wikidata,M,Q8018,way
-"Avenue Secrétin - Secrétinlaan",wikidata,M,Q86088683,relation+way
+"Avenue Secrétin - Secrétinlaan",wikidata,M,Q86088683,relation
 "Avenue Seghers - Segherslaan",wikidata,M,Q91870853,relation
 "Avenue Sleeckx - Sleeckxlaan",wikidata,M,Q670157,relation
 "Avenue Stiénon - Stiénonlaan",wikidata,M,Q86068066,relation
@@ -757,7 +758,6 @@ name,source,gender,wikidata,type
 "Galerie Horta - Hortagalerij",wikidata,M,Q49744,way
 "Impasse Saint Sébastien - Sint-Sebastiaansgang",wikidata,M,Q183332,way
 "Impasse Saint-Jacques - Sint-Jakobsgang",wikidata,M,Q43999,way
-"Impasse Saint-Nicolas - Sint-Nikolaasgang",wikidata,M,Q44269,way
 "Jardin Martin V - Martinus V-tuin",wikidata,M,Q169612,relation
 "Lounge Sakharov",wikidata,M,Q997,way
 "Mont Saint-Lambert - Sint-Lambertusberg",wikidata,M,Q283447,relation
@@ -774,6 +774,7 @@ name,source,gender,wikidata,type
 "Passage Olivier Brunel - Olivier Bruneldoorgang",wikidata,M,Q944174,way
 "Passage Stan Laurel - Stan Laurel Doorgang",wikidata,M,Q72869,way
 "Passage Yves Montand - Yves Montanddoorgang",wikidata,M,Q106057,way
+"Passerelle Guido Vanderhulst- Guido Vanderhulstbrug",wikidata,M,Q113276663,way
 "Paul Gilsonlaan - Avenue Paul Gilson",wikidata,M,Q958774,way
 "Place Adolphe Sax - Adolphe Saxplein",wikidata,M,Q181995,relation+way
 "Place Aimé Dandoy - Aimé Dandoyplein",wikidata,M,Q2828051,relation
@@ -860,6 +861,7 @@ name,source,gender,wikidata,type
 "Place Ministre Wauters - Minister Wautersplein",wikidata,M,Q585785,relation
 "Place Olivier Strebelle - Olivier Strebelleplein",wikidata,M,Q2532822,relation
 "Place Oscar Ruelens - Oscar Ruelensplein",wikidata,M,Q92916718,relation
+"Place Patrice Lumumba - Patrice Lumumbaplein",wikidata,M,Q161672,way
 "Place Paul Craps - Paul Crapsplein",wikidata,M,Q14655027,way
 "Place Paul Janson - Paul Jansonplein",wikidata,M,Q730367,way
 "Place Peter Benoit - Peter Benoitplein",wikidata,M,Q733063,relation
@@ -1038,7 +1040,6 @@ name,source,gender,wikidata,type
 "Rue Brederode - Brederodestraat",wikidata,M,Q1349577,relation
 "Rue Breesch - Breeschstraat",wikidata,M,Q93865039,relation
 "Rue Breughel - Breughelstraat",wikidata,M,Q43270,relation+way
-"Rue Breydel - Breydelstraat",wikidata,M,Q1394408,relation
 "Rue Brialmont - Brialmontstraat",wikidata,M,Q132142,relation
 "Rue Brichaut - Brichautstraat",wikidata,M,Q93870548;Q93871022,relation
 "Rue Brogniez - Brogniezstraat",wikidata,M,Q93871146,relation
@@ -1119,7 +1120,7 @@ name,source,gender,wikidata,type
 "Rue Désiré Desmet - Désiré Desmetstraat",wikidata,M,Q94578392,relation
 "Rue Destouvelles - Destouvellesstraat",wikidata,M,Q3182169,relation
 "Rue Dethy - Dethystraat",wikidata,M,Q94578612,way
-"Rue Dieudonné Lefèvre - Dieudonné Lefèvrestraat",wikidata,M,Q94578675,way
+"Rue Dieudonné Lefèvre - Dieudonné Lefèvrestraat",wikidata,M,Q94578675,relation
 "Rue Dillens - Dillensstraat",wikidata,M,Q1712238,relation
 "Rue Docteur Charles Beudin - Dokter Charles Beudinstraat",wikidata,M,Q94918888,relation
 "Rue Docteur Charles Leemans - Dokter Charles Leemansstraat",wikidata,M,Q94919535,relation
