@@ -72,6 +72,7 @@ name,source,gender,wikidata,type
 "Petite rue Anna Magnani - Kleine Anna Magnanistraat",wikidata,F,Q56011,way
 "Place Akarova - Akarovaplein",wikidata,F,Q2828943,relation+way
 "Place Andrée Payfa-Fosseprez - Andrée Payfa-Fosseprezplein",wikidata,F,Q88443623,way
+"Place Elisa Michiels & Lambertine Bonjean - Elisa Michiels- & Lambertine Bonjeanplein",wikidata,F,Q116864463;Q116864436,way
 "Place Jo Cox - Jo Coxplein",wikidata,F,Q19872361,way
 "Place Louise - Louizaplein",wikidata,F,Q237318,relation
 "Place Lucienne Herman-Michielsens - Lucienne Herman-Michielsensplein",wikidata,F,Q2210215,way
@@ -194,6 +195,7 @@ name,source,gender,wikidata,type
 "Allée Victor Hubinon - Victor Hubinondreef",wikidata,M,Q659873,way
 "Allée Yithzak Rabin - Yithzak Rabindreef",wikidata,M,Q34060,way
 "Allée Zinner - Zinnerdreef",wikidata,M,Q24288413,way
+"Allée de Leopold II - Leopold II-Allee",wikidata,M,Q12967,way
 "Avenue A. Vermeylen - A. Vermeylenlaan",wikidata,M,Q764378,relation
 "Avenue Adolphe Buyl - Adolphe Buyllaan",wikidata,M,Q2824787,relation+way
 "Avenue Adolphe Demeur - Adolphe Demeurlaan",wikidata,M,Q15869362,relation
@@ -637,6 +639,7 @@ name,source,gender,wikidata,type
 "Avenue de Foestraets - de Foestraetslaan",wikidata,M,Q22955182,way
 "Avenue de Selliers de Moranville - de Selliers de Moranvillelaan",wikidata,M,Q20724054,relation
 "Avenue de Waha - Wahalaan",wikidata,M,Q3086341,way
+"Avenue de Wavrans - de Wavranslaan",wikidata,M,Q64734470,relation
 "Avenue de Witthem - de Witthemlaan",wikidata,M,Q2024947,relation
 "Avenue de l'Aiglon - Aiglonlaan",wikidata,M,Q7723,way
 "Avenue des Frères Becqué - Gebroeders Becquélaan",wikidata,M,Q91925761;Q91925778,relation
@@ -650,6 +653,7 @@ name,source,gender,wikidata,type
 "Avenue du Roi Chevalier - Ridder Koninglaan",wikidata,M,Q55008046,relation+way
 "Avenue du Roi-Soldat - Koning-Soldaatlaan",wikidata,M,Q55008046,relation
 "Avenue van der Meerschen - van der Meerschenlaan",wikidata,M,Q27894060,relation
+"Belvédère Sobieski - Sobieski-Belvédère",wikidata,M,Q53454,way
 "Boulevard Adolphe Max - Adolphe Maxlaan",wikidata,M,Q2535128,relation
 "Boulevard Anspach - Anspachlaan",wikidata,M,Q462143,relation
 "Boulevard Aristide Briand - Aristide Briandlaan",wikidata,M,Q179888,relation
@@ -706,7 +710,6 @@ name,source,gender,wikidata,type
 "Chemin Louise Arbour",wikidata,M,Q6067928,way
 "Chemin Luigi Visconti - Luigi Viscontiweg",wikidata,M,Q3066379,way
 "Chemin Luis Bunuel - Luis Bunuelweg",wikidata,M,Q51545,way
-"Chemin Pierre Vereman - Pierre Veremanweg",wikidata,M,Q92020420,way
 "Chemin Robert Brout",wikidata,M,Q151833,way
 "Chemin Saint-Sébastien - Sint-Sebastiaansweg",wikidata,M,Q183332,way
 "Cité Fontainas - Fontainashof",wikidata,M,Q2744763,relation
@@ -797,7 +800,7 @@ name,source,gender,wikidata,type
 "Place Colonel Bremer - Kolonel Bremerplein",wikidata,M,Q3425928,way
 "Place Constantin Meunier - Constantin Meunierplein",wikidata,M,Q552440,way
 "Place Dailly - Daillyplein",wikidata,M,Q3059800,way
-"Place De Brouckère - De Brouckèreplein",wikidata,M,Q1066539,relation+way
+"Place De Brouckère - De Brouckèreplein",wikidata,M,Q1066539,relation
 "Place Docteur Schweitzer - Dokter Schweitzerplein",wikidata,M,Q49325,relation+way
 "Place Dumon - Dumonplein",wikidata,M,Q1991260,relation
 "Place Edmond Leroy - Edmond Leroyplaats",wikidata,M,Q92462653,relation
@@ -1174,7 +1177,7 @@ name,source,gender,wikidata,type
 "Rue Émile Feron - Émile Feronstraat",wikidata,M,Q3588520,way
 "Rue Emile Hellebaut - Emile Hellebautstraat",wikidata,M,Q95907843,relation
 "Rue Emile Heylens - Emile Heylensstraat",wikidata,M,Q95908736,relation
-"Rue Émile Idiers - Émile Idiersstraat",wikidata,M,Q3588568,way
+"Rue Émile Idiers - Émile Idiersstraat",wikidata,M,Q3588568,relation
 "Rue Émile Lecomte - Émile Lecomtestraat",wikidata,M,Q2193314,relation
 "Rue Emile Pathé - Emile Pathéstraat",wikidata,M,Q95909376,way
 "Rue Emile Regard - Emile Regardstraat",wikidata,M,Q95909709,way
@@ -2061,7 +2064,7 @@ name,source,gender,wikidata,type
 "Rue Léon Vande Woesteyne - Léon Vande Woesteynestraat",csv,M,,way
 "Rue Léopold Demesmaeker - Léopold Demesmaekerstraat",csv,M,,relation
 "Rue Léopold Procureur - Léopold Procureurstraat",csv,M,,relation
-"Rue Leopold Rom - Leopold Romstraat",csv,M,,relation
+"Rue Léopold Rom - Leopold Romstraat",csv,M,,relation
 "Rue Léopold Van Asbroeck - Léopold Van Asbroeckstraat",csv,M,,way
 "Rue Lieutenant Freddy Wampach - Luitenant Freddy Wampachstraat",csv,M,,relation
 "Rue Louis Corhay - Louis Corhaystraat",csv,M,,relation

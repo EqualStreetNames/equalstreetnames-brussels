@@ -83,6 +83,7 @@ Alsembergsesteenweg,wikidata,,Q661993,way
 "Chaussée d'Alsemberg - Alsembergse Steenweg",wikidata,,Q661993,way
 "Chaussée d'Alsemberg - Alsembergsesteenweg",wikidata,,Q661993,way
 "Chaussée d'Anvers - Antwerpsesteenweg",wikidata,,Q12892,relation+way
+"Chaussée de Boondael - Boondaalse Steenweg",wikidata,,Q1887018,relation
 "Chaussée de Charleroi - Charleroise Steenweg",wikidata,,Q81046,relation+way
 "Chaussée de Jette - Jetse Steenweg",wikidata,,Q241918,relation+way
 "Chaussée de Jette - Jetsesteenweg",wikidata,,Q241918,relation
@@ -155,12 +156,12 @@ Alsembergsesteenweg,wikidata,,Q661993,way
 "Place de Saint-Job - Sint-Jobsplein",wikidata,,Q1927235,way
 "Place de l'Albertine - Albertinaplein",wikidata,,Q383931,way
 "Place de l'Altitude Cent - Hoogte Honderdplein",wikidata,,Q115179185,relation+way
-"Place de l'Atomium - Atomiumplein",wikidata,,Q180901,relation
+"Place de l'Atomium - Atomiumplein",wikidata,,Q180901,relation+way
 "Place de la Bourse - Beursplein",wikidata,,Q28485845,way
 "Place de la Forêt Noire - Zwarte Woudplein",wikidata,,Q4204,way
 "Place de la Liberté - Vrijheidsplein",wikidata,,Q2979,relation+way
 "Place de la Monnaie - Munt",wikidata,,Q464780,relation
-"Place de la Musique - Muziekplein",wikidata,,Q638,relation
+"Place de la Musique - Muziekplein",wikidata,,Q638,way
 "Place de la Paix - Vredeplein",wikidata,,Q454,relation+way
 "Place de la Petite Suisse - Klein-Zwitserlandplein",wikidata,,Q1762154,relation+way
 "Place de la Reine - Koninginneplein",wikidata,,Q19643,way
@@ -192,7 +193,7 @@ Alsembergsesteenweg,wikidata,,Q661993,way
 "Rue Royale - Koningsstraat",wikidata,,Q12097,relation+way
 "Rue Saint-Géry - Sint-Goriksstraat",wikidata,,Q90908591,relation
 "Rue Saint-Jean - Sint-Jansstraat",wikidata,,Q50037286,relation
-"Rue Saint-Michel - Sint-Michielsstraat",wikidata,,Q45581,way
+"Rue Saint-Michel - Sint-Michielsstraat",wikidata,,Q45581,relation
 "Rue aux Choux - Koolstraat",wikidata,,Q14328596,relation
 "Rue d'Aerschot - Aarschotstraat",wikidata,,Q273442,relation+way
 "Rue d'Alost - Aalststraat",wikidata,,Q13121,relation
@@ -329,7 +330,7 @@ Treurenberg,wikidata,,Q110458175,relation
 "7ème Avenue - 7ème Laan",,,,way
 "8ème Avenue - 8ème Laan",,,,way
 "9ème Avenue - 9ème Laan",,,,way
-"Abbaye - Abdij",,,,relation
+"Abbaye - Abdij",,,,way
 "Allée Hof ter Vleest - Hof ter Vleestdreef",,,,relation
 "Allée Verte - Groendreef",,,,relation
 "Allée de l'Améthyste - Amethistdreef",,,,way
@@ -398,7 +399,6 @@ Antwerpselaan,,,,way
 "Avenue Claeterbosch - Klaterboslaan",,,,relation
 "Avenue Coloniale - Kolonialelaan",,,,way
 "Avenue De Béjar - De Béjarlaan",,,,relation+way
-"Avenue De Wavrans - De Wavranslaan",,,,relation
 "Avenue Den Doorn - Den Doornlaan",,,,relation+way
 "Avenue Fond'Roy - Vronerodelaan",,,,way
 "Avenue Fontaine Vanderstraeten - Fontaine Vanderstraetenlaan",,,,way
@@ -919,7 +919,7 @@ Antwerpselaan,,,,way
 "Avenue du Panthéon - Pantheonlaan",,,,relation+way
 "Avenue du Parc - Parklaan",,,,way
 "Avenue du Parc Royal - Koninklijk Parklaan",,,,relation+way
-"Avenue du Parc de Woluwe - Woluweparklaan",,,,way
+"Avenue du Parc de Woluwe - Park van Woluwelaan",,,,way
 "Avenue du Péage - Tollaan",,,,relation
 "Avenue du Pennon - Riddervaanlaan",,,,relation
 "Avenue du Pentathlon - Pentathlonlaan",,,,way
@@ -973,7 +973,7 @@ Bosveldweg,,,,way
 "Boulevard Industriel - Industrielaan",,,,relation
 "Boulevard International - Internationalelaan",,,,relation+way
 "Boulevard Paepsem - Paepsemlaan",,,,relation+way
-"Boulevard de Waterloo - Waterloolaan",,,,way
+"Boulevard de Waterloo - Waterloolaan",,,,relation
 "Boulevard de l'Abattoir - Slachthuislaan",,,,way
 "Boulevard de l'Empereur - Keizerslaan",,,,relation
 "Boulevard de l'Humanité - Humaniteitslaan",,,,relation+way
@@ -1021,7 +1021,6 @@ Cauter,,,,relation
 "Chaussée d'Ixelles - Elsense Steenweg",,,,relation
 "Chaussée de Boitsfort - Bosvoordse Steenweg",,,,relation
 "Chaussée de Boitsfort - Bosvoordsesteenweg",,,,way
-"Chaussée de Boondael - Boondaalse Steenweg",,,,relation
 "Chaussée de Bruxelles - Brusselse Steenweg",,,,way
 "Chaussée de Buda - Budasesteenweg",,,,relation
 "Chaussée de Dieleghem - Dieleghemse Steenweg",,,,relation
@@ -1555,7 +1554,6 @@ Pachthoevestraat,,,,way
 "Petite rue des Loups - Korte Wolvenstraat",,,,relation
 "Petite rue des Minimes - Korte Minimenstraat",,,,relation
 "Petite rue des Secours - Korte Hulpstraat",,,,relation
-"Petite rue du Bassin Collecteur - Korte Spaarbekkenstraat",,,,way
 "Petite rue du Camp - Korte Kampstraat",,,,relation
 "Petite rue du Cerf - Korte Hertstraat",,,,relation
 "Petite rue du Marly - Marlystraatje",,,,way
@@ -1949,7 +1947,7 @@ Roeierspad,,,,way
 "Rue au Beurre - Boterstraat",,,,way
 "Rue au Bois - Bosstraat",,,,relation
 "Rue aux Fleurs - Bloemenstraat",,,,way
-"Rue aux Laines - Wolstraat",,,,way
+"Rue aux Laines - Wolstraat",,,,relation
 "Rue d'Aa - Aastraat",,,,relation
 "Rue d'Albanie - Albaniëstraat",,,,way
 "Rue d'Alsace-Lorraine - Elzas-Lotharingenstraat",,,,relation
@@ -2236,7 +2234,7 @@ Roeierspad,,,,way
 "Rue de l'Outarde - Trapgansstraat",,,,way
 "Rue de l'Union - Uniestraat",,,,way
 "Rue de l'Urbanisme - Stedebouwstraat",,,,relation+way
-"Rue de l’Égalité des Droits - Gelijke Rechtenstraat",,,,way
+"Rue de l’Égalité des Droits - Gelijke Rechtenstraat",,,,relation
 "Rue de l’Émancipation - Emancipatiestraat",,,,relation
 "Rue de la Balsamine - Balsamienstraat",,,,relation
 "Rue de la Banque - Bankstraat",,,,way
@@ -2413,7 +2411,7 @@ Roeierspad,,,,way
 "Rue de la Querelle - Krakeelstraat",,,,relation
 "Rue de la Rasière - Sistervatstraat",,,,relation
 "Rue de la Réforme - Hervormingsstraat",,,,relation
-"Rue de la Régence - Regentschapsstraat",,,,way
+"Rue de la Régence - Regentschapsstraat",,,,relation
 "Rue de la Reine - Koninginnestraat",,,,way
 "Rue de la Reinette - Pippelingstraat",,,,relation
 "Rue de la Résistance - Verzetsstraat",,,,relation
@@ -2807,8 +2805,7 @@ Roeierspad,,,,way
 "Rue du Céleri - Selderijstraat",,,,way
 "Rue du Cens - Cijnsstraat",,,,relation
 "Rue du Cerf - Hertstraat",,,,relation
-"Rue du Cerisier - Kerseboomstraat",,,,relation
-"Rue du Cerisier - Kerselaarstraat",,,,way
+"Rue du Cerisier - Kerselaarstraat",,,,relation+way
 "Rue du Chalet - Chaletstraat",,,,relation
 "Rue du Chamois - Gemsstraat",,,,way
 "Rue du Champ de Mars - Marsveldstraat",,,,relation+way
@@ -3121,6 +3118,7 @@ Schaarbeeklei,,,,way
 "Schapenweg - Chemin des Moutons",,,,way
 Schoolgat,,,,relation
 "Sentier 116 - Voetweg 116",,,,way
+"Sentier 141 - Voetweg 141",,,,way
 "Sentier Decroly",,,,way
 "Sentier Jan Van Nijlen - Jan Van Nijlenpad",,,,way
 "Sentier Melati - Melatipad",,,,way
