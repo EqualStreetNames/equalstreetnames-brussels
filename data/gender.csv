@@ -104,6 +104,7 @@ name,source,gender,wikidata,type
 "Rue Fernande Volral - Fernande Volralstraat",wikidata,F,Q16262717,relation
 "Rue Gabrielle Petit - Gabrielle Petitstraat",wikidata,F,Q468263,relation
 "Rue Gatti de Gamond - Gatti de Gamondstraat",wikidata,F,Q2407913,way
+"Rue Général Mac Arthur - Generaal Mac Arthurstraat",wikidata,F,Q127417,way
 "Rue Hélène Dutrieu - Hélène Dutrieustraat",wikidata,F,Q236446,way
 "Rue Hélène Ryckmans - Hélène Ryckmansstraat",wikidata,F,Q88580726,relation
 "Rue Isala Van Diest - Isala Van Dieststraat",wikidata,F,Q2551409,way
@@ -687,7 +688,7 @@ name,source,gender,wikidata,type
 "Boulevard Pachéco - Pachecolaan",wikidata,M,Q91928012,way
 "Boulevard Poincaré - Poincarélaan",wikidata,M,Q191974,relation+way
 "Boulevard Prince de Liège - Prins van Luiklaan",wikidata,M,Q3911,relation
-"Boulevard Saint-Lazare - Sint-Lazaruslaan",wikidata,M,Q539890,relation
+"Boulevard Saint-Lazare - Sint-Lazaruslaan",wikidata,M,Q539890,relation+way
 "Boulevard Shakespeare - Shakespearelaan",wikidata,M,Q692,relation
 "Boulevard Simon Bolivar - Simon Bolivarlaan",wikidata,M,Q8605,relation+way
 "Boulevard Sylvain Dupuis - Sylvain Dupuislaan",wikidata,M,Q746748,relation+way
@@ -1043,6 +1044,7 @@ name,source,gender,wikidata,type
 "Rue Brederode - Brederodestraat",wikidata,M,Q1349577,relation
 "Rue Breesch - Breeschstraat",wikidata,M,Q93865039,relation
 "Rue Breughel - Breughelstraat",wikidata,M,Q43270,relation+way
+"Rue Breydel - Breydelstraat",wikidata,M,Q1394408,relation
 "Rue Brialmont - Brialmontstraat",wikidata,M,Q132142,relation
 "Rue Brichaut - Brichautstraat",wikidata,M,Q93870548;Q93871022,relation
 "Rue Brogniez - Brogniezstraat",wikidata,M,Q93871146,relation
@@ -1063,7 +1065,6 @@ name,source,gender,wikidata,type
 "Rue Caroly - Carolystraat",wikidata,M,Q94145471,relation
 "Rue Cervantès - Cervantesstraat",wikidata,M,Q5682,way
 "Rue César Depaepe - César Depaepestraat",wikidata,M,Q1150699,relation
-"Rue César Franck - César Franckstraat",wikidata,M,Q50187,relation
 "Rue Charles Bernaerts - Charles Bernaertsstraat",wikidata,M,Q94224877,way
 "Rue Charles Buls - Karel Bulsstraat",wikidata,M,Q716382,relation
 "Rue Charles Cammaert - Karel Cammaertstraat",wikidata,M,Q94225642,relation
@@ -1307,7 +1308,6 @@ name,source,gender,wikidata,type
 "Rue Général Henry - Generaal Henrystraat",wikidata,M,Q51648007,relation
 "Rue Général Leman - Generaal Lemanstraat",wikidata,M,Q277876,relation
 "Rue Général Lotz - Generaal Lotzstraat",wikidata,M,Q85428596,way
-"Rue Général Mac Arthur - Generaal Mac Arthurstraat",wikidata,M,Q127417,way
 "Rue Général Molitor - Generaal Molitorstraat",wikidata,M,Q47526105,relation
 "Rue Général Patton - Generaal Pattonstraat",wikidata,M,Q186492,relation
 "Rue Général Thys - Generaal Thysstraat",wikidata,M,Q2674098,relation
