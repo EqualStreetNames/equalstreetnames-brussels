@@ -80,14 +80,16 @@ name,source,gender,wikidata,type
 "Place Marguerite d'Autriche - Margaretha van Oostenrijkplein",wikidata,F,Q157100,relation+way
 "Place Marie Janson - Marie Jansonplein",wikidata,F,Q275821,relation
 "Place Marie-José - Marie-Joséplein",wikidata,F,Q72919,relation
+"Place Mounia Ouyahia - Mounia Ouyahiaplein",wikidata,F,Q110929590,way
 "Place Princesse Elisabeth - Prinses Elisabethplein",wikidata,F,Q235186,relation+way
 "Place Reine Astrid - Koningin Astridplein",wikidata,F,Q230238,relation+way
-"Place Reine Fabiola - Koningin Fabiolaplein",wikidata,F,Q231171,relation+way
+"Place Reine Fabiola - Koningin Fabiolaplein",wikidata,F,Q231171,relation
 "Place Sainte-Catherine - Sint-Katelijneplein",wikidata,F,Q179718,relation
 "Place Séverine - Séverineplein",wikidata,F,Q453679,relation+way
 "Place Stéphanie - Stefaniaplein",wikidata,F,Q170197,relation+way
 "Place de la Duchesse de Brabant - Hertogin van Brabantplaats",wikidata,F,Q234047,relation+way
 "Place de la Reine Paola - Koningin Paolaplein",wikidata,F,Q31129,relation+way
+"Pont Jeanne Partous - Jeanne Partousbrug",wikidata,F,Q117009765,way
 "Pont Suzan Daniel - Suzan Danielbrug",wikidata,F,Q2198159,way
 "Rond-point Maurane - Rondpunt Maurane",wikidata,F,Q509029,way
 "Rue Akarova - Akarovastraat",wikidata,F,Q2828943,relation
@@ -100,11 +102,10 @@ name,source,gender,wikidata,type
 "Rue Clémentine - Clementinestraat",wikidata,F,Q261129,relation
 "Rue Edith Cavell - Edith Cavellstraat",wikidata,F,Q237564,way
 "Rue Élise - Elizastraat",wikidata,F,Q89490193,relation
-"Rue Eunice N. Osayande - Eunice N. Osayandestraat",wikidata,F,Q108602159,way
+"Rue Eunice N. Osayande - Eunice N. Osayandestraat",wikidata,F,Q108602159,relation
 "Rue Fernande Volral - Fernande Volralstraat",wikidata,F,Q16262717,relation
 "Rue Gabrielle Petit - Gabrielle Petitstraat",wikidata,F,Q468263,relation
 "Rue Gatti de Gamond - Gatti de Gamondstraat",wikidata,F,Q2407913,way
-"Rue Général Mac Arthur - Generaal Mac Arthurstraat",wikidata,F,Q127417,way
 "Rue Hélène Dutrieu - Hélène Dutrieustraat",wikidata,F,Q236446,way
 "Rue Hélène Ryckmans - Hélène Ryckmansstraat",wikidata,F,Q88580726,relation
 "Rue Isala Van Diest - Isala Van Dieststraat",wikidata,F,Q2551409,way
@@ -1065,6 +1066,7 @@ name,source,gender,wikidata,type
 "Rue Caroly - Carolystraat",wikidata,M,Q94145471,relation
 "Rue Cervantès - Cervantesstraat",wikidata,M,Q5682,way
 "Rue César Depaepe - César Depaepestraat",wikidata,M,Q1150699,relation
+"Rue César Franck - César Franckstraat",wikidata,M,Q50187,relation
 "Rue Charles Bernaerts - Charles Bernaertsstraat",wikidata,M,Q94224877,way
 "Rue Charles Buls - Karel Bulsstraat",wikidata,M,Q716382,relation
 "Rue Charles Cammaert - Karel Cammaertstraat",wikidata,M,Q94225642,relation
@@ -1142,7 +1144,7 @@ name,source,gender,wikidata,type
 "Rue Dupont - Dupontstraat",wikidata,M,Q86055252,relation
 "Rue Dupré - Dupréstraat",wikidata,M,Q86067136,relation
 "Rue Duquesnoy - Duquesnoystraat",wikidata,M,Q2478963;Q960381,relation
-"Rue Duysburgh - Duysburghstraat",wikidata,M,Q86066128,relation+way
+"Rue Duysburgh - Duysburghstraat",wikidata,M,Q86066128,relation
 "Rue Edgar Degas - Edgar Degasstraat",wikidata,M,Q46373,relation
 "Rue Edgar Tinel - Edgar Tinelstraat",wikidata,M,Q377071,relation
 "Rue Edison - Edisonstraat",wikidata,M,Q8743,relation
@@ -1308,6 +1310,7 @@ name,source,gender,wikidata,type
 "Rue Général Henry - Generaal Henrystraat",wikidata,M,Q51648007,relation
 "Rue Général Leman - Generaal Lemanstraat",wikidata,M,Q277876,relation
 "Rue Général Lotz - Generaal Lotzstraat",wikidata,M,Q85428596,way
+"Rue Général Mac Arthur - Generaal Mac Arthurstraat",wikidata,M,Q127417,way
 "Rue Général Molitor - Generaal Molitorstraat",wikidata,M,Q47526105,relation
 "Rue Général Patton - Generaal Pattonstraat",wikidata,M,Q186492,relation
 "Rue Général Thys - Generaal Thysstraat",wikidata,M,Q2674098,relation

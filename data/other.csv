@@ -185,7 +185,6 @@ Alsembergsesteenweg,wikidata,,Q661993,way
 "Rond Point Bischoffchem - Rond Plein Bischoffchem",wikidata,,Q15895593,way
 "Rond-Point Boule et Bill - Bollie en Billierotonde",wikidata,,Q59991,way
 "Rond-point du Tibet - Tibetrondpunt",wikidata,,Q17269,way
-"Rue César Franck - César Franckstraat",wikidata,,Q50187,relation
 "Rue Ducale - Hertogstraat",wikidata,,Q166886,relation
 "Rue Guillaume Tell - Willem Tellstraat",wikidata,,Q30908,relation+way
 "Rue Middelbourg - Middelburgstraat",wikidata,,Q52101,way
@@ -282,7 +281,6 @@ Alsembergsesteenweg,wikidata,,Q661993,way
 "Square du Vieux Tilleul - Oude-Lindesquare",wikidata,,Q107294142,relation+way
 "Steenweg op Ruisbroek - Chaussée de Ruisbroek",wikidata,,Q1993738,way
 Treurenberg,wikidata,,Q110458175,relation
-"Tunnel Cortenbergh - Kortenbergtunnel",wikidata,,Q2181368,way
 "Tunnel Joyeuse Entrée - Blijde Inkomsttunnel",wikidata,,Q18927701,way
 "Tunnel Preckher-Senne - Preckher-Zennetunnel",wikidata,,Q3939196;Q845920,way
 "Venelle de Saint-Job - Sint-Jobsteeg",wikidata,,Q1927235,relation
@@ -1016,7 +1014,7 @@ Cauter,,,,relation
 "Champ du Tilleul - Lindeveld",,,,relation+way
 "Champ du Vert Chasseur - Groene Jagersveld",,,,way
 "Champ du Vert Chasseur - Groenejagersveld",,,,way
-"Chaussée d'Etterbeek - Etterbeeksesteenweg",,,,relation+way
+"Chaussée d'Etterbeek - Etterbeeksesteenweg",,,,relation
 "Chaussée d'Etterbeek - Steenweg op Etterbeek",,,,relation
 "Chaussée d'Ixelles - Elsense Steenweg",,,,relation
 "Chaussée de Boitsfort - Bosvoordse Steenweg",,,,relation
@@ -1300,8 +1298,6 @@ Cauter,,,,relation
 "Corniche des Étangs de Woluwe - Woluwevijversweg",,,,way
 "Coteau d'Anjou - Anjougaarde",,,,relation
 "Coudenberg - Koudenberg",,,,way
-"Couloir principal - Hoofdgang",,,,way
-"Couloir secondaire - Secundaire gang",,,,way
 "Cours Amarante - Amarantenhof",,,,relation
 "Coursive Plein Ciel - Openluchtwandelgang",,,,relation
 "Dédale du Campanile - Campaniledoolgang",,,,relation
@@ -1402,6 +1398,7 @@ Eversestraat,,,,way
 "Galerie Pacific",,,,way
 "Galerie Saint-Josse - Sint-Joost Galerij",,,,way
 "Galerie Sauvage Decor - Sauvage Decorgalerij",,,,way
+"Galerie Sud - Zuidgalerij",,,,way
 "Galerie Toison d'Or - Galerij Toison d’Or",,,,way
 "Galerie de Waterloo - Waterloogalerij",,,,way
 "Galerie de la Porte de Namur - Galerij van de Naamsepoort",,,,way
@@ -1411,7 +1408,6 @@ Eversestraat,,,,way
 "Galerie du Centre - Centrumgalerij",,,,way
 "Galerie du Cinquantenaire - Jubelgalerij",,,,way
 "Galerie du Commerce - Handelsgalerij",,,,way
-"Galerie du Midi - Zuidgalerij",,,,way
 "Galerie du Parlement - Parlementsgalerij",,,,relation
 "Galerie du Roi - Koningsgalerij",,,,relation
 "Grand-Place - Grote Markt",,,,relation
@@ -1420,6 +1416,7 @@ Eversestraat,,,,way
 Groenenberg,,,,relation
 Grootveld,,,,relation
 Gulledelle,,,,relation
+"Hall de gare - Stationshal",,,,way
 Hamweg,,,,relation
 Harenberg,,,,relation
 Heiligenborre,,,,way
@@ -1511,7 +1508,7 @@ Moensberg,,,,way
 "Montagne aux Ombres - Lommerberg",,,,relation+way
 "Montagne de Sable - Zavelberg",,,,way
 "Montagne de Saint-Job - Berg van Sint-Job",,,,way
-"Montagne de la Gare - Stationberg",,,,relation
+"Montagne de la Gare - Stationsberg",,,,relation
 "Montagne des Lapins - Konijnenberg",,,,relation
 "Montée de l'Esplanade",,,,way
 Mutsaertplaats,,,,way
@@ -1539,7 +1536,6 @@ Pachthoevestraat,,,,way
 "Petit chemin Vert - Korte Groenweg",,,,relation+way
 "Petite Drève du Maréchal - Maarschalkdreefje",,,,way
 "Petite Rue Kelle - Korte Kellestraat",,,,relation
-"Petite Rue de l'Église - Kleine Kerkstraat",,,,relation+way
 "Petite Rue des Brigittines - Korte Brigittinenstraat",,,,way
 "Petite avenue de la Métrologie - Korte Metrologielaan",,,,way
 "Petite drève de Groenendael - Groenendaeldreefje",,,,way
@@ -1548,6 +1544,7 @@ Pachthoevestraat,,,,way
 "Petite rue Courtois - Korte Courtoisstraat",,,,relation
 "Petite rue au Beurre - Korte Boterstraat",,,,way
 "Petite rue de Monaco - Monacostraatje",,,,way
+"Petite rue de l'Église - Kleine Kerkstraat",,,,relation
 "Petite rue de l'Hôpital - Kleine Gasthuisstraat",,,,relation+way
 "Petite rue de la Violette - Korte Violetstraat",,,,way
 "Petite rue des Bouchers - Korte Beenhouwersstraat",,,,way
@@ -1569,8 +1566,7 @@ Pachthoevestraat,,,,way
 "Piste cavalière des Ours - Berensruiterspad",,,,way
 "Piste cyclable de Bonne-Odeur - Wellriekendefietspad",,,,way
 "Place Basse - Laagplein",,,,way
-"Place Communale - Gemeenteplaats",,,,relation
-"Place Communale - Gemeenteplein",,,,way
+"Place Communale - Gemeenteplein",,,,relation
 "Place Communale d'Auderghem - Gemeenteplein van Oudergem",,,,way
 "Place De Linde - De Lindeplein",,,,relation+way
 "Place De Moor - De Moorplein",,,,way
@@ -1636,6 +1632,7 @@ Pachthoevestraat,,,,way
 "Place des Citronniers - Citroenbomenplein",,,,way
 "Place des Coopérateurs - Samenwerkersplein",,,,relation
 "Place des Étangs Noirs - Zwarte Vijversplein",,,,way
+"Place des Grands Hommes - Geweldige Mensenplein",,,,way
 "Place des Héros - Heldenplein",,,,way
 "Place des Palais - Paleizenplein",,,,relation+way
 "Place des Quatre Livres - Vier Boekenplein",,,,way
@@ -2186,7 +2183,7 @@ Roeierspad,,,,way
 "Rue de l'Équateur - Evenaarsstraat",,,,way
 "Rue de l'Équerre - Winkelhaakstraat",,,,relation
 "Rue de l'Équité - Gerechtigheidsstraat",,,,relation
-"Rue de l'Ermitage - Kluisstraat",,,,relation
+"Rue de l'Ermitage - Kluisstraat",,,,relation+way
 "Rue de l'Escadron - Eskadronstraat",,,,relation+way
 "Rue de l'Escaut - Scheldestraat",,,,relation
 "Rue de l'Escrime - Schermstraat",,,,way
