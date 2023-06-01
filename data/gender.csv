@@ -94,7 +94,7 @@ name,source,gender,wikidata,type
 "Rond-point Maurane - Rondpunt Maurane",wikidata,F,Q509029,way
 "Rue Akarova - Akarovastraat",wikidata,F,Q2828943,relation
 "Rue Amélie Gomand - Amélie Gomandstraat",wikidata,F,Q89489801,relation
-"Rue Andrée de Jongh - Andrée de Jonghstraat",wikidata,F,Q461027,way
+"Rue Andrée de Jongh - Andrée de Jonghstraat",wikidata,F,Q461027,relation
 "Rue Audrey Hepburn - Audrey Hepburnstraat",wikidata,F,Q42786,relation+way
 "Rue Camusel - Camuselstraat",wikidata,F,Q94143093,relation
 "Rue Chantal Akerman - Chantal Akermanstraat",wikidata,F,Q239823,way
@@ -102,7 +102,7 @@ name,source,gender,wikidata,type
 "Rue Clémentine - Clementinestraat",wikidata,F,Q261129,relation
 "Rue Edith Cavell - Edith Cavellstraat",wikidata,F,Q237564,way
 "Rue Élise - Elizastraat",wikidata,F,Q89490193,relation
-"Rue Eunice N. Osayande - Eunice N. Osayandestraat",wikidata,F,Q108602159,relation
+"Rue Eunice Nancy Osayande - Eunice Nancy Osayandestraat",wikidata,F,Q108602159,relation
 "Rue Fernande Volral - Fernande Volralstraat",wikidata,F,Q16262717,relation
 "Rue Gabrielle Petit - Gabrielle Petitstraat",wikidata,F,Q468263,relation
 "Rue Gatti de Gamond - Gatti de Gamondstraat",wikidata,F,Q2407913,way
@@ -140,7 +140,7 @@ name,source,gender,wikidata,type
 "Rue Van Gulick - Van Gulickstraat",wikidata,F,Q89490401,relation+way
 "Rue Virginie Plas - Virginie Plasstraat",wikidata,F,Q84347503,way
 "Rue Yvonne Jospa - Yvonne Jospastraat",wikidata,F,Q3574207,relation
-"Rue Yvonne Nèvejean - Yvonne Nèvejeanstraat",wikidata,F,Q2907465,way
+"Rue Yvonne Nèvejean - Yvonne Nèvejeanstraat",wikidata,F,Q2907465,relation
 "Rue de Sévigné - de Sévignéstraat",wikidata,F,Q237103,relation
 "Rue de la Madeleine - Magdalenasteenweg",wikidata,F,Q63070,relation
 "Square Clémentine - Clementinasquare",wikidata,F,Q261129,relation+way
@@ -499,7 +499,6 @@ name,source,gender,wikidata,type
 "Avenue Jules de Trooz - Jules de Troozlaan",wikidata,M,Q721798,relation+way
 "Avenue Julien Hanssens - Julien Hanssenslaan",wikidata,M,Q90986908,relation
 "Avenue Konrad Adenauer - Konrad Adenauerlaan",wikidata,M,Q2492,relation
-"Avenue Laënnec - Laënneclaan",wikidata,M,Q219621,relation
 "Avenue Le Marinel - Le Marinellaan",wikidata,M,Q770686,relation
 "Avenue Léo Errera - Léo Erreralaan",wikidata,M,Q1879380,relation
 "Avenue Léon Debatty - Léon Debattylaan",wikidata,M,Q90987653,relation
@@ -912,6 +911,7 @@ name,source,gender,wikidata,type
 "Rond Point Henri Simonet - Henri Simonetplein",wikidata,M,Q1606032,way
 "Rond-Point Henri Nestlé - Henri Nestléplein",wikidata,M,Q57290,way
 "Rond-Point Jean Offenberg - Jean Offenbergplein",wikidata,M,Q3173778,way
+"Rond-Point Max Morton - Max Mortonrotonde",wikidata,M,Q2119780,way
 "Rond-Point Pierre de Tollenaere - Pierre de Tollenaereplein",wikidata,M,Q92922717,way
 "Rond-Point René Cliquet - René Cliquetplein",wikidata,M,Q23889106,way
 "Rond-Point Robert Schuman - Robert Schumanplein",wikidata,M,Q15981,relation
@@ -1636,7 +1636,7 @@ name,source,gender,wikidata,type
 "Rue Pierre Verschelden - Pierre Verscheldenstraat",wikidata,M,Q86066578,relation+way
 "Rue Pierre-Victor Jacobs - Pierre-Victor Jacobsstraat",wikidata,M,Q106961173,relation
 "Rue Plantin - Plantinstraat",wikidata,M,Q380360,relation
-"Rue Pletinckx - Pletinckxstraat",wikidata,M,Q105102315,way
+"Rue Pletinckx - Pletinckxstraat",wikidata,M,Q105102315,relation
 "Rue Pol Stoppelaere - Pol Stoppelaerestraat",wikidata,M,Q106961147,relation
 "Rue Portaels - Portaelsstraat",wikidata,M,Q919158,relation
 "Rue Prévinaire - Prévinairestraat",wikidata,M,Q927597,relation+way
