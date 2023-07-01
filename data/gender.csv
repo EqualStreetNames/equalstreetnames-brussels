@@ -39,6 +39,7 @@ name,source,gender,wikidata,type
 "Carrefour Sainte-Anne - Sint-Annakruispunt",wikidata,F,Q164294,way
 "Chemin Elena Milashina",wikidata,F,Q1396156,way
 "Chemin Leila Saadé",wikidata,F,Q109533022,way
+"Chemin Louise Arbour",wikidata,F,Q239235,way
 "Chemin Marie Popelin",wikidata,F,Q2627259,way
 "Chemin Suzanne Tassier",wikidata,F,Q18613190,way
 "Chemin des Sœurs Schampaert - Gezusters Schampaertweg",wikidata,F,Q110062927;Q110062935,way
@@ -499,6 +500,7 @@ name,source,gender,wikidata,type
 "Avenue Jules de Trooz - Jules de Troozlaan",wikidata,M,Q721798,relation+way
 "Avenue Julien Hanssens - Julien Hanssenslaan",wikidata,M,Q90986908,relation
 "Avenue Konrad Adenauer - Konrad Adenauerlaan",wikidata,M,Q2492,relation
+"Avenue Laënnec - Laënneclaan",wikidata,M,Q219621,relation
 "Avenue Le Marinel - Le Marinellaan",wikidata,M,Q770686,relation
 "Avenue Léo Errera - Léo Erreralaan",wikidata,M,Q1879380,relation
 "Avenue Léon Debatty - Léon Debattylaan",wikidata,M,Q90987653,relation
@@ -708,7 +710,6 @@ name,source,gender,wikidata,type
 "Chemin François Englert",wikidata,M,Q151746,way
 "Chemin François Truffaut - François Truffautweg",wikidata,M,Q53002,way
 "Chemin Henri Storck",wikidata,M,Q2033012,way
-"Chemin Louise Arbour",wikidata,M,Q6067928,way
 "Chemin Luigi Visconti - Luigi Viscontiweg",wikidata,M,Q3066379,way
 "Chemin Luis Bunuel - Luis Bunuelweg",wikidata,M,Q51545,way
 "Chemin Robert Brout",wikidata,M,Q151833,way
@@ -1342,9 +1343,9 @@ name,source,gender,wikidata,type
 "Rue Goffart - Goffartstraat",wikidata,M,Q96480159,relation
 "Rue Goossens - Goossensstraat",wikidata,M,Q2847864,way
 "Rue Gouverneur Nens - Gouverneur Nensstraat",wikidata,M,Q96480175,relation+way
-"Rue Gray - Graystraat",wikidata,M,Q7790154,relation+way
+"Rue Gray - Graystraat",wikidata,M,Q7790154,relation
 "Rue Grégoire Leroy - Grégoire Leroystraat",wikidata,M,Q1817422,relation
-"Rue Grétry - Grétrystraat",wikidata,M,Q210962,relation+way
+"Rue Grétry - Grétrystraat",wikidata,M,Q210962,relation
 "Rue Grisar - Grisarstraat",wikidata,M,Q2003880,relation
 "Rue Guido Gezelle - Guido Gezellestraat",wikidata,M,Q336977,relation
 "Rue Guillaume Beliën - Guillaume Beliënstraat",wikidata,M,Q96581183,relation
@@ -1918,7 +1919,7 @@ name,source,gender,wikidata,type
 "Rue Buchholtz - Buchholtzstraat",csv,+,,relation
 "Rue Vandenhoven - Vandenhovenstraat",csv,+,,relation
 "Drève Soetkin - Soetkindreef",csv,-,,relation
-"Impasse Ronsmans - Ronsmansgang",csv,?,,way
+"Cité Ronsmans - Ronsmanswijk",csv,?,,way
 "Rue Bouvier - Bouvierstraat",csv,?,,relation
 "Rue Brunard - Brunardstraat",csv,?,,relation
 "Rue Capouillet - Capouilletstraat",csv,?,,way

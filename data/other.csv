@@ -19,7 +19,6 @@ Alsembergsesteenweg,wikidata,,Q661993,way
 "Avenue Cassiopée - Cassiopealaan",wikidata,,Q207681,relation
 "Avenue De Roovere - De Rooverelaan",wikidata,,Q22998598,relation
 "Avenue Jupiter - Jupiterlaan",wikidata,,Q4649,way
-"Avenue Laënnec - Laënneclaan",wikidata,,Q219621,relation
 "Avenue Minerve - Minervalaan",wikidata,,Q126916,relation
 "Avenue Montgolfier - Montgolfierlaan",wikidata,,Q193751,relation
 "Avenue Neptune - Neptunuslaan",wikidata,,Q3954,relation
@@ -54,7 +53,6 @@ Alsembergsesteenweg,wikidata,,Q661993,way
 "Avenue de la Gueuze - Gueuzelaan",wikidata,,Q1520229,way
 "Avenue de la Porte de Hal - Hallepoortlaan",wikidata,,Q2988142,relation
 "Avenue des Abeilles - Bijenlaan",wikidata,,Q7391,relation
-"Avenue des Celtes - Keltenlaan",wikidata,,Q35966,relation+way
 "Avenue des Chanterelles - Hanenkammenlaan",wikidata,,Q3942018,way
 "Avenue des Gaulois - Galliërslaan",wikidata,,Q273854,relation+way
 "Avenue des Hortensias - Hortensiaslaan",wikidata,,Q155997,way
@@ -368,7 +366,6 @@ Treurenberg,wikidata,,Q110458175,relation
 "Ancien Middelweg - Oude Middelweg",,,,way
 "Ancienne chaussée de Haecht - Oude Haachtsesteenweg",,,,relation
 Antwerpselaan,,,,way
-"Aux Promoteurs des Installations Maritimes - Aan de Ontwerpers der Zeehaveninrichtingen",,,,way
 "Avenue 's Heren Huys - 's Herenhuislaan",,,,way
 "Avenue 1 - Laan 1",,,,way
 "Avenue 10 - Laan 10",,,,way
@@ -676,6 +673,7 @@ Antwerpselaan,,,,way
 "Avenue des Cardamines - Veldkerslaan",,,,relation
 "Avenue des Casernes - Kazernenlaan",,,,relation+way
 "Avenue des Cattleyas - Cattleyalaan",,,,relation+way
+"Avenue des Celtes - Keltenlaan",,,,relation
 "Avenue des Cèpes - Eekhorentjesbrodenlaan",,,,relation
 "Avenue des Cerisiers - Kerselarenlaan",,,,relation+way
 "Avenue des Châlets - Kasteeltjeslaan",,,,way
@@ -1471,6 +1469,7 @@ Hunderenveld,,,,relation
 "Impasse du Réveil - Wekkergang",,,,way
 "Impasse du Roulier - Voermansgang",,,,way
 "Impasse du Val des Roses - Rozendaal",,,,relation
+Indringingsweg,,,,way
 Jagersveld,,,,way
 "Jardin des Justes - Tuin der Rechtvaardingen",,,,relation
 "Jozef Van Elewijckstraat",,,,way
@@ -2189,7 +2188,7 @@ Roeierspad,,,,way
 "Rue de l'Enseignement - Onderrichtsstraat",,,,relation
 "Rue de l'Enthousiasme - Geestdriftstraat",,,,relation+way
 "Rue de l'Entrepôt - Stapelhuisstraat",,,,relation
-"Rue de l'Épargne - Spaarstraat",,,,relation
+"Rue de l'Épargne - Spaarstraat",,,,relation+way
 "Rue de l'Épée - Zwaardstraat",,,,relation+way
 "Rue de l'Équateur - Evenaarsstraat",,,,way
 "Rue de l'Équerre - Winkelhaakstraat",,,,relation
@@ -3205,6 +3204,7 @@ Sluipdelleweg,,,,way
 Sparrenweg,,,,way
 "Square Alexandre - Alexandreplein",,,,way
 "Square Atlas - Atlasplein",,,,way
+"Square Blabla - Blablaplein",,,,way
 "Square Cardinal Cardijn - Kardinaal Cardijnplantsoen",,,,way
 "Square De Fré - De Frésquare",,,,way
 "Square De Guise - De Guiseplein",,,,relation
