@@ -79,7 +79,7 @@ name,source,gender,wikidata,type
 "Place Lucienne Herman-Michielsens - Lucienne Herman-Michielsensplein",wikidata,F,Q2210215,way
 "Place Mahsa Amini - Mahsa Aminiplein",wikidata,F,Q113994656,way
 "Place Marguerite d'Autriche - Margaretha van Oostenrijkplein",wikidata,F,Q157100,relation+way
-"Place Marie Janson - Marie Jansonplein",wikidata,F,Q275821,relation
+"Place Marie Janson - Marie Jansonplein",wikidata,F,Q275821,way
 "Place Marie-José - Marie-Joséplein",wikidata,F,Q72919,relation
 "Place Mounia Ouyahia - Mounia Ouyahiaplein",wikidata,F,Q110929590,way
 "Place Princesse Elisabeth - Prinses Elisabethplein",wikidata,F,Q235186,relation+way
@@ -452,7 +452,7 @@ name,source,gender,wikidata,type
 "Avenue Jean Dubrucq - Jean Dubrucqlaan",wikidata,M,Q2285285,relation+way
 "Avenue Jean Jaurès - Jean Jaurèslaan",wikidata,M,Q12688,relation
 "Avenue Jean Josée - Jean Joséelaan",wikidata,M,Q90719810,relation
-"Avenue Jean Joseph Crocq - Jean Joseph Crocqlaan",wikidata,M,Q3171488,way
+"Avenue Jean Joseph Crocq - Jean Joseph Crocqlaan",wikidata,M,Q3171488,relation
 "Avenue Jean Laudy - Jean Laudylaan",wikidata,M,Q4843860,relation
 "Avenue Jean Monnet - Jean Monnetlaan",wikidata,M,Q159700,relation+way
 "Avenue Jean Palfijn - Jean Palfijnlaan",wikidata,M,Q1682107,relation
@@ -470,7 +470,6 @@ name,source,gender,wikidata,type
 "Avenue Jean-Baptiste Depaire - Jean-Baptiste Depairelaan",wikidata,M,Q86086166,relation+way
 "Avenue Jean-François Debecker - Jean-François Debeckerlaan",wikidata,M,Q90832971,relation
 "Avenue Jean-François Leemans - Jean-François Leemanslaan",wikidata,M,Q90834772,way
-"Avenue Jean-Joseph Crocq - Jean-Joseph Crocqlaan",wikidata,M,Q3171488,relation
 "Avenue Jef Lambeaux - Jef Lambeauxlaan",wikidata,M,Q2515102,way
 "Avenue Jolé - Jolélaan",wikidata,M,Q90915648;Q90916142,way
 "Avenue Joseph Baeck - Joseph Baecklaan",wikidata,M,Q14632763,relation+way
