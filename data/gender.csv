@@ -59,7 +59,7 @@ name,source,gender,wikidata,type
 "Espace Louise - Louiza Espace",wikidata,F,Q237318,way
 "Galerie Louise - Louizagalerij",wikidata,F,Q237318,way
 "Galerie de la Porte Louise - Galerij van de Louizapoort",wikidata,F,Q237318,way
-"Impasse Sainte-Pétronille - Sint-Petronillagang",wikidata,F,Q463600,way
+"Impasse Sainte-Pétronille - Sint-Petronillagang",wikidata,F,Q463600,relation
 "Parvis Notre-Dame - Onze-Lieve-Vrouwvoorplein",wikidata,F,Q345,relation+way
 "Parvis Sainte-Alix - Sinte-Aleidisvoorplein",wikidata,F,Q1860408,relation+way
 "Parvis Sainte-Cécile - Sint-Ceciliavoorplein",wikidata,F,Q80513,relation
@@ -67,6 +67,7 @@ name,source,gender,wikidata,type
 "Passage Monique Martin - Monique Martin-doorgang",wikidata,F,Q3094148,way
 "Passage Simone Signoret - Simone Signoretdoorgang",wikidata,F,Q106126,way
 "Passerelle Fatima Mernissi - Fatima Mernissiloopbrug",wikidata,F,Q242376,way
+"Passerelle Jeanne Partous - Jeanne Partousbrug",wikidata,F,Q117009765,way
 "Passerelle Loredana Marchi - Loredana Marchiloopbrug",wikidata,F,Q108410028,way
 "Petite Rue Malibran - Korte Malibranstraat",wikidata,F,Q232783,relation
 "Petite Rue Sainte-Anne - Kleine Sint-Annastraat",wikidata,F,Q164294,relation+way
@@ -90,7 +91,6 @@ name,source,gender,wikidata,type
 "Place Stéphanie - Stefaniaplein",wikidata,F,Q170197,relation+way
 "Place de la Duchesse de Brabant - Hertogin van Brabantplaats",wikidata,F,Q234047,relation+way
 "Place de la Reine Paola - Koningin Paolaplein",wikidata,F,Q31129,relation+way
-"Pont Jeanne Partous - Jeanne Partousbrug",wikidata,F,Q117009765,way
 "Pont Suzan Daniel - Suzan Danielbrug",wikidata,F,Q2198159,way
 "Rond-point Maurane - Rondpunt Maurane",wikidata,F,Q509029,way
 "Rue Akarova - Akarovastraat",wikidata,F,Q2828943,relation
@@ -103,7 +103,7 @@ name,source,gender,wikidata,type
 "Rue Clémentine - Clementinestraat",wikidata,F,Q261129,relation
 "Rue Edith Cavell - Edith Cavellstraat",wikidata,F,Q237564,way
 "Rue Élise - Elizastraat",wikidata,F,Q89490193,relation
-"Rue Eunice Nancy Osayande - Eunice Nancy Osayandestraat",wikidata,F,Q108602159,relation
+"Rue Eunice N. Osayande - Eunice N. Osayandestraat",wikidata,F,Q108602159,relation
 "Rue Fernande Volral - Fernande Volralstraat",wikidata,F,Q16262717,relation
 "Rue Gabrielle Petit - Gabrielle Petitstraat",wikidata,F,Q468263,relation
 "Rue Gatti de Gamond - Gatti de Gamondstraat",wikidata,F,Q2407913,way
@@ -156,7 +156,6 @@ name,source,gender,wikidata,type
 "Tunnel Annie Cordy - Annie Cordytunnel",wikidata,F,Q465249,way
 "Tunnel Louise - Louizatunnel",wikidata,F,Q237318,way
 "Tunnel Stéphanie - Stefaniatunnel",wikidata,F,Q170197,way
-"de Castonierlaan - Avenue de Castonier",wikidata,F,Q88385819,way
 "Allée Albert Dasnoy - Albert Dasnoydreef",wikidata,M,Q2831077,way
 "Allée André Franquin - André Franquindreef",wikidata,M,Q281411,way
 "Allée André Willequet - André Willequetdreef",wikidata,M,Q523419,way
@@ -581,7 +580,7 @@ name,source,gender,wikidata,type
 "Avenue Platon - Platolaan",wikidata,M,Q859,relation
 "Avenue Prince Baudouin - Prins Boudewijnlaan",wikidata,M,Q12976,relation+way
 "Avenue Prudent Bols - Prudent Bolslaan",wikidata,M,Q91640531,relation
-"Avenue Ptolémée - Ptolemeelaan",wikidata,M,Q34943,way
+"Avenue Ptolémée - Ptoléméelaan",wikidata,M,Q34943,way
 "Avenue Raymond Foucart - Raymond Foucartlaan",wikidata,M,Q3420859,relation
 "Avenue Raymond Vander Bruggen - Raymond Vander Bruggenlaan",wikidata,M,Q91640833,relation
 "Avenue Raymond de Meester - Raymond de Meesterlaan",wikidata,M,Q3421231,relation
@@ -696,10 +695,10 @@ name,source,gender,wikidata,type
 "Boulevard Théo Lambert - Théo Lambertlaan",wikidata,M,Q91929694,relation
 "Boulevard de Smet de Naeyer - de Smet de Naeyerlaan",wikidata,M,Q721781,relation+way
 "Boulevard du Roi Albert II - Koning Albert II-laan",wikidata,M,Q3911,relation
-"Carrefour Jean Monnet - Jean Monnet Kruispunt",wikidata,M,Q159700,way
+"Carrefour Jean Monnet - Jean Monnetkruispunt",wikidata,M,Q159700,way
 "Carrefour de Sélys Longchamps - de Sélis Longchampskruispunt",wikidata,M,Q2198309,way
 "Chaussée Saint-Pierre - Sint-Pieterssteenweg",wikidata,M,Q33923,relation+way
-"Chaussée de La Hulpe - Terhulpsesteenweg",wikidata,M,Q8007,way
+"Chaussée de La Hulpe - Terhulpensesteenweg",wikidata,M,Q8007,way
 "Chemin Ahmet Insel",wikidata,M,Q6067928,way
 "Chemin Alfred Hitchcock - Alfred Hitchcockweg",wikidata,M,Q7374,way
 "Chemin Bourvil - Bourvilweg",wikidata,M,Q2750,way
@@ -755,7 +754,7 @@ name,source,gender,wikidata,type
 "Drève Joseph Vanderborght - Joseph Vanderborghtdreef",wikidata,M,Q3185718,way
 "Drève Recteur Van Waeyenbergh - Rector Van Waeyenberghdreef",wikidata,M,Q2248867,way
 "Drève Saint-Hubert - Sint-Hubertusdreef",wikidata,M,Q159834,relation
-"Drève de Lorraine - Lorreinendreef",wikidata,M,Q158232,way
+"Drève de Lorraine - Lorrainedreef",wikidata,M,Q158232,way
 "Espace Baron Paul Halter - Baron Paul Halterplaats",wikidata,M,Q3371421,way
 "Esplanade Jacques Brel - Jacques Brelesplanade",wikidata,M,Q1666,way
 "Esplanade Paul-Henri Spaak - Paul-Henri Spaakvoorplein",wikidata,M,Q155691,way
@@ -1116,7 +1115,7 @@ name,source,gender,wikidata,type
 "Rue De Lenglentier - De Lenglentierstraat",wikidata,M,Q82317733,relation
 "Rue De Mot - De Motstraat",wikidata,M,Q94578253,relation
 "Rue De Neck - De Neckstraat",wikidata,M,Q85425067,relation
-"Rue De Praetere - De Praeterestraat",wikidata,M,Q2592861,way
+"Rue De Praetere - De Praeterestraat",wikidata,M,Q2592861,relation
 "Rue Defacqz - Defacqzstraat",wikidata,M,Q2570848,relation+way
 "Rue Dejoncker - Dejonckerstraat",wikidata,M,Q94578304,relation
 "Rue Démosthène - Demosthenesstraat",wikidata,M,Q117253,relation+way
@@ -1812,6 +1811,7 @@ name,source,gender,wikidata,type
 "Rue de Moerkerke - de Moerkerkestraat",wikidata,M,Q85945441,way
 "Rue de Moranville - de Moranvillestraat",wikidata,M,Q20724054,relation
 "Rue de Potter - de Potterstraat",wikidata,M,Q1295332,relation
+"Rue de Praetere - de Praeterestraat",wikidata,M,Q2592861,relation
 "Rue de Stassart - de Stassartstraat",wikidata,M,Q1538693,relation
 "Rue de Theux - de Theuxstraat",wikidata,M,Q472257,relation
 "Rue de Wautier - de Wautierstraat",wikidata,M,Q94690356,relation
