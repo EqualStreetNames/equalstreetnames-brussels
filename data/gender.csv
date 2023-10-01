@@ -6,6 +6,7 @@ name,source,gender,wikidata,type
 "Avenue Tedesco - Tedescolaan",wikidata,+,Q91870858;Q91870861;Q91871003,way
 "Rue Albert et Marie-Louise Servais-Kinet - Albert en Marie-Louise Servais-Kinetstraat",wikidata,+,Q89366028;Q89366128,relation
 "Agora Simone Veil",wikidata,F,Q298180,way
+"Allée Chantal Akerman - Chantal Akermandreef",wikidata,F,Q239823,way
 "Allée Clara Clairbert - Clara Clairbertdreef",wikidata,F,Q5125964,relation
 "Allée Estelle Juste - Estelle Justedreef",wikidata,F,Q38031104,way
 "Allée Irène Vanderlinden - Irène Vanderlindendreef",wikidata,F,Q86199370,way
@@ -1022,7 +1023,7 @@ name,source,gender,wikidata,type
 "Rue Bara - Barastraat",wikidata,M,Q350861,relation
 "Rue Baron Dhanis - Baron Dhanisstraat",wikidata,M,Q2344129,relation+way
 "Rue Baron Guillaume Van Hamme - Baron Guillaume Van Hammestraat",wikidata,M,Q93615999,relation
-"Rue Baron Horta - Baron Hortastraat",wikidata,M,Q49744,way
+"Rue Baron Horta - Baron Hortastraat",wikidata,M,Q49744,relation
 "Rue Baron Lambert - Baron Lambertstraat",wikidata,M,Q2884771,relation
 "Rue Baron Perelman - Baron Perelmanstraat",wikidata,M,Q456301,relation
 "Rue Baron Roger Vander Noot - Baron Roger Vander Nootstraat",wikidata,M,Q93749212,relation

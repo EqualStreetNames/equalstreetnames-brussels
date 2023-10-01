@@ -121,6 +121,7 @@ Alsembergsesteenweg,wikidata,,Q661993,way
 "Drève du Parc - Parkdreef",wikidata,,Q20127595,relation+way
 "Escalier des Juifs - Jodentrap",wikidata,,Q7325,way
 "Esplanade Solidarność 1980",wikidata,,Q1003,relation
+"Esplanade de l'Europe - Europaesplanade",wikidata,,Q458,relation+way
 "Galerie Matongé - Matongégalerij",wikidata,,Q900749,way
 "Galerie Ravenstein - Ravensteingalerij",wikidata,,Q3145650,relation
 "Galerie de la Rue de Ruysbroeck - Galerij van de Ruisbroekstraat",wikidata,,Q85073667,way
@@ -1199,6 +1200,7 @@ Cauter,,,,relation
 "Clos Medicis - Medicisgaarde",,,,relation
 "Clos Montagne des Lapins - Konijnenberggaarde",,,,relation
 "Clos Tom & Jerry - Tom & Jerrygaarde",,,,relation
+"Clos Victor Guns - Victor Gunsgaarde",,,,way
 "Clos Wannecouter - Wannekoutergaarde",,,,relation
 "Clos d'Orléans - Orleansgaarde",,,,relation
 "Clos de Wagram - Wagramgaarde",,,,way
@@ -1382,6 +1384,7 @@ Donderberg,,,,relation
 "Drève du Prieuré - Priorijdreef",,,,way
 "Drève du Prince - Prinsendreef",,,,way
 "Drève du Relais des Dames - Damenrustdreef",,,,way
+"Drève du Relais des Dames - Damesrustdreef",,,,way
 "Drève du Rembucher - Terugdrift",,,,way
 "Drève du Renard - Vosdreef",,,,way
 "Drève du Renard - Vossendreef",,,,way
@@ -1397,12 +1400,10 @@ Duivenschietweg,,,,way
 "Escalier des Lions - Leeuwentrap",,,,way
 "Escaliers des Minimes - Minimentrap",,,,way
 Esplanade,,,,relation+way
-"Esplanade de l'Europe - Europaesplanade",,,,relation+way
 Eversestraat,,,,way
 "Fond de vallée - Beneden in het dal",,,,way
 "Font Saint Landry - Sint Lendriksborre",,,,relation
 "Galerie Agora - Agoragalerij",,,,way
-"Galerie Anspach - Anspachgalerij",,,,way
 "Galerie Bortier - Bortiergalerij",,,,way
 "Galerie M - M-galerij",,,,way
 "Galerie Pacific",,,,way
@@ -1526,6 +1527,7 @@ Moensberg,,,,way
 "Montée de l'Esplanade",,,,way
 Mutsaardplein,,,,way
 Neerleest,,,,relation
+"Nieuwe Gentsesteenweg",,,,way
 Noendelle,,,,relation+way
 "Oppemlaan - Avenue d'Oppem",,,,way
 Opstalweg,,,,way
@@ -1907,7 +1909,6 @@ Roeierspad,,,,way
 "Rue Rittweger - Rittwegerstraat",,,,way
 "Rue Roodenberg - Rodenberg",,,,relation
 "Rue Rouge - Rodestraat",,,,relation
-"Rue Rouge Cloître - Rood Kloosterstraat",,,,way
 "Rue Saint-André - Sint-Andriesstraat",,,,relation
 "Rue Saint-Boniface - Sint-Bonifaasstraat",,,,relation
 "Rue Saint-Josse - Sint-Jooststraat",,,,relation
@@ -2237,7 +2238,7 @@ Roeierspad,,,,way
 "Rue de l'Institut - Instituutstraat",,,,relation
 "Rue de l'Instruction - Onderwijsstraat",,,,relation+way
 "Rue de l'Intendant - Opzichterstraat",,,,relation+way
-"Rue de l'Obus - Obusstraat",,,,relation+way
+"Rue de l'Obus - Obusstraat",,,,relation
 "Rue de l'Oiselet - Nestelingstraat",,,,relation
 "Rue de l'Ordre - Ordestraat",,,,relation+way
 "Rue de l'Orient - Morgenlandstraat",,,,relation
@@ -2262,7 +2263,7 @@ Roeierspad,,,,way
 "Rue de la Bigorne - Speerhaakstraat",,,,relation
 "Rue de la Blanchisserie - Blekerijstraat",,,,relation
 "Rue de la Bonne Reine - Goede Koninginstraat",,,,relation
-"Rue de la Bonté - Goedheidstraat",,,,way
+"Rue de la Bonté - Goedheidstraat",,,,relation
 "Rue de la Borne - Paalstraat",,,,relation
 "Rue de la Bougie - Waskaarsstraat",,,,relation
 "Rue de la Bourse - Beursstraat",,,,way
@@ -2547,7 +2548,7 @@ Roeierspad,,,,way
 "Rue des Chaisiers - Stoelenmakersstraat",,,,relation
 "Rue des Châlets - Lusthuizenstraat",,,,relation+way
 "Rue des Champs - Veldstraat",,,,relation
-"Rue des Champs Elysées - Elyzeese Veldenstraat",,,,relation
+"Rue des Champs Élysées - Elyzeese Veldenstraat",,,,relation
 "Rue des Chandeliers - Kandelaarsstraat",,,,relation
 "Rue des Charbonniers - Koolbrandersstraat",,,,way
 "Rue des Chardons - Distelsstraat",,,,relation
@@ -2941,7 +2942,7 @@ Roeierspad,,,,way
 "Rue du Knijf - Knijfstraat",,,,way
 "Rue du Korenbeek - Korenbeekstraat",,,,relation+way
 "Rue du Kriekenput - Kriekenputstraat",,,,way
-"Rue du Labeur - Arbeidsstraat",,,,relation+way
+"Rue du Labeur - Arbeidsstraat",,,,relation
 "Rue du Labrador - Labradorstraat",,,,way
 "Rue du Lac - Meerstraat",,,,relation+way
 "Rue du Laekenveld - Laekenveldstraat",,,,relation+way
@@ -3061,6 +3062,7 @@ Roeierspad,,,,way
 "Rue du Roman - Romanstraat",,,,relation
 "Rue du Romarin - Rosmarijnstraat",,,,relation
 "Rue du Roseau - Rietstraat",,,,relation
+"Rue du Rouge-Cloître - Rokloosterstraat",,,,way
 "Rue du Rouge-Gorge - Roodborstjestraat",,,,way
 "Rue du Rouleau - Rolstraat",,,,relation
 "Rue du Ruanda - Ruandastraat",,,,relation
