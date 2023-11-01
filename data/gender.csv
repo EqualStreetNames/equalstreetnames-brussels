@@ -29,7 +29,7 @@ name,source,gender,wikidata,type
 "Avenue Marie-José - Marie-Josélaan",wikidata,F,Q72919,relation
 "Avenue Nellie Melba - Nellie Melbalaan",wikidata,F,Q237607,relation
 "Avenue Notre-Dame - Onze Lieve Vrouwlaan",wikidata,F,Q345,way
-"Avenue Princesse Elisabeth - Prinses Elisabethlaan",wikidata,F,Q235186,relation
+"Avenue Princesse Elisabeth - Prinses Elisabethlaan",wikidata,F,Q235186,relation+way
 "Avenue Reine Marie-Henriette - Koningin Maria-Hendrikalaan",wikidata,F,Q234047,way
 "Avenue Sainte-Alix - Sinte-Aleidislaan",wikidata,F,Q1860408,relation
 "Avenue Sainte-Anne - Sint-Annalaan",wikidata,F,Q164294,way
@@ -112,6 +112,7 @@ name,source,gender,wikidata,type
 "Rue Hélène Ryckmans - Hélène Ryckmansstraat",wikidata,F,Q88580726,relation
 "Rue Isala Van Diest - Isala Van Dieststraat",wikidata,F,Q2551409,way
 "Rue Jacqueline Harpman - Jacqueline Harpmanstraat",wikidata,F,Q371922,relation
+"Rue Jeannine Burny - Jeannine Burnystraat",wikidata,F,Q123020966,way
 "Rue Juliette Wytsman - Juliette Wytsmanstraat",wikidata,F,Q3189783,relation
 "Rue Lola Bobesco - Lola Bobescostraat",wikidata,F,Q2370033,relation
 "Rue Marguerite Bervoets - Marguerite Bervoetsstraat",wikidata,F,Q3290678,relation
@@ -277,7 +278,7 @@ name,source,gender,wikidata,type
 "Avenue Charles d'Orjo de Marchovelette - Charles d'Orjo de Marchovelettelaan",wikidata,M,Q90039051,relation
 "Avenue Charles de Thiennes - Charles de Thienneslaan",wikidata,M,Q2001632,relation
 "Avenue Charles-Quint - Keizer Karellaan",wikidata,M,Q32500,relation+way
-"Avenue Chazal - Chazallaan",wikidata,M,Q321760,relation+way
+"Avenue Chazal - Chazallaan",wikidata,M,Q321760,relation
 "Avenue Cicéron - Cicerolaan",wikidata,M,Q1541,relation+way
 "Avenue Clays - Clayslaan",wikidata,M,Q2959082,relation
 "Avenue Clemenceau - Clemenceaulaan",wikidata,M,Q171730,relation+way
@@ -611,7 +612,7 @@ name,source,gender,wikidata,type
 "Avenue Thiriar - Thiriarlaan",wikidata,M,Q15401517,relation
 "Avenue Thomas Frissen - Thomas Frissenlaan",wikidata,M,Q91872343,relation
 "Avenue Tolstoï - Tolstoïlaan",wikidata,M,Q7243,relation
-"Avenue Van Praet - Van Praetlaan",wikidata,M,Q3070531,relation
+"Avenue Van Praet - Van Praetlaan",wikidata,M,Q3070531,relation+way
 "Avenue Vanderaey - Vanderaeylaan",wikidata,M,Q91872357,relation
 "Avenue Vandromme - Vandrommelaan",wikidata,M,Q91888134;Q91888154,relation
 "Avenue Verdi - Verdilaan",wikidata,M,Q7317,relation
@@ -1616,6 +1617,7 @@ name,source,gender,wikidata,type
 "Rue Peter Benoit - Peter Benoitstraat",wikidata,M,Q733063,relation
 "Rue Philippe Baucq - Philippe Baucqstraat",wikidata,M,Q3379147,relation+way
 "Rue Philippe Dewolfs - Philippe Dewolfsstraat",wikidata,M,Q109319127,way
+"Rue Philippe Thys - Philippe Thysstraat",wikidata,M,Q324961,way
 "Rue Philippe de Champagne - Philippe de Champagnestraat",wikidata,M,Q314814,relation
 "Rue Philippe le Bon - Filips de Goedestraat",wikidata,M,Q239337,way
 "Rue Pierre De Breuker - Pierre De Breukerstraat",wikidata,M,Q86063782,relation
@@ -1675,7 +1677,7 @@ name,source,gender,wikidata,type
 "Rue Saint-Ghislain - Sint-Gisleinsstraat",wikidata,M,Q740017,relation
 "Rue Saint-Henri - Sint-Hendrikstraat",wikidata,M,Q103556,relation
 "Rue Saint-Hubert - Sint-Huibrechtsstraat",wikidata,M,Q159834,relation
-"Rue Saint-Jean Népomucène - Sint-Jan Nepomucenusstraat",wikidata,M,Q221522,relation
+"Rue Saint-Jean Népomucène - Sint-Jan Nepomucenusstraat",wikidata,M,Q221522,relation+way
 "Rue Saint-Joseph - Sint-Jozefstraat",wikidata,M,Q128267,relation
 "Rue Saint-Lambert - Sint-Lambertusstraat",wikidata,M,Q283447,relation
 "Rue Saint-Nicolas - Sint-Nikolaasstraat",wikidata,M,Q44269,relation

@@ -285,6 +285,7 @@ Alsembergsesteenweg,wikidata,,Q661993,way
 "Square du Solbosch - Solbossquare",wikidata,,Q3280691,relation+way
 "Square du Vieux Tilleul - Oude-Lindesquare",wikidata,,Q107294142,relation+way
 "Steenweg op Ruisbroek - Chaussée de Ruisbroek",wikidata,,Q1993738,way
+Tervuursesteenweg,wikidata,,Q456544,way
 Treurenberg,wikidata,,Q110458175,relation
 "Tunnel Joyeuse Entrée - Blijde Inkomsttunnel",wikidata,,Q18927701,way
 "Venelle de Saint-Job - Sint-Jobsteeg",wikidata,,Q1927235,relation
@@ -829,7 +830,7 @@ Antwerpselaan,,,,way
 "Avenue des Tilleuls - Lindenlaan",,,,way
 "Avenue des Touristes - Toeristenlaan",,,,relation
 "Avenue des Tourterelles - Tortelduivenlaan",,,,relation
-"Avenue des Traquets - Zwartkeeltjeslaan",,,,relation+way
+"Avenue des Traquets - Zwartkeeltjeslaan",,,,relation
 "Avenue des Trembles - Abelenlaan",,,,relation+way
 "Avenue des Tritons - Zeegodenlaan",,,,relation
 "Avenue des Tropiques - Keerkringenlaan",,,,relation
@@ -1143,6 +1144,7 @@ Cauter,,,,relation
 "Chemin des Taupes - Mollenweg",,,,way
 "Chemin des Tempêtes - Stormenweg",,,,way
 "Chemin des Tigelles - Stengeltjesweg",,,,relation
+"Chemin des Tournesols - Zonnebloemweg",,,,way
 "Chemin des Traqueurs - Drijversweg",,,,way
 "Chemin des Tumuli - Tumuliweg",,,,way
 "Chemin des serres - Weg naar de serres",,,,way
@@ -1309,8 +1311,8 @@ Cauter,,,,relation
 "Corniche des Étangs de Woluwe - Woluwevijversweg",,,,way
 "Coteau d'Anjou - Anjougaarde",,,,relation
 "Coudenberg - Koudenberg",,,,way
-"Cours Amarante - Amarantenhof",,,,relation+way
-"Coursive Plein Ciel - Openluchtwandelgang",,,,relation+way
+"Cours Amarante - Amarantenhof",,,,relation
+"Coursive Plein Ciel - Openluchtwandelgang",,,,relation
 "Dédale du Campanile - Campaniledoolgang",,,,relation
 Diegemvoetweg,,,,way
 Dieweg,,,,relation
@@ -1421,7 +1423,6 @@ Eversestraat,,,,way
 "Galerie du Commerce - Handelsgalerij",,,,way
 "Galerie du Parlement - Parlementsgalerij",,,,relation
 "Galerie du Roi - Koningsgalerij",,,,relation
-Gentsesteenweg,,,,way
 "Grand-Place - Grote Markt",,,,relation
 "Grande Avenue - Grote Laan",,,,way
 "Grande rue au Bois - Grote Bosstraat",,,,relation
@@ -1503,6 +1504,7 @@ Laskouter,,,,relation+way
 "Le Raccourci",,,,way
 "Le Raccourci - De Binnendoor",,,,way
 Lenniksebaan,,,,way
+"Liaison Sceptre-Gray - Scepter-Grayverbinding",,,,way
 Lijkweg,,,,way
 Lindenberg,,,,relation
 "Livinus Walravenslaan",,,,way
@@ -1643,7 +1645,7 @@ Pachthoevestraat,,,,way
 "Place des Barricades - Barricadenplein",,,,relation+way
 "Place des Bienfaiteurs - Weldoenersplein",,,,relation+way
 "Place des Bouvreuils - Goudvinkenplein",,,,relation
-"Place des Carabiniers - Karabiniersplein",,,,relation+way
+"Place des Carabiniers - Karabiniersplein",,,,relation
 "Place des Castors - Castorplein",,,,way
 "Place des Citronniers - Citroenbomenplein",,,,way
 "Place des Coopérateurs - Samenwerkersplein",,,,relation
@@ -1675,7 +1677,7 @@ Pachthoevestraat,,,,way
 "Place du Musée - Museumplein",,,,relation
 "Place du Nord - Noordplein",,,,way
 "Place du Nouveau Marché aux Grains - Nieuwe Graanmarkt",,,,relation+way
-"Place du Pavillion - Paviljoenplein",,,,way
+"Place du Pavillon - Paviljoenplein",,,,way
 "Place du Petit Sablon - Kleine Zavel",,,,relation
 "Place du Quatre Août - Vier Augustusplein",,,,relation
 "Place du Repos - Rustplein",,,,relation
@@ -3309,7 +3311,7 @@ Vaartkant-Oost,,,,way
 "Venelle Maria Gomrée de Morialmé - Maria Gomrée de Morialmésteeg",,,,way
 "Venelle au Palio - Paliosteeg",,,,relation
 "Venelle aux Coins de Terre - Moestuinsteeg",,,,relation
-"Venelle aux Jeux - Speeltuindreveken",,,,relation+way
+"Venelle aux Jeux - Speeltuindreveken",,,,relation
 "Venelle aux Quatre Nœuds - Vier-Knopensteeg",,,,relation
 "Venelle de l'Oiseau bleu",,,,way
 "Venelle de la Pétanque - Petanquesteegje",,,,way
