@@ -14,7 +14,7 @@ name,source,gender,wikidata,type
 "Allée Louisa Haerens - Louisa Haerensdreef",wikidata,F,Q88801975,way
 "Allée Louise Van den Plas - Louise Van den Plasdreef",wikidata,F,Q3263875,relation
 "Allée Maud Frère - Maud Frèredreef",wikidata,F,Q3300098,way
-"Allée Rosa Luxembourg - Rosa Luxemburgdreef",wikidata,F,Q7231,way
+"Allée Rosa Luxemburg - Rosa Luxemburgdreef",wikidata,F,Q7231,way
 "Allée Suzanne Cocq - Suzanne Cocqdreef",wikidata,F,Q21645086,way
 "Avenue Clémentine - Clementinalaan",wikidata,F,Q261129,way
 "Avenue Éléonore - Eleonorelaan",wikidata,F,Q57527,relation
@@ -29,7 +29,7 @@ name,source,gender,wikidata,type
 "Avenue Marie-José - Marie-Josélaan",wikidata,F,Q72919,relation
 "Avenue Nellie Melba - Nellie Melbalaan",wikidata,F,Q237607,relation
 "Avenue Notre-Dame - Onze Lieve Vrouwlaan",wikidata,F,Q345,way
-"Avenue Princesse Elisabeth - Prinses Elisabethlaan",wikidata,F,Q235186,relation+way
+"Avenue Princesse Elisabeth - Prinses Elisabethlaan",wikidata,F,Q235186,relation
 "Avenue Reine Marie-Henriette - Koningin Maria-Hendrikalaan",wikidata,F,Q234047,way
 "Avenue Sainte-Alix - Sinte-Aleidislaan",wikidata,F,Q1860408,relation
 "Avenue Sainte-Anne - Sint-Annalaan",wikidata,F,Q164294,way
@@ -37,6 +37,7 @@ name,source,gender,wikidata,type
 "Avenue Victoria - Victorialaan",wikidata,F,Q9439,relation
 "Avenue de la Princesse Paola - Prinses Paolalaan",wikidata,F,Q31129,way
 "Boulevard Maria Groeninckx-De May - Maria Groeninckx-De Maylaan",wikidata,F,Q89488154,relation+way
+"Boulevard de Berlaimont - de Berlaimontlaan",wikidata,F,Q3290777,way
 "Carrefour Sainte-Anne - Sint-Annakruispunt",wikidata,F,Q164294,way
 "Chemin Elena Milashina",wikidata,F,Q1396156,way
 "Chemin Leila Saadé",wikidata,F,Q109533022,way
@@ -145,6 +146,7 @@ name,source,gender,wikidata,type
 "Rue Yvonne Jospa - Yvonne Jospastraat",wikidata,F,Q3574207,relation
 "Rue Yvonne Nèvejean - Yvonne Nèvejeanstraat",wikidata,F,Q2907465,relation
 "Rue de Sévigné - de Sévignéstraat",wikidata,F,Q237103,relation
+"Rue de l'Infante Isabelle - Infante Isabellastraat",wikidata,F,Q158256,way
 "Rue de la Madeleine - Magdalenasteenweg",wikidata,F,Q63070,relation
 "Square Clémentine - Clementinasquare",wikidata,F,Q261129,relation+way
 "Square Elsa Frison - Elsa Frisonsquare",wikidata,F,Q89490926,relation
@@ -328,7 +330,7 @@ name,source,gender,wikidata,type
 "Avenue Émile Vandervelde - Émile Vanderveldelaan",wikidata,M,Q286556,relation+way
 "Avenue Emile Verhaeren - Emile Verhaerenlaan",wikidata,M,Q193680,relation
 "Avenue Emile Zola - Emile Zolalaan",wikidata,M,Q504,relation
-"Avenue Émile de Beco - Émile de Becolaan",wikidata,M,Q4439024,relation
+"Avenue Émile de Béco - Émile de Bécolaan",wikidata,M,Q4439024,relation
 "Avenue Emmanuel Mounier - Emmanuel Mounierlaan",wikidata,M,Q351359,relation+way
 "Avenue Ernest Cambier - Ernest Cambierlaan",wikidata,M,Q320781,relation+way
 "Avenue Ernest Claes - Ernest Claeslaan",wikidata,M,Q20908177,relation
@@ -690,7 +692,7 @@ name,source,gender,wikidata,type
 "Boulevard Pachéco - Pachecolaan",wikidata,M,Q91928012,way
 "Boulevard Poincaré - Poincarélaan",wikidata,M,Q191974,relation+way
 "Boulevard Prince de Liège - Prins van Luiklaan",wikidata,M,Q3911,relation
-"Boulevard Saint-Lazare - Sint-Lazaruslaan",wikidata,M,Q539890,relation+way
+"Boulevard Saint-Lazare - Sint-Lazaruslaan",wikidata,M,Q539890,relation
 "Boulevard Shakespeare - Shakespearelaan",wikidata,M,Q692,relation
 "Boulevard Simon Bolivar - Simon Bolivarlaan",wikidata,M,Q8605,relation+way
 "Boulevard Sylvain Dupuis - Sylvain Dupuislaan",wikidata,M,Q746748,relation+way
@@ -771,7 +773,7 @@ name,source,gender,wikidata,type
 "Parvis Saint-Antoine - Sint-Antoniusvoorplein",wikidata,M,Q167477,way
 "Parvis Saint-Henri - Sint-Hendriksvoorplein",wikidata,M,Q103556,relation
 "Parvis Saint-Jean-Baptiste - Sint-Jan-Baptistvoorplein",wikidata,M,Q40662,relation
-"Parvis Saint-Pierre - Sint-Pietersvoorplein",wikidata,M,Q33923,relation+way
+"Parvis Saint-Pierre - Sint-Pietersvoorplein",wikidata,M,Q33923,relation
 "Passage Chambon - Chambondoorgang",wikidata,M,Q2830757,way
 "Passage Charles Rogier - Karel Rogier doorgang",wikidata,M,Q468109,way
 "Passage Joe Van Holsbeeck - Joe Van Holsbeeckpassage",wikidata,M,Q21504923,way
@@ -1950,7 +1952,7 @@ name,source,gender,wikidata,type
 "Rue de Ciplet - de Cipletstraat",csv,F,,relation
 "Avenue Achille Reisdorff - Achille Reisdorfflaan",csv,M,,way
 "Avenue Général de Longueville - Generaal de Longuevillelaan",csv,M,,relation
-"Avenue Georges Henri - Georges Henrilaan",csv,M,,relation+way
+"Avenue Georges Henri - Georges Henrilaan",csv,M,,relation
 "Avenue Hansen-Soulie - Hansen-Soulielaan",csv,M,,relation+way
 "Avenue Père Hilaire - Pater Hilariuslaan",csv,M,,relation
 "Avenue Saint-Jean - Sint-Janslaan",csv,M,,relation

@@ -74,14 +74,13 @@ Alsembergsesteenweg,wikidata,,Q661993,way
 "Boulevard Saint-Michel - Sint-Michielslaan",wikidata,,Q45581,relation+way
 "Boulevard d'Anvers - Antwerpselaan",wikidata,,Q12892,relation
 "Boulevard d'Ypres - Ieperlaan",wikidata,,Q102728,relation
-"Boulevard de Berlaimont - de Berlaimontlaan",wikidata,,Q14849959,way
 "Boulevard de Dixmude - Diksmuidelaan",wikidata,,Q215244,relation
 "Boulevard de Nieuport - Nieuwpoortlaan",wikidata,,Q623310,relation
 "Boulevard de l'Abattoir - Slachthuislaan",wikidata,,Q385557,relation+way
 "Ceci n'est pas une rue",wikidata,,Q1061035,way
 "Chaussée Romaine - Romeinsesteenweg",wikidata,,Q194029,relation+way
 "Chaussée d'Alsemberg - Alsembergse Steenweg",wikidata,,Q661993,way
-"Chaussée d'Alsemberg - Alsembergsesteenweg",wikidata,,Q661993,way
+"Chaussée d'Alsemberg - Alsembergsesteenweg",wikidata,,Q661993,relation+way
 "Chaussée d'Anvers - Antwerpsesteenweg",wikidata,,Q12892,relation+way
 "Chaussée de Boondael - Boondaalse Steenweg",wikidata,,Q1887018,relation
 "Chaussée de Charleroi - Charleroise Steenweg",wikidata,,Q81046,relation+way
@@ -1196,7 +1195,7 @@ Cauter,,,,relation
 "Clos Fleuri - Bloemenoord",,,,relation
 "Clos Foliant - Foliantgaarde",,,,relation+way
 "Clos Hof te Ophem - Hof te Ophemhoek",,,,relation
-"Clos Hof ten Berg - Hof ten Berg Gaarde",,,,way
+"Clos Hof ten Berg - Hof ten Berggaarde",,,,way
 "Clos Jecta - Jectagaarde",,,,relation
 "Clos Manuel - Manuelgaarde",,,,relation
 "Clos Medicis - Medicisgaarde",,,,relation
@@ -1323,7 +1322,7 @@ Donderberg,,,,relation
 "Dreve Hof Ter Musschen - Hof Ter Musschendreef",,,,relation+way
 "Drève Maritime - Maritiemdreef",,,,relation
 "Drève Olympique - Olympische Dreef",,,,relation+way
-"Drève Pittoresque - Schilderachtige dreef",,,,relation
+"Drève Pittoresque - Schilderachtige Dreef",,,,relation
 "Drève Van Kerm - Van Kermdreef",,,,way
 "Drève aux Herbes - Grasdreef",,,,way
 "Drève d'Anjou - Anjoudreef",,,,relation
@@ -1395,6 +1394,7 @@ Donderberg,,,,relation
 "Drève du Tambour - Tamboerdreef",,,,way
 "Drève du Tastevin - Tastevindreef",,,,relation+way
 "Drève du Tir aux Pigeons - Duivenscheutingweg",,,,way
+Driekoningenstraat,,,,relation
 Dries,,,,way
 Duivenschietweg,,,,way
 "Eden City",,,,way
@@ -1439,6 +1439,7 @@ Hertogswegel,,,,way
 Homborch,,,,way
 Hondenberg,,,,relation
 Houtweg,,,,relation
+"Humaniteitslaan - Boulevard de l'Humanité",,,,way
 Hunderenveld,,,,relation
 "Impasse Poils - Poilsgang",,,,way
 "Impasse Saint-Nicolas - Sint-Nikolaasgang",,,,relation
@@ -1582,7 +1583,6 @@ Pachthoevestraat,,,,way
 "Piste cavalière des Merles - Merelsruiterspad",,,,way
 "Piste cavalière des Noctules - Vleermuizenruiterspad",,,,way
 "Piste cavalière des Ours - Berensruiterspad",,,,way
-"Piste cyclable de Bonne-Odeur - Wellriekendefietspad",,,,way
 "Place Basse - Laagplein",,,,way
 "Place Communale - Gemeenteplein",,,,relation
 "Place Communale d'Auderghem - Gemeenteplein van Oudergem",,,,way
@@ -1975,7 +1975,7 @@ Roeierspad,,,,way
 "Rue d'Arenberg - Arenbergstraat",,,,relation
 "Rue d'Argent - Zilverstraat",,,,relation
 "Rue d'Artois - Artesiëstraat",,,,way
-"Rue d'Assaut - Stormstraat",,,,way
+"Rue d'Assaut - Stormstraat",,,,relation
 "Rue d'Attique - Atticastraat",,,,relation+way
 "Rue d'Aumale - d'Aumalestraat",,,,relation
 "Rue d'Écosse - Schotlandstraat",,,,way
@@ -2050,7 +2050,7 @@ Roeierspad,,,,way
 "Rue de Lombardie - Lombardijestraat",,,,way
 "Rue de Lombartzyde - Lombardsijdestraat",,,,relation
 "Rue de Loncin - Loncinstraat",,,,way
-"Rue de Loxum - Loxumstraat",,,,way
+"Rue de Loxum - Loksumstraat",,,,way
 "Rue de Lusambo - Lusambostraat",,,,relation
 "Rue de Manchester - Manchesterstraat",,,,relation
 "Rue de Meudon - Meudonstraat",,,,relation
@@ -2120,7 +2120,7 @@ Roeierspad,,,,way
 "Rue de l'Abdication - Troonsafstandsstraat",,,,relation
 "Rue de l'Abondance - Overvloedstraat",,,,way
 "Rue de l'Abreuvoir - Hondenwetstraat",,,,way
-"Rue de l'Abricotier - Abrikozeboomstraat",,,,relation
+"Rue de l'Abricotier - Abrikozenboomstraat",,,,relation
 "Rue de l'Accord - Akkoordstraat",,,,relation
 "Rue de l'Activité - Werkzaamheidstraat",,,,relation
 "Rue de l'Aérodrome - Vliegveldstraat",,,,relation
@@ -2184,7 +2184,7 @@ Roeierspad,,,,way
 "Rue de l'Église - Kerkstraat",,,,relation+way
 "Rue de l'Église Saint-Gilles - Sint-Gilliskerkstraat",,,,relation
 "Rue de l'Église Saint-Lambert - Sint-Lambertuskerkstraat",,,,way
-"Rue de l'Eglise Saint-Martin - Sint-Martinuskerkstraat",,,,relation
+"Rue de l'Église Saint-Martin - Sint-Martinuskerkstraat",,,,relation
 "Rue de l'Église Saint-Pierre - Sint-Pieterskerkstraat",,,,relation
 "Rue de l'Église Sainte-Anne - Sint-Annakerkstraat",,,,relation+way
 "Rue de l'Eider - Eidergansstraat",,,,way
@@ -2234,7 +2234,6 @@ Roeierspad,,,,way
 "Rue de l'Imprimerie - Drukkerijstraat",,,,way
 "Rue de l'Indépendance - Onafhankelijkheidstraat",,,,relation
 "Rue de l'Industrie - Nijverheidsstraat",,,,relation
-"Rue de l'Infante Isabelle - Infante Isabellastraat",,,,way
 "Rue de l'Infirmerie - Fermerijstraat",,,,relation
 "Rue de l'Inquisition - Inquisitiestraat",,,,relation
 "Rue de l'Institut - Instituutstraat",,,,relation
@@ -2976,7 +2975,7 @@ Roeierspad,,,,way
 "Rue du Marché aux Porcs - Varkensmarkt",,,,relation
 "Rue du Marché aux Poulets - Kiekenmarkt",,,,relation
 "Rue du Maroquin - Marokijnstraat",,,,relation
-"Rue du Marquis - Markiesstraat",,,,way
+"Rue du Marquis - Markiesstraat",,,,relation
 "Rue du Marronnier - Kastanjeboomstraat",,,,relation
 "Rue du Marteau - Hamerstraat",,,,relation+way
 "Rue du Melkriek - Melkriekstraat",,,,way
@@ -3131,6 +3130,7 @@ Roeierspad,,,,way
 "Ruelle du Bouc Émissaire - Zondebokstraatje",,,,way
 Schaarbeeklei,,,,way
 "Schapenweg - Chemin des Moutons",,,,way
+"Schilderachtige Dreef",,,,relation
 Schoolgat,,,,relation
 "Sentier 116 - Voetweg 116",,,,way
 "Sentier 141 - Voetweg 141",,,,way
