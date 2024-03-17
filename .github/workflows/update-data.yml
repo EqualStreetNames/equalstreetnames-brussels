@@ -20,6 +20,6 @@ on:
 
 jobs:
   update-data:
-    uses: EqualStreetNames/equalstreetnames/.github/reusable-workflows/update-date.yml@master
+    uses: EqualStreetNames/equalstreetnames/.github/workflows/reusable-update-date.yml@master
     with:
       city: belgium/brussels
