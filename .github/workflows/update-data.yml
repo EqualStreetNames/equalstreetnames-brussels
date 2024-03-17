@@ -22,7 +22,7 @@ jobs:
   update-data:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           repository: ${{ github.repository_owner }}/equalstreetnames
           persist-credentials: false
