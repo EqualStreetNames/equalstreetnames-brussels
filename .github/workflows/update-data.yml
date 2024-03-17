@@ -20,64 +20,6 @@ on:
 
 jobs:
   update-data:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          repository: ${{ github.repository_owner }}/equalstreetnames
-          submodules: true
-          token: ${{ secrets.ACCESS_TOKEN }}
-
-      - name: Validate composer.json and composer.lock
-        working-directory: process
-        run: composer validate
-      - name: Install dependencies
-        working-directory: process
-        run: composer install --prefer-dist --no-progress
-
-      - name: Checkout submodule to master
-        working-directory: cities/belgium/brussels
-        run: git checkout -q master
-      - name: Update sub-modules
-        run: git submodule update --remote --merge cities/belgium/brussels
-
-      - name: Normalize `data.csv` file
-        working-directory: process
-        run: php process.php tool:normalize-csv --city=belgium/brussels
-
-      - name: Run update
-        working-directory: process
-        run: composer run update-data -- --city=belgium/brussels
-
-      # - name: Upload artifact
-      #   uses: actions/upload-artifact@v2
-      #   with:
-      #     name: Brussels
-      #     path: cities/belgium/brussels/data/*
-
-      - name: Commit sub-module
-        if: ${{ github.event_name != 'pull_request' }}
-        working-directory: cities/belgium/brussels
-        run: |
-          git config --local user.name github-actions[bot]
-          git config --local user.email 41898282+github-actions[bot]@users.noreply.github.com
-          git add data.csv
-          git add data/*
-          git commit -m "🗃 Update data"
-      - name: Push to sub-module
-        uses: ad-m/github-push-action@master
-        if: ${{ github.event_name != 'pull_request' }}
-        with:
-          github_token: ${{ secrets.ACCESS_TOKEN }}
-          directory: cities/belgium/brussels
-          repository: ${{ github.repository }}
-
-      - name: Commit & Push to main repository
-        if: ${{ github.event_name != 'pull_request' }}
-        uses: EndBug/add-and-commit@v9
-        with:
-          add: cities/belgium/brussels
-          default_author: github_actions
-          message: 🗃 Update Brussels sub-module
+    uses: EqualStreetNames/equalstreetnames/.github/reusable-workflows/update-date.yml@master
+    with:
+      city: belgium/brussels
