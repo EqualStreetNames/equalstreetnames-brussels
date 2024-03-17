@@ -89,3 +89,4 @@ jobs:
           github_token: ${{ secrets.ACCESS_TOKEN }}
           repository: ${{ github.repository_owner }}/equalstreetnames
           force: true
+          ssh: true
