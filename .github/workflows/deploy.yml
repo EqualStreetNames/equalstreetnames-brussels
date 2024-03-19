@@ -1,70 +1,16 @@
 name: Deploy
 
 on:
-  push:
-    branches: [master]
+  workflow_dispatch:
   workflow_run:
     branches: [master]
     workflows: ["Update data"]
-    types:
-      - completed
-
-# Allow one concurrent deployment
-concurrency:
-  group: "pages"
-  cancel-in-progress: true
+    types: [completed]
 
 jobs:
-  validate-geojson:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - name: Validate GeoJSON
-        uses: docker://orrosenblatt/validate-json-action:latest
-        env:
-          INPUT_SCHEMA: ./.github/workflows/schemas/FeatureCollection.json
-          INPUT_JSONS: ./data/relations.geojson,./data/ways.geojson
-  validate-metadata:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - name: Validate "metadata.json"
-        uses: docker://orrosenblatt/validate-json-action:latest
-        env:
-          INPUT_SCHEMA: ./.github/workflows/schemas/metadata.json
-          INPUT_JSONS: ./data/metadata.json
-
-  build:
-    needs: [validate-geojson, validate-metadata]
-    runs-on: ubuntu-latest
-    if: ${{ github.event_name == 'push' || github.event.workflow_run.conclusion == 'success' }}
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          repository: ${{ github.repository_owner }}/equalstreetnames
-          persist-credentials: false
-      - run: git submodule update --init website
-      - run: git submodule update --init cities/belgium/brussels
-      - run: npm install
-        working-directory: website
-      - run: npm run build:belgium:brussels
-        working-directory: website
-        env:
-          MAPBOX_TOKEN: ${{ secrets.MAPBOX_TOKEN }}
-      - uses: actions/upload-pages-artifact@v3
-        with:
-          path: website/dist/belgium/brussels
-
   deploy:
-    needs: build
-    runs-on: ubuntu-latest
-    permissions:
-      pages: write      # to deploy to Pages
-      id-token: write   # to verify the deployment originates from an appropriate source
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+    uses: EqualStreetNames/equalstreetnames/.github/workflows/reusable-deploy.yml@master
+    secrets: inherit
+    with:
+      country: belgium
+      city: brussels
