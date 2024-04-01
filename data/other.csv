@@ -74,6 +74,7 @@ Alsembergsesteenweg,wikidata,,Q661993,way
 "Avenue du Manoir d'Anjou - Manoir d'Anjoulaan",wikidata,,Q60853950,relation
 "Avenue du Mont Kemmel - Kemmelberglaan",wikidata,,Q209541,relation+way
 "Avenue du Paddock - Paddocklaan",wikidata,,Q351810,relation
+"Avenue du Pont de Luttre - Luttrebruglaan",wikidata,,Q108060998,relation+way
 "Avenue du Prince de Ligne - Prins de Lignelaan",wikidata,,Q3922015,relation+way
 "Avenue du Venezuela - Venezuelalaan",wikidata,,Q717,relation
 "Boulevard Saint-Michel - Sint-Michielslaan",wikidata,,Q45581,relation+way
@@ -486,7 +487,7 @@ Antwerpselaan,,,,way
 "Avenue de Floréal - Floréallaan",,,,way
 "Avenue de Gomrée - de Gomréelaan",,,,relation
 "Avenue de Groenendael - Groenendaalselaan",,,,way
-"Avenue de Haveskercke - de Haveskerckelaan",,,,relation+way
+"Avenue de Haveskercke - de Haveskerckelaan",,,,relation
 "Avenue de Hinnisdael - de Hinnisdaellaan",,,,relation
 "Avenue de Janvier - Januarilaan",,,,relation+way
 "Avenue de Jette - Jetse laan",,,,relation+way
@@ -943,7 +944,6 @@ Antwerpselaan,,,,way
 "Avenue du Pilote - Pilootlaan",,,,relation
 "Avenue du Pois de Senteur - Pronkerwtlaan",,,,relation+way
 "Avenue du Polo - Pololaan",,,,relation
-"Avenue du Pont de Luttre - Luttrebruglaan",,,,relation
 "Avenue du Port - Havenlaan",,,,relation
 "Avenue du Préau - Pandhoflaan",,,,relation+way
 "Avenue du Prince Héritier - Erfprinslaan",,,,relation
@@ -1056,7 +1056,7 @@ Cauter,,,,relation
 "Chaussée de Roodebeek - Roodebeeksteenweg",,,,relation+way
 "Chaussée de Stockel - Stokkelsesteenweg",,,,relation+way
 "Chaussée de Vilvorde - Vilvoordsesteenweg",,,,relation+way
-"Chaussée de Vleurgat - Vleurgatse Steenweg",,,,relation+way
+"Chaussée de Vleurgat - Vleurgatse Steenweg",,,,relation
 "Chaussée de Waterloo - Waterlose Steenweg",,,,way
 "Chaussée de Watermael - Watermaalsesteenweg",,,,relation+way
 "Chaussée de Wavre",,,,way
@@ -1338,6 +1338,7 @@ Donderberg,,,,relation
 "Drève aux Herbes - Grasdreef",,,,way
 "Drève d'Anjou - Anjoudreef",,,,relation
 "Drève de Boendael - Boendaaldreef",,,,way
+"Drève de Bonne Odeur - Welriekendedreef",,,,way
 "Drève de Bonne Odeur - Willeriekendreef",,,,way
 "Drève de Boondael - Boondaeldreef",,,,way
 "Drève de Carloo - Carloodreef",,,,way
