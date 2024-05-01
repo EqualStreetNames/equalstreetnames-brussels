@@ -677,7 +677,7 @@ name,source,gender,wikidata,type
 "Boulevard Émile Bockstael - Emile Bockstaellaan",wikidata,M,Q19951885,relation+way
 "Boulevard Emile Jacqmain - Emile Jacqmainlaan",wikidata,M,Q599807,relation
 "Boulevard Félix Paulsen - Félix Paulsenlaan",wikidata,M,Q2148837,relation
-"Boulevard Général Jacques - Generaal Jacqueslaan",wikidata,M,Q2057914,relation+way
+"Boulevard Général Jacques - Generaal Jacqueslaan",wikidata,M,Q2057914,relation
 "Boulevard Général Wahis - Generaal Wahislaan",wikidata,M,Q3526700,relation+way
 "Boulevard Guillaume Van Haelen - Guillaume Van Haelenlaan",wikidata,M,Q91927925,way
 "Boulevard Henri Simonet - Henri Simonetlaan",wikidata,M,Q1606032,relation+way
@@ -934,7 +934,7 @@ name,source,gender,wikidata,type
 "Rue Abbé de l'Epée - Priester de l'Epéestraat",wikidata,M,Q860155,relation
 "Rue Achille Detienne - Achille Detiennestraat",wikidata,M,Q93326201,relation
 "Rue Achille Jonas - Achille Jonasstraat",wikidata,M,Q93326329,relation
-"Rue Adolphe De Brandt - Adolf De Brandtstraat",wikidata,M,Q93326418,relation
+"Rue Adolphe De Brandt - Adolf De Brandtstraat",wikidata,M,Q93326418,relation+way
 "Rue Adolphe Keller - Adolphe Kellerstraat",wikidata,M,Q2824846,relation
 "Rue Adolphe Lavallée - Adolphe Lavalléestraat",wikidata,M,Q93326565,relation
 "Rue Adolphe Marbotin - Adolphe Marbotinstraat",wikidata,M,Q93326724,relation
@@ -1957,7 +1957,7 @@ name,source,gender,wikidata,type
 "Rue de Beughem - de Beughemstraat",csv,F,,relation
 "Rue de Ciplet - de Cipletstraat",csv,F,,relation
 "Avenue Achille Reisdorff - Achille Reisdorfflaan",csv,M,,way
-"Avenue Général de Longueville - Generaal de Longuevillelaan",csv,M,,relation
+"Avenue Général de Longueville - Generaal de Longuevillelaan",csv,M,,relation+way
 "Avenue Georges Henri - Georges Henrilaan",csv,M,,relation
 "Avenue Hansen-Soulie - Hansen-Soulielaan",csv,M,,relation+way
 "Avenue Père Hilaire - Pater Hilariuslaan",csv,M,,relation

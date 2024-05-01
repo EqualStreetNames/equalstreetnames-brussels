@@ -30,7 +30,7 @@ Alsembergsesteenweg,wikidata,,Q661993,way
 "Avenue Reinaert de Vos - Reinaert de Voslaan",wikidata,,Q25400539,way
 "Avenue Télémaque - Telemachuslaan",wikidata,,Q192482,relation
 "Avenue Ulysse - Ulysseslaan",wikidata,,Q47231,relation
-"Avenue Van Volxem - Van Volxemlaan",wikidata,,Q3065560,relation
+"Avenue Van Volxem - Van Volxemlaan",wikidata,,Q3065560,relation+way
 "Avenue Victoria - Victorialaan",wikidata,,Q308902,relation
 "Avenue Victoria Regina - Victoria Reginalaan",wikidata,,Q162070,way
 "Avenue de Biolley - de Biolleylaan",wikidata,,Q56787881,relation
@@ -102,7 +102,7 @@ Alsembergsesteenweg,wikidata,,Q661993,way
 "Chaussée de Saint-Job - Sint-Jobsesteenweg",wikidata,,Q1927235,way
 "Chaussée de Tervueren - Tervuursesteenweg",wikidata,,Q456544,way
 "Chaussée de Waterloo - Waterloose Steenweg",wikidata,,Q31579578,relation
-"Chaussée de Waterloo - Waterloosesteenweg",wikidata,,Q31579578,relation+way
+"Chaussée de Waterloo - Waterloosesteenweg",wikidata,,Q31579578,relation
 "Chemin Herlinde et Théobald - Herlinde en Theobaldweg",wikidata,,Q110062882;Q110062886,way
 "Chemin des Fermiers - Pachtersweg",wikidata,,Q54639972,way
 "Chemin du Bonheur - Geluksweg",wikidata,,Q8,way
@@ -213,7 +213,7 @@ Alsembergsesteenweg,wikidata,,Q661993,way
 "Rue d'Ophem - Oppemstraat",wikidata,,Q2520768,relation
 "Rue de Béthanie - Bethaniëstraat",wikidata,,Q19406866,relation
 "Rue de Bosnie - Bosniëstraat",wikidata,,Q188736,way
-"Rue de Cologne - Keulenstraat",wikidata,,Q365,relation+way
+"Rue de Cologne - Keulenstraat",wikidata,,Q365,relation
 "Rue de Dilbeek - Dilbeekstraat",wikidata,,Q31567150;Q641134,relation+way
 "Rue de Dinant - Dinantstraat",wikidata,,Q108247,relation
 "Rue de Flandre - Vlaamsesteenweg",wikidata,,Q157070,relation
@@ -1817,12 +1817,13 @@ Roeierspad,,,,way
 "Rue Delaunoy - Delaunoystraat",,,,relation
 "Rue Delwart - Delwartstraat",,,,relation
 "Rue Docteur De Meersman - Dokter De Meersmanstraat",,,,relation
+"Rue Docteur Hubert Clerx - Dokter Hubert Clerxstraat",,,,way
 "Rue Draps-Dom - Draps-Domstraat",,,,relation
 "Rue Dries - Driesstraat",,,,relation+way
 "Rue Drootbeek - Drootbeekstraat",,,,relation+way
 "Rue Duydelle - Duydellestraat",,,,relation
 "Rue Edouard Michiels - Edouard Michielsstraat",,,,way
-"Rue Égide Van Ophem - Égide Van Ophemstraat",,,,way
+"Rue Égide Van Ophem - Égide Van Ophemstraat",,,,relation
 "Rue Eigenhuis - Eigenhuisstraat",,,,way
 "Rue Eloy - Eloystraat",,,,relation+way
 "Rue Emile Van Overstraeten - Emile Van Overstraetenstraat",,,,relation
@@ -2089,7 +2090,7 @@ Roeierspad,,,,way
 "Rue de Prague - Praagstraat",,,,way
 "Rue de Quatrecht - Kwatrechtstraat",,,,relation+way
 "Rue de Ramskapelle - Ramskapellestraat",,,,relation
-"Rue de Ransbeek - Ransbeekstraat",,,,relation+way
+"Rue de Ransbeek - Ransbeekstraat",,,,relation
 "Rue de Releghem - Relegemstraat",,,,way
 "Rue de Rivoli - Rivolistraat",,,,relation
 "Rue de Rollebeek - Rollebeekstraat",,,,relation
@@ -2400,7 +2401,7 @@ Roeierspad,,,,way
 "Rue de la Meuse - Maasstraat",,,,relation
 "Rue de la Modestie - Zedigheidsstraat",,,,relation
 "Rue de la Molignée - Molignéestraat",,,,way
-"Rue de la Montagne - Bergstraat",,,,way
+"Rue de la Montagne - Bergstraat",,,,relation
 "Rue de la Mutualité - Onderlinge Bijstandstraat",,,,way
 "Rue de la Natation - Zwemkunststraat",,,,relation
 "Rue de la Navigation - Zeevaartstraat",,,,relation
@@ -2626,7 +2627,7 @@ Roeierspad,,,,way
 "Rue des Fraises - Aardbeienstraat",,,,relation
 "Rue des Franchises - Vrijdommenstraat",,,,relation
 "Rue des Francs - Frankenstraat",,,,relation
-"Rue des Fripiers - Kleerkopersstraat",,,,way
+"Rue des Fripiers - Kleerkopersstraat",,,,relation
 "Rue des Fruits - Fruitstraat",,,,relation
 "Rue des Fuchsias - Fuchsiasstraat",,,,relation+way
 "Rue des Funkias - Funkiastraat",,,,way
@@ -2996,7 +2997,7 @@ Roeierspad,,,,way
 "Rue du Mérinos - Merinosstraat",,,,way
 "Rue du Merlo - Merlostraat",,,,way
 "Rue du Métal - Metaalstraat",,,,way
-"Rue du Midi - Zuidstraat",,,,way
+"Rue du Midi - Zuidstraat",,,,relation
 "Rue du Millefeuille - Duizendbladstraat",,,,way
 "Rue du Ministre - Ministerstraat",,,,way
 "Rue du Miroir - Spiegelstraat",,,,way
@@ -3148,6 +3149,7 @@ Schoolgat,,,,relation
 "Sentier Decroly",,,,way
 "Sentier Jan Van Nijlen - Jan Van Nijlenpad",,,,way
 "Sentier Melati - Melatipad",,,,way
+"Sentier Steensbroek - Steensbroekpad",,,,way
 "Sentier d'Auderghem - Oudergempad",,,,way
 "Sentier d'Auderghem - Oudergemvoetpad",,,,way
 "Sentier de Grasdelle - Grasdellepad",,,,way
@@ -3342,4 +3344,5 @@ Windmolenberg,,,,relation
 Woluwedal,,,,way
 Woluwelaan,,,,way
 Woluwepad,,,,way
+Zavelput,,,,relation
 "Zwarte Pijnbomenlaan",,,,way
