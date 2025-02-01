@@ -36,6 +36,7 @@ name,source,gender,wikidata,type
 "Avenue Sainte-Alix - Sinte-Aleidislaan",wikidata,F,Q1860408,relation
 "Avenue Sainte-Anne - Sint-Annalaan",wikidata,F,Q164294,way
 "Avenue Simone Veil - Simone Veillaan",wikidata,F,Q298180,way
+"Avenue de Castonier - de Castonierlaan",wikidata,F,Q88385819,relation
 "Avenue de la Princesse Paola - Prinses Paolalaan",wikidata,F,Q31129,way
 "Boulevard Maria Groeninckx-De May - Maria Groeninckx-De Maylaan",wikidata,F,Q89488154,relation+way
 "Boulevard de Berlaimont - de Berlaimontlaan",wikidata,F,Q3290777,relation
@@ -58,6 +59,7 @@ name,source,gender,wikidata,type
 "Drève Aurélie Solvay - Aurélie Solvaydreef",wikidata,F,Q89488177,relation
 "Drève Louisa Chaudoir - Louisa Chaudoirdreef",wikidata,F,Q89488828,relation
 "Drève Sainte-Anne - Sint-Annadreef",wikidata,F,Q164294,relation
+"Drève de l'Infante - Infantedreef",wikidata,F,Q158256,way
 "Espace Loubna Lafquiri - Loubna Lafquiriruimte",wikidata,F,Q107211039,way
 "Espace Louise - Louiza Espace",wikidata,F,Q237318,way
 "Galerie Louise - Louizagalerij",wikidata,F,Q237318,way
@@ -125,6 +127,7 @@ name,source,gender,wikidata,type
 "Rue Lola Bobesco - Lola Bobescostraat",wikidata,F,Q2370033,relation
 "Rue Louise De Hem - Louise De Hemstraat",wikidata,F,Q939381,way
 "Rue Marguerite Bervoets - Marguerite Bervoetsstraat",wikidata,F,Q3290678,relation
+"Rue Marguerite Coppin - Marguerite Coppinstraat",wikidata,F,Q15407112,relation
 "Rue Marguerite Van de Wiele - Marguerite Van de Wielestraat",wikidata,F,Q3290746,relation
 "Rue Maria Malibran - Maria Malibranstraat",wikidata,F,Q232783,relation
 "Rue Maria Tillmans - Maria Tillmansstraat",wikidata,F,Q88466498,relation
@@ -152,6 +155,7 @@ name,source,gender,wikidata,type
 "Rue Van Gulick - Van Gulickstraat",wikidata,F,Q89490401,relation+way
 "Rue Yvonne Jospa - Yvonne Jospastraat",wikidata,F,Q3574207,relation
 "Rue Yvonne Nèvejean - Yvonne Nèvejeanstraat",wikidata,F,Q2907465,relation
+"Rue de Beughem - de Beughemstraat",wikidata,F,Q131615467,relation
 "Rue de Sévigné - de Sévignéstraat",wikidata,F,Q237103,relation
 "Rue de l'Infante Isabelle - Infante Isabellastraat",wikidata,F,Q158256,way
 "Rue de la Madeleine - Magdalenasteenweg",wikidata,F,Q63070,relation
@@ -1056,6 +1060,7 @@ name,source,gender,wikidata,type
 "Rue Berthelot - Berthelotstraat",wikidata,M,Q18425,relation
 "Rue Blaes - Blaesstraat",wikidata,M,Q23889107,relation
 "Rue Blockmans - Blockmansstraat",wikidata,M,Q93861185,relation
+"Rue Bodeghem - Bodegemstraat",wikidata,M,Q3263599,relation
 "Rue Boduognat - Boduognatusstraat",wikidata,M,Q890044,relation
 "Rue Bollinckx - Bollinckxstraat",wikidata,M,Q93861200,relation+way
 "Rue Bonaventure - Bonaventurestraat",wikidata,M,Q20871249,relation
@@ -1336,6 +1341,7 @@ name,source,gender,wikidata,type
 "Rue Général Thys - Generaal Thysstraat",wikidata,M,Q2674098,relation
 "Rue Général Tombeur - Generaal Tombeurstraat",wikidata,M,Q2960333,relation
 "Rue Général Wangermée - Generaal Wangerméestraat",wikidata,M,Q8078321,relation
+"Rue George-dit-Marchal - George-dit-Marchalstraat",wikidata,M,Q131613436,relation
 "Rue Georges De Lombaerde - Georges De Lombaerdestraat",wikidata,M,Q96438985,relation
 "Rue Georges Garnir - Georges Garnirstraat",wikidata,M,Q3101589,relation
 "Rue Georges Leclercq - Georges Leclercqstraat",wikidata,M,Q3103063,relation
@@ -1448,6 +1454,7 @@ name,source,gender,wikidata,type
 "Rue Jan Blockx - Jan Blockxstraat",wikidata,M,Q1681637,relation
 "Rue Jan Bollen - Jan Bollenstraat",wikidata,M,Q20006818,relation
 "Rue Jan Van Ruusbroeck - Jan Van Ruusbroeckstraat",wikidata,M,Q920312,relation
+"Rue Jan Verbesselt - Jan Verbesseltstraat",wikidata,M,Q131613496,relation
 "Rue Jean Chapelié - Jean Chapeliéstraat",wikidata,M,Q3171220,way
 "Rue Jean Jacquet - Jean Jacquetstraat",wikidata,M,Q106935981,relation
 "Rue Jean Lambotte - Jean Lambottestraat",wikidata,M,Q17361894,relation
@@ -1755,6 +1762,7 @@ name,source,gender,wikidata,type
 "Rue Valère Broekaert - Valère Broekaertstraat",wikidata,M,Q86067476,relation
 "Rue Van Artevelde - Arteveldestraat",wikidata,M,Q359165,relation
 "Rue Van Bemmel - Van Bemmelstraat",wikidata,M,Q3060206,way
+"Rue Van Bergen - Van Bergenstraat",wikidata,M,Q131613402,relation
 "Rue Van Campenhout - Van Campenhoutstraat",wikidata,M,Q1363402,relation
 "Rue Van Droogenbroeck - Van Droogenbroeckstraat",wikidata,M,Q2266893,relation
 "Rue Van Dyck - Van Dyckstraat",wikidata,M,Q150679,relation
@@ -1966,7 +1974,6 @@ name,source,gender,wikidata,type
 "Rue Raphaël - Raphaëlstraat",csv,?,,relation
 "Rue Sneessens - Sneessensstraat",csv,?,,relation
 "Rue Stroobants - Stroobantsstraat",csv,?,,relation+way
-"Rue Van Bergen - Van Bergenstraat",csv,?,,relation
 "Rue Van Hoegaerde - Van Hoegaerdestraat",csv,?,,relation
 "Rue Vanden Corput - Vanden Corputstraat",csv,?,,way
 "Rue Verhoeven - Verhoevenstraat",csv,?,,relation
@@ -1977,7 +1984,6 @@ name,source,gender,wikidata,type
 "Avenue Paule - Paulalaan",csv,F,,relation
 "Rue Marianne - Mariannestraat",csv,F,,relation
 "Rue Mercelis - Mercelisstraat",csv,F,,relation
-"Rue de Beughem - de Beughemstraat",csv,F,,relation
 "Rue de Ciplet - de Cipletstraat",csv,F,,relation
 "Avenue Achille Reisdorff - Achille Reisdorfflaan",csv,M,,way
 "Avenue Général de Longueville - Generaal de Longuevillelaan",csv,M,,relation+way
@@ -2030,7 +2036,6 @@ name,source,gender,wikidata,type
 "Rue Jacques Houtmeyers - Jaak Houtmeyersstraat",csv,M,,relation
 "Rue Jacques Rayé - Jacques Rayéstraat",csv,M,,relation
 "Rue Jan Frans De Craen - Jan Frans De Craenstraat",csv,M,,relation
-"Rue Jan Verbesselt - Jan Verbesseltstraat",csv,M,,relation
 "Rue Jean Ballegeer - Jean Ballegeerstraat",csv,M,,way
 "Rue Jean Baptiste François Denys - Jean Baptiste François Denysstraat",csv,M,,relation
 "Rue Jean Baudoux - Jean Baudouxstraat",csv,M,,relation
@@ -2191,7 +2196,6 @@ name,source,gender,wikidata,type
 "Rue Victor Rauter - Victor Rauterstraat",csv,M,,relation
 "Rue Vlogaert - Vlogaertstraat",csv,M,,way
 "Rue Wayez - Wayezstraat",csv,M,,relation
-"Rue de Bruyn - de Bruynstraat",csv,M,,relation
 "Rue de Fierlant - de Fierlantstraat",csv,M,,relation
 "Rue de Liedekerke - de Liedekerkestraat",csv,M,,relation
 "Rue de Ribaucourt - de Ribaucourtstraat",csv,M,,relation+way
