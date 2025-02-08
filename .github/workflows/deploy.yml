@@ -12,5 +12,5 @@ jobs:
     uses: EqualStreetNames/equalstreetnames/.github/workflows/reusable-deploy.yml@master
     secrets: inherit
     with:
-      country: belgium
-      city: brussels
+      country: germany
+      city: oldenburg
