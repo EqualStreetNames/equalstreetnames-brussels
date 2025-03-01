@@ -103,6 +103,7 @@ name,source,gender,wikidata,type
 "Rond-point Maurane - Rondpunt Maurane",wikidata,F,Q509029,way
 "Rue Akarova - Akarovastraat",wikidata,F,Q2828943,relation
 "Rue Amélie Gomand - Amélie Gomandstraat",wikidata,F,Q89489801,relation
+"Rue Andrée Geulen - Andrée Geulenstraat",wikidata,F,Q2848953,relation
 "Rue Andrée de Jongh - Andrée de Jonghstraat",wikidata,F,Q461027,relation
 "Rue Audrey Hepburn - Audrey Hepburnstraat",wikidata,F,Q42786,relation+way
 "Rue Camusel - Camuselstraat",wikidata,F,Q94143093,relation
@@ -781,7 +782,7 @@ name,source,gender,wikidata,type
 "Galerie des Princes - Prinsengalerij",wikidata,M,Q12967,relation
 "Galerie du Roi - Koningsgalerij",wikidata,M,Q12971,relation
 "Impasse Saint Sébastien - Sint-Sebastiaansgang",wikidata,M,Q183332,way
-"Impasse Saint-Jacques - Sint-Jakobsgang",wikidata,M,Q43999,way
+"Impasse Saint-Jacques - Sint-Jakobsgang",wikidata,M,Q43999,relation
 "Jardin Martin V - Martinus V-tuin",wikidata,M,Q169612,relation
 "Lounge Sakharov",wikidata,M,Q997,way
 "Mont Saint-Lambert - Sint-Lambertusberg",wikidata,M,Q283447,relation
@@ -1005,7 +1006,7 @@ name,source,gender,wikidata,type
 "Rue André Van Hasselt - André Van Hasseltstraat",wikidata,M,Q519653,relation
 "Rue Anneessens - Anneessensstraat",wikidata,M,Q3083817,relation
 "Rue Antoine Baeck - Antoine Baeckstraat",wikidata,M,Q93469528,relation
-"Rue Antoine Bréart - Antoine Bréartstraat",wikidata,M,Q93469555,relation+way
+"Rue Antoine Bréart - Antoine Bréartstraat",wikidata,M,Q93469555,relation
 "Rue Antoine Clesse - Antoine Clessestraat",wikidata,M,Q1960761,relation
 "Rue Antoine Court - Antoine Courtstraat",wikidata,M,Q93469750,relation
 "Rue Antoine Dansaert - Antoine Dansaertstraat",wikidata,M,Q2853839,relation
@@ -1094,7 +1095,7 @@ name,source,gender,wikidata,type
 "Rue César Depaepe - César Depaepestraat",wikidata,M,Q1150699,relation
 "Rue César Franck - César Franckstraat",wikidata,M,Q50187,relation
 "Rue Charles Bernaerts - Charles Bernaertsstraat",wikidata,M,Q94224877,way
-"Rue Charles Buls - Karel Bulsstraat",wikidata,M,Q716382,relation+way
+"Rue Charles Buls - Karel Bulsstraat",wikidata,M,Q716382,relation
 "Rue Charles Cammaert - Karel Cammaertstraat",wikidata,M,Q94225642,relation
 "Rue Charles De Buck - Charles De Buckstraat",wikidata,M,Q94226044,relation
 "Rue Charles Decoster - Charles Decosterstraat",wikidata,M,Q315176,relation
@@ -1176,7 +1177,6 @@ name,source,gender,wikidata,type
 "Rue Edison - Edisonstraat",wikidata,M,Q8743,relation
 "Rue Edmond Bonehill - Edmond Bonehillstraat",wikidata,M,Q95627360,relation
 "Rue Edmond Delcourt - Edmond Delcourtstraat",wikidata,M,Q95627393,relation
-"Rue Edmond Picard - Edmond Picardstraat",wikidata,M,Q2512563,way
 "Rue Edmond Rostand - Edmond Rostandstraat",wikidata,M,Q202749,relation
 "Rue Edmond Tollenaere - Edmond Tollenaerestraat",wikidata,M,Q85438337,relation
 "Rue Edmond Van Cauwenbergh - Edmond Van Cauwenberghstraat",wikidata,M,Q95627400,relation
@@ -1701,8 +1701,8 @@ name,source,gender,wikidata,type
 "Rue Rubens - Rubensstraat",wikidata,M,Q5599,relation+way
 "Rue Ruysdael - Ruysdaelstraat",wikidata,M,Q213612,relation
 "Rue Saint Guidon - Sint-Guidostraat",wikidata,M,Q1553720,relation
-"Rue Saint-Bernard - Sint-Bernardusstraat",wikidata,M,Q188411,way
-"Rue Saint-Christophe - Sint-Kristoffelsstraat",wikidata,M,Q193507,way
+"Rue Saint-Bernard - Sint-Bernardusstraat",wikidata,M,Q188411,relation
+"Rue Saint-Christophe - Sint-Kristoffelsstraat",wikidata,M,Q193507,relation
 "Rue Saint-Denis - Sint-Denijsstraat",wikidata,M,Q244380,relation+way
 "Rue Saint-Georges - Sint-Jorisstraat",wikidata,M,Q48438,way
 "Rue Saint-Ghislain - Sint-Gisleinsstraat",wikidata,M,Q740017,relation
