@@ -87,7 +87,6 @@ Alsembergsesteenweg,wikidata,,Q661993,way
 "Avenue du Port - Havenlaan",wikidata,,Q1567864,relation
 "Avenue du Prince de Ligne - Prins de Lignelaan",wikidata,,Q3922015,relation+way
 "Avenue du Venezuela - Venezuelalaan",wikidata,,Q717,relation
-Bergensesteenweg,wikidata,,Q83407,way
 "Boulevard Saint-Michel - Sint-Michielslaan",wikidata,,Q45581,relation+way
 "Boulevard d'Anvers - Antwerpselaan",wikidata,,Q12892,relation
 "Boulevard d'Ypres - Ieperlaan",wikidata,,Q102728,relation
@@ -314,6 +313,7 @@ Bergensesteenweg,wikidata,,Q83407,way
 "Rue de Malines - Mechelsestraat",wikidata,,Q162022,relation
 "Rue de Menin - Menenstraat",wikidata,,Q213224,relation+way
 "Rue de Mérode - de Mérodestraat",wikidata,,Q1568461,relation
+"Rue de Monténégro - Montenegrostraat",wikidata,,Q236,relation
 "Rue de Montserrat - Montserratstraat",wikidata,,Q13353,relation
 "Rue de Moscou - Moskoustraat",wikidata,,Q649,relation
 "Rue de Namur - Naamsestraat",wikidata,,Q134121,relation
@@ -1354,6 +1354,7 @@ Cauter,,,,relation
 "Chemin des Tempêtes - Stormenweg",,,,way
 "Chemin des Tigelles - Stengeltjesweg",,,,relation
 "Chemin des Traqueurs - Drijversweg",,,,way
+"Chemin des Trois Fontaines - Drieborrenweg",,,,way
 "Chemin des Tumuli - Tumuliweg",,,,way
 "Chemin des serres - Weg naar de serres",,,,way
 "Chemin du Braakveld - Baakveldweg",,,,way
@@ -1685,6 +1686,7 @@ Karrenberg,,,,relation
 Kasteelhof,,,,relation
 Kasterlindenstraat,,,,way
 Kattenberg,,,,way
+Kaudenaardestraat,,,,way
 Kauwberg,,,,way
 Kauwberg-Broekweg,,,,way
 Kempendelle,,,,relation
@@ -1738,7 +1740,6 @@ Pachthoevestraat,,,,way
 "Parc du Peterbos - Peterbospark",,,,relation
 "Parcours méditatif du parc du Vogelzang - Meditatieparcours Vogelzangpark",,,,way
 "Parvis Chantecler - Canteclaervoorplein",,,,way
-"Parvis Jeanne de Brabant",,,,way
 "Parvis Saint-Gilles - Sint-Gillisvoorplein",,,,relation+way
 "Parvis de la Trinité - Drievuldigheidsvoorplein",,,,way
 "Passage 44",,,,way

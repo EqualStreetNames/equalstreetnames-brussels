@@ -302,7 +302,7 @@ name,source,gender,wikidata,type
 "Avenue Colonel Picquart - Kolonel Picquartlaan",wikidata,M,Q717539,relation
 "Avenue Commandant Lothaire - Kommandant Lothairelaan",wikidata,M,Q29566788,relation
 "Avenue Commandant Vander Meeren - Commandant Vander Meerenlaan",wikidata,M,Q90039947,relation
-"Avenue Constant Montald - Constant Montaldlaan",wikidata,M,Q2994899,relation
+"Avenue Constant Montald - Constant Montaldlaan",wikidata,M,Q2994899,relation+way
 "Avenue Constant Permeke - Constant Permekelaan",wikidata,M,Q381911,relation
 "Avenue Crokaert - Crokaertlaan",wikidata,M,Q2239003,relation
 "Avenue Dailly - Daillylaan",wikidata,M,Q3059800,relation
@@ -342,7 +342,7 @@ name,source,gender,wikidata,type
 "Avenue Emile Van Ermengem - Emile Van Ermengemlaan",wikidata,M,Q1337255,relation
 "Avenue Émile Vandervelde - Émile Vanderveldelaan",wikidata,M,Q286556,relation+way
 "Avenue Emile Verhaeren - Emile Verhaerenlaan",wikidata,M,Q193680,relation
-"Avenue Emile Zola - Emile Zolalaan",wikidata,M,Q504,relation
+"Avenue Émile Zola - Émile Zolalaan",wikidata,M,Q504,relation
 "Avenue Émile de Béco - Émile de Bécolaan",wikidata,M,Q4439024,relation
 "Avenue Emmanuel Mounier - Emmanuel Mounierlaan",wikidata,M,Q351359,relation+way
 "Avenue Ernest Cambier - Ernest Cambierlaan",wikidata,M,Q320781,relation+way
