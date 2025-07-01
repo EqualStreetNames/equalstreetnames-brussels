@@ -58,6 +58,7 @@ Alsembergsesteenweg,wikidata,,Q661993,way
 "Avenue de la Floride - Floridalaan",wikidata,,Q812,way
 "Avenue de la Gueuze - Gueuzelaan",wikidata,,Q1520229,way
 "Avenue de la Porte de Hal - Hallepoortlaan",wikidata,,Q109937087,relation
+"Avenue de la Renaissance - Renaissancelaan",wikidata,,Q4692,relation
 "Avenue de la Toison d'Or - Gulden-Vlieslaan",wikidata,,Q465774,relation+way
 "Avenue des Abeilles - Bijenlaan",wikidata,,Q7391,relation
 "Avenue des Arums - Aronskelkenlaan",wikidata,,Q161121,relation
@@ -68,6 +69,7 @@ Alsembergsesteenweg,wikidata,,Q661993,way
 "Avenue des Jonquilles - Narcissenlaan",wikidata,,Q29465,relation
 "Avenue des Lilas - Seringenlaan",wikidata,,Q157449,way
 "Avenue des Martinets - Steenzwaluwenlaan",wikidata,,Q3295856,relation
+"Avenue des Nénuphars - Waterleliënlaan",wikidata,,Q3347071,relation
 "Avenue des Nerviens - Nerviërslaan",wikidata,,Q756812,relation+way
 "Avenue des Pagodes - Pagodenlaan",wikidata,,Q56214383;Q56214618,relation+way
 "Avenue des Paradisiers - Paradijsvogelslaan",wikidata,,Q3363288,relation
@@ -125,6 +127,7 @@ Alsembergsesteenweg,wikidata,,Q661993,way
 "Chaussée de Waterloo - Waterloosesteenweg",wikidata,,Q31579578,relation
 "Chaussée de Waterloo - Waterlose Steenweg",wikidata,,Q179034,relation
 "Chaussée de Watermael - Watermaalsesteenweg",wikidata,,Q2043872,relation+way
+"Chaussée de Wavre - Waversesteenweg",wikidata,,Q181314,relation+way
 "Chemin Herlinde et Théobald - Herlinde en Theobaldweg",wikidata,,Q110062882;Q110062886,way
 "Chemin des Asperges - Aspergesweg",wikidata,,Q28367,relation
 "Chemin des Fermiers - Pachtersweg",wikidata,,Q54639972,way
@@ -191,6 +194,7 @@ Alsembergsesteenweg,wikidata,,Q661993,way
 "Passerelle Fransman - Fransmanvoetgangersbrug",wikidata,,Q85092342,way
 "Passerelle du Peterbos - Voetgangersbrug van Peterbos",wikidata,,Q3376995,way
 "Perkstraat - Rue de Perk",wikidata,,Q109318924,way
+"Petite drève du Maréchal - Kleine Maarschalkdreef",wikidata,,Q111837,way
 "Place Beekkant - Beekkantplein",wikidata,,Q2893679,way
 "Place Marsupilami - Marsupilamiplein",wikidata,,Q110736388,way
 "Place Royale - Koningsplein",wikidata,,Q12097,relation+way
@@ -220,6 +224,7 @@ Alsembergsesteenweg,wikidata,,Q661993,way
 "Place de la Petite Suisse - Klein-Zwitserlandplein",wikidata,,Q1762154,relation+way
 "Place de la Reine - Koninginneplein",wikidata,,Q19643,relation+way
 "Place des Chasseurs Ardennais - Ardense Jagersplein",wikidata,,Q893039,way
+"Place des Étangs Noirs - Zwarte Vijversplein",wikidata,,Q135009056,way
 "Place des Gueux - Geuzenplein",wikidata,,Q699636,relation+way
 "Place des Martyrs - Martelaarsplein",wikidata,,Q6498826,relation
 "Place des Muscaris - Druifhyacintenplein",wikidata,,Q161151,way
@@ -820,7 +825,6 @@ Antwerpselaan,,,,way
 "Avenue de la Réforme - Hervormingslaan",,,,relation+way
 "Avenue de la Reine - Koninginnelaan",,,,relation+way
 "Avenue de la Reine des Prés - Olmkruidlaan",,,,relation
-"Avenue de la Renaissance - Renaissancelaan",,,,way
 "Avenue de la Sablière - Zandgroeflaan",,,,way
 "Avenue de la Salubrité - Heilzaamheidslaan",,,,relation
 "Avenue de la Sapinière - Denneboslaan",,,,way
@@ -973,7 +977,6 @@ Antwerpselaan,,,,way
 "Avenue des Naïades - Najadenlaan",,,,way
 "Avenue des Narcisses - Narcisbloemenlaan",,,,way
 "Avenue des Narcisses - Narcissenlaan",,,,way
-"Avenue des Nénuphars - Waterleliënlaan",,,,way
 "Avenue des Neuf Provinces - Negen Provincieslaan",,,,relation+way
 "Avenue des Noisetiers - Hazelaarslaan",,,,relation+way
 "Avenue des Nymphes - Nimfenlaan",,,,way
@@ -1226,7 +1229,6 @@ Cauter,,,,relation
 "Chaussée de Vleurgat - Vleurgatse Steenweg",,,,relation
 "Chaussée de Wavre - Steenweg op Waver",,,,relation+way
 "Chaussée de Wavre - Waverse Steenweg",,,,relation
-"Chaussée de Wavre - Waversesteenweg",,,,way
 "Chaussée de Wemmel - Wemmelse Steenweg",,,,relation
 "Chaussée de Zellik - Steenweg op Zellik",,,,relation
 "Chaussée de Zellik - Zelliksesteenweg",,,,way
@@ -1761,7 +1763,6 @@ Pachthoevestraat,,,,way
 "Petite avenue de la Métrologie - Korte Metrologielaan",,,,way
 "Petite drève de Groenendael - Groenendaeldreefje",,,,way
 "Petite drève des Mésanges - Mezendreefje",,,,way
-"Petite drève du Maréchal - Kleine Maarschalkdreef",,,,way
 "Petite rue Courtois - Korte Courtoisstraat",,,,relation
 "Petite rue Kelle - Korte Kellestraat",,,,relation
 "Petite rue au Beurre - Korte Boterstraat",,,,relation
@@ -1845,7 +1846,6 @@ Pachthoevestraat,,,,way
 "Place des Choukes - Choukesplein",,,,way
 "Place des Citronniers - Citroenbomenplein",,,,way
 "Place des Coopérateurs - Samenwerkersplein",,,,relation
-"Place des Étangs Noirs - Zwarte Vijversplein",,,,way
 "Place des Grands Hommes - Geweldige Mensenplein",,,,way
 "Place des Héros - Heldenplein",,,,relation
 "Place des Maïeurs - Meiersplein",,,,relation
@@ -2454,7 +2454,7 @@ Roeierspad,,,,way
 "Rue de la Duchesse - Hertoginstraat",,,,relation
 "Rue de la Dyle - Dijlestraat",,,,relation
 "Rue de la Fauvette - Grasmusstraat",,,,way
-"Rue de la Fenaison - Hooitijdstraat",,,,relation+way
+"Rue de la Fenaison - Hooitijdstraat",,,,relation
 "Rue de la Ferme - Hoevestraat",,,,relation
 "Rue de la Filature - Spinnerijstraat",,,,relation+way
 "Rue de la Fleur d'Oranger - Oranjebloesemstraat",,,,relation

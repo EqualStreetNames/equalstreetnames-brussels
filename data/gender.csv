@@ -681,7 +681,7 @@ name,source,gender,wikidata,type
 "Boulevard Aristide Briand - Aristide Briandlaan",wikidata,M,Q179888,relation
 "Boulevard Auguste Reyers - Auguste Reyerslaan",wikidata,M,Q2871374,relation+way
 "Boulevard Barthélémy - Barthélémylaan",wikidata,M,Q2361218,relation
-"Boulevard Baudouin - Boudewijnlaan",wikidata,M,Q12976,relation+way
+"Boulevard Baudouin - Boudewijnlaan",wikidata,M,Q12976,relation
 "Boulevard Bischoffsheim - Bischoffsheimlaan",wikidata,M,Q670908,relation+way
 "Boulevard Brand Whitlock - Brand Whitlocklaan",wikidata,M,Q753365,relation+way
 "Boulevard Charlemagne - Karel de Grotelaan",wikidata,M,Q3044,relation
@@ -837,7 +837,7 @@ name,source,gender,wikidata,type
 "Place Eugène Keym - Eugène Keymplein",wikidata,M,Q18061002,relation
 "Place Eugène Simonis - Eugène Simonisplein",wikidata,M,Q585463,relation
 "Place Eugène Verboekhoven - Eugène Verboekhovenplein",wikidata,M,Q1353771,relation+way
-"Place Félix Govaert - Félix Govaertplein",wikidata,M,Q3092453,way
+"Place Félix Govaert - Félix Govaertplein",wikidata,M,Q3092453,relation
 "Place Fernand Cocq - Fernand Cocqplein",wikidata,M,Q2218278,relation
 "Place Fontainas - Fontainasplein",wikidata,M,Q2744763,relation+way
 "Place François Bossuet - François Bossuetplein",wikidata,M,Q3083286,way
@@ -870,7 +870,7 @@ name,source,gender,wikidata,type
 "Place Jourdan - Jourdanplein",wikidata,M,Q92021312,relation
 "Place Julien Dillens - Julien Dillensplein",wikidata,M,Q1712238,relation+way
 "Place Laneau - Laneauplein",wikidata,M,Q86064930,relation
-"Place Lehon - Lehonplein",wikidata,M,Q2387268,way
+"Place Lehon - Lehonplein",wikidata,M,Q2387268,relation+way
 "Place Léon Vanderkindere - Léon Vanderkindereplein",wikidata,M,Q978025,way
 "Place Léon Wielemans - Léon Wielemansplein",wikidata,M,Q92902408,relation+way
 "Place Léopold Rosy - Léopold Rosyplein",wikidata,M,Q92903284,way
@@ -1425,7 +1425,7 @@ name,source,gender,wikidata,type
 "Rue Henri-Joseph Genesse - Henri-Joseph Genessestraat",wikidata,M,Q87487361,relation+way
 "Rue Henry Villard - Henry Villardstraat",wikidata,M,Q91417,relation
 "Rue Herkoliers - Herkoliersstraat",wikidata,M,Q127946473,relation
-"Rue Herman - Hermanstraat",wikidata,M,Q3165654,way
+"Rue Herman - Hermanstraat",wikidata,M,Q3165654,relation
 "Rue Herman Richir - Herman Richirstraat",wikidata,M,Q98766870,relation
 "Rue Herrewege - Herrewegestraat",wikidata,M,Q168039,relation
 "Rue Heyvaert - Heyvaertstraat",wikidata,M,Q2127657,relation
