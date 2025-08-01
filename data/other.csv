@@ -84,6 +84,7 @@ Alsembergsesteenweg,wikidata,,Q661993,way
 "Avenue du Lycée Français - Frans Lyceumlaan",wikidata,,Q3269083,way
 "Avenue du Maelbeek - Maalbeeklaan",wikidata,,Q506931,relation+way
 "Avenue du Manoir d'Anjou - Manoir d'Anjoulaan",wikidata,,Q60853950,relation
+"Avenue du Martin-Pêcheur - IJsvogellaan",wikidata,,Q79915,relation
 "Avenue du Mont Kemmel - Kemmelberglaan",wikidata,,Q209541,relation
 "Avenue du Paddock - Paddocklaan",wikidata,,Q351810,relation
 "Avenue du Pont de Luttre - Luttrebruglaan",wikidata,,Q108060998,relation+way
@@ -176,6 +177,7 @@ Alsembergsesteenweg,wikidata,,Q661993,way
 "Impasse des Matelots - Matrozengang",wikidata,,Q10989378,relation
 "Impasse du Cheval - Paardgang",wikidata,,Q726,relation
 "Impasse du Coq - Hanegang",wikidata,,Q2216236,relation
+Leuvensesteenweg,wikidata,,Q118958,way
 "Marché aux Poissons - Vismarkt",wikidata,,Q600396,relation
 "Marché aux Porcs - Varkensmarkt",wikidata,,Q787,way
 "Mer des Pavés - Kasseienzee",wikidata,,Q757022,way
@@ -236,7 +238,7 @@ Alsembergsesteenweg,wikidata,,Q661993,way
 "Place du Jeu de Balle - Vossenplein",wikidata,,Q19312856;Q82555746,relation+way
 "Place du Luxembourg - Luxemburgplein",wikidata,,Q32,relation+way
 "Place du Petit Sablon - Kleine Zavel",wikidata,,Q949445,relation
-"Place du Samedi - Zaterdagplein",wikidata,,Q131,relation
+"Place du Samedi - Zaterdagplein",wikidata,,Q131,relation+way
 "Placette du Peuplier - Populierpleintje",wikidata,,Q30456678,way
 "Pont Borée - Boreabrug",wikidata,,Q109220,way
 "Pont de Buda - Budabrug",wikidata,,Q14851334,way
@@ -482,6 +484,7 @@ Alsembergsesteenweg,wikidata,,Q661993,way
 "Square des Bruxellois - Brusselaarsplein",wikidata,,Q2927114,way
 "Square du 8 Mai - 8 Meisquare",wikidata,,Q622365,way
 "Square du 8 Mai 1945 - 8 Mei 1945-square",wikidata,,Q622365,way
+"Square du Bia Bouquet - Bia Bouquetsquare",wikidata,,Q3237540,way
 "Square du Sacré-Cœur - Heilig-Hartsquare",wikidata,,Q408284,relation
 "Square du Solbosch - Solbossquare",wikidata,,Q3280691,relation+way
 "Square du Vieux Tilleul - Oude-Lindesquare",wikidata,,Q107294142,relation+way
@@ -1105,7 +1108,6 @@ Antwerpselaan,,,,way
 "Avenue du Manoir - Riddershofstedelaan",,,,relation
 "Avenue du Maréchal - Maarschalklaan",,,,way
 "Avenue du Marly - Marlylaan",,,,relation
-"Avenue du Martin-Pêcheur - IJsvogellaan",,,,way
 "Avenue du Mistral - Mistrallaan",,,,relation+way
 "Avenue du Monoplan - Eendekkerlaan",,,,relation
 "Avenue du Onze Novembre - Elf Novemberlaan",,,,relation+way
@@ -1634,11 +1636,14 @@ Eversestraat,,,,way
 "Galerie des Argousiers - Duindoorngalerij",,,,relation
 "Galerie du Centre - Centrumgalerij",,,,way
 "Galerie du Cinquantenaire - Jubelgalerij",,,,way
+"Ghislaine de Villierslaan",,,,way
+"Gouvernementsweg - Route Gouvernementale / Route Gouvernementale - Goevernementsweg",,,,way
 "Grand-Place - Grote Markt",,,,relation
 "Grande Avenue - Grote Laan",,,,way
 "Grande rue au Bois - Grote Bosstraat",,,,relation
 Groenenberg,,,,relation
 Grootveld,,,,relation
+"Grote Prijzenlaan - Avenue des Grands Prix",,,,way
 Gulledelle,,,,relation
 "Hall de gare - Stationshal",,,,way
 Hamweg,,,,relation
@@ -1735,6 +1740,7 @@ Moensberg,,,,way
 "Montagne des Lapins - Konijnenberg",,,,relation
 "Montée de l'Esplanade",,,,way
 Mutsaardplein,,,,way
+Mutsaertplaats,,,,relation
 Neerleest,,,,relation
 "Nieuwe Gentsesteenweg",,,,way
 Noendelle,,,,relation+way
@@ -1895,6 +1901,7 @@ Plattesteen,,,,relation
 "Porte de Namur - Naamsepoort",,,,way
 "Porte de Tervueren - Tervurensepoort",,,,way
 "Porte du Rivage - Oeverpoort",,,,way
+Postweg,,,,way
 "Potaardestraat - Rue d'Argile",,,,way
 "Promenade P. L. Vrijdags - P. L. Vrijdagsvandelweg",,,,way
 "Promenade Verte - Groene Wandeling",,,,way
@@ -1937,7 +1944,6 @@ Roeierspad,,,,way
 "Rond-point des Allemands - Rond Plein der Duitsen",,,,way
 "Roodborstjesweg - Chemin du Rouge-Gorge",,,,way
 "Route Gouvernementale - Goevernementsweg",,,,relation
-"Route Gouvernementale - Goevernementsweg / Gouvernementsweg",,,,way
 "Route de Mont Saint-Jean - Steenweg op Sint-Jansberg",,,,way
 "Rue Américaine - Amerikaanse straat",,,,relation
 "Rue Américaine - Amerikastraat",,,,relation
@@ -2956,7 +2962,7 @@ Roeierspad,,,,way
 "Rue du Cresson - Waterkersstraat",,,,relation
 "Rue du Croissant - Halvemaanstraat",,,,relation
 "Rue du Cubisme - Kubismestraat",,,,relation
-"Rue du Curé - Pastoorsstraat",,,,relation
+"Rue du Curé - Pastoorstraat",,,,relation
 "Rue du Dahlia - Dahliastraat",,,,relation
 "Rue du Dam - Dam",,,,relation
 "Rue du Damier - Dambordstraat",,,,relation
@@ -3202,6 +3208,7 @@ Schaarbeeklei,,,,way
 Schoolgat,,,,relation
 "Sentier 116 - Voetweg 116",,,,way
 "Sentier 141 - Voetweg 141",,,,way
+"Sentier 26 - Pad 26",,,,way
 "Sentier 34 - Pad 34",,,,way
 "Sentier Decroly",,,,way
 "Sentier Melati - Melatipad",,,,way
@@ -3281,6 +3288,7 @@ Schoolgat,,,,relation
 "Sentier du pèlerin - Pelgrimspad",,,,way
 "Sentier n°31 - Voetweg nr 31",,,,way
 Seringenstraat,,,,relation
+Sint-Jansbergsteenweg,,,,way
 Sluipdelleweg,,,,way
 Sparrenweg,,,,way
 "Square Alexandre - Alexandreplein",,,,way
@@ -3331,7 +3339,6 @@ Sparrenweg,,,,way
 "Square des Privilèges - Privilegiënsquare",,,,relation
 "Square des Vétérans Coloniaux - Koloniale-Veteranensquare",,,,relation
 "Square du Bastion - Bolwerksquare",,,,relation+way
-"Square du Bia Bouquet - Bia Bouquetsquare",,,,way
 "Square du Castel Fleuri - Castel Fleurisquare",,,,way
 "Square du Centenaire - Eeuwfeestsquare",,,,relation+way
 "Square du Grenat - Granaatsquare",,,,relation
@@ -3396,6 +3403,7 @@ Vlasendaalstraat,,,,way
 "Voie 2 - Spoor 2",,,,way
 "Waterloopad - Sentier de Waterloo",,,,way
 "Watermael Shopping",,,,way
+"Waverse steenweg",,,,way
 Windmolenberg,,,,relation
 Woluwedal,,,,way
 Woluwelaan,,,,way

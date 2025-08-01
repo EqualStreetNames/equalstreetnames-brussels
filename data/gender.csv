@@ -614,7 +614,7 @@ name,source,gender,wikidata,type
 "Avenue Roger Hainaut - Roger Hainautlaan",wikidata,M,Q91870559,way
 "Avenue Roger Lallemand - Roger Lallemandlaan",wikidata,M,Q466207,relation
 "Avenue Roger Vandendriessche - Roger Vandendriesschelaan",wikidata,M,Q61653837,relation
-"Avenue Rogier - Rogierlaan",wikidata,M,Q468109,way
+"Avenue Rogier - Rogierlaan",wikidata,M,Q468109,relation
 "Avenue Romain Rolland - Romain Rollandlaan",wikidata,M,Q47162,relation
 "Avenue Rommelaere - Rommelaerelaan",wikidata,M,Q129255578,relation+way
 "Avenue Saint-Augustin - Sint-Augustinuslaan",wikidata,M,Q8018,way
@@ -1554,7 +1554,6 @@ name,source,gender,wikidata,type
 "Rue Léopold Courouble - Léopold Couroublestraat",wikidata,M,Q3271785,relation
 "Rue Léopold De Swaef - Léopold De Swaefstraat",wikidata,M,Q106977820,relation
 "Rue Léopold Delbove - Léopold Delbovestraat",wikidata,M,Q85425362,relation
-"Rue Léopold I - Leopold I straat",wikidata,M,Q12971,relation
 "Rue Léopold I - Leopold I-straat",wikidata,M,Q12971,relation
 "Rue Léopold Lenders - Léopold Lendersstraat",wikidata,M,Q3271847,way
 "Rue Léopold Peret - Leopold Peretstraat",wikidata,M,Q86066687,relation
