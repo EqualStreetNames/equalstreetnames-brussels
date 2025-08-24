@@ -29,6 +29,7 @@ name,source,gender,wikidata,type
 "Avenue Marguerite Yourcenar - Marguerite Yourcenarlaan",wikidata,F,Q163118,relation
 "Avenue Marie de Hongrie - Maria van Hongarijelaan",wikidata,F,Q157077,relation+way
 "Avenue Marie la Misérable - Lenneke Marelaan",wikidata,F,Q13815118,relation
+"Avenue Marie-Clotilde - Marie-Clotildelaan",wikidata,F,Q3291736,way
 "Avenue Marie-José - Marie-Josélaan",wikidata,F,Q72919,relation
 "Avenue Nellie Melba - Nellie Melbalaan",wikidata,F,Q237607,relation
 "Avenue Princesse Elisabeth - Prinses Elisabethlaan",wikidata,F,Q235186,relation
@@ -1891,7 +1892,6 @@ name,source,gender,wikidata,type
 "Square Charles-Maurice Wiser - Charles-Maurice Wiserplein",wikidata,M,Q93095585,relation
 "Square Coghen - Coghensquare",wikidata,M,Q2412466,relation+way
 "Square Docteur Jean Joly - Dokter Jean Jolyplein",wikidata,M,Q93096063,relation
-"Square Eddy Merckx - Eddy Merckxplein",wikidata,M,Q103756,way
 "Square Edmond Machtens - Edmond Machtenssquare",wikidata,M,Q2509847,relation
 "Square Égide Rombaux - Égide Rombauxsquare",wikidata,M,Q3580163,way
 "Square Emile Duployé - Emile Duployésquare",wikidata,M,Q113075,relation
@@ -1964,7 +1964,6 @@ name,source,gender,wikidata,type
 "Venelle de l'Alchimiste - Alchemiststeeg",wikidata,M,Q294169,relation+way
 "Rue Willy De Bruyn - Willy De Bruynstraat",wikidata,MX,Q15807938,relation
 "Place Van Meyel - Van Meyelplein",csv,+,,relation
-"Rue Buchholtz - Buchholtzstraat",csv,+,,relation
 "Rue Vandenhoven - Vandenhovenstraat",csv,+,,relation
 "Drève Soetkin - Soetkindreef",csv,-,,relation
 "Cité Ronsmans - Ronsmanswijk",csv,?,,way
@@ -1983,7 +1982,6 @@ name,source,gender,wikidata,type
 "Avenue Hélène - Helenalaan",csv,F,,relation
 "Avenue Jeanne - Johannalaan",csv,F,,relation+way
 "Avenue Juliette - Juliettelaan",csv,F,,way
-"Avenue Marie-Clotilde - Marie-Clotildelaan",csv,F,,way
 "Avenue Paule - Paulalaan",csv,F,,relation
 "Rue Marianne - Mariannestraat",csv,F,,relation
 "Rue Mercelis - Mercelisstraat",csv,F,,relation
