@@ -65,7 +65,7 @@ Alsembergsesteenweg,wikidata,,Q661993,way
 "Avenue de la Licorne - Eenhoornlaan",wikidata,,Q10428,relation
 "Avenue de la Porte de Hal - Hallepoortlaan",wikidata,,Q109937087,relation
 "Avenue de la Renaissance - Renaissancelaan",wikidata,,Q4692,relation
-"Avenue de la Toison d'Or - Gulden-Vlieslaan",wikidata,,Q212262;Q465774;Q465774,relation+way
+"Avenue de la Toison d'Or - Gulden-Vlieslaan",wikidata,,Q212262;Q212262;Q465774,relation+way
 "Avenue des Abeilles - Bijenlaan",wikidata,,Q7391,relation
 "Avenue des Arums - Aronskelkenlaan",wikidata,,Q161121,relation
 "Avenue des Chanterelles - Hanenkammenlaan",wikidata,,Q3942018,way
@@ -139,8 +139,8 @@ Alsembergsesteenweg,wikidata,,Q661993,way
 "Chaussée de Ruisbroek - Ruisbroekse Steenweg",wikidata,,Q1993738,relation
 "Chaussée de Saint-Job - Sint-Jobsesteenweg",wikidata,,Q1927235,way
 "Chaussée de Tervueren - Tervuursesteenweg",wikidata,,Q456544,way
-"Chaussée de Waterloo - Waterloose Steenweg",wikidata,,Q31579578,relation
-"Chaussée de Waterloo - Waterloosesteenweg",wikidata,,Q31579578,relation
+"Chaussée de Waterloo - Waterloose Steenweg",wikidata,,Q179034,relation
+"Chaussée de Waterloo - Waterloosesteenweg",wikidata,,Q179034,relation
 "Chaussée de Waterloo - Waterlose Steenweg",wikidata,,Q179034,relation
 "Chaussée de Watermael - Watermaalsesteenweg",wikidata,,Q2043872,relation+way
 "Chaussée de Wavre - Waversesteenweg",wikidata,,Q181314,relation+way
@@ -288,7 +288,6 @@ Leuvensesteenweg,wikidata,,Q118958,way
 "Rue Africaine - Afrikastraat",wikidata,,Q15,relation
 "Rue Buchholtz - Buchholtzstraat",wikidata,,Q135552542,relation
 "Rue Chant d'Oiseaux - Vogelenzangstraat",wikidata,,Q3562066,relation+way
-"Rue Cuerens - Cuerensstraat",wikidata,,Q3447573,relation
 "Rue Draps-Dom - Draps-Domstraat",wikidata,,Q129254863,relation
 "Rue Ducale - Hertogstraat",wikidata,,Q166886,relation
 "Rue Guillaume Tell - Willem Tellstraat",wikidata,,Q30908,relation
@@ -487,7 +486,6 @@ Leuvensesteenweg,wikidata,,Q118958,way
 "Rue du Lavoir - Wasserijstraat",wikidata,,Q1690211,relation
 "Rue du Lilas - Seringstraat",wikidata,,Q6565319,relation
 "Rue du Lombard - Lombardstraat",wikidata,,Q130900,relation
-"Rue du Lycée - Lyceumstraat",wikidata,,,relation
 "Rue du Marché aux Fromages - Kaasmarkt",wikidata,,Q10943,relation
 "Rue du Marquis - Markiesstraat",wikidata,,Q209726,relation
 "Rue du Meiboom - Meiboomstraat",wikidata,,Q21052026,relation
@@ -657,7 +655,6 @@ Antwerpselaan,,,,way
 "Avenue Lambeau - Lambeaulaan",,,,relation
 "Avenue Latérale - Zijlaan",,,,way
 "Avenue Laure - Lauralaan",,,,relation
-"Avenue Legrand - Legrandlaan",,,,way
 "Avenue Limbourg - Limbourglaan",,,,relation
 "Avenue Maurice - Mauricelaan",,,,relation
 "Avenue Monplaisir - Monplaisirlaan",,,,way
@@ -3043,6 +3040,7 @@ Roeierspad,,,,way
 "Rue du Loriot - Wielewaalstraat",,,,way
 "Rue du Loutrier - Ottervangerstraat",,,,way
 "Rue du Luxembourg - Luxemburgstraat",,,,relation
+"Rue du Lycée - Lyceumstraat",,,,relation
 "Rue du Madrigal - Madrigalstraat",,,,relation
 "Rue du Magasin - Pakhuisstraat",,,,relation
 "Rue du Magistrat - Wethoudersstraat",,,,way

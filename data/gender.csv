@@ -15,7 +15,7 @@ name,source,gender,wikidata,type
 "Allée Laura Turner - Laura Turnerdreef",wikidata,F,Q51230345,way
 "Allée Louisa Haerens - Louisa Haerensdreef",wikidata,F,Q88801975,way
 "Allée Louise Van den Plas - Louise Van den Plasdreef",wikidata,F,Q3263875,relation
-"Alleé Lucette Decroly - Lucette Decrolyweg",wikidata,F,Q130468596,way
+"Alleé Lucette Decroly - Lucette Decrolyweg",wikidata,F,Q130468596,relation
 "Allée Maud Frère - Maud Frèredreef",wikidata,F,Q3300098,way
 "Allée Rosa Luxemburg - Rosa Luxemburgdreef",wikidata,F,Q7231,way
 "Allée Suzanne Cocq - Suzanne Cocqdreef",wikidata,F,Q21645086,way
@@ -488,7 +488,7 @@ name,source,gender,wikidata,type
 "Avenue Jean-François Debecker - Jean-François Debeckerlaan",wikidata,M,Q90832971,relation
 "Avenue Jean-François Leemans - Jean-François Leemanslaan",wikidata,M,Q90834772,relation
 "Avenue Jef Lambeaux - Jef Lambeauxlaan",wikidata,M,Q2515102,relation
-"Avenue Jolé - Jolélaan",wikidata,M,Q90915648,relation
+"Avenue Jolé - Jolélaan",wikidata,M,Q90915648;Q90916142,relation
 "Avenue Joseph Baeck - Joseph Baecklaan",wikidata,M,Q14632763,relation+way
 "Avenue Joseph Borlé - Joseph Borlélaan",wikidata,M,Q90916165,relation
 "Avenue Joseph Chaudron - Joseph Chaudronlaan",wikidata,M,Q3184752,relation
@@ -518,6 +518,7 @@ name,source,gender,wikidata,type
 "Avenue Konrad Adenauer - Konrad Adenauerlaan",wikidata,M,Q2492,relation
 "Avenue Laënnec - Laënneclaan",wikidata,M,Q219621,relation
 "Avenue Le Marinel - Le Marinellaan",wikidata,M,Q770686,relation
+"Avenue Legrand - Legrandlaan",wikidata,M,Q101067846,relation
 "Avenue Léo Errera - Léo Erreralaan",wikidata,M,Q1879380,relation
 "Avenue Léon Debatty - Léon Debattylaan",wikidata,M,Q90987653,relation
 "Avenue Léon Grosjean - Léon Grosjeanlaan",wikidata,M,Q90987935,relation
@@ -1135,6 +1136,7 @@ name,source,gender,wikidata,type
 "Rue Corneille Hoornaert - Corneille Hoornaertstraat",wikidata,M,Q94483761,relation
 "Rue Cornet de Grez - Cornet de Grezstraat",wikidata,M,Q3068545,relation
 "Rue Crocq - Crocqstraat",wikidata,M,Q3171488,relation
+"Rue Cuerens - Cuerensstraat",wikidata,M,Q94143697,relation
 "Rue Cyriel Buysse - Cyriel Buyssestraat",wikidata,M,Q628124,relation
 "Rue Daniel Van Damme - Daniel Van Dammestraat",wikidata,M,Q52225103,way
 "Rue Dante - Dantestraat",wikidata,M,Q1067,relation
