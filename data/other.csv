@@ -138,7 +138,6 @@ Antwerpselaan,,,,way
 "Avenue Nouvelle - Nieuwelaan",,,,relation+way
 "Avenue Orban - Orbanlaan",,,,relation+way
 "Avenue Pré des Agneaux - Lammerendrieslaan",,,,relation
-"Avenue Prekelinden - Prekelindenlaan",,,,relation
 "Avenue Salomé - Salomélaan",,,,relation
 "Avenue Tempérance - Matigheidslaan",,,,relation
 "Avenue Thomson - Thomsonlaan",,,,way
@@ -153,7 +152,6 @@ Antwerpselaan,,,,way
 "Avenue Walckiers - Walckierslaan",,,,way
 "Avenue Wannecouter - Wannekouterlaan",,,,relation+way
 "Avenue Wielemans Ceuppens - Wielemans Ceuppenslaan",,,,relation
-"Avenue Wolvendael - Wolvendaellaan",,,,relation
 "Avenue d'Andrimont - Andrimontlaan",,,,way
 "Avenue d'Août - Augustuslaan",,,,relation
 "Avenue d'Avril - Aprillaan",,,,relation
@@ -184,13 +182,11 @@ Antwerpselaan,,,,way
 "Avenue de Jette - Jetselaan",,,,relation+way
 "Avenue de Joli-Bois - Mooi-Boslaan",,,,relation
 "Avenue de Juillet - Julilaan",,,,relation
-"Avenue de Koekelberg - Koekelberglaan",,,,relation
 "Avenue de Kraainem - Kraainemse laan",,,,relation
 "Avenue de Laeken - Lakense Laan",,,,relation+way
 "Avenue de Lothier - Lotharingenlaan",,,,relation
 "Avenue de Mai - Meilaan",,,,relation
 "Avenue de Mars - Maartlaan",,,,relation+way
-"Avenue de Mercure - Mercuriuslaan",,,,relation+way
 "Avenue de Monte Carlo - Monte-Carlolaan",,,,way
 "Avenue de Roodebeek - Roodebeeklaan",,,,relation
 "Avenue de Saturne - Saturnelaan",,,,way
@@ -216,7 +212,7 @@ Antwerpselaan,,,,way
 "Avenue de l'Arbalète - Kruisbooglaan",,,,way
 "Avenue de l'Armée - Legerlaan",,,,relation
 "Avenue de l'Armet - Stormhelmlaan",,,,relation
-"Avenue de l'Assomption - Maria-Hemelvaartlaan",,,,relation
+"Avenue de l'Assomption - Maria-Hemelvaartlaan",,,,relation+way
 "Avenue de l'Atlantique - Atlantische Oceaanlaan",,,,relation+way
 "Avenue de l'Aulne - Elzeboomlaan",,,,way
 "Avenue de l'Aviation - Luchtvaartlaan",,,,relation+way
@@ -235,7 +231,6 @@ Antwerpselaan,,,,way
 "Avenue de l'Hélice - Schroeflaan",,,,relation
 "Avenue de l'Hermine - Hermelijnlaan",,,,way
 "Avenue de l'Hôpital Français - Frans Gasthuislaan",,,,relation+way
-"Avenue de l'Horizon - Horizonlaan",,,,relation+way
 "Avenue de l'Idéal - Ideaallaan",,,,relation+way
 "Avenue de l'Impressionnisme - Impressionnismelaan",,,,relation
 "Avenue de l'Indépendance Belge - Belgische Onafhankelijkheidslaan",,,,relation+way
@@ -255,7 +250,6 @@ Antwerpselaan,,,,way
 "Avenue de la Brème - Brasemlaan",,,,way
 "Avenue de la Brise - Brieslaan",,,,relation+way
 "Avenue de la Bugrane - Stalkruidlaan",,,,relation
-"Avenue de la Cavalerie - Ruiterijlaan",,,,relation
 "Avenue de la Chapelle - Kapellaan",,,,relation
 "Avenue de la Charmille - Haagbeukenlaan",,,,relation+way
 "Avenue de la Chênaie - Eikenboslaan",,,,way
@@ -288,7 +282,6 @@ Antwerpselaan,,,,way
 "Avenue de la Laiterie - Melkerijlaan",,,,way
 "Avenue de la Lance - Lanslaan",,,,relation
 "Avenue de la Lesse - Lesselaan",,,,relation+way
-"Avenue de la Liberté - Vrijheidslaan",,,,relation+way
 "Avenue de la Libre Académie - Vrije-Academielaan",,,,relation
 "Avenue de la Lisière - Boskantlaan",,,,way
 "Avenue de la Métrologie - Metrologielaan",,,,relation+way
@@ -329,8 +322,6 @@ Antwerpselaan,,,,way
 "Avenue des Albatros - Albatroslaan",,,,relation
 "Avenue des Alezans - Vossenlaan",,,,relation
 "Avenue des Alisiers - Meelbessenlaan",,,,way
-"Avenue des Alouettes - Leeuwerikenlaan",,,,relation
-"Avenue des Amandiers - Amandelbomenlaan",,,,relation
 "Avenue des Anciens Combattants - Oud-Strijderslaan",,,,relation+way
 "Avenue des Archères - Boogschutterinnenlaan",,,,relation
 "Avenue des Archiducs - Aartshertogenlaan",,,,way
@@ -394,10 +385,8 @@ Antwerpselaan,,,,way
 "Avenue des Ébéniers - Ebbebomenlaan",,,,relation
 "Avenue des Edelweiss - Edelweisslaan",,,,relation
 "Avenue des Églantiers - Wilderozelaarslaan",,,,relation
-"Avenue des Églantines - Eglantierenlaan",,,,relation
 "Avenue des Eoliennes - Staartmolenslaan",,,,relation
 "Avenue des Éperons d'Or - Gulden-Sporenlaan",,,,relation
-"Avenue des Éperviers - Sperwerlaan",,,,relation+way
 "Avenue des Étriers - Stijgbeugellaan",,,,relation
 "Avenue des Familles - Familielaan",,,,relation
 "Avenue des Faons - Reebokjeslaan",,,,way
@@ -436,8 +425,6 @@ Antwerpselaan,,,,way
 "Avenue des Lucioles - Glimwormenlaan",,,,way
 "Avenue des Mantes - Bidsprinkhanenlaan",,,,way
 "Avenue des Mauves - Maluwenlaan",,,,way
-"Avenue des Ménestrels - Menestrelenlaan",,,,relation
-"Avenue des Ménestrels - Minnezangerslaan",,,,relation
 "Avenue des Merles - Merellaan",,,,relation
 "Avenue des Mésanges - Mezenlaan",,,,relation
 "Avenue des Meuniers - Mulderslaan",,,,relation
@@ -465,7 +452,6 @@ Antwerpselaan,,,,way
 "Avenue des Ormeaux - Olmpjeslaan",,,,way
 "Avenue des Ortolans - Ortolanenlaan",,,,way
 "Avenue des Palombes - Ringduivenlaan",,,,relation
-"Avenue des Passereaux - Zangvogelslaan",,,,relation+way
 "Avenue des Pâturins - Beemdgraslaan",,,,way
 "Avenue des Paysages - Landschappenlaan",,,,relation
 "Avenue des Phalènes - Nachtvlinderslaan",,,,way
@@ -503,7 +489,6 @@ Antwerpselaan,,,,way
 "Avenue des Troubadours - Troubadourslaan",,,,relation+way
 "Avenue des Vaillants - Dapperenlaan",,,,relation
 "Avenue des Villas - Villalaan",,,,relation
-"Avenue des Volontaires - Vrijwilligerslaan",,,,relation
 "Avenue du Barbeau - Barbeellaan",,,,way
 "Avenue du Bempt - Bemptlaan",,,,relation
 "Avenue du Bleuet - Roggebloemlaan",,,,relation
@@ -517,7 +502,6 @@ Antwerpselaan,,,,way
 "Avenue du Cerf-Volant - Vliegerlaan",,,,way
 "Avenue du Champ de Course - Rijbaanlaan",,,,way
 "Avenue du Championnat - Kampioenschapslaan",,,,way
-"Avenue du Chant d'Oiseau - Vogelzanglaan",,,,relation
 "Avenue du Château - Kasteellaan",,,,relation+way
 "Avenue du Chèvrefeuille - Geitenbladlaan",,,,relation
 "Avenue du Cimetière - Kerkhoflaan",,,,relation
@@ -529,7 +513,6 @@ Antwerpselaan,,,,way
 "Avenue du Congo - Kongolaan",,,,relation+way
 "Avenue du Cor de Chasse - Jachthoornlaan",,,,way
 "Avenue du Cosmonaute - Kosmonautlaan",,,,relation
-"Avenue du Couronnement - Kroninglaan",,,,relation
 "Avenue du Daim - Damhertlaan",,,,way
 "Avenue du Derby - Derbylaan",,,,relation+way
 "Avenue du Dernier Repos - Laatste-Rustlaan",,,,relation
@@ -569,7 +552,6 @@ Antwerpselaan,,,,way
 "Avenue du Hunderenveld - Hunderenveldlaan",,,,relation+way
 "Avenue du Jeu de Paume - Kaatsspellaan",,,,relation
 "Avenue du Jonc - Biezenlaan",,,,relation
-"Avenue du Karreveld - Karreveldlaan",,,,relation
 "Avenue du Kouter - Kouterlaan",,,,relation+way
 "Avenue du Laerbeek - Laarbeeklaan",,,,relation+way
 "Avenue du Loriot - Wielewaallaan",,,,relation
@@ -617,7 +599,6 @@ Antwerpselaan,,,,way
 "Avenue du Val d'Or - Gouddallaan",,,,relation
 "Avenue du Val d'Or - Guldendallaan",,,,relation
 "Avenue du Vert Chasseur - Groene Jagerslaan",,,,way
-"Avenue du Vieux Cornet - Hof ten Horenlaan",,,,relation
 "Avenue du Vivier d'Oie - Diesdellelaan",,,,way
 "Avenue du Vossegat - Vossegatlaan",,,,way
 "Avenue ten Horen - ten Horenlaan",,,,relation
@@ -632,7 +613,6 @@ Bosveldweg,,,,way
 "Boulevard Industriel - Industrielaan",,,,relation
 "Boulevard International - Internationalelaan",,,,relation+way
 "Boulevard Paepsem - Paepsemlaan",,,,relation+way
-"Boulevard de l'Humanité - Humaniteitslaan",,,,relation+way
 "Boulevard de l'Impératrice - Keizerinlaan",,,,relation
 "Boulevard de la Cambre - Terkamerenlaan",,,,relation+way
 "Boulevard de la Grande Ceinture - Grote-Ringlaan",,,,relation+way
@@ -676,7 +656,6 @@ Cauter,,,,relation
 "Chaussée de Dieleghem - Dieleghemse Steenweg",,,,relation
 "Chaussée de Forest - Vorstse Steenweg",,,,relation
 "Chaussée de Forest - Vorstsesteenweg",,,,relation
-"Chaussée de Gand - Gentsesteenweg",,,,relation+way
 "Chaussée de Haecht - Haachtsesteenweg",,,,relation+way
 "Chaussée de Helmet - Helmetsesteenweg",,,,relation
 "Chaussée de La Hulpe - Terhulpensesteenweg / Chaussée de La Hulpe - Terhulpsesteenweg",,,,way
@@ -687,7 +666,6 @@ Cauter,,,,relation
 "Chaussée de Roodebeek - Roodebeeksteenweg",,,,relation+way
 "Chaussée de Stockel - Stokkelsesteenweg",,,,relation+way
 "Chaussée de Vilvorde - Vilvoordsesteenweg",,,,relation+way
-"Chaussée de Vleurgat - Vleurgatse Steenweg",,,,relation
 "Chaussée de Wemmel - Wemmelse Steenweg",,,,relation
 "Chaussée de Zellik - Steenweg op Zellik",,,,relation
 "Chaussée de Zellik - Zelliksesteenweg",,,,way
@@ -860,6 +838,7 @@ Cauter,,,,relation
 "Chemin vicinal 14 - Buurtweg 14",,,,way
 "Chemin vicinal 29 - Buurtweg 29",,,,way
 "Chemin vicinal 71 - Buurtweg 71",,,,way
+"Cité Gets - Getswijk",,,,way
 "Cité Ouvrière de Linthout - Linthoutse Werkmanswoonwijk",,,,relation+way
 "Cité du Vert Chasseur - Groene Jagerswijk",,,,way
 "Clos 't Hof ten Berg - 't Hof ten Berg",,,,relation
@@ -909,7 +888,6 @@ Cauter,,,,relation
 "Clos des Deux Tilleuls - Tweelindengaarde",,,,relation
 "Clos des Diablotins - Duiveltjesgaarde",,,,relation
 "Clos des Essarts - Rooilandgaarde",,,,relation
-"Clos des Étangs - Vijversgaarde",,,,relation
 "Clos des Étangs - Vijvershoek",,,,relation
 "Clos des Fleurs - Bloemengaarde",,,,way
 "Clos des Frères Lumière - Gebroeders Lumièregaarde",,,,relation+way
@@ -995,7 +973,6 @@ Dorreveld,,,,way
 "Drève de Champagne - Champagnedreef",,,,relation
 "Drève de Dieleghem - Dieleghemdreef",,,,relation+way
 "Drève de La Brise - La Brisedreef",,,,way
-"Drève de Nivelles - Nijvelsedreef",,,,relation+way
 "Drève de Pinnebeek - Pinnebeekdreef",,,,way
 "Drève de Rivieren - de Rivierendreef",,,,relation+way
 "Drève de Touraine - Tourainedreef",,,,way
@@ -1074,7 +1051,7 @@ Eversestraat,,,,way
 "Galerie Sud - Zuidgalerij",,,,way
 "Galerie Toison d'Or - Galerij Toison d’Or",,,,way
 "Galerie de la Porte de Namur - Galerij van de Naamsepoort",,,,way
-"Galerie des Argousiers - Duindoorngalerij",,,,relation
+"Galerie des Argousiers - Duindoorngalerij",,,,relation+way
 "Galerie du Centre - Centrumgalerij",,,,way
 "Galerie du Cinquantenaire - Jubelgalerij",,,,way
 "Ghislaine de Villierslaan",,,,way
@@ -1245,7 +1222,6 @@ Pachthoevestraat,,,,way
 "Place Sainte-Croix - Heilig-Kruisplein",,,,relation+way
 "Place Terdelt - Terdeltplein",,,,relation+way
 "Place Van Hoegaerde - Van Hoegaerdeplein",,,,relation
-"Place de Bastogne - Bastenakenplein",,,,relation+way
 "Place de Helmet - Helmetseplein",,,,relation
 "Place de Houffalize - Houffalizeplein",,,,relation
 "Place de Mai - Meiplein",,,,relation
@@ -1319,7 +1295,6 @@ Pachthoevestraat,,,,way
 "Place du Nord - Noordplein",,,,way
 "Place du Nouveau Marché aux Grains - Nieuwe Graanmarkt",,,,relation+way
 "Place du Pavillon - Paviljoenplein",,,,way
-"Place du Quatre Août - Vier Augustusplein",,,,relation
 "Place du Repos - Rustplein",,,,relation+way
 "Place du Rinsdelle - Rinsdelleplein",,,,relation+way
 "Place du Sacré-Cœur - Heilig-Hartplein",,,,relation
@@ -1445,7 +1420,6 @@ Roeierspad,,,,way
 "Rue Fontaine d'Amour - Minnebronstraat",,,,relation+way
 "Rue Foppens - Foppensstraat",,,,relation
 "Rue Forestière - Bosstraat",,,,way
-"Rue Fort de Boncelles - Fort van Boncellesstraat",,,,relation+way
 "Rue François Van Assche - Frans Van Asschestraat",,,,relation
 "Rue Gabrielle - Gabriellestraat",,,,way
 "Rue Geleytsbeek - Geleytsbeekstraat",,,,way
@@ -1462,9 +1436,7 @@ Roeierspad,,,,way
 "Rue Hogenbos - Hogenbosstraat",,,,relation+way
 "Rue Hoogeleest - Hogeleeststraat",,,,relation
 "Rue Hubert-Jean Coenen - Hubert-Jean Coenenstraat",,,,relation
-"Rue Hydraulique - Waterkrachtstraat",,,,relation
 "Rue Jean Ekelmans - Jean Ekelmansstraat",,,,relation
-"Rue Jean Van Lierde - Jean Van Lierdestraat",,,,relation
 "Rue Jean-Baptiste Desmeth - Jan-Baptist Desmethstraat",,,,relation
 "Rue Jean-Baptiste Vandercammen - Jean-Baptiste Vandercammenstraat",,,,relation
 "Rue Jean-Baptiste Vannypen - Jean-Baptiste Vannypenstraat",,,,relation
@@ -1512,12 +1484,10 @@ Roeierspad,,,,way
 "Rue Odon - Odonstraat",,,,relation
 "Rue Ongena - Ongenastraat",,,,relation+way
 "Rue Openveld - Openveldstraat",,,,relation
-"Rue Osseghem - Osseghemstraat",,,,relation+way
 "Rue Ostendael - Ostendaelstraat",,,,relation
 "Rue Paepsem - Paapsemstraat",,,,relation
 "Rue Paloke - Palokestraat",,,,relation+way
 "Rue Pampoel - Pampoelstraat",,,,relation
-"Rue Papenkasteel - Papenkasteelstraat",,,,relation+way
 "Rue Picard - Picardstraat",,,,relation
 "Rue Pieremans - Pieremansstraat",,,,relation
 "Rue Pierre Géruzet - Pierre Géruzetstraat",,,,relation
@@ -1541,8 +1511,6 @@ Roeierspad,,,,way
 "Rue Saint-Josse - Sint-Jooststraat",,,,relation
 "Rue Saint-Laurent - Sint-Laurensstraat",,,,relation
 "Rue Sans Souci - Sans Soucistraat",,,,relation
-"Rue Scheutbosch - Scheutboschstraat",,,,relation
-"Rue Scheutveld - Scheutveldstraat",,,,relation
 "Rue Scholle - Schollestraat",,,,relation+way
 "Rue Sleutelplas - Sleutelplasstraat",,,,relation
 "Rue Solleveld - Solleveldstraat",,,,relation+way
@@ -1607,7 +1575,6 @@ Roeierspad,,,,way
 "Rue de Bon Secours - Bijstandsstraat",,,,relation
 "Rue de Bourgogne - Boergondiëstraat",,,,way
 "Rue de Bretagne - Bretagnestraat",,,,relation
-"Rue de Bruges - Bruggestraat",,,,relation+way
 "Rue de Calevoet - Calevoetstraat",,,,way
 "Rue de Chambéry - Chambérystraat",,,,relation+way
 "Rue de Chantilly - Chantillystraat",,,,way
@@ -1622,7 +1589,6 @@ Roeierspad,,,,way
 "Rue de Gênes - Genuastraat",,,,relation
 "Rue de Genève - Genèvestraat",,,,relation+way
 "Rue de Glasgow - Glasgowstraat",,,,way
-"Rue de Grand-Bigard - Groot-Bijgaardenstraat",,,,relation+way
 "Rue de Grand-Halleux - Grand-Halleuxstraat",,,,relation
 "Rue de Groeninghe - Groeninghestraat",,,,relation
 "Rue de Hal - Hallestraat",,,,relation
@@ -1635,7 +1601,6 @@ Roeierspad,,,,way
 "Rue de Levallois-Perret - Levallois-Perretstraat",,,,relation
 "Rue de Liège - Luikstraat",,,,relation
 "Rue de Linkebeek - Linkebeekstraat",,,,way
-"Rue de Linthout - Linthoutstraat",,,,relation
 "Rue de Lisala - Lisalastraat",,,,relation
 "Rue de Lusambo - Lusambostraat",,,,relation
 "Rue de Meudon - Meudonstraat",,,,relation
@@ -1643,7 +1608,6 @@ Roeierspad,,,,way
 "Rue de Moortebeek - Moortebeekstraat",,,,relation
 "Rue de Neufchâtel - Nieuwburgstraat",,,,relation
 "Rue de Nieuwenhove - de Nieuwenhovestraat",,,,way
-"Rue de Normandie - Normandiëstraat",,,,relation
 "Rue de Padoue - Paduastraat",,,,way
 "Rue de Pavie - Paviastraat",,,,way
 "Rue de Pervyse - Pervijzestraat",,,,relation
@@ -1656,7 +1620,6 @@ Roeierspad,,,,way
 "Rue de Rotterdam - Rotterdamstraat",,,,relation
 "Rue de Rudder - de Rudderstraat",,,,relation
 "Rue de Scherdemael - Scherdemaalstraat",,,,relation
-"Rue de Sébastopol - Sebastopolstraat",,,,relation
 "Rue de Serbie - Serviëstraat",,,,relation
 "Rue de Stalle - Stallestraat",,,,way
 "Rue de Strasbourg - Straatsburgstraat",,,,relation
@@ -1665,8 +1628,6 @@ Roeierspad,,,,way
 "Rue de Ter Plast - Terplaststraat",,,,relation
 "Rue de Termonde - Dendermondsestraat",,,,relation
 "Rue de Tervaete - Tervatestraat",,,,relation
-"Rue de Veeweyde - Veeweidestraat",,,,relation
-"Rue de Venise - Venetiëstraat",,,,relation
 "Rue de Verdun - Verdunstraat",,,,relation
 "Rue de Verrewinkel - Verrewinkelstraat",,,,way
 "Rue de Verviers - Verviersstraat",,,,relation
@@ -1693,7 +1654,6 @@ Roeierspad,,,,way
 "Rue de l'Aiguille - Naaldstraat",,,,relation
 "Rue de l'Allée Verte - Groendreefstraat",,,,relation
 "Rue de l'Alliance - Verbondstraat",,,,relation
-"Rue de l'Amblève - Amblèvestraat",,,,relation
 "Rue de l'Ancien Presbytère - Oude Pastoriestraat",,,,relation
 "Rue de l'Ancienne Cure - Oude Pastoriestraat",,,,relation
 "Rue de l'Ancienne Gare - Oudstationsstraat",,,,way
@@ -1709,9 +1669,7 @@ Roeierspad,,,,way
 "Rue de l'Arbrisseau - Heesterstraat",,,,way
 "Rue de l'Architecture - Bouwkunststraat",,,,relation
 "Rue de l'Argonne - Argonnestraat",,,,relation
-"Rue de l'Armistice - Wapenstilstandstraat",,,,relation
 "Rue de l'Aronde - Zwaluwstraat",,,,way
-"Rue de l'Artichaut - Artisjokstraat",,,,relation+way
 "Rue de l'Ascension - Bergopstraat",,,,relation
 "Rue de l'Athénée - Atheneumstraat",,,,relation
 "Rue de l'Athénée Royal - Koninklijk Atheneumstraat",,,,relation
@@ -1730,7 +1688,6 @@ Roeierspad,,,,way
 "Rue de l'Économie - Spaarzaamheidstraat",,,,relation
 "Rue de l'Écuelle - Napstraat",,,,relation
 "Rue de l'Éducation - Opvoedingsstraat",,,,relation
-"Rue de l'Égalité - Gelijkheidstraat",,,,relation
 "Rue de l'Église - Kerkstraat",,,,relation
 "Rue de l'Église Saint-Lambert - Sint-Lambertuskerkstraat",,,,relation
 "Rue de l'Église Saint-Martin - Sint-Martinuskerkstraat",,,,relation
@@ -1751,14 +1708,12 @@ Roeierspad,,,,way
 "Rue de l'Équateur - Evenaarsstraat",,,,way
 "Rue de l'Équerre - Winkelhaakstraat",,,,relation
 "Rue de l'Équité - Gerechtigheidsstraat",,,,relation
-"Rue de l'Ermitage - Kluisstraat",,,,relation+way
 "Rue de l'Escadron - Eskadronstraat",,,,relation+way
 "Rue de l'Escaut - Scheldestraat",,,,relation
 "Rue de l'Escrime - Schermstraat",,,,way
 "Rue de l'Espace Vert - Groene Zonestraat",,,,relation+way
 "Rue de l'Espérance - Hoopstraat",,,,relation
 "Rue de l'Esplanade - Esplanadestraat",,,,way
-"Rue de l'Étang - Vijverstraat",,,,relation
 "Rue de l'Été - Zomerstraat",,,,relation
 "Rue de l'Étoile Polaire - Poolsterstraat",,,,relation
 "Rue de l'Étuve - Stoofstraat",,,,relation
@@ -1809,8 +1764,6 @@ Roeierspad,,,,way
 "Rue de la Briqueterie - Steenbakkerijstraat",,,,relation
 "Rue de la Bruyère - Heidestraat",,,,relation
 "Rue de la Buanderie - Washuisstraat",,,,relation
-"Rue de la Cambre - Ter Kamerenstraat",,,,relation
-"Rue de la Cambre - Terkamerenstraat",,,,relation+way
 "Rue de la Campine - Kempenstraat",,,,relation
 "Rue de la Cantilène - Cantilenestraat",,,,relation
 "Rue de la Caravelle - Karveelstraat",,,,relation
@@ -1821,19 +1774,16 @@ Roeierspad,,,,way
 "Rue de la Chancellerie - Kanselarijstraat",,,,relation
 "Rue de la Chanterelle - Lokvogelstraat",,,,relation+way
 "Rue de la Charrette - Karrestraat",,,,relation+way
-"Rue de la Chasse Royale - Koninklijke Jachtstraat",,,,relation
 "Rue de la Chaufferette - Lollepotstraat",,,,relation
 "Rue de la Chaumière - Hutstraat",,,,relation
 "Rue de la Cible - Schietschijfstraat",,,,relation
 "Rue de la Cigale - Krekelenberg",,,,relation
 "Rue de la Citadelle - Citadelstraat",,,,way
-"Rue de la Cité - Woonwijkstraat",,,,relation
 "Rue de la Cité Joyeuse - Kindvriendelijk Huisstraat",,,,relation+way
 "Rue de la Cité Moderne - Moderne-Wijkstraat",,,,relation
 "Rue de la Clinique - Kliniekstraat",,,,relation
 "Rue de la Collégiale - Collegialestraat",,,,way
 "Rue de la Colonne - Kolomstraat",,,,relation
-"Rue de la Comète - Staartsterstraat",,,,relation
 "Rue de la Commune - Gemeentestraat",,,,way
 "Rue de la Compétition - Mededingingstraat",,,,relation
 "Rue de la Comtesse de Flandre - Gravin Van Vlaanderenstraat",,,,relation
@@ -1851,13 +1801,10 @@ Roeierspad,,,,way
 "Rue de la Croix de Fer - IJzerenkruisstraat",,,,relation
 "Rue de la Croix de Pierre - Stenen-Kruisstraat",,,,relation
 "Rue de la Cueillette - Plukstraat",,,,way
-"Rue de la Cuve - Kuipstraat",,,,relation
 "Rue de la Délivrance - Verlossingsstraat",,,,relation
 "Rue de la Démocratie - Democratiestraat",,,,relation
 "Rue de la Dignité - Waardigheidsstraat",,,,relation
 "Rue de la Digue - Damstraat",,,,relation
-"Rue de la Duchesse - Hertoginstraat",,,,relation
-"Rue de la Dyle - Dijlestraat",,,,relation
 "Rue de la Fauvette - Grasmusstraat",,,,way
 "Rue de la Fenaison - Hooitijdstraat",,,,relation
 "Rue de la Ferme - Hoevestraat",,,,relation
@@ -1880,7 +1827,6 @@ Roeierspad,,,,way
 "Rue de la Gérance - Beheerstraat",,,,relation
 "Rue de la Grande Haie - Grote Haagstraat",,,,relation
 "Rue de la Grande Île - Groot Eiland",,,,relation
-"Rue de la Grenouillette - Waterranonkelstraat",,,,relation
 "Rue de la Grotte - Grotstraat",,,,relation
 "Rue de la Herse - Eggestraat",,,,way
 "Rue de la Hulotte - Bosuilstraat",,,,way
@@ -1903,7 +1849,6 @@ Roeierspad,,,,way
 "Rue de la Marjolaine - Marjoleinstraat",,,,relation
 "Rue de la Marne - Marnestraat",,,,relation
 "Rue de la Mécanique - Werktuigkundestraat",,,,relation
-"Rue de la Mélodie - Melodiestraat",,,,relation
 "Rue de la Mélopée - Melopeestraat",,,,relation
 "Rue de la Métairie - Boerderijstraat",,,,relation
 "Rue de la Meuse - Maasstraat",,,,relation
@@ -1913,7 +1858,6 @@ Roeierspad,,,,way
 "Rue de la Mutualité - Onderlinge Bijstandstraat",,,,way
 "Rue de la Natation - Zwemkunststraat",,,,relation
 "Rue de la Navigation - Zeevaartstraat",,,,relation
-"Rue de la Pacification - Pacificatiestraat",,,,relation
 "Rue de la Paix - Vredestraat",,,,relation
 "Rue de la Paroisse - Parochiestraat",,,,relation+way
 "Rue de la Pastorale - Herdersliedstraat",,,,relation
@@ -1983,8 +1927,6 @@ Roeierspad,,,,way
 "Rue de la Tranquillité - Gerustheidsstraat",,,,relation
 "Rue de la Treille - Wijnstokstraat",,,,relation
 "Rue de la Tribune - Tribunestraat",,,,relation
-"Rue de la Tulipe - Tulpstraat",,,,relation+way
-"Rue de la Vallée - Dalstraat",,,,relation+way
 "Rue de la Vanne - Verlaatstraat",,,,way
 "Rue de la Vecquée - Vecquéestraat",,,,way
 "Rue de la Vénerie - Jachtstraat",,,,way
@@ -2001,7 +1943,6 @@ Roeierspad,,,,way
 "Rue des Abbesses - Abdissenstraat",,,,way
 "Rue des Acanthes - Acanthussenstraat",,,,way
 "Rue des Aconits - Monnikskapstraat",,,,way
-"Rue des Aduatiques - Aduatiekersstraat",,,,relation
 "Rue des Aigrettes - Zilverreigersstraat",,,,way
 "Rue des Ailes - Vleugelsstraat",,,,relation
 "Rue des Alcyons - Alcyonstraat",,,,relation
@@ -2021,7 +1962,6 @@ Roeierspad,,,,way
 "Rue des Bannières - Banierenstraat",,,,way
 "Rue des Bannières - Bannierenstraat",,,,relation
 "Rue des Bassins - Kommenstraat",,,,relation+way
-"Rue des Bataves - Batavierenstraat",,,,relation
 "Rue des Bateliers - Schippersstraat",,,,way
 "Rue des Bégonias - Begoniastraat",,,,way
 "Rue des Béguines - Begijnenstraat",,,,relation
@@ -2039,7 +1979,6 @@ Roeierspad,,,,way
 "Rue des Brigittines - Brigittinenstraat",,,,relation
 "Rue des Bûcherons - Houthakkersstraat",,,,way
 "Rue des Cabris - Geitjesstraat",,,,way
-"Rue des Campanules - Klokbloemenstraat",,,,relation
 "Rue des Cannas - Cannastraat",,,,way
 "Rue des Capucins - Kapucijnenstraat",,,,relation
 "Rue des Carburants - Brandstoffenstraat",,,,relation
@@ -2048,7 +1987,6 @@ Roeierspad,,,,way
 "Rue des Chaisiers - Stoelenmakersstraat",,,,relation
 "Rue des Châlets - Lusthuizenstraat",,,,relation+way
 "Rue des Champs - Veldstraat",,,,relation
-"Rue des Champs Élysées - Elyzeese Veldenstraat",,,,relation
 "Rue des Charbonniers - Koolbrandersstraat",,,,way
 "Rue des Chardons - Distelsstraat",,,,relation
 "Rue des Châtaignes - Kastanjestraat",,,,way
@@ -2066,7 +2004,6 @@ Roeierspad,,,,way
 "Rue des Cottages - Landhuisjesstraat",,,,way
 "Rue des Courlis - Wulpenstraat",,,,way
 "Rue des Cultes - Eredienststraat",,,,relation
-"Rue des Cultivateurs - Landbouwersstraat",,,,relation
 "Rue des Cyclamens - Cyclamensstraat",,,,way
 "Rue des Cygnes - Zwanenstraat",,,,relation
 "Rue des Dauphins - Dolfijnenstraat",,,,relation
@@ -2090,7 +2027,6 @@ Roeierspad,,,,way
 "Rue des Éperonniers - Spoormakersstraat",,,,relation
 "Rue des Épicéas - Epiceastraat",,,,relation
 "Rue des Érables - Ahornbomenstraat",,,,relation
-"Rue des Étangs Noirs - Zwarte Vijversstraat",,,,relation
 "Rue des Fabriques - Fabrieksstraat",,,,relation
 "Rue des Faînes - Beukenootjesstraat",,,,relation
 "Rue des Fidèles - Gelovigenstraat",,,,relation
@@ -2101,10 +2037,8 @@ Roeierspad,,,,way
 "Rue des Foulons - Voldersstraat",,,,relation
 "Rue des Fraises - Aardbeienstraat",,,,relation
 "Rue des Franchises - Vrijdommenstraat",,,,relation
-"Rue des Francs - Frankenstraat",,,,relation
 "Rue des Fripiers - Kleerkopersstraat",,,,relation
 "Rue des Fruits - Fruitstraat",,,,relation
-"Rue des Fuchsias - Fuchsiasstraat",,,,relation+way
 "Rue des Funkias - Funkiastraat",,,,way
 "Rue des Gardénias - Gardeniastraat",,,,way
 "Rue des Garennes - Konijnenwarandestraat",,,,way
@@ -2140,7 +2074,6 @@ Roeierspad,,,,way
 "Rue des Mégissiers - Zeemtouwersstraat",,,,relation
 "Rue des Mélèzes - Lariksenstraat",,,,way
 "Rue des Mélisses - Citroenkruidstraat",,,,way
-"Rue des Ménapiens - Menapiërsstraat",,,,relation
 "Rue des Merisiers - Kriekebomenstraat",,,,relation
 "Rue des Merisiers - Kriekenbomenstraat",,,,relation
 "Rue des Métaux - Metalenstraat",,,,relation
@@ -2149,9 +2082,7 @@ Roeierspad,,,,way
 "Rue des Moines - Monnikenstraat",,,,relation
 "Rue des Moissonneurs - Maaiersstraat",,,,relation
 "Rue des Moissons - Oogststraat",,,,relation
-"Rue des Morins - Morinenstraat",,,,relation
 "Rue des Moucherons - Muggenstraat",,,,relation
-"Rue des Moutons - Schapenstraat",,,,relation
 "Rue des Myosotis - Vergeet-mij-nietjesstraat",,,,way
 "Rue des Navets - Rapenstraat",,,,relation
 "Rue des Néfliers - Mispelaarsstraat",,,,relation
@@ -2172,14 +2103,11 @@ Roeierspad,,,,way
 "Rue des Paysagistes - Landschapschildersstraat",,,,relation
 "Rue des Pêcheries - Visserijstraat",,,,way
 "Rue des Pêchers - Perzikbomenstraat",,,,relation
-"Rue des Pêcheurs - Vissersstraat",,,,relation
 "Rue des Pensées - Penseestraat",,,,relation
-"Rue des Perdrix - Patrijzenstraat",,,,relation
 "Rue des Pères Blancs - Witte Patersstraat",,,,relation
 "Rue des Pétunias - Petuniastraat",,,,way
 "Rue des Phlox - Floxenstraat",,,,way
 "Rue des Pierres Rouges - Rode Stenenstraat",,,,way
-"Rue des Platanes - Platanenstraat",,,,relation
 "Rue des Plébéiens - Plebejersstraat",,,,relation
 "Rue des Pluviers - Pluvierstraat",,,,way
 "Rue des Polders - Poldersstraat",,,,way
@@ -2191,7 +2119,6 @@ Roeierspad,,,,way
 "Rue des Quatre Bras - Quatre Brasstraat",,,,relation
 "Rue des Quatre-Vents - Vier-windenstraat",,,,relation
 "Rue des Renoncules - Boterbloemenstraat",,,,way
-"Rue des Résédas - Resedastraat",,,,relation
 "Rue des Riches Claires - Rijkeklarenstraat",,,,relation
 "Rue des Salvias - Salviastraat",,,,way
 "Rue des Sangliers - Everzwijnenstraat",,,,way
@@ -2200,7 +2127,6 @@ Roeierspad,,,,way
 "Rue des Scilles - Scillastraat",,,,way
 "Rue des Secours - Hulpstraat",,,,relation
 "Rue des Sept Étoiles - Zevensterrenstraat",,,,relation
-"Rue des Sicambres - Sikambrenstraat",,,,relation
 "Rue des Silènes - Silenenstraat",,,,way
 "Rue des Six Aunes - Zesellenstraat",,,,relation
 "Rue des Six Jetons - Zespenningenstraat",,,,relation
@@ -2209,15 +2135,12 @@ Roeierspad,,,,way
 "Rue des Sols - Stuiversstraat",,,,relation
 "Rue des Spirées - Spireastraat",,,,way
 "Rue des Tanneurs - Huidevettersstraat",,,,relation
-"Rue des Taxandres - Toxandriërsstraat",,,,relation
 "Rue des Teinturiers - Verversstraat",,,,relation
 "Rue des Thuyas - Thujastraat",,,,way
 "Rue des Tisserands - Weversstraat",,,,relation
 "Rue des Tonneliers - Kuipersstraat",,,,relation
 "Rue des Touristes - Toeristenstraat",,,,relation
-"Rue des Tournesols - Zonnebloemenstraat",,,,relation
 "Rue des Trèfles - Klaverstraat",,,,relation
-"Rue des Trévires - Trevierenstraat",,,,relation
 "Rue des Tritomas - Tritomasstraat",,,,relation
 "Rue des Trois Arbres - Drie Bomenstraat",,,,way
 "Rue des Trois Pertuis - Driegatenstraat",,,,relation+way
@@ -2240,7 +2163,6 @@ Roeierspad,,,,way
 "Rue du Belvédère - Belvédèrestraat",,,,relation
 "Rue du Bemel - Bemelstraat",,,,relation+way
 "Rue du Berceau - Prieelstraat",,,,relation
-"Rue du Bien-Être - Welzijnstraat",,,,relation
 "Rue du Bien-Faire - Bien-Fairestraat",,,,way
 "Rue du Biplan - Tweedekkerstraat",,,,relation+way
 "Rue du Bivouac - Bivakstraat",,,,relation
@@ -2248,7 +2170,6 @@ Roeierspad,,,,way
 "Rue du Bocq - Bocqstraat",,,,relation
 "Rue du Bois - Bosstraat",,,,relation+way
 "Rue du Bois Henri - Henri Bosstraat",,,,relation
-"Rue du Bois de Linthout - Linthoutbosstraat",,,,relation
 "Rue du Bon Accueil - Goede Bejegeningstraat",,,,relation
 "Rue du Bon Pasteur - Goede Herderstraat",,,,relation
 "Rue du Bonheur - Geluksstraat",,,,relation
@@ -2285,7 +2206,6 @@ Roeierspad,,,,way
 "Rue du Champion - Kampioenstraat",,,,relation
 "Rue du Chantier - Werfstraat",,,,relation
 "Rue du Chapeau - Hoedstraat",,,,relation
-"Rue du Chapelain - Kapelaansstraat",,,,relation
 "Rue du Chapitre - Kapittelstraat",,,,relation+way
 "Rue du Charme - Steenbeukstraat",,,,way
 "Rue du Charroi - Gerijstraat",,,,relation+way
@@ -2307,7 +2227,6 @@ Roeierspad,,,,way
 "Rue du Cloître - Kloosterstraat",,,,relation
 "Rue du Collecteur - Hoofdrioolstraat",,,,relation
 "Rue du Collège - Collegestraat",,,,relation
-"Rue du Collège Saint-Michel - Sint-Michielskollegestraat",,,,relation
 "Rue du Colombier - Duivenkotstraat",,,,relation
 "Rue du Compas - Passerstraat",,,,relation
 "Rue du Comptoir - Handelskantoorstraat",,,,relation
@@ -2316,7 +2235,6 @@ Roeierspad,,,,way
 "Rue du Congrès - Congresstraat",,,,relation
 "Rue du Conseil - Raadstraat",,,,relation
 "Rue du Constructeur - Bouwerstraat",,,,relation
-"Rue du Coq - Haanstraat",,,,relation
 "Rue du Corail - Koraalstraat",,,,relation
 "Rue du Corbeau - Raafstraat",,,,relation
 "Rue du Cornet - Hoornstraat",,,,relation
@@ -2325,7 +2243,6 @@ Roeierspad,,,,way
 "Rue du Couvent - Kloosterstraat",,,,relation
 "Rue du Craetveld - Kraatveldstraat",,,,relation+way
 "Rue du Croissant - Halvemaanstraat",,,,relation
-"Rue du Cubisme - Kubismestraat",,,,relation
 "Rue du Curé - Pastoorstraat",,,,relation
 "Rue du Dahlia - Dahliastraat",,,,relation
 "Rue du Dam - Dam",,,,relation
@@ -2340,12 +2257,9 @@ Roeierspad,,,,way
 "Rue du Donjon - Wachttorenstraat",,,,relation
 "Rue du Doolegt - Doolegtstraat",,,,relation
 "Rue du Doyenné - Dekenijstraat",,,,relation+way
-"Rue du Drapeau - Vaandelstraat",,,,relation
 "Rue du Dries - Driesstraat",,,,relation
-"Rue du Duc - Hertogstraat",,,,relation+way
 "Rue du Facteur - Briefdragerstraat",,,,relation+way
 "Rue du Faubourg - Voorstadsstraat",,,,relation
-"Rue du Feu - Vuurstraat",,,,relation
 "Rue du Filleul - Petekindstraat",,,,relation
 "Rue du Finistère - Finisterraestraat",,,,relation
 "Rue du Fossé - Grachtstraat",,,,relation
@@ -2384,20 +2298,16 @@ Roeierspad,,,,way
 "Rue du Kriekenput - Kriekenputstraat",,,,way
 "Rue du Labeur - Arbeidsstraat",,,,relation
 "Rue du Labrador - Labradorstraat",,,,way
-"Rue du Lac - Meerstraat",,,,relation+way
 "Rue du Laekenveld - Laekenveldstraat",,,,relation+way
 "Rue du Lama - Lamastraat",,,,way
 "Rue du Levant - Levantstraat",,,,way
 "Rue du Leybeek - Leybeekstraat",,,,relation
-"Rue du Libre Examen - Vrij-Onderzoekstraat",,,,relation
-"Rue du Lierre - Klimopstraat",,,,relation
 "Rue du Lièvre - Haasstraat",,,,relation
 "Rue du Lion - Leeuwstraat",,,,way
 "Rue du Loriot - Wielewaalstraat",,,,way
 "Rue du Loutrier - Ottervangerstraat",,,,way
 "Rue du Lycée - Lyceumstraat",,,,relation
 "Rue du Madrigal - Madrigalstraat",,,,relation
-"Rue du Magasin - Pakhuisstraat",,,,relation
 "Rue du Magistrat - Wethoudersstraat",,,,way
 "Rue du Mail - Maliestraat",,,,way
 "Rue du Maquis - Maquisstraat",,,,relation+way
@@ -2412,7 +2322,6 @@ Roeierspad,,,,way
 "Rue du Melkriek - Melkriekstraat",,,,way
 "Rue du Melon - Meloenstraat",,,,way
 "Rue du Menuet - Menuetstraat",,,,relation
-"Rue du Menuisier - Schrijnwerkerstraat",,,,relation
 "Rue du Méridien - Middaglijnstraat",,,,relation
 "Rue du Mérinos - Merinosstraat",,,,way
 "Rue du Merlo - Merlostraat",,,,relation
@@ -2457,7 +2366,6 @@ Roeierspad,,,,way
 "Rue du Pommier - Appelboomstraat",,,,relation+way
 "Rue du Pont Neuf - Nieuwbrug",,,,relation
 "Rue du Pont de l'Avenue - Laanbrugstraat",,,,relation
-"Rue du Pont-Levis - Ophaalbrugstraat",,,,relation
 "Rue du Pontonnier - Pontonnierstraat",,,,relation
 "Rue du Postillon - Postiljonstraat",,,,relation
 "Rue du Potaerdenberg - Potaardenbergstraat",,,,relation
@@ -2466,9 +2374,7 @@ Roeierspad,,,,way
 "Rue du Pré - Weidestraat",,,,way
 "Rue du Pré aux Oies - Ganzenweidestraat",,,,relation+way
 "Rue du Presbytère - Pastorijstraat",,,,relation
-"Rue du Prétoire - Rechtszaalstraat",,,,relation
 "Rue du Prévôt - Provooststraat",,,,way
-"Rue du Printemps - Lentestraat",,,,relation
 "Rue du Radium - Radiumstraat",,,,relation
 "Rue du Railway - Railwaystraat",,,,way
 "Rue du Ramier - Bosduifstraat",,,,relation
@@ -2486,23 +2392,16 @@ Roeierspad,,,,way
 "Rue du Rouge-Cloître - Rokloosterstraat",,,,way
 "Rue du Rouge-Gorge - Roodborstjestraat",,,,way
 "Rue du Rouleau - Rolstraat",,,,relation
-"Rue du Ruanda - Ruandastraat",,,,relation
 "Rue du Ruisseau - Beekstraat",,,,relation
 "Rue du Rupel - Rupelstraat",,,,way
 "Rue du Saphir - Saffierstraat",,,,relation
 "Rue du Saule - Wilgstraat",,,,relation
 "Rue du Savoir - Kennisstraat",,,,relation
-"Rue du Sceptre - Scepterstraat",,,,relation
-"Rue du Sel - Zoutstraat",,,,relation
-"Rue du Serment - Eedstraat",,,,relation
 "Rue du Serpentin - Spiraalbuisstraat",,,,relation
-"Rue du Serpolet - Wilde Tijmstraat",,,,relation
 "Rue du Sextant - Sextantstraat",,,,relation
 "Rue du Sillon - Voorstraat",,,,relation
 "Rue du Siphon - Duikerstraat",,,,relation+way
 "Rue du Solarium - Solariumstraat",,,,relation
-"Rue du Soleil - Zonnestraat",,,,relation
-"Rue du Sonnet - Sonnetstraat",,,,relation
 "Rue du Souvenir - Gedachtenisstraat",,,,relation
 "Rue du Stade - Stadionstraat",,,,way
 "Rue du Symbole - Zinnebeeldstraat",,,,relation
@@ -2515,7 +2414,6 @@ Roeierspad,,,,way
 "Rue du Tir - Schietbaanstraat",,,,relation
 "Rue du Tocsin - Stormklokstraat",,,,relation
 "Rue du Tournoi - Steekspelstraat",,,,way
-"Rue du Transvaal - Transvaalstraat",,,,relation
 "Rue du Triage - Hakbosstraat",,,,way
 "Rue du Troglodyte - Holbewonerstraat",,,,way
 "Rue du Trône - Troonstraat",,,,relation+way
@@ -2527,12 +2425,10 @@ Roeierspad,,,,way
 "Rue du Vieux Marché aux Grains - Oude Graanmarktstraat",,,,relation
 "Rue du Vieux Moulin - Oude Molenstraat",,,,way
 "Rue du Vignoble - Wijngaardstraat",,,,way
-"Rue du Village - Dorpsstraat",,,,relation+way
 "Rue du Village Européen - Europadorpstraat",,,,relation
 "Rue du Villageois - Dorpelingenstraat",,,,way
 "Rue du Villageois - Dorpelingstraat",,,,way
 "Rue du Vindictive - Vindictivestraat",,,,relation
-"Rue du Vivier - Visvijverstraat",,,,relation
 "Rue du Wagon - Wagenstraat",,,,relation+way
 "Rue du Wilder - Wilderstraat",,,,relation+way
 "Rue du Wimpelberg - Wimpelbergstraat",,,,relation
@@ -2637,15 +2533,12 @@ Sparrenweg,,,,way
 "Square Omer Denis - Omer Denissquare",,,,way
 "Square Velghe - Velghesquare",,,,way
 "Square Willy Authom - Willy Authomsquare",,,,way
-"Square de Biarritz - Biarritzsquare",,,,relation+way
 "Square de Boondael - Boondaalsesquare",,,,relation
 "Square de Guise - de Guiseplein",,,,relation
 "Square de La Fraternelle - La Fraternellesquare",,,,relation+way
-"Square de Léopoldville - Leopoldstadplein",,,,relation+way
 "Square de Meudon - Meudonplein",,,,way
 "Square de l'Accueil - Onthaalsquare",,,,relation
 "Square de l'Arbalète - Kruisboogsquare",,,,way
-"Square de l'Europe - Europaplein",,,,relation
 "Square de la Cerisaie - Kerseboomgaardsquare",,,,way
 "Square de la Croix Rouge - Rode-Kruissquare",,,,way
 "Square de la Délivrance - Verlossingssquare",,,,way
@@ -2739,6 +2632,6 @@ Vlasendaalstraat,,,,way
 Windmolenberg,,,,relation
 Woluwedal,,,,way
 Woluwelaan,,,,way
-Woluwepad,,,,way
+"Woluwepad - Chemin de la Woluwe",,,,way
 Zavelput,,,,relation
 "Zwarte Pijnbomenlaan",,,,way
