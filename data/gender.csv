@@ -30,6 +30,7 @@ Alsembergsesteenweg,wikidata,-,Q661993,way
 "Avenue Cassiopée - Cassiopealaan",wikidata,-,Q10464,relation
 "Avenue Coloniale - Kolonialelaan",wikidata,-,Q25243,relation
 "Avenue De Roovere - De Rooverelaan",wikidata,-,Q22998598,relation
+"Avenue Hof ten Berg - Hof ten Berglaan",wikidata,-,Q108139472,relation
 "Avenue Jupiter - Jupiterlaan",wikidata,-,Q4649,way
 "Avenue Minerve - Minervalaan",wikidata,-,Q126916,relation
 "Avenue Montgolfier - Montgolfierlaan",wikidata,-,Q193751,relation
@@ -48,8 +49,10 @@ Alsembergsesteenweg,wikidata,-,Q661993,way
 "Avenue Victoria - Victorialaan",wikidata,-,Q308902,relation
 "Avenue Victoria Regina - Victoria Reginalaan",wikidata,-,Q162070,way
 "Avenue Wolvendael - Wolvendaellaan",wikidata,-,Q3364358,relation
+"Avenue d'Août - Augustuslaan",wikidata,-,Q122,relation
 "Avenue d'Auderghem - Oudergemlaan",wikidata,-,Q272228,relation+way
 "Avenue d'Auderghem - Oudergemselaan",wikidata,-,Q272228,relation
+"Avenue d'Avril - Aprillaan",wikidata,-,Q118,relation
 "Avenue de Berchem-Sainte-Agathe - Sint-Agatha-Berchemselaan",wikidata,-,Q272272,relation
 "Avenue de Biolley - de Biolleylaan",wikidata,-,Q56787881,relation
 "Avenue de Bouchout - Boechoutlaan",wikidata,-,Q1964331,relation+way
@@ -58,33 +61,43 @@ Alsembergsesteenweg,wikidata,-,Q661993,way
 "Avenue de Cortenbergh - Kortenberglaan",wikidata,-,Q2181368,relation
 "Avenue de Croydon - Croydonlaan",wikidata,-,Q2213391,relation
 "Avenue de Diane - Dianalaan",wikidata,-,Q132543,relation
+"Avenue de Février - Februarilaan",wikidata,-,Q109,relation
 "Avenue de Flore - Floralaan",wikidata,-,Q209644,relation
+"Avenue de Janvier - Januarilaan",wikidata,-,Q108,relation+way
 "Avenue de Jette - Jetse laan",wikidata,-,Q241918,relation+way
 "Avenue de Jette - Jetselaan",wikidata,-,Q241918,relation+way
+"Avenue de Juillet - Julilaan",wikidata,-,Q121,relation
 "Avenue de Koekelberg - Koekelberglaan",wikidata,-,Q219244,relation
 "Avenue de Laeken - Lakense Laan",wikidata,-,Q730506,relation+way
 "Avenue de Lima - Limalaan",wikidata,-,Q2868,relation
 "Avenue de Madrid - Madridlaan",wikidata,-,Q2807,relation+way
+"Avenue de Mai - Meilaan",wikidata,-,Q119,relation
 "Avenue de Marathon - Marathonlaan",wikidata,-,Q40244,relation+way
+"Avenue de Mars - Maartlaan",wikidata,-,Q110,relation+way
 "Avenue de Mercure - Mercuriuslaan",wikidata,-,Q308,relation+way
 "Avenue de Messidor - Messidorlaan",wikidata,-,Q837281,way
 "Avenue de Meysse - Meiseselaan",wikidata,-,Q922260,relation
 "Avenue de Miramar - Miramarlaan",wikidata,-,Q165069,way
+"Avenue de Roodebeek - Roodebeeklaan",wikidata,-,Q14286923,relation
 "Avenue de Rusatira - Rusatiralaan",wikidata,-,Q21127146,relation
 "Avenue de Saint-Job - Sint-Jobselaan",wikidata,-,Q1927235,way
 "Avenue de Saïo - Saïolaan",wikidata,-,Q19947679,relation
+"Avenue de Septembre - Septemberlaan",wikidata,-,Q123,relation
 "Avenue de Stalingrad - Stalingradlaan",wikidata,-,Q914,relation
 "Avenue de Tervueren - Tervurenlaan",wikidata,-,Q31550469;Q456544,relation+way
 "Avenue de Versailles - Versailleslaan",wikidata,-,Q621,relation+way
 "Avenue de Visé - Visélaan",wikidata,-,Q49743,way
 "Avenue de Woluwe-Saint-Lambert - Sint-Lambrechts-Woluwelaan",wikidata,-,Q211764,relation
 "Avenue de l'Amphore - Amforalaan",wikidata,-,Q178401,relation+way
+"Avenue de l'Andalousie - Andalusiëlaan",wikidata,-,Q5783,relation
 "Avenue de l'Arbalète - Kruisbooglaan",wikidata,-,Q181947,relation
 "Avenue de l'Arbre Ballon - Dikke-Beuklaan",wikidata,-,Q126999875,relation
 "Avenue de l'Arbre Ballon - Dikkebeuklaan",wikidata,-,Q126999875,relation
 "Avenue de l'Astronomie - Sterrenkundelaan",wikidata,-,Q333,relation+way
 "Avenue de l'Atlantique - Atlantische Oceaanlaan",wikidata,-,Q97,relation+way
 "Avenue de l'Atomium - Atomiumlaan",wikidata,-,Q180901,relation
+"Avenue de l'Émeraude - Smaragdlaan",wikidata,-,Q43513,relation
+"Avenue de l'Équinoxe - Eveninglaan",wikidata,-,Q1315,relation
 "Avenue de l'Exposition Universelle - Wereldtentoonstellingslaan",wikidata,-,Q172754,relation+way
 "Avenue de l'Hélianthe - Zonnebloemlaan",wikidata,-,Q26949,relation
 "Avenue de l'Héliport - Helihavenlaan",wikidata,-,Q28048839,relation
@@ -92,19 +105,27 @@ Alsembergsesteenweg,wikidata,-,Q661993,way
 "Avenue de l'Hippodrome - Renbaanlaan",wikidata,-,Q2419360,relation+way
 "Avenue de l'Horizon - Horizonlaan",wikidata,-,Q43261,relation+way
 "Avenue de l'Indépendance Belge - Belgische Onafhankelijkheidslaan",wikidata,-,Q3042660,relation+way
+"Avenue de l'Opale - Opaallaan",wikidata,-,Q171058,relation
+"Avenue de l'Optimisme - Optimismelaan",wikidata,-,Q485446,relation+way
 "Avenue de l'Yser - IJzerlaan",wikidata,-,Q217061,relation+way
 "Avenue de la Basilique - Basilieklaan",wikidata,-,Q846006,relation+way
+"Avenue de la Béatitude - Gelukzaligheidslaan",wikidata,-,Q2268292,relation
 "Avenue de la Brabançonne - Brabançonnelaan",wikidata,-,Q161539,relation+way
 "Avenue de la Cavalerie - Ruiterijlaan",wikidata,-,Q47315,relation
+"Avenue de la Charmille - Haagbeukenlaan",wikidata,-,Q158776,relation+way
 "Avenue de la Chasse - Jachtlaan",wikidata,-,Q108326534,relation+way
 "Avenue de la Constitution - Grondwetlaan",wikidata,-,Q7755,relation+way
 "Avenue de la Croix du Sud - Zuiderkruislaan",wikidata,-,Q10542,relation
 "Avenue de la Croix-Rouge - Rode Kruislaan",wikidata,-,Q2537361,relation
+"Avenue de la Faisanderie - Fazantenparklaan",wikidata,-,Q1397298,relation+way
 "Avenue de la Fauconnerie - Valkerijlaan",wikidata,-,Q211011,relation
 "Avenue de la Floride - Floridalaan",wikidata,-,Q812,way
 "Avenue de la Force Aérienne - Luchtmachtlaan",wikidata,-,Q61883,relation
 "Avenue de la Gueuze - Gueuzelaan",wikidata,-,Q1520229,way
+"Avenue de la Hallebarde - Hellebaardlaan",wikidata,-,Q185623,relation
+"Avenue de la Jeunesse - Jeugdlaan",wikidata,-,Q190007,relation
 "Avenue de la Joyeuse Entrée - Blijde Inkomstlaan",wikidata,-,Q18927701,relation+way
+"Avenue de la Lance - Lanslaan",wikidata,-,Q2003053,relation
 "Avenue de la Liberté - Vrijheidslaan",wikidata,-,Q2979,relation+way
 "Avenue de la Licorne - Eenhoornlaan",wikidata,-,Q10428,relation
 "Avenue de la Paix - Vredelaan",wikidata,-,Q454,relation
@@ -113,26 +134,38 @@ Alsembergsesteenweg,wikidata,-,Q661993,way
 "Avenue de la Renaissance - Renaissancelaan",wikidata,-,Q4692,relation
 "Avenue de la Toison d'Or - Gulden-Vlieslaan",wikidata,-,Q212262;Q212262;Q465774,relation+way
 "Avenue des Abeilles - Bijenlaan",wikidata,-,Q7391,relation
+"Avenue des Albatros - Albatroslaan",wikidata,-,Q55805,relation
 "Avenue des Alouettes - Leeuwerikenlaan",wikidata,-,Q2839337,relation
 "Avenue des Amandiers - Amandelbomenlaan",wikidata,-,Q39918,relation
+"Avenue des Anciens Combattants - Oud-Strijderslaan",wikidata,-,Q193891,relation+way
 "Avenue des Archiducs - Aartshertogenlaan",wikidata,-,Q154615,relation
 "Avenue des Arums - Aronskelkenlaan",wikidata,-,Q161121,relation
 "Avenue des Athlètes - Atletenlaan",wikidata,-,Q11513337,relation+way
 "Avenue des Bouleaux - Berkenlaan",wikidata,-,Q25243,relation
+"Avenue des Cactus - Cactuslaan",wikidata,-,Q10856673,relation
 "Avenue des Cailles - Kwartellaan",wikidata,-,Q6072584,relation
 "Avenue des Campanules - Klokjeslaan",wikidata,-,Q157069,relation
 "Avenue des Casernes - Kazernenlaan",wikidata,-,Q46655311;Q46654852,relation+way
 "Avenue des Celtes - Keltenlaan",wikidata,-,Q35966,relation
+"Avenue des Cerisiers - Kerselarenlaan",wikidata,-,Q62474322,relation+way
 "Avenue des Chanterelles - Hanenkammenlaan",wikidata,-,Q3942018,way
 "Avenue des Charançons - Kalanderlaan",wikidata,-,Q16033063,relation
+"Avenue des Chardonnerets - Distelvinklaan",wikidata,-,Q25418,relation
+"Avenue des Châtaigniers - Kastanjebomenlaan",wikidata,-,Q129324,relation
 "Avenue des Coccinelles - Onze-Lieve-Heersbeestjeslaan",wikidata,-,Q25327,relation
 "Avenue des Constellations - Sterrebeeldenlaan",wikidata,-,Q8928,relation+way
+"Avenue des Cormorans - Waterraaflaan",wikidata,-,Q3901247,relation
 "Avenue des Dryades - Bosnimfenlaan",wikidata,-,Q202474,relation
 "Avenue des Églantines - Eglantierenlaan",wikidata,-,Q161146,relation
+"Avenue des Éperons d'Or - Gulden-Sporenlaan",wikidata,-,Q44732,relation
 "Avenue des Éperviers - Sperwerlaan",wikidata,-,Q25380,relation+way
+"Avenue des Fleurs - Bloemenlaan",wikidata,-,Q506,relation
+"Avenue des Fougères - Varenlaan",wikidata,-,Q80005,relation
+"Avenue des Franciscains - Franciskanenlaan",wikidata,-,Q165005,relation
 "Avenue des Gaulois - Galliërslaan",wikidata,-,Q273854,relation+way
 "Avenue des Gémeaux - Tweelingenlaan",wikidata,-,Q8923,relation
 "Avenue des Hannetons - Meikeverslaan",wikidata,-,Q28175,relation
+"Avenue des Héliotropes - Heliotropenlaan",wikidata,-,Q158082,relation
 "Avenue des Héros - Heldenlaan",wikidata,-,Q162244,relation
 "Avenue des Hortensias - Hortensiaslaan",wikidata,-,Q155997,way
 "Avenue des Jonquilles - Narcissenlaan",wikidata,-,Q29465,relation
@@ -143,6 +176,7 @@ Alsembergsesteenweg,wikidata,-,Q661993,way
 "Avenue des Martinets - Steenzwaluwenlaan",wikidata,-,Q3295856,relation
 "Avenue des Ménestrels - Menestrelenlaan",wikidata,-,Q841192,relation
 "Avenue des Ménestrels - Minnezangerslaan",wikidata,-,Q841192,relation
+"Avenue des Merles - Merellaan",wikidata,-,Q25234,relation
 "Avenue des Muguets - Meiklokjeslaan",wikidata,-,Q101711,relation+way
 "Avenue des Nénuphars - Waterleliënlaan",wikidata,-,Q3347071,relation
 "Avenue des Nerviens - Nerviërslaan",wikidata,-,Q756812,relation+way
@@ -166,16 +200,20 @@ Alsembergsesteenweg,wikidata,-,Q661993,way
 "Avenue du Cerf-Volant - Vliegerlaan",wikidata,-,Q42861,relation
 "Avenue du Chant d'Oiseau - Vogelzanglaan",wikidata,-,Q62387922,relation
 "Avenue du Chili - Chililaan",wikidata,-,Q298,relation
+"Avenue du Cimetière de Bruxelles - Kerkhof van Brussellaan",wikidata,-,Q579666,relation
 "Avenue du Cor de Chasse - Jachthoornlaan",wikidata,-,Q1678302,relation
 "Avenue du Couronnement - Kroninglaan",wikidata,-,Q209715,relation
 "Avenue du Daim - Damhertlaan",wikidata,-,Q159857,relation
 "Avenue du Daring - Daringlaan",wikidata,-,Q2312558,relation
+"Avenue du Diamant - Diamantlaan",wikidata,-,Q5283,relation+way
 "Avenue du Dirigeable - Luchtschiplaan",wikidata,-,Q236371,relation
 "Avenue du Football - Voetballaan",wikidata,-,Q2736,relation
 "Avenue du Forum - Forumlaan",wikidata,-,Q1062780,relation+way
 "Avenue du Geai - Gaailaan",wikidata,-,Q25354,relation
 "Avenue du Haras - Stoeterijlaan",wikidata,-,Q108696,relation
+"Avenue du Harnois - Wapenrustinglaan",wikidata,-,Q487432,relation
 "Avenue du Heymbosch - Heymboschlaan",wikidata,-,Q124407008,relation
+"Avenue du Hockey - Hockeylaan",wikidata,-,Q1622659,relation
 "Avenue du Karreveld - Karreveldlaan",wikidata,-,Q135451184,relation
 "Avenue du Luizenmolen - Luizenmolenlaan",wikidata,-,Q1853569,relation+way
 "Avenue du Lycée Français - Frans Lyceumlaan",wikidata,-,Q3269083,way
@@ -185,14 +223,19 @@ Alsembergsesteenweg,wikidata,-,Q661993,way
 "Avenue du Mont Kemmel - Kemmelberglaan",wikidata,-,Q209541,relation
 "Avenue du Onze Novembre - Elf Novemberlaan",wikidata,-,Q2987,relation+way
 "Avenue du Paddock - Paddocklaan",wikidata,-,Q351810,relation
+"Avenue du Parc - Parklaan",wikidata,-,Q3364134,relation
+"Avenue du Parc Royal - Koninklijk Parklaan",wikidata,-,Q15877522,relation+way
+"Avenue du Péage - Tollaan",wikidata,-,Q191316,relation
 "Avenue du Pont de Luttre - Luttrebruglaan",wikidata,-,Q108060998,relation+way
 "Avenue du Port - Havenlaan",wikidata,-,Q1567864,relation
 "Avenue du Prince de Ligne - Prins de Lignelaan",wikidata,-,Q3922015,relation+way
 "Avenue du Sagittaire - Schutterlaan",wikidata,-,Q8866,relation
+"Avenue du Tornooiveld - Tornooiveldlaan",wikidata,-,Q3518495,relation
 "Avenue du Venezuela - Venezuelalaan",wikidata,-,Q717,relation
 "Avenue du Verseau - Watermanlaan",wikidata,-,Q10576,relation
 "Avenue du Vieux Cornet - Hof ten Horenlaan",wikidata,-,Q42432329,relation
 "Avenue du Yorkshire - Yorkshirelaan",wikidata,-,Q163,relation+way
+"Boulevard Belgica - Belgicalaan",wikidata,-,Q815476,relation+way
 "Boulevard Saint-Michel - Sint-Michielslaan",wikidata,-,Q45581,relation+way
 "Boulevard d'Anvers - Antwerpselaan",wikidata,-,Q12892,relation
 "Boulevard d'Ypres - Ieperlaan",wikidata,-,Q102728,relation
@@ -212,12 +255,14 @@ Alsembergsesteenweg,wikidata,-,Q661993,way
 "Chaussée d'Alsemberg - Alsembergse Steenweg",wikidata,-,Q661993,relation
 "Chaussée d'Alsemberg - Alsembergsesteenweg",wikidata,-,Q661993,relation
 "Chaussée d'Anvers - Antwerpsesteenweg",wikidata,-,Q12892,relation+way
+"Chaussée d'Etterbeek - Etterbeeksesteenweg",wikidata,-,Q192859,relation
 "Chaussée d'Etterbeek - Steenweg op Etterbeek",wikidata,-,Q192859,relation
 "Chaussée d'Ixelles - Elsense Steenweg",wikidata,-,Q208713,relation
 "Chaussée de Boitsfort - Bosvoordsesteenweg",wikidata,-,Q2603135,relation
 "Chaussée de Boondael - Boondaalse Steenweg",wikidata,-,Q1887018,relation
 "Chaussée de Charleroi - Charleroise Steenweg",wikidata,-,Q81046,relation
 "Chaussée de Drogenbos - Drogenbossesteenweg",wikidata,-,Q688377,relation+way
+"Chaussée de Forest - Vorstse Steenweg",wikidata,-,Q72946,relation
 "Chaussée de Gand - Gentsesteenweg",wikidata,-,Q1296,relation+way
 "Chaussée de Gand - Steenweg op Gent",wikidata,-,Q1296,relation
 "Chaussée de Haecht - Haachtse Steenweg",wikidata,-,Q21767623,relation
@@ -232,7 +277,9 @@ Alsembergsesteenweg,wikidata,-,Q661993,way
 "Chaussée de Merchtem - Steenweg op Merchtem",wikidata,-,Q912106,relation
 "Chaussée de Mons - Bergense Steenweg",wikidata,-,Q83407,relation+way
 "Chaussée de Neerstalle - Neerstallesteenweg",wikidata,-,Q2474026,relation
+"Chaussée de Neerstalle - Neerstalse Steenweg",wikidata,-,Q2474026,relation
 "Chaussée de Ninove - Ninoofsesteenweg",wikidata,-,Q385026,relation+way
+"Chaussée de Roodebeek - Roodebeeksteenweg",wikidata,-,Q14286923,relation+way
 "Chaussée de Ruisbroek - Ruisbroekse Steenweg",wikidata,-,Q1993738,relation
 "Chaussée de Saint-Job - Sint-Jobsesteenweg",wikidata,-,Q1927235,way
 "Chaussée de Tervueren - Tervuursesteenweg",wikidata,-,Q456544,way
@@ -251,24 +298,35 @@ Alsembergsesteenweg,wikidata,-,Q661993,way
 "Chemin des Machinistes - Machinistenweg",wikidata,-,Q196721,relation
 "Chemin des Tournesols - Zonnebloemweg",wikidata,-,Q171497,relation
 "Chemin du Bonheur - Geluksweg",wikidata,-,Q8,way
+"Chemin du Connemara - Connemaraweg",wikidata,-,Q952483,relation
 "Chemin du Jutland - Jutlandweg",wikidata,-,Q25389,relation
 "Chemin du Keelbeek - Keelbeekweg",wikidata,-,Q131606588,way
 "Chemin du Pourpier - Posteleinweg",wikidata,-,Q159554,relation
 "Chemin du Rossignol - Nachtegaalsweg",wikidata,-,Q19832477,relation
 "Chemin du Verger - Boomgaardweg",wikidata,-,Q236371,way
+"Cité Ouvrière de Linthout - Linthoutse Werkmanswoonwijk",wikidata,-,Q3413047,relation+way
 "Cité du Sureau - Vlierwijk",wikidata,-,Q131448,relation
 "Clos Cassiopée - Cassiopeagaarde",wikidata,-,Q10464,relation
 "Clos Mudra - Mudrahoek",wikidata,-,Q3577684,relation
 "Clos Prométhée - Prometheusgaarde",wikidata,-,Q83160,relation
 "Clos Sirius - Siriusgaarde",wikidata,-,Q3409,relation
 "Clos Tom & Jerry - Tom & Jerrygaarde",wikidata,-,Q131144,relation
+"Clos de l'Algarve - Algarvegaarde",wikidata,-,Q26831,relation
+"Clos de l'Argilière - Kleigroeveërf",wikidata,-,Q179316,relation
 "Clos de l'Équerre - Winkelhaakhoek",wikidata,-,Q3275823,relation
+"Clos de l'Oasis - Oasebinnenhof",wikidata,-,Q43742,relation
 "Clos de la Balance - Weegschaalbinnenhof",wikidata,-,Q10580,relation
+"Clos de la Ballade - Balladegaarde",wikidata,-,Q182659,relation
 "Clos de la Carène - Carinagaarde",wikidata,-,Q10470,relation
+"Clos de la Forêt - Bosdreef",wikidata,-,Q4421,relation+way
 "Clos de la Licorne - Eenhoorngaarde",wikidata,-,Q10428,relation
+"Clos de la Pastourelle - Herdersliedgaarde",wikidata,-,Q1360742,relation+way
 "Clos de la Petite Senne - Zinnekehoek",wikidata,-,Q127601657,relation
+"Clos de la Petite Suisse - Klein Zwitserlandgaarde",wikidata,-,Q1762154,relation
+"Clos des Chasseurs - Jagersgaarde",wikidata,-,Q1714828,relation
 "Clos des Chênes - Eikhove",wikidata,-,Q12004,relation
 "Clos des Étangs - Vijversgaarde",wikidata,-,Q3253281,relation
+"Clos des Lipizzans - Lippizanergaarde",wikidata,-,Q217671,relation
 "Clos des Mésanges - Mezengaarde",wikidata,-,Q168473,relation
 "Clos des Orchidées - Orchideeëngaarde",wikidata,-,Q25308,relation
 "Clos du Blankedelle - Blankedellegaarde",wikidata,-,Q109017525,relation
@@ -289,12 +347,14 @@ Alsembergsesteenweg,wikidata,-,Q661993,way
 "Drève de la Louve - Wolvindreef",wikidata,-,Q27929033,relation
 "Drève des Libellules - Libellendreef",wikidata,-,Q25375,relation
 "Drève des Lignages - Geslachtendreef",wikidata,-,Q481408,relation
+"Drève des Mustangs - Mustangdreef",wikidata,-,Q211848,relation
 "Drève des Peupliers - Populierendreef",wikidata,-,Q30456678,way
 "Drève des Rêves - Dromendreef",wikidata,-,Q36348,way
 "Drève des Rhododendrons - Rododendronsdreef",wikidata,-,Q189393,relation
 "Drève des Saules - Wilgendreef",wikidata,-,Q36050,relation
 "Drève des Shetlands - Shetlanderdreef",wikidata,-,Q214720,relation
 "Drève des Tumuli - Tumulidreef",wikidata,-,Q18515624,relation
+"Drève des Vendanges - Wijnoogstdreef",wikidata,-,Q2307297,relation
 "Drève du Comte de Flandre - Graaf van Vlaanderendreef",wikidata,-,Q1824016,way
 "Drève du Duc - Hertogendreef",wikidata,-,Q166886,relation
 "Drève du Haras - Harasdreef",wikidata,-,Q108696,way
@@ -342,11 +402,13 @@ Leuvensesteenweg,wikidata,-,Q118958,way
 "Place Marsupilami - Marsupilamiplein",wikidata,-,Q110736388,way
 "Place Royale - Koningsplein",wikidata,-,Q12097,relation+way
 "Place Saint-Jean - Sint-Jansplein",wikidata,-,Q50037286,relation+way
+"Place Terdelt - Terdeltplein",wikidata,-,Q3413144,relation+way
 "Place d'Espagne - Spanjeplein",wikidata,-,Q29,relation
 "Place de Bastogne - Bastenakenplein",wikidata,-,Q25634689,relation+way
 "Place de Belgique - Belgiëplein",wikidata,-,Q31,relation+way
 "Place de Bethléem - Bethlehemplein",wikidata,-,Q5776,relation
 "Place de Dinant - Dinantplein",wikidata,-,Q108247,relation
+"Place de Houffalize - Houffalizeplein",wikidata,-,Q21767894,relation
 "Place de Londres - Londenplein",wikidata,-,Q84,relation+way
 "Place de Louvain - Leuvenseplein",wikidata,-,Q118958,relation
 "Place de Ninove - Ninoofseplein",wikidata,-,Q385026,relation+way
@@ -414,6 +476,8 @@ Leuvensesteenweg,wikidata,-,Q118958,way
 "Rond-point du Tibet - Tibetplein",wikidata,-,Q17269,way
 "Route de Lennik - Lennikse Baan",wikidata,-,Q912022,relation+way
 "Rue Africaine - Afrikastraat",wikidata,-,Q15,relation
+"Rue Berkendael - Berkendaalstraat",wikidata,-,Q1959729,relation
+"Rue Berkendael - Berkendaelstraat",wikidata,-,Q1959729,relation
 "Rue Botanique - Kruidtuinstraat",wikidata,-,Q739334,relation
 "Rue Buchholtz - Buchholtzstraat",wikidata,-,Q135552542,relation
 "Rue Chant d'Oiseaux - Vogelenzangstraat",wikidata,-,Q3562066,relation+way
@@ -422,6 +486,7 @@ Leuvensesteenweg,wikidata,-,Q118958,way
 "Rue Félix De Cuyper - Félix De Cuyperstraat",wikidata,-,Q85090846,relation
 "Rue Fort de Boncelles - Fort van Boncellesstraat",wikidata,-,Q2152881,relation+way
 "Rue Gatti de Gamond - Gatti de Gamondstraat",wikidata,-,,relation
+"Rue Groeselenberg - Groeselenbergstraat",wikidata,-,Q110372784,relation+way
 "Rue Guillaume Tell - Willem Tellstraat",wikidata,-,Q30908,relation
 "Rue Henri Wafelaerts - Henri Wafelaertsstraat",wikidata,-,Q131144711,relation
 "Rue Hydraulique - Waterkrachtstraat",wikidata,-,Q170196,relation
@@ -586,6 +651,8 @@ Leuvensesteenweg,wikidata,-,Q118958,way
 "Rue de l'Éventail - Waaierstraat",wikidata,-,Q193220,relation+way
 "Rue de l'Évêque - Bisschopsstraat",wikidata,-,Q29182,relation
 "Rue de l'Hectolitre - Hectoliterstraat",wikidata,-,Q2029519,relation
+"Rue de l'Hôtel des Monnaies - Munthofstraat",wikidata,-,Q3146233,relation
+"Rue de l'Ile Ste Hélène - Eiland Sint-Helenastraat",wikidata,-,Q34497,relation+way
 "Rue de l'Instruction - Onderwijsstraat",wikidata,-,Q8434,relation+way
 "Rue de l'Intendant - Opzichterstraat",wikidata,-,Q2101915,relation+way
 "Rue de l'Obus - Obusstraat",wikidata,-,Q318028,relation
@@ -654,6 +721,7 @@ Leuvensesteenweg,wikidata,-,Q118958,way
 "Rue de la Senne - Zennestraat",wikidata,-,Q845920,relation
 "Rue de la Serrure - Slotstraat",wikidata,-,Q228039,relation
 "Rue de la Source - Bronstraat",wikidata,-,Q22,relation
+"Rue de la Tête d'Or - Guldenhoofdstraat",wikidata,-,Q3279742,relation
 "Rue de la Tour Japonaise - Japanse Torenstraat",wikidata,-,Q56214383,relation+way
 "Rue de la Tulipe - Tulpstraat",wikidata,-,Q30345409,relation+way
 "Rue de la Vallée - Dalstraat",wikidata,-,Q39816,relation+way
@@ -662,6 +730,7 @@ Leuvensesteenweg,wikidata,-,Q118958,way
 "Rue des Aigrettes - Zilverreigersstraat",wikidata,-,Q3060012,relation
 "Rue des Alexiens - Cellebroersstraat",wikidata,-,Q622385,relation
 "Rue des Arbalétriers - Kruisboogschuttersstraat",wikidata,-,Q2859615,relation
+"Rue des Archers - Boogschuttersstraat",wikidata,-,Q890527,relation
 "Rue des Archives - Archiefstraat",wikidata,-,Q56648173,relation
 "Rue des Artistes - Kunstenaarsstraat",wikidata,-,Q483501,relation+way
 "Rue des Ateliers - Werkhuizenstraat",wikidata,-,Q85074958,relation
@@ -728,6 +797,7 @@ Leuvensesteenweg,wikidata,-,Q118958,way
 "Rue des Passiflores - Passiebloemenstraat",wikidata,-,Q161185,relation
 "Rue des Pêcheurs - Vissersstraat",wikidata,-,Q331432,relation
 "Rue des Perdrix - Patrijzenstraat",wikidata,-,Q26106,relation
+"Rue des Pères Blancs - Witte Patersstraat",wikidata,-,Q278165,relation
 "Rue des Petits Carmes - Karmelietenstraat",wikidata,-,Q186277,relation
 "Rue des Pétunias - Petuniastraat",wikidata,-,Q161103,relation+way
 "Rue des Pierres - Steenstraat",wikidata,-,Q22731,relation
@@ -773,6 +843,7 @@ Leuvensesteenweg,wikidata,-,Q118958,way
 "Rue du Bien-Être - Welzijnstraat",wikidata,-,Q7981051,relation
 "Rue du Bois de Linthout - Linthoutbosstraat",wikidata,-,Q3413047,relation
 "Rue du Bourgmestre - Burgemeestersstraat",wikidata,-,Q16009147,relation
+"Rue du Brochet - Snoekstraat",wikidata,-,Q165278,relation
 "Rue du Busard - Buizerdstraat",wikidata,-,Q25385,relation
 "Rue du Canon - Kanonstraat",wikidata,-,Q81103,relation
 "Rue du Céleri - Selderijstraat",wikidata,-,Q28298,relation
@@ -794,7 +865,7 @@ Leuvensesteenweg,wikidata,-,Q118958,way
 "Rue du Cyprès - Cipresstraat",wikidata,-,Q146911,relation
 "Rue du Damier - Dambordstraat",wikidata,-,Q28152773,relation
 "Rue du Drapeau - Vaandelstraat",wikidata,-,Q14660,relation
-"Rue du Duc - Hertogstraat",wikidata,-,Q166886,relation+way
+"Rue du Duc - Hertogstraat",wikidata,-,Q2058509,relation+way
 "Rue du Faucon - Valkstraat",wikidata,-,Q43489,relation
 "Rue du Feu - Vuurstraat",wikidata,-,Q3196,relation
 "Rue du Fort - Fortstraat",wikidata,-,Q3078201,relation
@@ -818,6 +889,7 @@ Leuvensesteenweg,wikidata,-,Q118958,way
 "Rue du Luxembourg - Luxemburgstraat",wikidata,-,Q1842,relation
 "Rue du Magasin - Pakhuisstraat",wikidata,-,Q1362225,relation
 "Rue du Manège - Manegestraat",wikidata,-,Q134892942,relation
+"Rue du Marais - Broekstraat",wikidata,-,Q110457813,relation
 "Rue du Marché au Charbon - Kolenmarkt",wikidata,-,Q24489,relation
 "Rue du Marché aux Fromages - Kaasmarkt",wikidata,-,Q10943,relation
 "Rue du Marché aux Porcs - Varkensmarkt",wikidata,-,Q787,relation
@@ -833,9 +905,12 @@ Leuvensesteenweg,wikidata,-,Q118958,way
 "Rue du Mont-Blanc - Witte-Bergstraat",wikidata,-,Q583,relation
 "Rue du Moulin - Molenstraat",wikidata,-,Q44494,relation
 "Rue du Nord - Noordstraat",wikidata,-,Q659,relation
+"Rue du Noyer - Notelaarsstraat",wikidata,-,Q46871,relation
+"Rue du Noyer - Notelaarstraat",wikidata,-,Q46871,relation
 "Rue du Parc Elisabeth - Elisabethparkstraat",wikidata,-,Q22443719,relation
 "Rue du Parlement - Parlementsstraat",wikidata,-,Q35749,relation
 "Rue du Pélican - Pelikaanstraat",wikidata,-,Q19413,relation
+"Rue du Péloponnèse - Peloponnesosstraat",wikidata,-,Q78967,relation+way
 "Rue du Pêne - Schootstraat",wikidata,-,Q3412136,relation
 "Rue du Persil - Peterseliestraat",wikidata,-,Q65522500,relation
 "Rue du Peuplier - Populierstraat",wikidata,-,Q25356,relation
@@ -861,12 +936,15 @@ Leuvensesteenweg,wikidata,-,Q118958,way
 "Rue du Soleil - Zonnestraat",wikidata,-,Q525,relation
 "Rue du Sonnet - Sonnetstraat",wikidata,-,Q80056,relation
 "Rue du Texas - Texasstraat",wikidata,-,Q1439,relation
+"Rue du Tilleul - Lindestraat",wikidata,-,Q127849,relation+way
 "Rue du Tivoli - Tivolistraat",wikidata,-,Q134497990,relation
 "Rue du Transvaal - Transvaalstraat",wikidata,-,Q190959,relation
 "Rue du Travail - Arbeidsstraat",wikidata,-,Q268378,relation
+"Rue du Trône - Troonstraat",wikidata,-,Q29349361,relation+way
 "Rue du Vautour - Gierstraat",wikidata,-,Q123120,relation
 "Rue du Verdier - Groenvinkstraat",wikidata,-,Q27075785,relation
 "Rue du Verregat - Verregatstraat",wikidata,-,Q117035236,relation
+"Rue du Vieux Marché aux Grains - Oude Graanmarktstraat",wikidata,-,Q29349366,relation
 "Rue du Village - Dorpsstraat",wikidata,-,Q532,relation+way
 "Rue du Vivier - Visvijverstraat",wikidata,-,Q1265665,relation
 "Rue du Zéphyr - Westenwindstraat",wikidata,-,Q467515,relation
@@ -906,6 +984,7 @@ Leuvensesteenweg,wikidata,-,Q118958,way
 Tervuursesteenweg,wikidata,-,Q456544,way
 Treurenberg,wikidata,-,Q110458175,relation
 "Tunnel Joyeuse Entrée - Blijde Inkomsttunnel",wikidata,-,Q18927701,way
+"Val des Perdreaux - Patrijzendal",wikidata,-,Q732775,relation
 "Venelle de Saint-Job - Sint-Jobsteeg",wikidata,-,Q1927235,relation
 "Venelle des Blanchisseuses - Wasvrouwensteeg",wikidata,-,Q16624872,way
 "Venelle du Boson - Bosonsteeg",wikidata,-,Q43101,way
@@ -959,7 +1038,7 @@ Treurenberg,wikidata,-,Q110458175,relation
 "Clos Ingrid Bergman - Ingrid Bergmangaarde",wikidata,F,Q43247,relation+way
 "Clos Marie Koré - Marie Koréhoek",wikidata,F,Q109044416,relation
 "Clos Marilyn Monroe - Marilyn Monroegaarde",wikidata,F,Q4616,relation+way
-"Clos Monique Rifflet - Monique Riffletgaarde",wikidata,F,Q21601793,relation
+"Clos Monique Rifflet - Monique Riffletgaarde",wikidata,F,Q21601793,relation+way
 "Drève Aleyde de Brabant - Aleyde van Brabantdreef",wikidata,F,Q377613,relation
 "Drève Anna Boch - Anna Bochdreef",wikidata,F,Q466668,way
 "Drève Aurélie Solvay - Aurélie Solvaydreef",wikidata,F,Q89488177,relation
@@ -1013,6 +1092,7 @@ Treurenberg,wikidata,-,Q110458175,relation
 "Rue Andrée Geulen - Andrée Geulenstraat",wikidata,F,Q2848953,relation
 "Rue Andrée de Jongh - Andrée de Jonghstraat",wikidata,F,Q461027,relation
 "Rue Audrey Hepburn - Audrey Hepburnstraat",wikidata,F,Q42786,relation+way
+"Rue Bessie Coleman - Bessie Colemanstraat",wikidata,F,Q254376,way
 "Rue Camusel - Camuselstraat",wikidata,F,Q94143093,relation
 "Rue Chantal Akerman - Chantal Akermanstraat",wikidata,F,Q239823,way
 "Rue Christine - Kristinastraat",wikidata,F,Q167439,relation
@@ -1067,6 +1147,7 @@ Treurenberg,wikidata,-,Q110458175,relation
 "Rue de Beughem - de Beughemstraat",wikidata,F,Q131615467,relation
 "Rue de Sévigné - de Sévignéstraat",wikidata,F,Q237103,relation
 "Rue de l'Infante Isabelle - Infante Isabellastraat",wikidata,F,Q158256,way
+"Rue de la Comtesse de Flandre - Gravin Van Vlaanderenstraat",wikidata,F,Q237968,relation
 "Rue de la Madeleine - Magdalenasteenweg",wikidata,F,Q63070,relation
 "Square Clémentine - Clementinasquare",wikidata,F,Q261129,way
 "Square Elsa Frison - Elsa Frisonsquare",wikidata,F,Q89490926,relation
@@ -1477,6 +1558,7 @@ Treurenberg,wikidata,-,Q110458175,relation
 "Avenue Michel-Ange - Michel Angelolaan",wikidata,M,Q5592,relation
 "Avenue Milcamps - Milcampslaan",wikidata,M,Q91349094,relation
 "Avenue Molière - Molièrelaan",wikidata,M,Q687,way
+"Avenue Mostinck - Mostincklaan",wikidata,M,Q52224405,relation
 "Avenue Mozart - Mozartlaan",wikidata,M,Q254,relation
 "Avenue Napoléon - Napoléonlaan",wikidata,M,Q517,way
 "Avenue Nestor Plissart - Nestor Plissartlaan",wikidata,M,Q3338465,relation+way
@@ -1625,6 +1707,7 @@ Treurenberg,wikidata,-,Q110458175,relation
 "Boulevard Sylvain Dupuis - Sylvain Dupuislaan",wikidata,M,Q746748,relation+way
 "Boulevard Théo Lambert - Théo Lambertlaan",wikidata,M,Q91929694,relation
 "Boulevard de Smet de Naeyer - de Smet de Naeyerlaan",wikidata,M,Q721781,relation+way
+"Boulevard du Régent - Regentlaan",wikidata,M,Q1079522,relation+way
 "Boulevard du Roi Albert II - Koning Albert II-laan",wikidata,M,Q3911,relation
 "Carrefour de Sélys Longchamps - de Sélis Longchampskruispunt",wikidata,M,Q2198309,way
 "Chaussée Saint-Pierre - Sint-Pieterssteenweg",wikidata,M,Q33923,relation+way
@@ -2548,7 +2631,6 @@ Treurenberg,wikidata,-,Q110458175,relation
 "Rue Oscar Maesschalck - Oscar Maesschalckstraat",wikidata,M,Q94723276,relation
 "Rue Otlet - Otletstraat",wikidata,M,Q1868,relation
 "Rue Pasteur - Pasteurstraat",wikidata,M,Q529,relation
-"Rue Paul Bossu - Paul Bossustraat",wikidata,M,Q126947901,relation
 "Rue Paul Devaux - Paul Devauxstraat",wikidata,M,Q1897097,relation
 "Rue Paul Devigne - Paul Devignestraat",wikidata,M,Q2945921,relation
 "Rue Paul Émile Janson - Paul Émile Jansonstraat",wikidata,M,Q665955,way
@@ -2627,6 +2709,7 @@ Treurenberg,wikidata,-,Q110458175,relation
 "Rue Saint-Bernard - Sint-Bernardusstraat",wikidata,M,Q188411,relation
 "Rue Saint-Christophe - Sint-Kristoffelsstraat",wikidata,M,Q193507,relation
 "Rue Saint-Denis - Sint-Denijsstraat",wikidata,M,Q244380,relation+way
+"Rue Saint-François - Sint-Franciscusstraat",wikidata,M,Q676555,relation+way
 "Rue Saint-Georges - Sint-Jorisstraat",wikidata,M,Q48438,way
 "Rue Saint-Ghislain - Sint-Gisleinsstraat",wikidata,M,Q740017,relation
 "Rue Saint-Henri - Sint-Hendrikstraat",wikidata,M,Q103556,relation
@@ -3033,6 +3116,7 @@ Treurenberg,wikidata,-,Q110458175,relation
 "Rue Max Roos - Max Roosstraat",csv,M,,way
 "Rue Michel Van Nieuwenborgh - Michel Van Nieuwenborghstraat",csv,M,,relation
 "Rue Michel Zwaab - Michel Zwaabstraat",csv,M,,relation
+"Rue Paul Bossu - Paul Bossustraat",csv,M,,relation
 "Rue Paul Lancsweert - Paul Lancsweertstraat",csv,M,,relation
 "Rue Philippe Piermez - Philippe Piermezstraat",csv,M,,relation
 "Rue Pierre Alderson - Pieter Aldersonstraat",csv,M,,relation
@@ -3065,7 +3149,6 @@ Treurenberg,wikidata,-,Q110458175,relation
 "Rue Ropsy Chaudron - Ropsy Chaudronstraat",csv,M,,relation+way
 "Rue Rouen-Bovie - Rouen-Boviestraat",csv,M,,relation
 "Rue Saint-Alphonse - Sint-Alfonsstraat",csv,M,,way
-"Rue Saint-François - Sint-Franciscusstraat",csv,M,,relation
 "Rue Saint-Julien - Sint-Juliaanstraat",csv,M,,relation
 "Rue Saint-Lazare - Sint-Lazarusstraat",csv,M,,way
 "Rue Saint-Martin - Sint-Maartenstraat",csv,M,,relation
