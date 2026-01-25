@@ -82,6 +82,7 @@ Alsembergsesteenweg,wikidata,-,Q661993,way
 "Avenue de Rusatira - Rusatiralaan",wikidata,-,Q21127146,relation
 "Avenue de Saint-Job - Sint-Jobselaan",wikidata,-,Q1927235,way
 "Avenue de Saïo - Saïolaan",wikidata,-,Q19947679,relation
+"Avenue de Scheut - Scheutlaan",wikidata,-,Q1869263,relation
 "Avenue de Septembre - Septemberlaan",wikidata,-,Q123,relation
 "Avenue de Stalingrad - Stalingradlaan",wikidata,-,Q914,relation
 "Avenue de Tervueren - Tervurenlaan",wikidata,-,Q31550469;Q456544,relation+way
@@ -201,6 +202,7 @@ Alsembergsesteenweg,wikidata,-,Q661993,way
 "Avenue du Chant d'Oiseau - Vogelzanglaan",wikidata,-,Q62387922,relation
 "Avenue du Chili - Chililaan",wikidata,-,Q298,relation
 "Avenue du Cimetière de Bruxelles - Kerkhof van Brussellaan",wikidata,-,Q579666,relation
+"Avenue du Comté de Jette - Graafschap Jettelaan",wikidata,-,Q111623122,relation
 "Avenue du Cor de Chasse - Jachthoornlaan",wikidata,-,Q1678302,relation
 "Avenue du Couronnement - Kroninglaan",wikidata,-,Q209715,relation
 "Avenue du Daim - Damhertlaan",wikidata,-,Q159857,relation
@@ -278,6 +280,7 @@ Alsembergsesteenweg,wikidata,-,Q661993,way
 "Chaussée de Mons - Bergense Steenweg",wikidata,-,Q83407,relation+way
 "Chaussée de Neerstalle - Neerstallesteenweg",wikidata,-,Q2474026,relation
 "Chaussée de Neerstalle - Neerstalse Steenweg",wikidata,-,Q2474026,relation
+"Chaussée de Ninove - Ninoofse Steenweg",wikidata,-,Q31812647,relation
 "Chaussée de Ninove - Ninoofsesteenweg",wikidata,-,Q385026,relation+way
 "Chaussée de Roodebeek - Roodebeeksteenweg",wikidata,-,Q14286923,relation+way
 "Chaussée de Ruisbroek - Ruisbroekse Steenweg",wikidata,-,Q1993738,relation
@@ -447,7 +450,7 @@ Leuvensesteenweg,wikidata,-,Q118958,way
 "Place du Luxembourg - Luxemburgplein",wikidata,-,Q32,relation+way
 "Place du Petit Sablon - Kleine Zavel",wikidata,-,Q949445,relation
 "Place du Quatre Août - Vier Augustusplein",wikidata,-,Q2784,relation
-"Place du Samedi - Zaterdagplein",wikidata,-,Q131,relation+way
+"Place du Samedi - Zaterdagplein",wikidata,-,Q131,relation
 "Placette du Peuplier - Populierpleintje",wikidata,-,Q30456678,way
 "Pont Borée - Boreabrug",wikidata,-,Q109220,way
 "Pont de Buda - Budabrug",wikidata,-,Q14851334,way
@@ -481,6 +484,7 @@ Leuvensesteenweg,wikidata,-,Q118958,way
 "Rue Botanique - Kruidtuinstraat",wikidata,-,Q739334,relation
 "Rue Buchholtz - Buchholtzstraat",wikidata,-,Q135552542,relation
 "Rue Chant d'Oiseaux - Vogelenzangstraat",wikidata,-,Q3562066,relation+way
+"Rue Creuse - Hollestraat",wikidata,-,Q3447556,relation
 "Rue Draps-Dom - Draps-Domstraat",wikidata,-,Q129254863,relation
 "Rue Ducale - Hertogstraat",wikidata,-,Q166886,relation
 "Rue Félix De Cuyper - Félix De Cuyperstraat",wikidata,-,Q85090846,relation
@@ -534,6 +538,7 @@ Leuvensesteenweg,wikidata,-,Q118958,way
 "Rue d'Irlande - Ierlandstraat",wikidata,-,Q22890,relation
 "Rue d'Ophem - Oppemstraat",wikidata,-,Q2520768,relation
 "Rue d'Ostende - Oostendestraat",wikidata,-,Q12996,relation
+"Rue de Barcelone - Barcelonastraat",wikidata,-,Q1492,relation
 "Rue de Belgrade - Belgradostraat",wikidata,-,Q3711,relation+way
 "Rue de Béthanie - Bethaniëstraat",wikidata,-,Q19406866,relation
 "Rue de Birmingham - Birminghamstraat",wikidata,-,Q2256,relation
@@ -545,6 +550,7 @@ Leuvensesteenweg,wikidata,-,Q118958,way
 "Rue de Courtrai - Kortrijkstraat",wikidata,-,Q12995,relation
 "Rue de Cureghem - Kuregemsestraat",wikidata,-,Q2568819,relation
 "Rue de Danemark - Denemarkenstraat",wikidata,-,Q35,relation
+"Rue de Dilbeek - Dilbeekse Straat",wikidata,-,,relation
 "Rue de Dilbeek - Dilbeekstraat",wikidata,-,Q31567150;Q641134,relation+way
 "Rue de Dinant - Dinantstraat",wikidata,-,Q108247,relation
 "Rue de Douvres - Doverstraat",wikidata,-,Q179224,relation
@@ -638,6 +644,7 @@ Leuvensesteenweg,wikidata,-,Q118958,way
 "Rue de l'Église Saint-Gilles - Sint-Gilliskerkstraat",wikidata,-,Q3581708,relation
 "Rue de l'Eider - Eidergansstraat",wikidata,-,Q26696,relation
 "Rue de l'Élan - Elandstraat",wikidata,-,Q35517,relation
+"Rue de l'Électricité - Elektriciteitsstraat",wikidata,-,Q12725,relation
 "Rue de l'Éléphant - Olifantstraat",wikidata,-,Q7378,relation
 "Rue de l'Engoulevent - Nachtzwaluwstraat",wikidata,-,Q26717,relation
 "Rue de l'Épée - Zwaardstraat",wikidata,-,Q12791,relation

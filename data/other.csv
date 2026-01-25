@@ -173,7 +173,6 @@ Antwerpselaan,,,,way
 "Avenue de Lothier - Lotharingenlaan",,,,relation
 "Avenue de Monte Carlo - Monte-Carlolaan",,,,way
 "Avenue de Saturne - Saturnelaan",,,,way
-"Avenue de Scheut - Scheutlaan",,,,relation
 "Avenue de Schiphol - Schiphollaan",,,,way
 "Avenue de Sumatra - Sumatralaan",,,,way
 "Avenue de Tercoigne - Tercoignelaan",,,,way
@@ -438,7 +437,6 @@ Antwerpselaan,,,,way
 "Avenue du Cimetière - Kerkhoflaan",,,,relation
 "Avenue du Cognassier - Kweepereboomlaan",,,,relation+way
 "Avenue du Col-Vert - Groenkraaglaan",,,,way
-"Avenue du Comté de Jette - Graafschap Jettelaan",,,,relation
 "Avenue du Condor - Condorlaan",,,,relation
 "Avenue du Congo - Kongolaan",,,,relation+way
 "Avenue du Cosmonaute - Kosmonautlaan",,,,relation
@@ -573,7 +571,6 @@ Cauter,,,,relation
 "Chaussée de Helmet - Helmetsesteenweg",,,,relation
 "Chaussée de La Hulpe - Terhulpensesteenweg / Chaussée de La Hulpe - Terhulpsesteenweg",,,,way
 "Chaussée de La Hulpe - Terhulpsesteenweg / Chaussée de La Hulpe - Terhulpensesteenweg",,,,way
-"Chaussée de Ninove - Ninoofse Steenweg",,,,relation
 "Chaussée de Stockel - Stokkelsesteenweg",,,,relation+way
 "Chaussée de Vilvorde - Vilvoordsesteenweg",,,,relation+way
 "Chaussée de Wemmel - Wemmelse Steenweg",,,,relation
@@ -864,7 +861,7 @@ Dorreveld,,,,way
 "Drève aux Herbes - Grasdreef",,,,way
 "Drève d'Anjou - Anjoudreef",,,,relation
 "Drève de Boendael - Boendaaldreef",,,,way
-"Drève de Bonne Odeur - Welriekendedreef",,,,relation
+"Drève de Bonne Odeur - Willeriekendreef",,,,relation
 "Drève de Boondael - Boondaeldreef",,,,way
 "Drève de Carloo - Carloodreef",,,,way
 "Drève de Champagne - Champagnedreef",,,,relation
@@ -1272,7 +1269,6 @@ Roeierspad,,,,way
 "Rue Communale - Gemeentestraat",,,,relation
 "Rue Courte - Kortestraat",,,,relation
 "Rue Courtois - Courtoisstraat",,,,relation
-"Rue Creuse - Hollestraat",,,,relation
 "Rue Crickx - Crickxstraat",,,,relation
 "Rue Dansette - Dansettestraat",,,,relation
 "Rue Darimon - Darimonstraat",,,,relation
@@ -1438,7 +1434,6 @@ Roeierspad,,,,way
 "Rue d'Idalie - Idaliestraat",,,,relation
 "Rue d'Octobre - Oktoberstraat",,,,relation
 "Rue d'Une Personne - Eenmansstraatje",,,,relation
-"Rue de Barcelone - Barcelonastraat",,,,relation
 "Rue de Barchon - Barchonstraat",,,,relation
 "Rue de Belle Vue - Bellevuestraat",,,,way
 "Rue de Berchem - Berchemstraat",,,,relation
@@ -1453,7 +1448,6 @@ Roeierspad,,,,way
 "Rue de Chantilly - Chantillystraat",,,,way
 "Rue de Cortenbach - Kortenbachstraat",,,,relation
 "Rue de Décembre - Decemberstraat",,,,relation
-"Rue de Dilbeek - Dilbeekse Straat",,,,relation
 "Rue de Fleurus - Fleurusstraat",,,,relation
 "Rue de Flodorp - Flodorpstraat",,,,relation
 "Rue de Ganshoren - Ganshorenstraat",,,,relation
@@ -1558,7 +1552,6 @@ Roeierspad,,,,way
 "Rue de l'Église Saint-Martin - Sint-Martinuskerkstraat",,,,relation
 "Rue de l'Église Saint-Pierre - Sint-Pieterskerkstraat",,,,relation
 "Rue de l'Église Sainte-Anne - Sint-Annakerkstraat",,,,relation+way
-"Rue de l'Électricité - Elektriciteitsstraat",,,,relation
 "Rue de l'Élégie - Elegiestraat",,,,relation
 "Rue de l'Émancipation - Ontvoogdingsstraat",,,,relation
 "Rue de l'Émulation - Wedijverstraat",,,,relation
