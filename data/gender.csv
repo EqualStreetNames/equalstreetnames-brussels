@@ -444,6 +444,7 @@ Leuvensesteenweg,wikidata,-,Q118958,way
 "Place de Londres - Londenplein",wikidata,-,Q84,relation+way
 "Place de Louvain - Leuvenseplein",wikidata,-,Q118958,relation
 "Place de Ninove - Ninoofseplein",wikidata,-,Q385026,relation+way
+"Place de Saint-Job - Sint-Jobsplein",wikidata,-,Q1927235,relation+way
 "Place de l'Albertine - Albertinaplein",wikidata,-,Q383931,relation
 "Place de l'Altitude Cent - Hoogte Honderdplein",wikidata,-,Q2209501,relation
 "Place de l'Amitié - Vriendschapsplein",wikidata,-,Q491,relation
@@ -1055,7 +1056,6 @@ Treurenberg,wikidata,-,Q110458175,relation
 "Venelle de Saint-Job - Sint-Jobsteeg",wikidata,-,Q1927235,relation
 "Venelle des Blanchisseuses - Wasvrouwensteeg",wikidata,-,Q16624872,way
 "Venelle du Boson - Bosonsteeg",wikidata,-,Q43101,way
-"Place de Saint-Job - Sint-Jobsplein",wikidata,?,Q179962;Q1927235,relation+way
 "Agora Simone Veil",wikidata,F,Q298180,way
 "Allée Chantal Akerman - Chantal Akermandreef",wikidata,F,Q239823,way
 "Allée Clara Clairbert - Clara Clairbertdreef",wikidata,F,Q5125964,relation
@@ -1068,7 +1068,7 @@ Treurenberg,wikidata,-,Q110458175,relation
 "Allée Maud Frère - Maud Frèredreef",wikidata,F,Q3300098,way
 "Allée Rosa Luxemburg - Rosa Luxemburgdreef",wikidata,F,Q7231,way
 "Allée Suzanne Cocq - Suzanne Cocqdreef",wikidata,F,Q21645086,way
-"Avenue Clémentine - Clementinalaan",wikidata,F,Q261129,way
+"Avenue Clémentine - Clementinalaan",wikidata,F,Q261129,relation
 "Avenue Éléonore - Eleonorelaan",wikidata,F,Q57527,relation
 "Avenue Ernestine - Ernestinelaan",wikidata,F,Q87047440,relation
 "Avenue Ginette Javaux - Ginette Javauxlaan",wikidata,F,Q3106728,relation
@@ -3039,6 +3039,7 @@ Treurenberg,wikidata,-,Q110458175,relation
 "Venelle Victor Bourgeois - Victor Bourgeoissteeg",wikidata,M,Q291159,relation
 "Venelle Vivaldi - Vivaldisteeg",wikidata,M,Q1340,relation
 "Venelle de l'Alchimiste - Alchemiststeeg",wikidata,M,Q294169,relation+way
+"Rue Willy De Bruyn - Willy De Bruynstraat",wikidata,MX,Q15807938,relation
 "Place Van Meyel - Van Meyelplein",csv,+,,relation
 "Rue Vandenhoven - Vandenhovenstraat",csv,+,,relation
 "Drève Soetkin - Soetkindreef",csv,-,,relation
