@@ -171,7 +171,6 @@ Antwerpselaan,,,,way
 "Avenue de l'Aquilon - Aquilonlaan",,,,relation
 "Avenue de l'Araucaria - Araucarialaan",,,,relation+way
 "Avenue de l'Armet - Stormhelmlaan",,,,relation
-"Avenue de l'Aviation - Luchtvaartlaan",,,,relation+way
 "Avenue de l'Échevinage - Schepenijlaan",,,,relation
 "Avenue de l'Écu - Schildlaan",,,,relation
 "Avenue de l'Entr'Aide - Onderlinge Hulplaan",,,,relation
@@ -180,12 +179,10 @@ Antwerpselaan,,,,way
 "Avenue de l'Excursion - Uitstaplaan",,,,relation
 "Avenue de l'Exposition - Tentoonstellingslaan",,,,relation
 "Avenue de l'Expressionnisme - Expressionnismelaan",,,,way
-"Avenue de l'Hélice - Schroeflaan",,,,relation
 "Avenue de l'Hôpital Français - Frans Gasthuislaan",,,,relation+way
 "Avenue de l'Oiseau Bleu - Blauwe Vogellaan",,,,relation
 "Avenue de l'Orée - Zoomlaan",,,,relation
 "Avenue de l'Oud-Kapelleke - Oud-Kapellekelaan",,,,relation+way
-"Avenue de l'Université - Hogeschoollaan",,,,relation+way
 "Avenue de la Belle Alliance - Belle Alliancelaan",,,,relation
 "Avenue de la Bergère - Herderinlaan",,,,relation
 "Avenue de la Brasserie - Brouwerijlaan",,,,relation
@@ -335,7 +332,6 @@ Antwerpselaan,,,,way
 "Avenue des Robiniers - Witte-Acacialaan",,,,way
 "Avenue des Rogations - Kruisdagenlaan",,,,relation
 "Avenue des Ronces - Braamstruikenlaan",,,,relation
-"Avenue des Saisons - Jaargetijdenlaan",,,,relation
 "Avenue des Sapins - Dennenlaan",,,,relation
 "Avenue des Sept Bonniers - Zeven Bunderslaan",,,,relation
 "Avenue des Sept Bonniers - Zevenbunderslaan",,,,relation+way
@@ -471,7 +467,6 @@ Brusselstraat,,,,way
 "Carrefour des Attelages - Gespanhoek",,,,relation
 Cauter,,,,relation
 "Champ du Tilleul - Lindeveld",,,,relation+way
-"Chaussée de Buda - Budasesteenweg",,,,relation
 "Chaussée de Helmet - Helmetsesteenweg",,,,relation
 "Chaussée de Vilvorde - Vilvoordsesteenweg",,,,relation+way
 "Chaussée de Wemmel - Wemmelse Steenweg",,,,relation
@@ -550,6 +545,7 @@ Cauter,,,,relation
 "Chemin de la Belladone - Belladonnaweg",,,,way
 "Chemin de la Cabine",,,,way
 "Chemin de la Cascade - Weg naar de Waterval",,,,way
+"Chemin de la Cour d'Espagne - Hof van Spanjeweg",,,,way
 "Chemin de la Crète - Kimweg",,,,relation
 "Chemin de la Dame d'Onze Heures - Elfurenvrouwweg",,,,way
 "Chemin de la Forêt - Woudweg",,,,relation
@@ -1180,7 +1176,6 @@ Roeierspad,,,,way
 "Rue Maurice Charlent - Maurice Charlentstraat",,,,relation
 "Rue Maurice Liétart - Maurice Liétartstraat",,,,relation
 "Rue Max Roos - Max Roosstraat",,,,relation
-"Rue Maximilien - Maximilienstraat",,,,relation
 "Rue Mayelle - Mayellestraat",,,,relation
 "Rue Melpomène - Melpomenestraat",,,,relation
 "Rue Meyers-Hennau - Meyers-Hennaustraat",,,,relation+way
@@ -1507,7 +1502,6 @@ Roeierspad,,,,way
 "Rue de la Mutualité - Onderlinge Bijstandstraat",,,,relation
 "Rue de la Natation - Zwemkunststraat",,,,relation
 "Rue de la Navigation - Zeevaartstraat",,,,relation
-"Rue de la Paix - Vredestraat",,,,relation
 "Rue de la Paroisse - Parochiestraat",,,,relation+way
 "Rue de la Pastorale - Herdersliedstraat",,,,relation
 "Rue de la Pépinière - Boomkwekerijstraat",,,,relation
@@ -1629,7 +1623,6 @@ Roeierspad,,,,way
 "Rue des Deux Maisons - Twee Huizenstraat",,,,relation
 "Rue des Deux Ponts - Tweebruggenstraat",,,,relation
 "Rue des Deux Tours - Tweetorenstraat",,,,relation
-"Rue des Douze Apôtres - Twaalfapostelenstraat",,,,way
 "Rue des Drapiers - Lakenweversstraat",,,,relation
 "Rue des Ébats - Ravotterijstraat",,,,relation
 "Rue des Échevins - Schepenenstraat",,,,relation
@@ -1736,7 +1729,6 @@ Roeierspad,,,,way
 "Rue du Bois - Bosstraat",,,,relation+way
 "Rue du Bois Henri - Henri Bosstraat",,,,relation
 "Rue du Bon Accueil - Goede Bejegeningstraat",,,,relation
-"Rue du Bon Pasteur - Goede Herderstraat",,,,relation
 "Rue du Bonheur - Geluksstraat",,,,relation
 "Rue du Boulet - Kogelstraat",,,,relation
 "Rue du Bouquet - Bloemtuilstraat",,,,relation
@@ -2120,6 +2112,7 @@ Vaartkant-Oost,,,,way
 Vieressendreef,,,,way
 "Vieux Chemin - Oude Weg",,,,relation
 "Vieux Marché aux Grains - Oude Graanmarkt",,,,way
+"Viva Colignon",,,,relation
 Vlasendaalstraat,,,,way
 "Voetweg 32",,,,way
 "Voie 1 - Spoor 1",,,,way
