@@ -74,7 +74,9 @@ jobs:
           name: data
           path: |
             cities/belgium/brussels/data.csv
-            cities/belgium/brussels/data/*.{csv,geojson,json}
+            cities/belgium/brussels/data/*.csv
+            cities/belgium/brussels/data/*.geojson
+            cities/belgium/brussels/data/*.json
           if-no-files-found: ignore
 
   push-data-upstream:
