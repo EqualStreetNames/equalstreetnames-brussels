@@ -74,7 +74,7 @@ jobs:
           name: data
           path: |
             cities/belgium/brussels/data.csv
-            cities/belgium/brussels/data/*
+            cities/belgium/brussels/data/*.{csv,geojson,json}
           if-no-files-found: ignore
 
   push-data-upstream:
@@ -82,7 +82,7 @@ jobs:
     needs: update-data
     permissions:
       contents: write
-    if: github.event_name != 'pull_request'
+    # if: github.event_name != 'pull_request'
     steps:
       - uses: actions/checkout@v7
         with:
@@ -93,6 +93,7 @@ jobs:
         uses: actions/download-artifact@v7
         with:
           name: data
+          path: cities/belgium/brussels/
       - name: Git configuration
         run: |
           git config --global user.name github-actions[bot]
@@ -105,11 +106,11 @@ jobs:
         run: |
           git add -A
           git commit -m "🗃 Update data" || echo "No changes to commit"
-          git push
+          # git push
       - name: Verify main repository changes
         run: git status
       - name: Commit & Push main repository
         run: |
           git add cities/belgium/brussels
           git commit -m "🗃 Update belgium/brussels sub-module" || echo "No changes to commit"
-          git push
+          # git push
