@@ -31,8 +31,6 @@ jobs:
 
   update-data:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     # concurrency:
     #   group: update-belgium/brussels
     #   cancel-in-progress: true
@@ -43,52 +41,73 @@ jobs:
       #     app-id: ${{ vars.BOT_APP_ID }}
       #     private-key: ${{ secrets.BOT_PRIVATE_KEY }}
       #     owner: ${{ github.repository_owner }}
-
       - uses: actions/checkout@v7
         with:
           repository: ${{ github.repository_owner }}/equalstreetnames
           # token: ${{ steps.app-token.outputs.token }}
           # submodules: true
-
       - name: Update sub-modules
         run: git submodule update --init --remote --merge process cities/belgium/brussels
-
       - name: Validate composer.json and composer.lock
         working-directory: process
         run: composer validate
       - name: Install dependencies
         working-directory: process
         run: composer install --prefer-dist --no-progress
-
       - name: Checkout submodule to master
         working-directory: cities/belgium/brussels
         run: git checkout -q master
-
       - name: Normalize `data.csv` file
         working-directory: process
         run: php process.php tool:normalize-csv --city=belgium/brussels
-
       - name: Run update
         working-directory: process
         run: composer run update-data -- --city=belgium/brussels
+      - name: Git status
+        working-directory: cities/belgium/brussels
+        run: git status
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v7
+        with:
+          name: data
+          path: |
+            cities/belgium/brussels/data.csv
+            cities/belgium/brussels/data/*
+          if-no-files-found: ignore
 
-      - run: git status
-
-      # - name: Git configuration
-      #   run: |
-      #     git config --global user.name github-actions[bot]
-      #     git config --global user.email 41898282+github-actions[bot]@users.noreply.github.com
-
-      # - name: Commit & Push sub-module
-      #   working-directory: cities/belgium/brussels
-      #   run: |
-      #     git add -A
-      #     git commit -m "🗃 Update data"
-      #     git push
-
-      # - name: Commit & Push main repository
-      #   run: |
-      #     git pull
-      #     git add cities/belgium/brussels
-      #     git commit -m "🗃 Update belgium/brussels sub-module"
-      #     git push
+  push-data-upstream:
+    runs-on: ubuntu-latest
+    needs: update-data
+    permissions:
+      contents: write
+    if: github.event_name != 'pull_request'
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          repository: ${{ github.repository_owner }}/equalstreetnames
+      - name: Update sub-modules
+        run: git submodule update --init --remote --merge cities/belgium/brussels
+      - name: Download artifacts
+        uses: actions/download-artifact@v7
+        with:
+          name: data
+      - name: Git configuration
+        run: |
+          git config --global user.name github-actions[bot]
+          git config --global user.email 41898282+github-actions[bot]@users.noreply.github.com
+      - name: Verify sub-module changes
+        working-directory: cities/belgium/brussels
+        run: git status
+      - name: Commit & Push sub-module
+        working-directory: cities/belgium/brussels
+        run: |
+          git add -A
+          git commit -m "🗃 Update data" || echo "No changes to commit"
+          git push
+      - name: Verify main repository changes
+        run: git status
+      - name: Commit & Push main repository
+        run: |
+          git add cities/belgium/brussels
+          git commit -m "🗃 Update belgium/brussels sub-module" || echo "No changes to commit"
+          git push
