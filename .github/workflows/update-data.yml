@@ -6,12 +6,16 @@ on:
     - cron: "0 1 1 * *"
   workflow_dispatch:
   push:
+    branches:
+      - master
     paths:
       - ".github/workflows/update-data.yml"
       - "config.php"
       - "data.csv"
       - "overpass/*"
   pull_request:
+    branches:
+      - master
     paths:
       - ".github/workflows/update-data.yml"
       - "config.php"
