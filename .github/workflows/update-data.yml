@@ -29,9 +29,9 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    concurrency:
-      group: update-belgium/brussels
-      cancel-in-progress: true
+    # concurrency:
+    #   group: update-belgium/brussels
+    #   cancel-in-progress: true
     steps:
       # - uses: actions/create-github-app-token@v3
       #   id: app-token
