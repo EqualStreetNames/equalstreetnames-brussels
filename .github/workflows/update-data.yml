@@ -108,11 +108,11 @@ jobs:
         run: |
           git add -A
           git commit -m "🗃 Update data" || echo "No changes to commit"
-          git push
+          git push origin HEAD:master
       - name: Verify main repository changes
         run: git status
       - name: Commit & Push main repository
         run: |
           git add cities/belgium/brussels
           git commit -m "🗃 Update belgium/brussels sub-module" || echo "No changes to commit"
-          git push
+          git push origin HEAD:master
