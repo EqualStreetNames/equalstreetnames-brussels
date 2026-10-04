@@ -31,6 +31,8 @@ jobs:
 
   update-data:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
     # concurrency:
     #   group: update-belgium/brussels
     #   cancel-in-progress: true
