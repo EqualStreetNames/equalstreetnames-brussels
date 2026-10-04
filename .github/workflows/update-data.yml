@@ -46,6 +46,9 @@ jobs:
           # token: ${{ steps.app-token.outputs.token }}
           # submodules: true
 
+      - name: Update sub-modules
+        run: git submodule update --init --remote --merge process cities/belgium/brussels
+
       - name: Validate composer.json and composer.lock
         working-directory: process
         run: composer validate
@@ -56,9 +59,6 @@ jobs:
       - name: Checkout submodule to master
         working-directory: cities/belgium/brussels
         run: git checkout -q master
-
-      - name: Update sub-modules
-        run: git submodule update --init --remote --merge process cities/belgium/brussels
 
       - name: Normalize `data.csv` file
         working-directory: process
