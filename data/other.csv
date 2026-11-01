@@ -60,7 +60,7 @@ name,source,gender,wikidata,type
 "Allée des Colzas - Sloordelle",,,,relation
 "Allée des Coursiers - Renpaardendreef",,,,way
 "Allée des Equipages - Rijtuigendreef",,,,way
-"Allée des Moutons - Schapenweg",,,,relation+way
+"Allée des Moutons - Schapenweg",,,,relation
 "Allée des Novateurs - Vernieuwersdreef",,,,relation
 "Allée des Orpins - Vetkruidweg",,,,relation
 "Allée du Derby - Derbydreef",,,,way
@@ -144,7 +144,6 @@ Antwerpselaan,,,,way
 "Avenue d'Homborchveld - Homborchveldlaan",,,,relation
 "Avenue d'Hougoumont - Hougoumontlaan",,,,relation
 "Avenue d'Italie - Italiëlaan",,,,relation
-"Avenue d'Itterbeek - Itterbeekse Laan",,,,relation
 "Avenue d'Ophem - Oppemlaan",,,,relation
 "Avenue d'Overhem - Overhemlaan",,,,relation
 "Avenue de Boetendael - Boetendaellaan",,,,relation
@@ -463,7 +462,6 @@ Brusselstraat,,,,way
 "Carrefour des Attelages - Gespanhoek",,,,relation
 Cauter,,,,relation
 "Champ du Tilleul - Lindeveld",,,,relation+way
-"Chaussée de Helmet - Helmetsesteenweg",,,,relation
 "Chaussée de Zellik - Steenweg op Zellik",,,,relation
 "Chaussée de Zellik - Zelliksesteenweg",,,,way
 "Chemin 1 - 1 Weg",,,,way
@@ -540,7 +538,7 @@ Cauter,,,,relation
 "Chemin de la Cabine",,,,way
 "Chemin de la Cascade - Weg naar de Waterval",,,,way
 "Chemin de la Cour d'Espagne - Hof van Spanjeweg",,,,way
-"Chemin de la Crète - Kimweg",,,,relation
+"Chemin de la Crête - Kimweg",,,,relation
 "Chemin de la Dame d'Onze Heures - Elfurenvrouwweg",,,,way
 "Chemin de la Forêt - Woudweg",,,,relation
 "Chemin de la Forêt de Soignes - Zoniënbosweg",,,,way
@@ -690,7 +688,6 @@ Cauter,,,,relation
 "Clos des Trois Fontaines - Drie Fonteinengaarde",,,,relation
 "Clos du Bergoje - Bergagegaarde",,,,relation
 "Clos du Bois Planté - Geplante Bosgaarde",,,,relation
-"Clos du Bolet - Boleethoek",,,,relation
 "Clos du Chemin Creux - Holleweggaarde",,,,relation
 "Clos du Chêne Céleste - Hemeleikgaarde",,,,relation
 "Clos du Cheval d'Argent - Zilveren-Paardgaarde",,,,relation
@@ -951,7 +948,6 @@ Pachthoevestraat,,,,way
 "Place Ronde - Rondplein",,,,way
 "Place Sainte-Croix - Heilig-Kruisplein",,,,relation+way
 "Place Van Hoegaerde - Van Hoegaerdeplein",,,,relation
-"Place de Helmet - Helmetseplein",,,,relation
 "Place de Mexico - Mexicoplein",,,,way
 "Place de Sainte-Adresse - Sainte-Adresseplein",,,,relation
 "Place de l'Ancienne Barrière - Oude Afspanningsplein",,,,relation
@@ -1223,7 +1219,6 @@ Roeierspad,,,,way
 "Rue Stuyvenbergh - Stuivenbergstraat",,,,relation
 "Rue Ter Elst - Ter Elststraat",,,,way
 "Rue Terarken - Terarkenstraat",,,,relation+way
-"Rue Thomas Van Hemelrijck - Thomas Van Hemelrijckstraat",,,,way
 "Rue Tilmont - Tilmontstraat",,,,relation
 "Rue Timmermans - Timmermansstraat",,,,relation
 "Rue Traversière - Dwarsstraat",,,,relation
@@ -1256,7 +1251,6 @@ Roeierspad,,,,way
 "Rue Zeyp - Zeypstraat",,,,relation
 "Rue Zwartebeek - Zwartebeekstraat",,,,relation
 "Rue au Bois - Bosstraat",,,,relation
-"Rue d'Aa - Aastraat",,,,relation
 "Rue d'Ardenne - Ardennestraat",,,,relation+way
 "Rue d'Arenberg - Arenbergstraat",,,,relation
 "Rue d'Assaut - Stormstraat",,,,relation
@@ -1285,7 +1279,6 @@ Roeierspad,,,,way
 "Rue de Huldenberg - de Huldenbergstraat",,,,relation
 "Rue de Koeivijver - Koevijverstraat",,,,relation+way
 "Rue de Laubespin - de Laubespinstraat",,,,relation
-"Rue de Lessines - Lessenstraat",,,,relation
 "Rue de Levallois-Perret - Levallois-Perretstraat",,,,relation
 "Rue de Meudon - Meudonstraat",,,,relation
 "Rue de Moortebeek - Moortebeekstraat",,,,relation
@@ -1571,7 +1564,6 @@ Roeierspad,,,,way
 "Rue des Bateliers - Schippersstraat",,,,way
 "Rue des Béguines - Begijnenstraat",,,,relation
 "Rue des Béguinettes - Piepelingenstraat",,,,relation
-"Rue des Betteraves - Bietenstraat",,,,relation
 "Rue des Bluets - Korenbloemstraat",,,,way
 "Rue des Boiteux - Kreupelenstraat",,,,relation
 "Rue des Bonnes-Mères - Goede Moedersstraat",,,,relation+way
@@ -1604,7 +1596,6 @@ Roeierspad,,,,way
 "Rue des Déportés Anderlechtois - Anderlechtse-Weggevoerdestraat",,,,relation
 "Rue des Deux Chaussées - Tweesteenwegenstraat",,,,relation
 "Rue des Deux Églises - Tweekerkenstraat",,,,relation
-"Rue des Deux Gares - Tweestationsstraat",,,,relation
 "Rue des Deux Maisons - Twee Huizenstraat",,,,relation
 "Rue des Deux Ponts - Tweebruggenstraat",,,,relation
 "Rue des Deux Tours - Tweetorenstraat",,,,relation
@@ -1766,7 +1757,6 @@ Roeierspad,,,,way
 "Rue du Conseil - Raadstraat",,,,relation
 "Rue du Constructeur - Bouwerstraat",,,,relation
 "Rue du Corail - Koraalstraat",,,,relation
-"Rue du Corbeau - Raafstraat",,,,relation
 "Rue du Cornet - Hoornstraat",,,,relation
 "Rue du Couloir - Gangstraat",,,,relation
 "Rue du Craetveld - Kraatveldstraat",,,,relation+way
@@ -1885,7 +1875,6 @@ Roeierspad,,,,way
 "Rue du Rempart des Moines - Papenvest",,,,relation
 "Rue du Repos - Ruststraat",,,,relation
 "Rue du Roetaert - Roetaertstraat",,,,relation
-"Rue du Roseau - Rietstraat",,,,relation
 "Rue du Rouleau - Rolstraat",,,,relation
 "Rue du Saphir - Saffierstraat",,,,relation
 "Rue du Saule - Wilgstraat",,,,relation
@@ -1937,7 +1926,7 @@ Schoolgat,,,,relation
 "Sentier de Waterloo - Waterloopad",,,,way
 "Sentier de l'Améthyste - Amethistpad",,,,way
 "Sentier de l'Élagueur - Snoeierspad",,,,way
-"Sentier de l'Embarcadère - Steigerpad",,,,way
+"Sentier de l'Embarcadère - Steigerpad",,,,relation+way
 "Sentier de la Cambre - Ter Kamerenvoetpad",,,,way
 "Sentier de la Drève - Dreefpad",,,,relation
 "Sentier de la Duchesse - Hertoginnenpad",,,,way
@@ -2088,6 +2077,7 @@ Vaartkant-Oost,,,,way
 "Venelle aux Quatre Nœuds - Vier-Knopensteeg",,,,relation
 "Venelle de l'Oiseau bleu",,,,way
 "Venelle du Champ du Moulin - Molenveldsteeg",,,,relation
+"Venelle du Fair-Play - Fair-Playsteeg",,,,way
 "Venelle en Boucle - Lussteeg",,,,relation
 "Verlengde Stallestraat - Rue Prolongée de Stalle",,,,way
 "Vieille rue du Moulin - Oude Molenstraat",,,,relation
