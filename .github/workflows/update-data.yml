@@ -91,6 +91,7 @@ jobs:
           app-id: ${{ vars.BOT_APP_ID }}
           private-key: ${{ secrets.BOT_PRIVATE_KEY }}
           owner: ${{ github.repository_owner }}
+          permission-contents: write
       - uses: actions/checkout@v7
         with:
           repository: ${{ github.repository_owner }}/equalstreetnames
