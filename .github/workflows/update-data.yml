@@ -117,6 +117,8 @@ jobs:
         run: git status
       - name: Commit & Push city repository
         working-directory: cities/belgium/brussels
+        env:
+          GH_TOKEN: ${{ steps.app-token.outputs.token }}
         run: |
           git add -A
           git commit -m "🗃 Update data" || echo "No changes to commit"
