@@ -99,7 +99,7 @@ jobs:
       - name: Update sub-modules
         run: git submodule update --init --remote --merge cities/belgium/brussels
       - name: Download artifacts
-        uses: actions/download-artifact@v7
+        uses: actions/download-artifact@v8
         with:
           name: data
           path: cities/belgium/brussels/
